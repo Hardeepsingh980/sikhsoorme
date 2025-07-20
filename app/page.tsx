@@ -186,7 +186,7 @@ function ProfileCard({ personality }: { personality: (typeof featuredPersonaliti
       <CardContent className="pt-0">
         <CardDescription className="text-sm leading-relaxed text-amber-800 mb-3">{personality.excerpt}</CardDescription>
         <Link
-          href={`/${personality.category}/${personality.slug}`}
+          href={`/soorme/${personality.category}/${personality.slug}`}
           className="inline-flex items-center text-sm font-medium text-orange-600 hover:text-orange-800 transition-colors"
         >
           Read full biography →
@@ -318,7 +318,7 @@ export default function HomePage() {
                   </div>
 
                   <Button size="lg" className="bg-orange-500 hover:bg-orange-600 text-white" asChild>
-                    <Link href={`/${soormaOfTheDay.category}/${soormaOfTheDay.slug}`}>
+                    <Link href={`/soorme/${soormaOfTheDay.category}/${soormaOfTheDay.slug}`}>
                       <BookOpen className="w-5 h-5 mr-2" />
                       Read Full Biography
                     </Link>
@@ -410,7 +410,7 @@ export default function HomePage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {categories.map((category) => (
-              <Link key={category.slug} href={`/category/${category.slug}`} className="group">
+              <Link key={category.slug} href={`/soorme/${category.slug}`} className="group">
                 <Card className="text-center hover:shadow-xl transition-all duration-300 group-hover:scale-105 bg-gradient-to-b from-white to-amber-50 border-2 border-amber-200 hover:border-orange-300">
                   <CardContent className="p-8">
                     <div className="text-4xl mb-4">{category.icon}</div>

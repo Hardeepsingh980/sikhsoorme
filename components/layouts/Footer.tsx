@@ -22,7 +22,7 @@ export default function Footer() {
             of Sikh personalities who shaped history through their courage, wisdom, and devotion.
           </p>
           <div className="flex items-center gap-4 text-orange-200">
-            <span className="text-sm">Built with ❤️ by the global Sikh community</span>
+            <span className="text-sm">Built by the Global Sikh Community</span>
           </div>
         </div>
 
