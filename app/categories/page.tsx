@@ -530,15 +530,6 @@ export default function CategoriesPage() {
                                     Back to Home
                                 </Link>
                             </Button>
-                            <Separator orientation="vertical" className="h-6 bg-amber-300" />
-                            <div className="flex items-center gap-3">
-                                <div className="w-8 h-8 bg-gradient-to-br from-orange-500 to-amber-600 rounded-full flex items-center justify-center">
-                                    <span className="text-white font-bold text-sm">ਸ</span>
-                                </div>
-                                <Link href="/" className="text-xl font-bold text-amber-900 hover:text-orange-600 transition-colors">
-                                    SikhSoorme
-                                </Link>
-                            </div>
                         </div>
 
                         <div className="flex items-center gap-4">

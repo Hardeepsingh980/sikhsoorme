@@ -42,7 +42,7 @@ export default function Footer() {
           <ul className="space-y-3 text-orange-100">
             <li><Link href="/contribute" className="hover:text-white transition-colors">How to Contribute</Link></li>
             <li><Link href="/guidelines" className="hover:text-white transition-colors">Content Guidelines</Link></li>
-            <li><Link href="https://github.com/sikhsoorme" className="hover:text-white transition-colors">GitHub Repository</Link></li>
+            <li><Link href="https://github.com/Hardeepsingh980/sikhsoorme" className="hover:text-white transition-colors">GitHub Repository</Link></li>
             <li><Link href="/contributors" className="hover:text-white transition-colors">Our Contributors</Link></li>
             <li><Link href="/contact" className="hover:text-white transition-colors">Contact Us</Link></li>
           </ul>
@@ -58,7 +58,6 @@ export default function Footer() {
         <div className="flex items-center gap-6 text-orange-200 text-sm">
           <Link href="/privacy" className="hover:text-white transition-colors">Privacy Policy</Link>
           <Link href="/license" className="hover:text-white transition-colors">Content License</Link>
-          <Link href="/acknowledgments" className="hover:text-white transition-colors">Acknowledgments</Link>
         </div>
       </div>
     </div>

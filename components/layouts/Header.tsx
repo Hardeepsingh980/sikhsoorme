@@ -6,7 +6,8 @@ export default function Header() {
     <header className="bg-gradient-to-r from-amber-100 to-orange-100 border-b-2 border-amber-200 shadow-sm">
     <div className="max-w-7xl mx-auto px-4 py-6">
       <div className="flex items-center justify-between">
-        <div className="flex items-center gap-4">
+        <Link href="/" className="text-amber-800 hover:text-orange-600 font-medium transition-colors">
+          <div className="flex items-center gap-4">
           <div className="relative">
             <div className="w-12 h-12 bg-gradient-to-br from-orange-500 to-amber-600 rounded-full flex items-center justify-center shadow-lg border-2 border-amber-300">
                <span className="text-white font-bold text-lg">ਸ</span>
@@ -18,6 +19,7 @@ export default function Header() {
              <p className="text-sm text-amber-700 italic">ਸਿੱਖ ਸੂਰਮੇ - Sikh Heroes</p>
            </div>
          </div>
+         </Link>
          <nav className="hidden md:flex items-center gap-8">
            <Link href="/" className="text-amber-800 hover:text-orange-600 font-medium transition-colors">
              Home

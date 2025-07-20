@@ -335,15 +335,6 @@ import {
                     Back to Home
                   </Link>
                 </Button>
-                <Separator orientation="vertical" className="h-6 bg-amber-300" />
-                <div className="flex items-center gap-3">
-                  <div className="w-8 h-8 bg-gradient-to-br from-orange-500 to-amber-600 rounded-full flex items-center justify-center">
-                    <span className="text-white font-bold text-sm">ਸ</span>
-                  </div>
-                  <Link href="/" className="text-xl font-bold text-amber-900 hover:text-orange-600 transition-colors">
-                    SikhSoorme
-                  </Link>
-                </div>
               </div>
   
               <div className="flex items-center gap-4">
@@ -353,7 +344,7 @@ import {
                   className="border-amber-300 text-amber-800 hover:bg-amber-100 bg-transparent"
                   asChild
                 >
-                  <Link href="https://github.com/sikhsoorme" target="_blank">
+                  <Link href="https://github.com/Hardeepsingh980/sikhsoorme" target="_blank">
                     <Github className="w-4 h-4 mr-2" />
                     GitHub
                   </Link>
@@ -729,7 +720,7 @@ import {
   
                     <div className="space-y-3">
                       <Button className="w-full bg-gray-800 hover:bg-gray-900 text-white" asChild>
-                        <Link href="https://github.com/sikhsoorme/content" target="_blank">
+                        <Link href="https://github.com/Hardeepsingh980/sikhsoorme/content" target="_blank">
                           <Github className="w-4 h-4 mr-2" />
                           View Repository
                           <ExternalLink className="w-4 h-4 ml-2" />
@@ -741,7 +732,7 @@ import {
                         className="w-full border-gray-300 text-gray-700 hover:bg-gray-100 bg-transparent"
                         asChild
                       >
-                        <Link href="https://github.com/sikhsoorme/content/blob/main/TEMPLATE.md" target="_blank">
+                        <Link href="https://github.com/Hardeepsingh980/sikhsoorme/content/blob/main/TEMPLATE.md" target="_blank">
                           <FileText className="w-4 h-4 mr-2" />
                           Download Template
                           <ExternalLink className="w-4 h-4 ml-2" />
@@ -925,7 +916,7 @@ import {
                 className="bg-transparent border-2 border-white text-white hover:bg-white hover:text-orange-600"
                 asChild
               >
-                <Link href="https://github.com/sikhsoorme" target="_blank">
+                <Link href="https://github.com/Hardeepsingh980/sikhsoorme" target="_blank">
                   <Github className="w-5 h-5 mr-2" />
                   View on GitHub
                 </Link>

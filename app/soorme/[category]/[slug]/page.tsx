@@ -40,7 +40,7 @@ const personality = {
     version: "v2.4.1",
     contributors: 12,
     edits: 47,
-    historyUrl: "https://github.com/sikhsoorme/content/commits/main/gurus/guru-gobind-singh-ji.mdx",
+    historyUrl: "https://github.com/Hardeepsingh980/sikhsoorme/content/commits/main/gurus/guru-gobind-singh-ji.mdx",
   },
 
   // Biographical sections
@@ -204,15 +204,6 @@ export default function PersonalityDetailPage({ params }: { params: { category: 
                   Back to Home
                 </Link>
               </Button>
-              <Separator orientation="vertical" className="h-6 bg-amber-300" />
-              <div className="flex items-center gap-3">
-                <div className="w-8 h-8 bg-gradient-to-br from-orange-500 to-amber-600 rounded-full flex items-center justify-center">
-                  <span className="text-white font-bold text-sm">ਸ</span>
-                </div>
-                <Link href="/" className="text-xl font-bold text-amber-900 hover:text-orange-600 transition-colors">
-                  SikhSoorme
-                </Link>
-              </div>
             </div>
 
             <div className="flex items-center gap-4">
