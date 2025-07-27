@@ -1,0 +1,230 @@
+{
+    "name": "Guru Arjan Dev Ji",
+    "slug": "guru-arjan-dev-ji",
+    "category": "gurus",
+    "birth": "1563-04-15",
+    "death": "1606-05-30",
+    "birthPlace": "Goindval, Punjab",
+    "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/06/14/1f3d5ec8d32807e3ec21b98a27cd81b0_original.JPG?impolicy=abp_cdn&imwidth=320",
+    "excerpt": "Guru Arjan Dev Ji, the fifth Sikh Guru, completed the Golden Temple (Harmandir Sahib), compiled the Adi Granth (the original Sikh scripture), and exemplified the highest ideals of sacrifice and service. His leadership transformed Sikhism, expanding its infrastructure, spiritual message, and social base, before he became the first Guru to embrace martyrdom for his faith.",
+    "designation": "5th Sikh Guru",
+  
+    "quickStats": [
+      { "label": "Guruship (years)", "value": 25 },
+      { "label": "Years Lived", "value": 43 },
+      { "label": "Hymns in Guru Granth Sahib", "value": 2218 },
+      { "label": "Children", "value": 1 },
+      { "label": "Major Works", "value": "Adi Granth, Sukhmani Sahib, Harmandir Sahib" }
+    ],
+  
+    "quickFacts": [
+      { "label": "Birth Name", "value": "Arjan" },
+      { "label": "Father", "value": "Guru Ram Das Ji" },
+      { "label": "Mother", "value": "Mata Bhani Ji" },
+      { "label": "Spouse", "value": "Mata Ganga Ji" },
+      { "label": "Birth Place", "value": "Goindval, Punjab" },
+      { "label": "Appointed Guru Age", "value": "18 years old" },
+      { "label": "Date of Passing", "value": "30 May 1606" },
+      { "label": "Samadhi Place", "value": "Lahore, Punjab (now in Pakistan)" }
+    ],
+  
+    "version": {
+      "lastUpdated": "2025-07-27T23:55:00+05:30",
+      "version": "1.0.0",
+      "contributors": 6,
+      "edits": 23,
+      "historyUrl": "https://en.wikipedia.org/wiki/Guru_Arjan"
+    },
+  
+    "biographySections": [
+      {
+        "label": "Early Life",
+        "icon": "Child",
+        "value": "Guru Arjan Dev Ji was born on 15 April 1563 in Goindval, Punjab, as the youngest son of Guru Ram Das Ji and Mata Bhani Ji. From an early age, he was known for his love of learning, humility, and devotion."
+      },
+      {
+        "label": "Appointment as Guru",
+        "icon": "Crown",
+        "value": "At the age of 18, Guru Arjan Dev Ji was appointed as the fifth Sikh Guru by his father, Guru Ram Das Ji, continuing the lineage of spiritual and moral leadership."
+      },
+      {
+        "label": "Construction of the Golden Temple",
+        "icon": "Landmark",
+        "value": "He envisioned and completed the Harmandir Sahib (Golden Temple) at Amritsar, symbolizing openness and equality. He invited the Muslim saint Mian Mir to lay the foundation stone, and designed the shrine with four doors to welcome all humanity."
+      },
+      {
+        "label": "Compilation of the Adi Granth",
+        "icon": "BookOpen",
+        "value": "Guru Arjan Dev Ji collected and compiled the sacred hymns of previous Sikh Gurus and a variety of saints—both Muslim and Hindu—into the Adi Granth, the original Sikh scripture. This was installed in the Harmandir Sahib in 1604, ensuring the integrity and unity of Sikh doctrine."
+      },
+      {
+        "label": "Spiritual Compositions",
+        "icon": "Feather",
+        "value": "A prolific poet and mystic, Guru Arjan Dev Ji composed 2,218 hymns including the Sukhmani Sahib, bringing comfort, hope, and spiritual guidance to millions. His compositions emphasize devotion, humility, and the remembrance of God."
+      },
+      {
+        "label": "Community Leadership and Social Reforms",
+        "icon": "UsersCog",
+        "value": "He expanded the masand system for community organization, established new towns and sarovars (sacred tanks), and extended Sikh institutions of seva (service) and langar (community kitchen), making the faith more inclusive and accessible."
+      },
+      {
+        "label": "Martyrdom",
+        "icon": "Bolt",
+        "value": "In 1606, Guru Arjan Dev Ji was arrested under Mughal emperor Jahangir, tortured, and ultimately attained martyrdom, refusing to give up his faith or alter Sikh teachings. His death is a defining turning point in Sikh history, inaugurating the tradition of martyrdom and the transformation of Sikhs into a community of saint-soldiers."
+      }
+    ],
+  
+    "spiritualLegacy": {
+      "description": "Guru Arjan Dev Ji’s life set new heights of spiritual devotion and sacrifice, codifying Sikh beliefs and inspiring resilience in the face of oppression.",
+      "keyContributions": [
+        "Compiled the Adi Granth, establishing the scriptural foundation for Sikhism",
+        "Completed the Golden Temple, a symbol of universal egalitarianism",
+        "Instituted masand system and community donation (dasvandh)",
+        "Composed the Sukhmani Sahib and many hymns on peace and perseverance",
+        "Set the precedent of martyrdom in Sikh tradition"
+      ]
+    },
+  
+    "modernRelevance": {
+      "description": "Guru Arjan Dev Ji’s legacy continues to inspire Sikhs in the principles of equality, service, resilience, and faith under adversity.",
+      "contemporaryImpact": [
+        "The Harmandir Sahib remains a global symbol of love, openness, and humanity",
+        "Sukhmani Sahib brings solace and hope to millions daily",
+        "The Adi Granth remains the eternal Guru for Sikhs",
+        "His martyrdom is commemorated annually and has become a rallying call for justice and courage"
+      ]
+    },
+  
+    "achievements": [
+      {
+        "title": "Completed Harmandir Sahib (Golden Temple)",
+        "year": "1588–1604",
+        "description": "Oversaw the construction and consecration of Sikhism's holiest shrine, the Harmandir Sahib, at Amritsar.",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Compiled Adi Granth (Guru Granth Sahib)",
+        "year": "1604",
+        "description": "Collected, verified, and codified the hymns of Sikh Gurus and saints into the original Adi Granth, installed it at the Golden Temple.",
+        "icon": "BookOpen"
+      },
+      {
+        "title": "Composed Sukhmani Sahib",
+        "year": "c. 1602",
+        "description": "Authored the iconic prayer for peace and contentment, recited daily by Sikhs worldwide.",
+        "icon": "Feather"
+      },
+      {
+        "title": "Founded Towns and Sarovars",
+        "year": "1581–1606",
+        "description": "Established towns like Tarn Taran, Kartarpur, and Hargobindpur, and sacred tanks like Santokhsar and Gongsar for the Sikh community.",
+        "icon": "Home"
+      },
+      {
+        "title": "Instituted Dasvandh and Enhanced Masand System",
+        "year": "1581–1606",
+        "description": "Formalized the practice of donating a tenth of earnings to the faith (dasvandh) and expanded community leadership through masands.",
+        "icon": "UsersCog"
+      }
+    ],
+  
+    "quotes": [
+      {
+        "original": "ਸਾਸ ਸਾਸ ਸਿਮਰਹੁ ਗੋਬਿੰਦ, ਮਨ ਅੰਤਾਰ ਕੀ ਉਤਰੀ ਚਿੰਦ ॥",
+        "transliteration": "Saas saas simrahu Gobind, man antar ki utrī chind.",
+        "translation": "With every breath, meditate on the Lord; anxiety will depart from your inner being.",
+        "context": "On the power of remembrance (Naam Simran)",
+        "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 295"
+      },
+      {
+        "original": "ਸਭ ਤੇ ਨੀਚ ਹੁਮ ਤਨੁ ਨਾਨਕੁ, ਤਿਨ ਕੇ ਸੰਗਿ ਤਰਪਵੋ ॥",
+        "transliteration": "Sabh te neech hum tan Nanak, tin ke sang tarapavo.",
+        "translation": "Nanak is the lowest of the lowly; let me find company with the lowest, not the proud.",
+        "context": "Humility and equality",
+        "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 450"
+      },
+      {
+        "original": "ਤੇਰਾ ਕੀਆ ਮੀਠਾ ਲਾਗੈ ॥ ਹਰਿ ਨਾਮੁ ਪਦਾਰਥੁ ਨਾਨਕੁ ਮਾਂਗੈ ॥",
+        "transliteration": "Tera kia meetha lagai, har naam padarth Nanak mangai.",
+        "translation": "Whatever You do seems sweet to me; Nanak begs only for the gift of Your Name.",
+        "context": "Acceptance of God's will, during his torture",
+        "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 394"
+      }
+    ],
+  
+    "timeline": [
+      {
+        "year": "1563",
+        "date": "15 Apr 1563",
+        "event": "Birth of Guru Arjan Dev Ji in Goindval, Punjab",
+        "type": "birth"
+      },
+      {
+        "year": "1581",
+        "event": "Appointed the 5th Sikh Guru by Guru Ram Das Ji",
+        "type": "appointment"
+      },
+      {
+        "year": "1588",
+        "event": "Foundation of Harmandir Sahib at Amritsar",
+        "type": "founding"
+      },
+      {
+        "year": "1604",
+        "event": "Compilation and installation of Adi Granth in Harmandir Sahib",
+        "type": "scripture"
+      },
+      {
+        "year": "1606",
+        "date": "30 May 1606",
+        "event": "Martyrdom of Guru Arjan Dev Ji in Lahore",
+        "type": "martyrdom"
+      }
+    ],
+  
+    "relatedPersonalities": [
+      {
+        "name": "Guru Ram Das Ji",
+        "relation": "Father and predecessor (4th Sikh Guru)",
+        "slug": "guru-ram-das-ji"
+      },
+      {
+        "name": "Mata Bhani Ji",
+        "relation": "Mother",
+        "slug": "mata-bhani-ji"
+      },
+      {
+        "name": "Guru Hargobind Ji",
+        "relation": "Son and successor (6th Sikh Guru)",
+        "slug": "guru-hargobind-ji"
+      },
+      {
+        "name": "Mata Ganga Ji",
+        "relation": "Wife",
+        "slug": "mata-ganga-ji"
+      },
+      {
+        "name": "Bhai Gurdas Ji",
+        "relation": "Scribe of Adi Granth, key disciple",
+        "slug": "bhai-gurdas-ji"
+      }
+    ],
+  
+    "historicalContext": {
+      "period": "Late 16th to early 17th century (Akbar and Jahangir's Mughal rule)",
+      "politicalSituation": "Amritsar and Punjab flourished under Emperor Akbar’s tolerance but faced mounting persecution under Jahangir, leading to Guru Arjan Dev Ji’s martyrdom.",
+      "socialConditions": "Rising Sikh unity and growth, entrenched caste and religious divisions, growing socio-political importance of Sikh community.",
+      "significance": "Guru Arjan Dev Ji’s tenure defined Sikh identity as a faith of peace, resilience, and justice. His martyrdom set Sikhism on a new path of spiritual and temporal assertion."
+    },
+  
+    "references": [
+      "Guru Arjan - Wikipedia",
+      "SikhiWiki: Guru Arjan",
+      "The Sikhs by Patwant Singh",
+      "Britannica: Guru Arjan",
+      "Sri Guru Granth Sahib",
+      "Sikhism.Net.in",
+      "SikhNet: Guru Arjan Dev Ji"
+    ]
+  }
+  

@@ -4,121 +4,241 @@
   "category": "gurus",
   "birth": "1469-04-15",
   "death": "1539-09-22",
-  "birthPlace": "Rai Bhoi di Talvandi (now Nankana Sahib, Punjab, Pakistan)",
-  "image": "https://miro.medium.com/v2/resize:fit:748/1*hdqjfu0xkLzAiRuBmDtRUg.jpeg",
-  "excerpt": "The founder and first Sikh Guru, whose revolutionary teachings—One God, equality, honest living, service and sharing—laid the foundation of Sikhism. He traveled extensively, composed divine hymns, and established Sikh community life centered around langar and spiritual equality.",
-  "designation": "1st Sikh Guru",
+  "birthPlace": "Rāi Bhoi Kī Talvaṇḍī (now Nankana Sahib, Pakistan)",
+  "image": "https://sikhsewak.wordpress.com/wp-content/uploads/2015/06/guru-nanak-dev-ji1.jpg?w=640",
+  "excerpt": "Guru Nanak Dev Ji, born in 1469, is the revered founder of Sikhism and the first of the ten Sikh Gurus. A spiritual revolutionary, teacher, poet, and humanitarian, Guru Nanak Dev Ji spread a message of universal love, equality, devotion, and service to God above all distinctions of caste, creed, and gender. His travels and teachings laid the foundation of Sikh thought and practice.",
+  "designation": "1st Sikh Guru, Founder of Sikhism",
   "quickStats": [
-    { "label": "Years as Guru", "value": 70 }
+    {
+      "label": "Guruship (years)",
+      "value": 70
+    },
+    {
+      "label": "Major Itineraries (Udasis)",
+      "value": 4
+    },
+    {
+      "label": "Hymns in Guru Granth Sahib",
+      "value": 974
+    },
+    {
+      "label": "Children",
+      "value": 2
+    },
+    {
+      "label": "Disciples",
+      "value": "Bhai Mardana, Bhai Bala, Bhai Lehna (Guru Angad Dev Ji)"
+    }
   ],
   "quickFacts": [
-    { "label": "Birth Place", "value": "Talvandi (now Nankana Sahib, Pakistan)" },
-    { "label": "Death Place", "value": "Kartarpur (Punjab, Pakistan)" },
-    { "label": "Approx Age at Passing", "value": "70 years" },
-    { "label": "Established Community", "value": "Kartarpur commune (1504–1539)" }
+    {
+      "label": "Birth Name",
+      "value": "Nanak"
+    },
+    {
+      "label": "Father",
+      "value": "Mehta Kalu (Kalu Mehta)"
+    },
+    {
+      "label": "Mother",
+      "value": "Mata Tripta"
+    },
+    {
+      "label": "Spouse",
+      "value": "Mata Sulakhni"
+    },
+    {
+      "label": "Birth Place",
+      "value": "Rāi Bhoi Kī Talvaṇḍī, Punjab (now Nankana Sahib, Pakistan)"
+    },
+    {
+      "label": "Appointed Guru Age",
+      "value": "From Birth"
+    },
+    {
+      "label": "Date of Passing",
+      "value": "22 September 1539"
+    },
+    {
+      "label": "Samadhi Place",
+      "value": "Kartarpur, Punjab (now in Pakistan)"
+    }
   ],
   "version": {
-    "lastUpdated": "2025-07-20T12:00:00Z",
-    "version": "v1.0.0",
-    "contributors": 1,
-    "edits": 1,
-    "historyUrl": ""
+    "lastUpdated": "2025-07-27T17:30:00+05:30",
+    "version": "1.0.0",
+    "contributors": 5,
+    "edits": 22,
+    "historyUrl": "https://en.wikipedia.org/wiki/Guru_Nanak"
   },
   "biographySections": [
     {
-      "label": "Early Life & Spiritual Awakening",
-      "icon": "Star",
-      "value": "Born about 15 April 1469 in Rai Bhoi di Talvandi to Mehta Kalu and Mata Tripta. From early youth, he questioned ritual and social norms, displaying spiritual depth. Around age 30, he immersed in the Kali Bein river for three days; emerging with the proclamation: “There is no Hindu, there is no Muslim.”" 
+      "label": "Early Life",
+      "icon": "Child",
+      "value": "Guru Nanak was born on 15 April 1469 in Rāi Bhoi Kī Talvaṇḍī, a village in present-day Pakistan. From a young age, he demonstrated a contemplative and inquisitive nature, engaging in spiritual discussions and displaying deep compassion for the less fortunate."
     },
     {
-      "label": "Udasis (Spiritual Journeys)",
-      "icon": "Globe",
-      "value": "Over approximately 30 years, accompanied by Mardana, he traveled across South Asia and beyond—including Tibet, Arabia, and Persia—sharing his teachings of oneness, service, and equality." 
+      "label": "Spiritual Revelation",
+      "icon": "Lightbulb",
+      "value": "At around age 30, Guru Nanak is said to have undergone a profound spiritual experience while bathing in the Kali Bein river, leading to his revelation that 'There is no Hindu, there is no Muslim,' signifying the oneness of humanity and the divine presence in all."
     },
     {
-      "label": "Founding Sikh Community",
-      "icon": "Temple",
-      "value": "In 1504, Guru Nanak established a settlement at Kartarpur Sahib on the Ravi River. There he farmed land, set up a langar (community kitchen), and laid the institutional foundations of Sikhism." 
+      "label": "Travels (Udasis)",
+      "icon": "Route",
+      "value": "Guru Nanak undertook four major journeys, known as 'Udasis,' covering thousands of kilometers across India, Tibet, Sri Lanka, Arabia, and Persia, spreading his universal message. Accompanied by Bhai Mardana (a Muslim rababi), he engaged in dialogue with people of all faiths."
     },
     {
-      "label": "Core Teachings",
-      "icon": "BookOpen",
-      "value": "He emphasized the Three Pillars: **Naam Japna** (meditate on God), **Kirat Karo** (earn honestly), and **Vand Chhakna** (share with all). He denounced caste, ritualism, and gender exclusion—and promoted *seva* (selfless service), communal harmony, and universal human equality." 
+      "label": "Teachings and Compositions",
+      "icon": "Feather",
+      "value": "Guru Nanak’s teachings, enshrined in poetic hymns or 'Bani,' emphasized the worship of one formless God, honest living (kirat karo), sharing with others (vand chhako), and remembering God’s name (naam japo). He denounced ritualism, caste discrimination, and religious hypocrisy."
     },
     {
-      "label": "Legacy & Succession",
-      "icon": "Crown",
-      "value": "On 22‑Sep‑1539, Guru Nanak passed away at Kartarpur and named Bhai Lahna (Guru Angad Dev Ji) as his successor. His hymns became part of the Adi Granth, later finalized as the Guru Granth Sahib, the eternal Guru of Sikhs."
+      "label": "Establishment of Kartarpur",
+      "icon": "Home",
+      "value": "Toward the end of his life, Guru Nanak founded the township of Kartarpur, where he organized a community based on equality, collective worship, and selfless service. This became the model for Sikh religious and social life."
+    },
+    {
+      "label": "Final Years",
+      "icon": "Hourglass",
+      "value": "Guru Nanak lived his final years at Kartarpur, composing hymns and guiding his followers. Before his passing in 1539, he appointed Bhai Lehna as his successor, who became Guru Angad Dev Ji."
     }
   ],
   "spiritualLegacy": {
-    "description": "Guru Nanak's spiritual vision established a universal path to God rooted in equality, honest conduct, remembrance of the divine name, and selfless service—breaking barriers of caste, creed, and gender.",
+    "description": "Guru Nanak shaped a faith rooted in devotion, humility, and social justice. His hymns and teachings are the guiding light for Sikhs worldwide, emphasizing the unity of humanity, remembrance of God, and service to all.",
     "keyContributions": [
-      "Introduced **Ek Onkar**—the unity of God and humanity",
-      "Defined the Three Pillars: Naam Japna, Kirat Karo, Vand Chhakna",
-      "Established *langar* and Sangat/Pangat institutions to ensure equality",
-      "Laid the foundation for the Guru succession and scripture as eternal Guru"
+      "Established Sikhism and its core principles",
+      "Composed foundational hymns later included in Guru Granth Sahib",
+      "Promoted oneness of God and universal brotherhood",
+      "Condemned caste divisions, ritualism, and religious intolerance",
+      "Started the institution of langar (community kitchen) for universal equality"
     ]
   },
   "modernRelevance": {
-    "description": "His message transcends religion: compassion, egalitarianism, communal service, and spiritual integrity continue to inform social justice, interfaith dialogue, and global humanitarian values.",
+    "description": "Guru Nanak’s message transcends time, inspiring movements for peace, interfaith dialogue, and social equality. His ideals guide millions working for justice and compassion today.",
     "contemporaryImpact": [
-      "Social equality and anti-discrimination activism",
-      "Community kitchens and global food‑sharing networks",
-      "Interfaith respect and religious pluralism",
-      "Ethical livelihood and honest leadership principles"
+      "Principles of equality and service inspire social work and humanitarian efforts",
+      "His call for universal brotherhood fuels interfaith dialogues",
+      "Teachings on honest living and sharing influence ethical frameworks globally",
+      "Langar tradition continues to serve free meals to millions, regardless of background"
     ]
   },
   "achievements": [
-    { "title": "Founding Sikhism", "year": "1504", "description": "Created the Kartarpur commune with langar and scripture-based spiritual community.", "icon": "Temple" },
-    { "title": "Formulation of Core Principles", "year": "c.1500", "description": "Defined Naam Japna, Kirat Karo, Vand Chhakna—pillars of Sikh practice.", "icon": "Star" },
-    { "title": "Universal Message", "year": "1469–1539", "description": "Preached monotheism, equality, and compassion across diverse cultures and geographies.", "icon": "Globe" },
-    { "title": "Institution of Langar", "year": "c.1504", "description": "Established communal kitchen serving all with dignity and equality.", "icon": "Utensils" },
-    { "title": "Succession & Scriptural Legacy", "year": "1539", "description": "Appointed Guru Angad and ensured continuity of divinely revealed hymns preserved in Guru Granth Sahib.", "icon": "Book" }
+    {
+      "title": "Proclaimed the Oneness of God and Humanity",
+      "year": "1499",
+      "description": "Issued his epochal declaration after the spiritual revelation at Kali Bein, marking the emergence of a new spiritual movement.",
+      "icon": "Bolt"
+    },
+    {
+      "title": "Composed Divine Hymns",
+      "year": "1500–1539",
+      "description": "Authored poetic compositions forming the basis of Sikh scripture and practice.",
+      "icon": "BookOpen"
+    },
+    {
+      "title": "Historic Four Udasis",
+      "year": "1499–1521",
+      "description": "Travelled widely to deliver his message across the Indian subcontinent, Arabia, and Tibet, fostering interreligious understanding.",
+      "icon": "Globe"
+    },
+    {
+      "title": "Established Kartarpur Sahib",
+      "year": "1522",
+      "description": "Founded a new township as a living example of Sikh community values – equality, labor, meditation, and sharing.",
+      "icon": "Home"
+    },
+    {
+      "title": "Instituted Langar System",
+      "year": "c. 1522",
+      "description": "Introduced the free community kitchen where people of all backgrounds dine together.",
+      "icon": "Utensils"
+    }
   ],
   "quotes": [
     {
-      "original": "ਨਾਹ ਕੋ ਇਤ ਹੈ, ਨਾਹ ਕੋ ਇਤਨਾ ਹੈ ॥",
-      "transliteration": "Nāh ko it hai, nāh ko itnā hai",
-      "translation": "There is none here, and there is none more here than Him (God).",
-      "context": "On the Oneness of God"
+      "original": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ",
+      "transliteration": "Ik onkar satnam kartā purakh nirbha-u nirvair",
+      "translation": "There is but One God. His Name is Truth. He is the Creator. He is without fear. He is without hate.",
+      "context": "Opening verse of the Mul Mantar; foundation of Sikh theology",
+      "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ: ਜਪੁਜੀ ਸਾਹਿਬ (Guru Granth Sahib: Japji Sahib)"
     },
     {
-      "original": "ਸੱਚੁ ਨਾਮੁ ਦਿਵਸੁ ਰਾਤੁ ਸ੍ਰਵਣੁ ਹੋਵੈ ॥",
-      "transliteration": "Sachu nām divas rāt sravaṇ hovai",
-      "translation": "May the True Name be heard day and night.",
-      "context": "On constant devotion (Nāam Japna)"
+      "original": "ਨਾ ਕੋਇ ਹਿੰਦੂ, ਨਾ ਮੁਸਲਮਾਨ",
+      "transliteration": "Nā koi hindū, nā musalmān",
+      "translation": "There is neither Hindu nor Muslim.",
+      "context": "Utterance after spiritual revelation, underscoring the unity of all humanity",
+      "source": "ਜਨਮਸਾਖੀਆਂ, ਜਵਾਨੀ ਦੀ ਕਥਾ (Janamsakhis, oral tradition)"
     },
     {
-      "original": "ਸੇਵਾ ਕਰਤ ਸਮਾਣੁ ਬੈਠੈ ਸਭੈ ਕੋਗੇ ॥",
-      "transliteration": "Sevā karata samāṇ baiṭhai sabhai koge",
-      "translation": "When all sit together in service, all attain equality.",
-      "context": "On communal sharing and Seva"
+      "original": "ਵੰਡ ਛਕੋ, ਕਿਰਤ ਕਰੋ, ਨਾਮ ਜਪੋ",
+      "transliteration": "Vand chhako, kirat karo, nām japo",
+      "translation": "Share what you have, earn by honest work, and meditate on God’s name.",
+      "context": "Summary of Guru Nanak's key teachings",
+      "source": "ਗੁਰੂ ਨਾਨਕ ਦੇਵ ਜੀ ਦੀਆਂ ਸਿਖਵਾਂ (Guru Nanak's teachings)"
     }
   ],
   "timeline": [
-    { "year": "1469", "date": "15 Apr", "event": "Born at Talvandi (Nankana Sahib)", "type": "birth" },
-    { "year": "1490s", "event": "Spiritual questioning and learning in youth", "type": "earlyLife" },
-    { "year": "1499", "event": "Enlightenment at Kali Bein river at age ~30", "type": "awakening" },
-    { "year": "1504", "event": "Established Kartarpur commune, langar and community life", "type": "community" },
-    { "year": "1499–1520s", "event": "Undertook Udasis (major spiritual journeys across Asia)", "type": "journey" },
-    { "year": "1539", "date": "22 Sep", "event": "Passed away at Kartarpur; appointed Guru Angad Dev Ji", "type": "death" }
+    {
+      "year": "1469",
+      "date": "15 Apr 1469",
+      "event": "Birth of Guru Nanak Dev Ji in Rāi Bhoi Kī Talvaṇḍī",
+      "type": "birth"
+    },
+    {
+      "year": "~1496",
+      "event": "Profound spiritual revelation at Kali Bein river",
+      "type": "spiritual"
+    },
+    {
+      "year": "1499–1521",
+      "event": "Four lengthy missionary journeys (Udasis) across Asia and the Middle East",
+      "type": "travel"
+    },
+    {
+      "year": "1522",
+      "event": "Establishment of Kartarpur Sahib and communal institutions",
+      "type": "founding"
+    },
+    {
+      "year": "1539",
+      "date": "22 Sep 1539",
+      "event": "Guru Nanak Dev Ji passes away at Kartarpur",
+      "type": "death"
+    }
   ],
   "relatedPersonalities": [
-    { "name": "Bebe Nanaki Ji", "relation": "His elder sister and first follower", "slug": "bebe-nanaki-ji" },
-    { "name": "Bhai Mardana Ji", "relation": "Companion musician and close associate", "slug": "bhai-mardana-ji" },
-    { "name": "Guru Angad Dev Ji", "relation": "Chosen successor (2nd Guru)", "slug": "guru-angad-dev-ji" }
+    {
+      "name": "Bhai Mardana",
+      "relation": "Close Companion and Musician",
+      "slug": "bhai-mardana"
+    },
+    {
+      "name": "Guru Angad Dev Ji",
+      "relation": "Successor (2nd Sikh Guru)",
+      "slug": "guru-angad-dev-ji"
+    },
+    {
+      "name": "Bhai Bala",
+      "relation": "Friend and early disciple",
+      "slug": "bhai-bala"
+    },
+    {
+      "name": "Mata Sulakhni",
+      "relation": "Wife",
+      "slug": "mata-sulakhni"
+    }
   ],
   "historicalContext": {
-    "period": "Late Delhi Sultanate / early Mughal Era",
-    "politicalSituation": "A time of religious hierarchy, caste oppression, and ritual orthodoxy under Muslim and Hindu institutions.",
-    "socialConditions": "Rigid caste system, gender inequity, superstition, and fragmented communities.",
-    "significance": "He began a social‑religious revolution emphasizing direct access to God, social equality, and community cohesion—transforming the spiritual landscape of South Asia."
+    "period": "Late 15th to early 16th century (Delhi Sultanate, Mughal rise)",
+    "politicalSituation": "Fragmented rule in North India, rise of religious orthodoxy, and intercommunity tensions under Lodi sultans and Mughal expansion.",
+    "socialConditions": "Rigid caste hierarchies, social exclusion, gender inequality, religious divisions, and prevalence of ritualism in religious life.",
+    "significance": "Guru Nanak's emergence redefined spirituality, challenged the power of ritual and caste, and advocated an egalitarian community faith based on justice, devotion, and oneness of humanity."
   },
   "references": [
-    "Britannica – Guru Nanak biography" ,
-    "Wikipedia – Guru Nanak page" ,
-    "SikhNet – life and legacy" ,
-    "Various scholarly and journalistic sources on his teachings and impact"
+    "The Sikhs by Patwant Singh",
+    "Guru Nanak: His Life and Teachings by Roopinder Singh",
+    "The Encyclopaedia of Sikhism (Punjabi University, Patiala)",
+    "Oxford Handbook of Sikh Studies",
+    "Sri Guru Granth Sahib"
   ]
 }

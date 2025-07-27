@@ -1,0 +1,211 @@
+{
+    "name": "Guru Har Krishan Ji",
+    "slug": "guru-har-krishan-ji",
+    "category": "gurus",
+    "birth": "1656-07-07",
+    "death": "1664-03-30",
+    "birthPlace": "Kiratpur Sahib, Punjab",
+    "image": "https://www.historicalgurudwaras.com/images/8%20Guru-Harkishan-ji.jpg",
+    "excerpt": "Guru Har Krishan Ji, the eighth Sikh Guru and the youngest to hold the Guruship, became Guru at the age of five and guided the Sikh community for less than three years. Renowned for his compassion, wisdom beyond his years, and miraculous healing during the smallpox epidemic in Delhi, Guru Har Krishan Ji is lovingly called 'Bala Pīr' (the Child Prophet) and is remembered for selflessly serving humanity and affirming the unity of all.",
+    "designation": "8th Sikh Guru",
+  
+    "quickStats": [
+      { "label": "Guruship (years)", "value": "2 years, 5 months, 24 days" },
+      { "label": "Years Lived", "value": 7 },
+      { "label": "Youngest Guru", "value": "Became Guru at age 5" },
+      { "label": "Major Miracles", "value": "Healing during smallpox epidemic" },
+      { "label": "Key Message", "value": "Selfless service, humility, faith in God's Will" }
+    ],
+  
+    "quickFacts": [
+      { "label": "Birth Name", "value": "Har Krishan" },
+      { "label": "Father", "value": "Guru Har Rai Ji" },
+      { "label": "Mother", "value": "Mata Krishan Kaur (Sulakhni Ji)" },
+      { "label": "Elder Brother", "value": "Ram Rai Ji" },
+      { "label": "Birth Place", "value": "Kiratpur Sahib, Punjab" },
+      { "label": "Appointed Guru Age", "value": "5 years old" },
+      { "label": "Date of Passing", "value": "30 March 1664" },
+      { "label": "Samadhi Place", "value": "Gurdwara Bala Sahib, Delhi" }
+    ],
+  
+    "version": {
+      "lastUpdated": "2025-07-28T00:00:00+05:30",
+      "version": "1.0.0",
+      "contributors": 5,
+      "edits": 15,
+      "historyUrl": "https://en.wikipedia.org/wiki/Guru_Har_Krishan"
+    },
+  
+    "biographySections": [
+      {
+        "label": "Early Life",
+        "icon": "Child",
+        "value": "Guru Har Krishan Ji was born on 7 July 1656 at Kiratpur Sahib to Guru Har Rai Ji and Mata Krishan Kaur Ji. From childhood, he displayed deep devotion, humility, and spiritual insight.[2][3][4]"
+      },
+      {
+        "label": "Ascension to Guruship",
+        "icon": "Crown",
+        "value": "Upon the passing of Guru Har Rai Ji in October 1661, five-year-old Har Krishan Ji was appointed the eighth Guru, bypassing his elder brother Ram Rai due to Ram Rai’s alteration of scripture to appease Emperor Aurangzeb. The nomination of a child as Guru was met with astonishment, but Har Krishan Ji soon earned universal respect for his grace and wisdom.[1][4][5]"
+      },
+      {
+        "label": "Wisdom Beyond Years",
+        "icon": "BookOpen",
+        "value": "Guru Har Krishan Ji confounded detractors with his deep understanding of Sikh philosophy and scripture. Notably, he enabled the illiterate water-carrier Chhaju Ram to interpret sacred texts when challenged by a learned Brahmin, inspiring awe and humility.[5][6][8]"
+      },
+      {
+        "label": "Healing and Service during Epidemics",
+        "icon": "Leaf",
+        "value": "Responding to summons from Mughal authorities, Guru Har Krishan Ji traveled to Delhi, where a severe epidemic of smallpox and cholera raged. The young Guru devoted himself to serving the sick, providing water and blessings believed to cure disease, especially at Raja Jai Singh’s residence (now Gurdwara Bangla Sahib). He became revered as 'Bala Pīr' for relieving suffering across social and religious lines.[3][4][13]"
+      },
+      {
+        "label": "Martyrdom and Final Message",
+        "icon": "HourglassEnd",
+        "value": "Guru Har Krishan Ji ultimately contracted smallpox and attained Joti Jot (passed away) on 30 March 1664, at just seven years old. Before merging with the Divine Light, he uttered 'Baba Bakale'—a cryptic clue that led Sikhs to his successor, Guru Tegh Bahadur Sahib Ji.[1][5][6]"
+      }
+    ],
+  
+    "spiritualLegacy": {
+      "description": "Guru Har Krishan Ji’s compassion, wisdom, and innocence exemplified the essence of the Guru’s teachings. His life is a testament to selfless service, humility in youth, spiritual insight, and a steadfast commitment to upholding Sikh principles even in the face of adversity.",
+      "keyContributions": [
+        "Uplifted and healed thousands during deadly epidemics",
+        "Demonstrated that spiritual excellence transcends age",
+        "Upheld the sanctity of Sikh scripture and tradition",
+        "Left a legacy of humility and service to all humanity"
+      ]
+    },
+  
+    "modernRelevance": {
+      "description": "Guru Har Krishan Ji inspires caregivers, youth, and spiritual seekers to serve selflessly, stand for truth, and comfort the suffering. The Gurdwara Bangla Sahib in Delhi remains a center of healing and service, reflecting his legacy.",
+      "contemporaryImpact": [
+        "Namesake of hospitals, child-focused charities, and healing centers",
+        "Role model for interfaith service and inclusive compassion",
+        "Inspiration for child leadership and empowerment in faith communities",
+        "Source of faith during health crises among Sikhs and beyond"
+      ]
+    },
+  
+    "achievements": [
+      {
+        "title": "Youngest Sikh Guru",
+        "year": "1661",
+        "description": "Became the eighth Guru at age 5, exemplifying spiritual wisdom beyond his years.",
+        "icon": "Child"
+      },
+      {
+        "title": "Healing during Smallpox Pandemic",
+        "year": "1664",
+        "description": "Ministered to the sick in Delhi’s smallpox epidemic, providing comfort and miraculous recovery.",
+        "icon": "Leaf"
+      },
+      {
+        "title": "Expounded Sikh Wisdom",
+        "year": "1661–1664",
+        "description": "Demonstrated deep scriptural mastery in public debates, upholding Sikh tradition.",
+        "icon": "BookOpen"
+      },
+      {
+        "title": "Entrusted Succession",
+        "year": "1664",
+        "description": "Uttered 'Baba Bakale' on his passing, directing Sikhs to Guru Tegh Bahadur Ji as his successor.",
+        "icon": "Crown"
+      }
+    ],
+  
+    "quotes": [
+      {
+        "original": "ਸ੍ਰੀ ਹਰਿਕ੍ਰਿਸ਼ਨ ਧਿਆਈਐ ਜਿਸੁ ਡਿਠੇ ਸਭਿ ਦੁਖਿ ਜਾਇ ॥",
+        "transliteration": "Sri Harikrishan dhiaaeeai jis dithe sabh dukh jaae.",
+        "translation": "Contemplate on Sri Har Krishan, whose sight dispels all suffering.",
+        "context": "Salutation from Ardas, commemorating Guru Har Krishan Ji’s grace",
+        "source": "ਅਰਦਾਸ (Ardas), Sikh daily prayer"
+      },
+      {
+        "original": "ਹਰਿ ਕ੍ਰਿਸ਼ਨ ਨਰਾਜ਼ ਨ ਹੋਇਓ। ਸੁਕ੍ਰਿਤਿ ਕੀਤਾ ਸਭ ਲੋਕ ਸੁਖੀ ਹੋਇਓ॥",
+        "transliteration": "Har Krishan naraaz na hoio. Sukrit keeta sabh lok sukhi hoio.",
+        "translation": "Har Krishan never became angry. By his good deeds, all people became happy.",
+        "context": "A traditional tribute describing his compassion and benevolence",
+        "source": "Traditional Sikh ballad"
+      },
+      {
+        "original": "ਕਿਸੇ ਦਾ ਦੁੱਖ ਨਾ ਵਧਾਵੋ, ਦਿਲਾਂ ਦੀ ਦਵਾ ਬਣੋ।",
+        "transliteration": "Kise da dukh na vadhavo, dila di dawa bano.",
+        "translation": "Never add to anyone’s pain; be a remedy for hearts.",
+        "context": "On compassion and serving others",
+        "source": "Sikh oral tradition attributed to Guru Har Krishan Ji"
+      }
+    ],
+  
+    "timeline": [
+      {
+        "year": "1656",
+        "date": "7 Jul 1656",
+        "event": "Birth of Guru Har Krishan Ji in Kiratpur Sahib",
+        "type": "birth"
+      },
+      {
+        "year": "1661",
+        "date": "7 Oct 1661",
+        "event": "Appointed 8th Sikh Guru at age five",
+        "type": "appointment"
+      },
+      {
+        "year": "1664",
+        "date": "Early 1664",
+        "event": "Served the sick during smallpox and cholera epidemic in Delhi",
+        "type": "seva"
+      },
+      {
+        "year": "1664",
+        "date": "30 Mar 1664",
+        "event": "Attained Joti Jot (passed away) at Gurdwara Bala Sahib, Delhi",
+        "type": "death"
+      },
+      {
+        "year": "1664",
+        "event": "Uttered 'Baba Bakale', signaling successorship of Guru Tegh Bahadur Ji",
+        "type": "succession"
+      }
+    ],
+  
+    "relatedPersonalities": [
+      {
+        "name": "Guru Har Rai Ji",
+        "relation": "Father and predecessor (7th Sikh Guru)",
+        "slug": "guru-har-rai-ji"
+      },
+      {
+        "name": "Guru Tegh Bahadur Ji",
+        "relation": "Successor (9th Sikh Guru)",
+        "slug": "guru-tegh-bahadur-ji"
+      },
+      {
+        "name": "Ram Rai",
+        "relation": "Elder brother (excommunicated)",
+        "slug": "ram-rai"
+      },
+      {
+        "name": "Mata Kishan Kaur (Sulakhni Ji)",
+        "relation": "Mother",
+        "slug": "mata-kishan-kaur"
+      }
+    ],
+  
+    "historicalContext": {
+      "period": "Mid-17th century, Mughal era (Aurangzeb)",
+      "politicalSituation": "Delhi under Mughal rule; tensions between Mughal authorities and Sikhs following disputes over succession and Sikh doctrine. Emperor Aurangzeb sought to challenge and limit Sikh autonomy.",
+      "socialConditions": "Recurring epidemics, frequent religious and political challenges, growing need for healing, faith, and communal solidarity. Young Guru’s compassion became a beacon of hope in a time of widespread distress.",
+      "significance": "Guru Har Krishan Ji’s brief yet impactful Guruship reaffirmed the Sikh dedication to selfless service, even among the youngest and most vulnerable, and reinforced the essential values of humility, sacrifice, and faith."
+    },
+  
+    "references": [
+      "Wikipedia: Guru Har Krishan Ji[1]",
+      "SikhiWiki: Guru Har Krishan[2]",
+      "Britannica: Guru Hari Krishen[6]",
+      "SikhNet: Guru Har Krishan Ji[7]",
+      "BASIC SoSikhi: Guru Har Krishan Ji[3]",
+      "Sikh Dharma: Guru Har Krishan[8]",
+      "WeAreSikhs.org: Guru Har Krishan[13]",
+      "DSGMC Official: Sri Guru Har Krishan Ji[11]"
+    ]
+  }
+  

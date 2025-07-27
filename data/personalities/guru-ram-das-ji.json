@@ -1,0 +1,213 @@
+{
+    "name": "Guru Ram Das Ji",
+    "slug": "guru-ram-das-ji",
+    "category": "gurus",
+    "birth": "1534-09-24",
+    "death": "1581-09-01",
+    "birthPlace": "Lahore, Punjab (now in Pakistan)",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPzp097daIYZghyi14ouxZqeb5bk0qFMcMK8gp1aj_ydDE3RKfKsIsI5KHwKYvTP0rFQ&usqp=CAU",
+    "excerpt": "Guru Ram Das Ji, the fourth Sikh Guru, founded the holy city of Amritsar and composed the Lavan, the wedding hymns central to the Sikh marriage ceremony. Known for his humility and compassion, he consolidated Sikh institutions, expanded the Manji-Piri missionary system, and promoted social equality, making lasting contributions to the Sikh faith’s organization and spiritual practice.",
+    "designation": "4th Sikh Guru",
+  
+    "quickStats": [
+      { "label": "Guruship (years)", "value": 7 },
+      { "label": "Years Lived", "value": 47 },
+      { "label": "Hymns in Guru Granth Sahib", "value": 638 },
+      { "label": "Children", "value": 3 },
+      { "label": "Key Legacy", "value": "Founded Amritsar, authored Lavan, expanded Sikh institutions" }
+    ],
+  
+    "quickFacts": [
+      { "label": "Birth Name", "value": "Jetha" },
+      { "label": "Father", "value": "Hari Das Sodhi" },
+      { "label": "Mother", "value": "Daya Kaur" },
+      { "label": "Spouse", "value": "Bibi Bhani Ji" },
+      { "label": "Birth Place", "value": "Lahore, Punjab (now in Pakistan)" },
+      { "label": "Appointed Guru Age", "value": "38 years old" },
+      { "label": "Date of Passing", "value": "1 September 1581" },
+      { "label": "Samadhi Place", "value": "Amritsar, Punjab" }
+    ],
+  
+    "version": {
+      "lastUpdated": "2025-07-27T23:45:00+05:30",
+      "version": "1.0.0",
+      "contributors": 5,
+      "edits": 19,
+      "historyUrl": "https://en.wikipedia.org/wiki/Guru_Ram_Das"
+    },
+  
+    "biographySections": [
+      {
+        "label": "Early Life",
+        "icon": "Child",
+        "value": "Guru Ram Das Ji was born as Jetha on 24 September 1534 in Lahore, Punjab. Orphaned in childhood, he was raised by his maternal grandmother. Dedicated to selfless service, he moved to Goindwal and became a devoted disciple and son-in-law of Guru Amar Das Ji."
+      },
+      {
+        "label": "Appointment as Guru",
+        "icon": "Crown",
+        "value": "Impressed by his humility and devotion, Guru Amar Das Ji appointed Jetha as the fourth Sikh Guru in 1574, naming him Ram Das, meaning 'servant of God.'"
+      },
+      {
+        "label": "Founding of Amritsar",
+        "icon": "Landmark",
+        "value": "Guru Ram Das Ji founded the city of Ramdaspur (later renamed Amritsar), overseeing the digging of the sacred Amrit Sarovar tank, which became the spiritual center of Sikhism and site of the Harmandir Sahib (Golden Temple)."
+      },
+      {
+        "label": "Expansion of Sikh Institutions",
+        "icon": "UsersCog",
+        "value": "He expanded the Manji and Piri system for preaching Sikh teachings, included women as leaders, and established new centers for congregational worship, further organizing the Sikh community for inclusive participation."
+      },
+      {
+        "label": "The Lavan and Spiritual Compositions",
+        "icon": "BookOpen",
+        "value": "He composed 638 hymns, including the Lavan—four wedding stanzas that form the basis of the Sikh marriage ceremony (Anand Karaj). His hymns emphasize union with the Divine through love, humility, and service."
+      },
+      {
+        "label": "Final Years and Succession",
+        "icon": "HourglassEnd",
+        "value": "Guru Ram Das Ji guided the construction of Amritsar and institutional growth of the faith until his passing in 1581. He chose his youngest son, Guru Arjan Dev Ji, as his successor."
+      }
+    ],
+  
+    "spiritualLegacy": {
+      "description": "Guru Ram Das Ji was a spiritual architect of Sikhism, modeling humility, service, and leadership. He established the sacred geography of the faith and contributed extensively to liturgical and community traditions.",
+      "keyContributions": [
+        "Founded Amritsar, the Sikh spiritual capital",
+        "Composed Lavan and Anand for Sikh ceremonies",
+        "Further developed the Manji-Piri system for religious administration and outreach",
+        "Promoted inclusive congregation and women's participation in Sikh institutions",
+        "Advanced the principles of seva (selfless service) and humility"
+      ]
+    },
+  
+    "modernRelevance": {
+      "description": "Guru Ram Das Ji’s legacy endures in the global Sikh community’s rituals, marriage ceremonies, and the city of Amritsar. The institutions and traditions he championed are central to Sikh identity and social ethos.",
+      "contemporaryImpact": [
+        "Lavan is recited in all Sikh weddings worldwide",
+        "Amritsar remains the spiritual heart of Sikhism, drawing millions annually",
+        "His emphasis on humility and service shapes Sikh community values",
+        "The model of inclusive leadership and gender equality remains influential in Sikh institutions"
+      ]
+    },
+  
+    "achievements": [
+      {
+        "title": "Founded Amritsar (Ramdaspur)",
+        "year": "1577",
+        "description": "Established the city around the holy tank Amrit Sarovar, creating the future site of the Golden Temple.",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Composed Lavan Hymns",
+        "year": "1574–1581",
+        "description": "Authored the four Lavan (marriage hymns), institutionalizing the unique Sikh wedding rite—Anand Karaj.",
+        "icon": "BookOpen"
+      },
+      {
+        "title": "Expanded Manji and Piri System",
+        "year": "1574–1581",
+        "description": "Widened Sikh missionary administration and included women leaders for organizational outreach.",
+        "icon": "Users"
+      },
+      {
+        "title": "Composed 638 Hymns",
+        "year": "1574–1581",
+        "description": "Wrote extensive bani included in the Guru Granth Sahib, shaping Sikh worship and spiritual practice.",
+        "icon": "Feather"
+      }
+    ],
+  
+    "quotes": [
+      {
+        "original": "ਲਾਵਾਂ",
+        "transliteration": "Lavan (four stanzas)",
+        "translation": "The Lavan hymns describe the four stages of spiritual union in marriage, central to Sikh Anand Karaj.",
+        "context": "Lavan, recited during Sikh wedding ceremony",
+        "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 773-774"
+      },
+      {
+        "original": "ਧਨੁ ਧੰਨੁ ਪ੍ਰਭੁ ਸੇਵਾ ਲਾਇਓ ਜਨੁ ਨਾਨਕੁ ਜੀਵਣਿ ਮੁਕਤਿ ਹੋਈ ॥",
+        "transliteration": "Dhan dhan prabhu sevā lāio jan Nānak jīvan mukat hoi.",
+        "translation": "Blessed, blessed is the one whom the Lord enjoins to Service; O Nanak, such a person attains liberation even while alive.",
+        "context": "On the spiritual significance of service (seva)",
+        "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 212"
+      },
+      {
+        "original": "ਸਰਬ ਧਰਮ ਮਹਿ ਸ੍ਰੇਸਟ ਧਰਮੁ ਹਰਿ ਕੋ ਨਾਮੁ ਜਪੁ ਨਿਸਤਾਰਾ ॥",
+        "transliteration": "Sarab dharam meh sreshṭ dharam har ko nām jap nistārā.",
+        "translation": "Of all religions, the best religion is to chant the Name of the Lord and maintain pure conduct.",
+        "context": "Emphasizing remembrance of God as the central spiritual practice",
+        "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 266"
+      }
+    ],
+  
+    "timeline": [
+      {
+        "year": "1534",
+        "date": "24 Sep 1534",
+        "event": "Birth of Guru Ram Das Ji (Jetha) in Lahore",
+        "type": "birth"
+      },
+      {
+        "year": "~1550",
+        "event": "Marriage to Bibi Bhani Ji, daughter of Guru Amar Das Ji",
+        "type": "marriage"
+      },
+      {
+        "year": "1574",
+        "event": "Appointed the 4th Sikh Guru by Guru Amar Das Ji",
+        "type": "appointment"
+      },
+      {
+        "year": "1577",
+        "event": "Founded Ramdaspur (Amritsar) and began excavation of Amrit Sarovar",
+        "type": "founding"
+      },
+      {
+        "year": "1581",
+        "date": "1 Sep 1581",
+        "event": "Guru Ram Das Ji passes away in Amritsar",
+        "type": "death"
+      }
+    ],
+  
+    "relatedPersonalities": [
+      {
+        "name": "Guru Amar Das Ji",
+        "relation": "Predecessor, father-in-law",
+        "slug": "guru-amar-das-ji"
+      },
+      {
+        "name": "Guru Arjan Dev Ji",
+        "relation": "Successor (5th Sikh Guru), son",
+        "slug": "guru-arjan-dev-ji"
+      },
+      {
+        "name": "Bibi Bhani Ji",
+        "relation": "Wife, daughter of Guru Amar Das Ji",
+        "slug": "bibi-bhani-ji"
+      },
+      {
+        "name": "Prithi Chand Ji",
+        "relation": "Son",
+        "slug": "prithi-chand-ji"
+      }
+    ],
+  
+    "historicalContext": {
+      "period": "Late 16th century (Akbar era)",
+      "politicalSituation": "Punjab under Mughal rule; relative religious tolerance under Emperor Akbar, enabling Sikh institutions to expand.",
+      "socialConditions": "Religious syncretism, urbanization in Punjab, increasing engagement with Mughal authorities; entrenched social hierarchies and gender norms.",
+      "significance": "Guru Ram Das Ji’s founding of Amritsar and expansion of community institutions shaped Sikh identity, worship, and social structure. His spiritual and ritual compositions are integral to Sikh rites today."
+    },
+  
+    "references": [
+      "Encyclopaedia of Sikhism (Punjabi University, Patiala)",
+      "Guru Ram Das: Fourth Sikh Guru by Surjit Singh Gandhi",
+      "The Sikhs by Patwant Singh",
+      "Oxford Handbook of Sikh Studies",
+      "Sri Guru Granth Sahib",
+      "https://en.wikipedia.org/wiki/Guru_Ram_Das"
+    ]
+  }
+  

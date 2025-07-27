@@ -1,0 +1,226 @@
+{
+    "name": "Guru Hargobind Sahib Ji",
+    "slug": "guru-hargobind-sahib-ji",
+    "category": "gurus",
+    "birth": "1595-06-19",
+    "death": "1644-03-03",
+    "birthPlace": "Guru Ki Wadali, Amritsar District, Punjab",
+    "image": "https://www.sikhiwiki.org/images/a/ac/Guru_hargobind.jpg",
+    "excerpt": "Guru Hargobind Sahib Ji, the sixth Sikh Guru, transformed Sikhism by instilling martial spirit and integrating temporal and spiritual leadership. After Guru Arjan’s martyrdom, he adorned two swords symbolizing Miri and Piri, built the Akal Takht, fortified Sikh centers, and led the community in several battles to defend righteousness—setting the foundation for the Sikh warrior tradition.",
+    "designation": "6th Sikh Guru",
+  
+    "quickStats": [
+      { "label": "Guruship (years)", "value": 38 },
+      { "label": "Years Lived", "value": 48 },
+      { "label": "Battles Fought", "value": 4 },
+      { "label": "Main Sons", "value": "Baba Gurditta, Baba Suraj Mal, Guru Tegh Bahadur" },
+      { "label": "Notable Constructions", "value": "Akal Takht, Lohgarh Fort" }
+    ],
+  
+    "quickFacts": [
+      { "label": "Birth Name", "value": "Hargobind" },
+      { "label": "Father", "value": "Guru Arjan Dev Ji" },
+      { "label": "Mother", "value": "Mata Ganga Ji" },
+      { "label": "Appointed Guru Age", "value": "11 years old" },
+      { "label": "Date of Passing", "value": "3 March 1644" },
+      { "label": "Samadhi Place", "value": "Kiratpur Sahib, Punjab" }
+    ],
+  
+    "version": {
+      "lastUpdated": "2025-07-27T23:59:00+05:30",
+      "version": "1.0.0",
+      "contributors": 5,
+      "edits": 17,
+      "historyUrl": "https://en.wikipedia.org/wiki/Guru_Hargobind"
+    },
+  
+    "biographySections": [
+      {
+        "label": "Early Life",
+        "icon": "Child",
+        "value": "Guru Hargobind Sahib Ji was born on 19 June 1595 at Guru Ki Wadali near Amritsar to Guru Arjan Dev Ji and Mata Ganga Ji. Under Baba Buddha Ji’s guidance, he learned both spiritual wisdom and martial arts from a young age."
+      },
+      {
+        "label": "Becoming Guru and Initiation of Miri-Piri",
+        "icon": "Crown",
+        "value": "After Guru Arjan’s martyrdom in 1606, the eleven-year-old Hargobind was installed as Guru. He donned two swords, representing Miri (temporal power) and Piri (spiritual authority), initiating the tradition of Saint-Soldier in Sikhism."
+      },
+      {
+        "label": "Militarization and Defense",
+        "icon": "Shield",
+        "value": "Guru Hargobind built up the Sikh community’s military strength, assembling a cavalry, acquiring arms, and establishing a regular battalion. He fortified Amritsar, built the Lohgarh fort, and asked Sikhs to provide not just financial but also military support."
+      },
+      {
+        "label": "Akal Takht and Sovereignty",
+        "icon": "Landmark",
+        "value": "In 1609, Guru Hargobind established the Akal Takht, directly facing the Harmandir Sahib (Golden Temple), to serve as the seat of Sikh temporal authority. Here, he held court and made decisions on both spiritual and worldly matters."
+      },
+      {
+        "label": "Conflicts and Battles",
+        "icon": "CrossedSwords",
+        "value": "To defend the Sikh faith, Guru Hargobind led Sikhs in four major battles against the Mughal Empire. These were fought at Amritsar, Sri Hargobindpur, Gurusar, and Kartarpur, always with the intention to defend righteousness, not conquer territory."
+      },
+      {
+        "label": "Imprisonment at Gwalior",
+        "icon": "Jail",
+        "value": "Guru Hargobind was imprisoned at Gwalior Fort for several years by Emperor Jahangir, but was eventually released along with 52 detained Hindu princes, earning him the title 'Bandi Chhor' (Liberator of Prisoners)."
+      },
+      {
+        "label": "Final Years and Succession",
+        "icon": "HourglassEnd",
+        "value": "In his later life, Guru Hargobind founded Kiratpur Sahib as a spiritual center. He continued to strengthen Sikh institutions until his passing in 1644. He appointed his grandson Guru Har Rai Ji as his successor."
+      }
+    ],
+  
+    "spiritualLegacy": {
+      "description": "Guru Hargobind Sahib Ji fused the temporal and spiritual domains in Sikhism and redefined the Sikh identity as both saintly and sovereign. His concept of Miri-Piri laid the framework for a martial faith rooted in justice and compassion.",
+      "keyContributions": [
+        "Introduced the dual concept of Miri (temporal) and Piri (spiritual) authority",
+        "Built the Akal Takht, cementing Sikh sovereign governance",
+        "Transformed Sikhs into a martial community prepared to defend truth",
+        "Refused to seize territory, emphasizing just war (Dharamyudh)",
+        "Liberated 52 Hindu princes from Gwalior Fort, earning the title Bandi Chhor"
+      ]
+    },
+  
+    "modernRelevance": {
+      "description": "Guru Hargobind Sahib Ji’s teachings inspire Sikh commitment to justice, community defense, and the enduring balance between spirituality and worldly responsibility.",
+      "contemporaryImpact": [
+        "The Akal Takht remains Sikhism’s highest seat of temporal authority",
+        "Miri-Piri ideal shapes Sikh social activism and political engagement",
+        "Bandi Chhor Divas, commemorating the liberation of the 52 princes, is widely celebrated",
+        "Sikh martial tradition influences Sikh identity world-wide"
+      ]
+    },
+  
+    "achievements": [
+      {
+        "title": "Founded the Akal Takht",
+        "year": "1609",
+        "description": "Established the temporal seat of Sikh authority facing the Harmandir Sahib.",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Instituted Miri-Piri Dual Symbolism",
+        "year": "1606",
+        "description": "Wore two swords during his investiture to signify joined temporal and spiritual authority.",
+        "icon": "CrossedSwords"
+      },
+      {
+        "title": "Built Lohgarh Fort",
+        "year": "Early 1600s",
+        "description": "Fortified Amritsar for the first time to defend against Mughal attacks.",
+        "icon": "Shield"
+      },
+      {
+        "title": "Fought Four Major Battles",
+        "year": "1620s-1630s",
+        "description": "Defended the Sikh community against Mughal aggression at Amritsar, Hargobindpur, Gurusar, and Kartarpur.",
+        "icon": "CrossedSwords"
+      },
+      {
+        "title": "Liberated 52 Princes (Bandi Chhor)",
+        "year": "c. 1619",
+        "description": "Secured the release of 52 Hindu princes from Mughal captivity while leaving Gwalior Fort.",
+        "icon": "Unlock"
+      }
+    ],
+  
+    "quotes": [
+      {
+        "original": "ਮੀਰੀ ਪੀਰੀ ਦਾ ਮਾਲਕ ਬਣੋ",
+        "transliteration": "Mīrī pīrī dā mālak baṇo",
+        "translation": "Become the master of both temporal and spiritual realms.",
+        "context": "Emphasizing Miri-Piri, Sikh philosophy",
+        "source": "Attributed—Sikh ethos"
+      },
+      {
+        "original": "ਸੱਚ ਦੀ ਸੇਵਾ ਅਤੇ ਜੰਗ ਦੋਹਾਂ ਲਈ ਤਿਆਰ ਰਹੋ",
+        "transliteration": "Sach dī sevā ate jang dohān la'ī tiār raho",
+        "translation": "Be ever ready to serve the truth and fight for justice.",
+        "context": "On the Saint-Soldier ideal",
+        "source": "Sikh tradition, attributed"
+      },
+      {
+        "original": "ਬੰਦੀ ਛੋੜ — ਮਨੁੱਖਤਾ ਨੂੰ ਅਜ਼ਾਦ ਕਰਵਾਉਣਾ ਸਭ ਤੋਂ ਵੱਡੀ ਸੇਵਾ ਹੈ।",
+        "transliteration": "Bandī choṛ — manukhta nūṁ azād karvāuṇā sabh to vaddī sevā hai.",
+        "translation": "To liberate humanity is the greatest service.",
+        "context": "On liberating the 52 princes, Bandi Chhor Divas",
+        "source": "Popular Sikh saying regarding Guru Hargobind Sahib Ji"
+      }
+    ],
+  
+    "timeline": [
+      {
+        "year": "1595",
+        "date": "19 Jun 1595",
+        "event": "Birth of Guru Hargobind Sahib Ji in Guru Ki Wadali",
+        "type": "birth"
+      },
+      {
+        "year": "1606",
+        "event": "Installed as the 6th Sikh Guru at age 11 after Guru Arjan Dev Ji’s martyrdom",
+        "type": "appointment"
+      },
+      {
+        "year": "1609",
+        "event": "Foundation of Akal Takht at Amritsar",
+        "type": "founding"
+      },
+      {
+        "year": "c. 1619",
+        "event": "Liberation of 52 Hindu princes from Gwalior Fort (Bandi Chhor Divas)",
+        "type": "rescue"
+      },
+      {
+        "year": "1635",
+        "event": "Settles at Kiratpur Sahib after last battle",
+        "type": "founding"
+      },
+      {
+        "year": "1644",
+        "date": "3 Mar 1644",
+        "event": "Guru Hargobind Sahib Ji passes away at Kiratpur Sahib",
+        "type": "death"
+      }
+    ],
+  
+    "relatedPersonalities": [
+      {
+        "name": "Guru Arjan Dev Ji",
+        "relation": "Father and predecessor (5th Sikh Guru)",
+        "slug": "guru-arjan-dev-ji"
+      },
+      {
+        "name": "Guru Har Rai Ji",
+        "relation": "Grandson and successor (7th Sikh Guru)",
+        "slug": "guru-har-rai-ji"
+      },
+      {
+        "name": "Guru Tegh Bahadur Ji",
+        "relation": "Son (9th Sikh Guru)",
+        "slug": "guru-tegh-bahadur-ji"
+      },
+      {
+        "name": "Baba Gurditta Ji",
+        "relation": "Elder son, key religious leader",
+        "slug": "baba-gurditta-ji"
+      }
+    ],
+  
+    "historicalContext": {
+      "period": "Early to mid-17th century (Mughal Empire: Jahangir, Shah Jahan)",
+      "politicalSituation": "Polarization and rising persecution after Guru Arjan’s execution; increased militarization under Guru Hargobind to defend Sikhs and others from Mughal oppression.",
+      "socialConditions": "Growing assertion of Sikh identity, greater need for community self-defense, and transformation into a faith that merges spiritual with temporal interests.",
+      "significance": "Guru Hargobind’s leadership reoriented Sikhism toward temporal self-determination and martial readiness while upholding its core spiritual values."
+    },
+  
+    "references": [
+      "Guru Hargobind - Wikipedia",
+      "Britannica: Guru Hargobind",
+      "SikhiWiki.org: Guru Har Gobind",
+      "Sri Guru Hargobind Sahib Ji - Discover Sikhism",
+      "Sri Guru Hargobind Sahib Ji - SGPC"
+    ]
+  }
+  

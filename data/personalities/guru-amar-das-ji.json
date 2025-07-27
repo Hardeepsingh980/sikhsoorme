@@ -1,142 +1,227 @@
 {
-    "name": "Guru Amar Das Ji",
-    "slug": "guru-amar-das-ji",
-    "category": "gurus",
-    "birth": "1479-05-05",
-    "death": "1574-09-01",
-    "birthPlace": "Basarke (now in Amritsar district, Punjab, India)",
-    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTt_hpauL4AYtSp_GCdI9Vb9ZCZ7wDqqZfKeYd6cmMiuGVsRMG2ajGOK8VC-FpQFzRwInSK7tSO36MEKy9DcwPYPA",
-    "excerpt": "The third Sikh Guru, whose tenure (1552–1574) saw the institutional consolidation of Sikhism—fortifying langar, launching administrative and missionary systems, abolishing social injustices, composing Anand Sahib, and forging relations with Emperor Akbar.",
-    "designation": "3rd Sikh Guru",
-    "quickStats": [
-      { "label": "Guruship (years)", "value": 22 },
-      { "label": "Hymns in Guru Granth Sahib", "value": 907 },
-      { "label": "Manji Districts", "value": 22 }
-    ],
-    "quickFacts": [
-      { "label": "Birth Place", "value": "Basarke, (present Amritsar district, Punjab)" },
-      { "label": "Death Place", "value": "Goindwal Sahib, Punjab" },
-      { "label": "Appointed Guru Age", "value": "73 years old" },
-      { "label": "Founded Pilgrimage", "value": "Goindwal Sahib city" }
-    ],
-    "version": {
-      "lastUpdated": "2025-07-20T12:00:00Z",
-      "version": "v1.0.0",
-      "contributors": 1,
-      "edits": 1,
-      "historyUrl": ""
+  "name": "Guru Amar Das Ji",
+  "slug": "guru-amar-das-ji",
+  "category": "gurus",
+  "birth": "1479-05-05",
+  "death": "1574-09-01",
+  "birthPlace": "Basarke, Amritsar district, Punjab",
+  "image": "https://4.bp.blogspot.com/-HPt0MXWvqr8/Uu0-IfObjFI/AAAAAAAABPQ/ywO5U28v84k/s1600/Guru+Amar+Das.jpg",
+  "excerpt": "Guru Amar Das Ji became the third Sikh Guru in 1552 at the age of 73. Revered for his humility, he greatly expanded Sikhism through the Manji system, established the first Sikh pilgrimage center at Goindwal, championed social reforms like gender and caste equality, and composed many hymns including Anand Sahib. His leadership solidified Sikh institutions, elevated the practice of langar, and advanced the Sikh faith’s message of service, inclusion, and spiritual discipline.",
+  "designation": "3rd Sikh Guru",
+
+  "quickStats": [
+    { "label": "Guruship (years)", "value": 22 },
+    { "label": "Years Lived", "value": 95 },
+    { "label": "Hymns in Guru Granth Sahib", "value": 907 },
+    { "label": "Children", "value": 4 },
+    { "label": "Major Contributions", "value": "Manji system, Goindwal Baoli, Anand Sahib, social reforms" }
+  ],
+
+  "quickFacts": [
+    { "label": "Birth Name", "value": "Amar Das" },
+    { "label": "Father", "value": "Tej Bhan" },
+    { "label": "Mother", "value": "Mata Bakht (Lachmi)" },
+    { "label": "Spouse", "value": "Mata Mansa Devi" },
+    { "label": "Birth Place", "value": "Basarke, Amritsar district, Punjab" },
+    { "label": "Appointed Guru Age", "value": "73 years old" },
+    { "label": "Date of Passing", "value": "1 September 1574" },
+    { "label": "Samadhi Place", "value": "Goindwal Sahib, Punjab" }
+  ],
+
+  "version": {
+    "lastUpdated": "2025-07-27T23:30:00+05:30",
+    "version": "1.0.0",
+    "contributors": 5,
+    "edits": 20,
+    "historyUrl": "https://en.wikipedia.org/wiki/Guru_Amar_Das"
+  },
+
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "Child",
+      "value": "Amar Das was born on 5 May 1479 in Basarke, Punjab. Raised in a devout Hindu family, he was deeply religious and became a follower of Vaishnavism early in life. Married to Mata Mansa Devi, he had two sons, Mohan and Mohri, and two daughters, Dani and Bhani."
     },
-    "biographySections": [
-      {
-        "label": "Early Life & Transformation",
-        "icon": "Star",
-        "value": "Born on 5 May 1479 in Basarke into a devout Vaishnavite Hindu household, young Amar Das (son of Tej Bhan and Mata Lachmi) was steeped in ritual practice. At around age 61 he heard hymns of Guru Nanak sung by Bibi Amro, which compelled his spiritual transformation and eventual devotion to Guru Angad Dev Ji."
-      },
-      {
-        "label": "Service and Selection",
-        "icon": "Heart",
-        "value": "For around 12 years, Amar Das served Guru Angad Dev Ji at Khadur Sahib—fetching water, cooking langar, cleaning. His humility and dedication earned him recognition and, at age 73, he was formally appointed the third Sikh Guru on 29 March 1552."
-      },
-      {
-        "label": "Pilgrimage Center & Baoli",
-        "icon": "Temple",
-        "value": "After becoming Guru, he moved the Sikh seat to Goindwal Sahib, founded by Guru Angad. He constructed the famous 84-step baoli (step‑well) there, encouraging pilgrims to recite Japji Sahib at each step to attain spiritual liberation."
-      },
-      {
-        "label": "Manji and Piri Systems",
-        "icon": "Globe",
-        "value": "To decentralize outreach, he created 22 manjis (diocesan seats) headed by Masands (preachers), and parallel piri centers for women, empowering both genders to propagate Sikh teachings across regions."
-      },
-      {
-        "label": "Langar & Equality Reforms",
-        "icon": "Utensils",
-        "value": "He institutionalized langar with the dictum “Pehle Pangat, Phir Sangat”—requiring visitors to eat communally before meeting the Guru—revoking caste distinctions and promoting equality. He strongly opposed sati, purdah, and endorsed widow remarriage."
-      },
-      {
-        "label": "Composition of Bani & Festivals",
-        "icon": "BookOpen",
-        "value": "He composed around 907 hymns (in 17 ragas), including Anand Sahib, which became part of the Guru Granth Sahib. He also formalized major Sikh festivals—Baisakhi, Diwali, Maghi—making pilgrimages to Goindwal integral to community life."
-      },
-      {
-        "label": "Relations with Akbar & Social Impact",
-        "icon": "Scroll",
-        "value": "He famously insisted Emperor Akbar partake langar before audience and successfully petitioned against the jizya tax on non-Muslims. His governance of Sikh society strengthened community coherence and gained imperial respect."
-      },
-      {
-        "label": "Final Years & Succession",
-        "icon": "Star",
-        "value": "Until his death on 1 September 1574 at age 95, Guru Amar Das remained active at Goindwal Sahib. On his deathbed he appointed his son‑in‑law Bhai Jetha (Guru Ram Das) as his successor, emphasizing merit and devotion over lineage."
-      }
-    ],
-    "spiritualLegacy": {
-      "description": "Guru Amar Das firmly embedded Sikh values of equality, service, literacy, and justice into the community’s identity. His reforms against social evils and caste norms, coupled with administrative innovation and devotional compositions, anchored Sikhism as a distinctive, egalitarian faith.",
-      "keyContributions": [
-        "Institutionalizing langar as egalitarian service center",
-        "Creating manji and piri systems for community governance and outreach",
-        "Banning sati, purdah, promoting women’s equality",
-        "Composing enduring hymn Anand Sahib and contributing ~907 shabads",
-        "Structuring Sikh ritual calendar and pilgrimage customs",
-        "Establishing Goindwal Sahib as central seat"
-      ]
+    {
+      "label": "Meeting Guru Angad and Spiritual Transformation",
+      "icon": "Lightbulb",
+      "value": "In his early 60s, Amar Das met Guru Angad Dev Ji, having been inspired by the hymns recited by Bibi Amro (Guru Angad’s daughter). Drawn by Guru Angad’s teachings, he devoted himself to humble service (seva), becoming a symbol of selfless devotion."
     },
-    "modernRelevance": {
-      "description": "His merging of spiritual devotion, social equality, and participatory governance continues to inspire Sikh institutions worldwide. The manji-piri framework, langar model, and devotion in Bani underpin Sikh practice to this day.",
-      "contemporaryImpact": [
-        "Community kitchens and social feeding globally",
-        "Empowerment of women as preachers and leaders",
-        "Literacy and devotional education via historical lineage",
-        "Celebration of Sikh festivals grounded in unity and pilgrimage",
-        "Ethical engagement with political authority—standing up for justice"
-      ]
+    {
+      "label": "Appointment as Guru",
+      "icon": "Crown",
+      "value": "Recognizing his devotion and integrity, Guru Angad Dev Ji appointed Amar Das as the third Sikh Guru in 1552, at age 73, superseding his own sons."
     },
-    "achievements": [
-      { "title": "Creation of Goindwal Sahib & Baoli", "year": "1552–1559", "description": "Built pilgrimage center with 84‑step baoli where devotees recite Japji Sahib.", "icon": "Temple" },
-      { "title": "Institution of 22 Manjis & Piri Centers", "year": "1552–1574", "description": "Established organized missionary network across regions.", "icon": "Globe" },
-      { "title": "Strengthening Langar & Social Equality", "year": "1552–1574", "description": "Mandated communal dining and equality in practice and seating.", "icon": "Utensils" },
-      { "title": "Composed Anand Sahib & Hymns", "year": "c.1552–1574", "description": "Contributed ~907 hymns including Anand Sahib featured in Guru Granth Sahib.", "icon": "BookOpen" },
-      { "title": "Opposition to Sati & Purdah", "year": "1550s", "description": "Outlawed harmful practices, endorsed widow‑remarriage and women’s participation.", "icon": "Heart" },
-      { "title": "Engaging with Emperor Akbar", "year": "1567", "description": "Invited Akbar to langar, requested abolition of jizya tax.", "icon": "Scroll" },
-      { "title": "Succession of Guru Ram Das", "year": "1574", "description": "Named son-in-law based on merit, continuing tradition of value‑based leadership.", "icon": "Crown" }
-    ],
-    "quotes": [
-      {
-        "original": "One who calls himself a Sikh of the Guru, shall rise in the early morning hours and meditate on the Lord's Name...",
-        "source": "Anand Sahib hymn"
-      },
-      {
-        "original": "Langar continues, Guru’s word remains; its supply never fails.",
-        "context": "On sustaining power of communal service"
-      }
-    ],
-    "timeline": [
-      { "year": "1479", "date": "5 May", "event": "Born in Basarke", "type": "birth" },
-      { "year": "1539", "event": "Met Guru Angad Dev & became devotee", "type": "spiritual" },
-      { "year": "1552", "date": "29 Mar", "event": "Installed as third Guru at age 73", "type": "guruship" },
-      { "year": "1552", "event": "Moves Sikh seat to Goindwal Sahib", "type": "institution" },
-      { "year": "1552–59", "event": "Builds 84‑step baoli", "type": "infrastructure" },
-      { "year": "1550s", "event": "Institutes manjis and piri systems", "type": "governance" },
-      { "year": "1567", "event": "Meets Akbar, petitions against jizya tax", "type": "political" },
-      { "year": "1574", "date": "1 Sep", "event": "Passes away at Goindwal, appoints Guru Ram Das", "type": "death" }
-    ],
-    "relatedPersonalities": [
-      { "name": "Guru Angad Dev Ji", "relation": "Second Guru & spiritual mentor", "slug": "guru-angad-dev-ji" },
-      { "name": "Guru Ram Das Ji", "relation": "Son‑in‑law & successor (Fourth Guru)", "slug": "guru-ram-das-ji" },
-      { "name": "Bibi Bhani Ji", "relation": "Daughter; mother of Guru Arjan Dev Ji", "slug": "bibi‑bhani‑ji" },
-      { "name": "Emperor Akbar", "relation": "Contemporary Mughal Emperor, whom he engaged with on social reforms", "slug": "emperor-akbar" },
-      { "name": "Bibi Amro", "relation": "Daughter of Guru Angad Dev; instrumental in his meeting with Guru Angad", "slug": "bibi-amro" }
-    ],
-    "historicalContext": {
-      "period": "Mid‑Mughal Era (Humayun–Akbar period)",
-      "politicalSituation": "The Mughal dynasty solidified control; religious taxation (jizya), caste hierarchy, and rigid norms prevailed across society.",
-      "socialConditions": "Patriarchal restrictions, caste discrimination, widow-burning, veiling customs, and limited education for women and lower castes.",
-      "significance": "Guru Amar Das Ji’s reforms—administrative, devotional, and ethical—transformed Sikhism into a socially progressive, egalitarian institution with a decentralized missionary structure."
+    {
+      "label": "Spiritual and Social Reforms",
+      "icon": "BalanceScale",
+      "value": "Guru Amar Das Ji worked to end social disparities by abolishing practices such as sati and purdah, promoting widow remarriage, and opposing the caste system. He established the Sikh principle of Langar (community kitchen) as compulsory for all visitors, including Emperor Akbar."
     },
-    "references": [
-      "Britannica – Guru Amar Das biography and contributions",
-      "SikhNet – significance of his reforms",
-      "Wikipedia – life, bani contribution, manjis, Goindwal",
-      "India Today – Akbar meeting and jizya petition",
-      "Various scholarly Sikh historical sources"
+    {
+      "label": "The Manji System and Expansion of Sikhism",
+      "icon": "UsersCog",
+      "value": "To organize and spread Sikh teachings, he created the Manji system, dividing the Sikh community into 22 regions, each led by a representative preacher. He also appointed women to positions of spiritual leadership."
+    },
+    {
+      "label": "Goindwal Baoli and Pilgrimage",
+      "icon": "Landmark",
+      "value": "Guru Amar Das Ji founded the town of Goindwal Sahib and built Baoli Sahib, an 84-step well that became Sikhism’s first major pilgrimage site. He instituted the practice of visiting Goindwal for festivals and gatherings."
+    },
+    {
+      "label": "Compositions and Literary Legacy",
+      "icon": "BookOpen",
+      "value": "He composed 907 hymns, including the Anand Sahib, emphasizing bliss through devotional worship, ethical living, and remembrance of God. His bani forms a major portion of the Guru Granth Sahib."
+    },
+    {
+      "label": "Final Years and Succession",
+      "icon": "HourglassEnd",
+      "value": "Spending his last years at Goindwal in devotional service, Guru Amar Das Ji appointed his son-in-law Bhai Jetha (Guru Ram Das Ji) as his successor, continuing the merit-based tradition of Guruship."
+    }
+  ],
+
+  "spiritualLegacy": {
+    "description": "Guru Amar Das Ji’s legacy is defined by social equality and spiritual discipline. He reinforced ‘seva’ (service) as a spiritual path and expanded Sikh practice with new institutions and liturgical compositions.",
+    "keyContributions": [
+      "Introduced the Manji and Piri system for spiritual administration and women’s leadership",
+      "Solidified regular Sikh festivals (Baisakhi, Diwali) and pilgrimages",
+      "Composed Anand Sahib and numerous hymns",
+      "Expanded Langar and eliminated social barriers in Sikh worship"
     ]
-  }
-  
+  },
+
+  "modernRelevance": {
+    "description": "Guru Amar Das Ji’s teachings on equality, dignity of women, and universal service remain pillars of Sikh faith and social work globally.",
+    "contemporaryImpact": [
+      "Manji system model influences Sikh missions and community structure",
+      "Langar as a symbol of equality, now global in Sikh Gurdwaras",
+      "Women’s empowerment and leadership in Sikh institutions",
+      "Anand Sahib integral to all major Sikh ceremonies"
+    ]
+  },
+
+  "achievements": [
+    {
+      "title": "Established Manji System",
+      "year": "1552–1574",
+      "description": "Divided the Sikh sphere into 22 manjis and appointed preachers, including women, to spread Sikh teaching.",
+      "icon": "Users"
+    },
+    {
+      "title": "Abolished Sati and Promoted Widow Remarriage",
+      "year": "1552–1574",
+      "description": "Issued edicts abolishing the practice of sati and supported widow remarriage.",
+      "icon": "Gavel"
+    },
+    {
+      "title": "Built Baoli Sahib at Goindwal",
+      "year": "1559",
+      "description": "Constructed an 84-step stepwell at Goindwal, establishing the first Sikh pilgrimage center.",
+      "icon": "Landmark"
+    },
+    {
+      "title": "Composed Anand Sahib",
+      "year": "1552–1574",
+      "description": "Authored the Anand Sahib and 907 hymns included in Guru Granth Sahib.",
+      "icon": "BookOpen"
+    },
+    {
+      "title": "Strengthened Langar Institution",
+      "year": "1552–1574",
+      "description": "Made Langar compulsory and a symbol of casteless equality in Sikhism.",
+      "icon": "Utensils"
+    }
+  ],
+
+  "quotes": [
+    {
+      "original": "ਜੇਸਾ ਸੇਵੇ ਸੁ ਤੈਸੋ ਹੋਇ ॥",
+      "transliteration": "Jesā seve so taiso hoi.",
+      "translation": "As one serves, so does one become.",
+      "context": "On the importance of selfless service (seva)",
+      "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 474"
+    },
+    {
+      "original": "ਸਭੁ ਕੋ ਵਟਾ ਵੇਖਿਆ ਆਪੇ ਵਡਿਆਈ ਦੇਇ ॥",
+      "transliteration": "Sabh ko vaḍā vekhiā āpe vaḍiāī dei.",
+      "translation": "Everyone seeks greatness, but only the Divine bestows it.",
+      "context": "Humility and grace",
+      "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 1331"
+    },
+    {
+      "original": "ਦੁਨੀਆ ਸੁਤਿਆ ਆਖਿ ਵੀਚਾਰੇ ॥",
+      "transliteration": "Duniā sutia ākh vīchāre.",
+      "translation": "The world is asleep, only a rare one reflects.",
+      "context": "Urging spiritual awakening",
+      "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 919"
+    }
+  ],
+
+  "timeline": [
+    {
+      "year": "1479",
+      "date": "5 May 1479",
+      "event": "Birth of Guru Amar Das Ji in Basarke, Punjab",
+      "type": "birth"
+    },
+    {
+      "year": "~1539",
+      "event": "Becomes disciple of Guru Angad Dev Ji",
+      "type": "spiritual"
+    },
+    {
+      "year": "1552",
+      "event": "Appointed as the 3rd Sikh Guru at age 73",
+      "type": "appointment"
+    },
+    {
+      "year": "1559",
+      "event": "Establishes Goindwal and constructs Baoli Sahib",
+      "type": "founding"
+    },
+    {
+      "year": "1574",
+      "date": "1 Sept 1574",
+      "event": "Guru Amar Das Ji passes away at Goindwal Sahib",
+      "type": "death"
+    }
+  ],
+
+  "relatedPersonalities": [
+    {
+      "name": "Guru Angad Dev Ji",
+      "relation": "Predecessor, spiritual teacher",
+      "slug": "guru-angad-dev-ji"
+    },
+    {
+      "name": "Guru Ram Das Ji",
+      "relation": "Successor (4th Sikh Guru), son-in-law",
+      "slug": "guru-ram-das-ji"
+    },
+    {
+      "name": "Bibi Bhani Ji",
+      "relation": "Daughter, mother of Guru Arjan Dev Ji",
+      "slug": "bibi-bhani-ji"
+    },
+    {
+      "name": "Mata Mansa Devi",
+      "relation": "Wife",
+      "slug": "mata-mansa-devi"
+    }
+  ],
+
+  "historicalContext": {
+    "period": "Mid-16th century (early Mughal era)",
+    "politicalSituation": "Indian subcontinent under early Mughal rule (Babur, Humayun, Akbar); Punjab fragmented with rising Mughal authority.",
+    "socialConditions": "Rigid caste system, gender inequality, religious diversity with entrenched ritualism. Socio-religious reform movements gaining ground.",
+    "significance": "Guru Amar Das Ji’s institution-building, gender and caste reforms, and spiritual teachings helped shape Sikhism into a distinct faith and unified movement."
+  },
+
+  "references": [
+    "Encyclopaedia of Sikhism (Punjabi University, Patiala)",
+    "Guru Amar Das: Third Sikh Guru by Surjit Singh Gandhi",
+    "The Sikhs by Patwant Singh",
+    "Oxford Handbook of Sikh Studies",
+    "Sri Guru Granth Sahib",
+    "https://en.wikipedia.org/wiki/Guru_Amar_Das"
+  ]
+}

@@ -4,155 +4,208 @@
   "category": "gurus",
   "birth": "1666-12-22",
   "death": "1708-10-07",
-  "birthPlace": "Patna Sahib, Bihar, Mughal Empire",
+  "birthPlace": "Patna Sahib, Bihar, India",
   "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
-  "excerpt": "The tenth and last human Sikh Guru, pioneer of the warrior‑saint Khalsa, literary compiler of the Dasam Granth, and the initiator of the Guru Granth Sahib as the eternal Guru.",
+  "excerpt": "Guru Gobind Singh Ji, the tenth Sikh Guru, redefined Sikhism with his unmatched courage, visionary leadership, and prolific poetry. Founder of the Khalsa, compiler of the Dasam Granth, and sanctifier of the Guru Granth Sahib as the eternal Guru, he led Sikhs through persecution and loss. His legacy unites valor, sacrifice, equality, and spiritual resolve.",
   "designation": "10th Sikh Guru",
+
   "quickStats": [
-    { "label": "Years as Guru", "value": 33 }
+    { "label": "Guruship (years)", "value": 33 },
+    { "label": "Years Lived", "value": 41 },
+    { "label": "Key Battles Fought", "value": "Bhangani, Nadaun, Chamkaur, Muktsar" },
+    { "label": "Hymns in Guru Granth Sahib", "value": 0 },
+    { "label": "Compositions in Dasam Granth", "value": "Jap Sahib, Akal Ustat, Bachittar Natak, Chandi di Vaar" }
   ],
+
   "quickFacts": [
-    { "label": "Birth Place", "value": "Patna Sahib, Bihar, Mughal Empire" },
-    { "label": "Death Place", "value": "Hazur Sahib (Nanded), Maharashtra, Mughal Empire" },
-    { "label": "Age at Guruship", "value": "9 years old" },
-    { "label": "Duration as Guru", "value": "33 years (1675–1708)" }
+    { "label": "Birth Name", "value": "Gobind Rai" },
+    { "label": "Father", "value": "Guru Tegh Bahadur Ji" },
+    { "label": "Mother", "value": "Mata Gujri Ji" },
+    { "label": "Spouse", "value": "Mata Jito Ji, Mata Sundari Ji, Mata Sahib Kaur Ji" },
+    { "label": "Appointed Guru Age", "value": "9 years old" },
+    { "label": "Date of Passing", "value": "7 October 1708" },
+    { "label": "Place of Martyrdom", "value": "Nanded, Maharashtra" }
   ],
+
   "version": {
-    "lastUpdated": "2025-07-20T12:00:00Z",
-    "version": "v4.1.0",
-    "contributors": 18,
-    "edits": 120,
-    "historyUrl": "https://github.com/Hardeepsingh980/sikhsoorme/content/commits/main/gurus/guru-gobind-singh-ji.json"
+    "lastUpdated": "2025-07-28T00:15:00+05:30",
+    "version": "1.0.0",
+    "contributors": 6,
+    "edits": 25,
+    "historyUrl": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh"
   },
+
   "biographySections": [
     {
-      "label": "Early Life & Childhood",
-      "icon": "Star",
-      "value": "Born Gobind Rai on 22 Dec 1666 in Patna Sahib to Guru Tegh Bahadur and Mata Gujri. In 1672, his family moved to Anandpur Sahib (then Chakk Nanaki). He received a traditional education in Punjabi, Persian, Sanskrit, and Braj, and was rigorously trained in martial skills—archery, swordsmanship, horsemanship—and exposed to spiritual discourse and poetry."
+      "label": "Early Life",
+      "icon": "Child",
+      "value": "Born as Gobind Rai on 22 December 1666 in Patna Sahib, Bihar, Guru Gobind Singh Ji spent his early years immersed in spiritual learning and martial training. After his father Guru Tegh Bahadur Ji's martyrdom, he was installed as the tenth Guru at age nine, shaping him for a life of leadership and sacrifice.[1][3][20]"
     },
     {
-      "label": "Ascension to Guruship",
-      "icon": "Crown",
-      "value": "At just nine years old, Gobind Rai was declared the tenth Sikh Guru in November 1675 after the martyrdom of his father, Guru Tegh Bahadur, who sacrificed his life defending religious freedom under Mughal emperor Aurangzeb."
-    },
-    {
-      "label": "Formation of the Khalsa",
+      "label": "Founding of Khalsa",
       "icon": "Shield",
-      "value": "On Vaisakhi, 30 March 1699 (Nanakshahi calendar, corresponds to 13 April Gregorian) at Anandpur Sahib, he instituted the Khalsa—an order of saint‑soldiers. He initiated the Panj Pyare (‘Five Beloved Ones’) through the Amrit Sanchar ceremony and mandated the Five Ks as external symbols of Sikh identity.",
-      "quote": "\"There is no Hindu, there is no Muslim; all are humans and children of the same God.\""
+      "value": "On Vaisakhi 1699 at Anandpur Sahib, Guru Gobind Singh Ji dramatically created the Khalsa, baptizing the Panj Pyare and initiating men and women of all castes into a new spiritual order dedicated to righteousness, equality, and defense of the oppressed.[1][6][9]"
     },
     {
-      "label": "Military Campaigns",
-      "icon": "Sword",
-      "value": "Led and supervised numerous battles defending Sikh sovereignty including Bhangani (1686/88), Nadaun (1691), multiple engagements at Anandpur (1682, 1699–1704), Chamkaur (1704), Sarsa (21 Dec 1704), Muktsar (29 May/30 June 1705), Baghaur and Jajau (1707), and assisted Mughal succession battles like Jajau against Azam Shah supporting Bahadur Shah I."
-    },
-    {
-      "label": "Personal Losses",
-      "icon": "Heart",
-      "value": "In December 1704 during Chamkaur Sahib, his elder sons Sahibzada Ajit Singh and Jujhar Singh were martyred. Shortly after, his younger sons Zorawar Singh and Fateh Singh were executed by bricking them alive at Sirhind under Wazir Khan’s orders."
-    },
-    {
-      "label": "Literary Works",
+      "label": "Scripture and Literary Contributions",
       "icon": "BookOpen",
-      "value": "Composed major devotional and martial texts in the Dasam Granth—Jaap Sahib, Akal Ustat, Chandi di Var, Bachitra Natak—and authored the Zafarnama, a powerful and dignified letter to Aurangzeb."
+      "value": "A philosopher and poet, Guru Gobind Singh Ji composed the Dasam Granth and sanctified the Guru Granth Sahib as the Sikhs’ eternal Guru, binding the community to a spiritual anchor for all time. His works—Jap Sahib, Jaap, Akal Ustat—embody devotion, valor, and oneness with the Divine.[2][13]"
     },
     {
-      "label": "Holistic Reforms",
-      "icon": "Book",
-      "value": "Redefined Sikh governance and conduct—formalizing the Rahit Maryada code, launching Hola Mohalla in 1701 as a martial and spiritual festival, and founding the Damdami Taksal at Talwandi Sabo (later Damdama Sahib) for scriptural scholarship."
+      "label": "Family Sacrifice and Battles",
+      "icon": "CrossedSwords",
+      "value": "Guru Ji’s life was marked by immense personal sacrifice. All his four sons attained martyrdom—two in battle at Chamkaur, two bricked alive at Sirhind. He personally led Sikhs in major battles at Bhangani, Anandpur, Chamkaur, and Muktsar; always upholding the principles of just war (dharamyudh) and faith against tyranny.[2][5][9]"
     },
     {
-      "label": "Final Journey & Passing",
-      "icon": "Star",
-      "value": "In 1708 he traveled through Deccan before arriving at Hazur Sahib, Nanded. On 7 October 1708, while resting after a prior assassination attempt, he passed on guruship to the Guru Granth Sahib, leaving a set of 52 hukamnamas (edict letters) before his death."
+      "label": "Final Years and Legacy",
+      "icon": "HourglassEnd",
+      "value": "In his last years, Guru Gobind Singh Ji survived many assassination attempts and finally attained martyrdom on 7 October 1708 at Nanded. Before passing, he declared that henceforth the Guru Granth Sahib would be the eternal Guru, abolishing the tradition of personal Gurus and inaugurating a new era for the Sikh faith.[1][9]"
     }
   ],
+
   "spiritualLegacy": {
-    "description": "His spiritual vision fused Miri‑Piri—the unity of temporal and spiritual authority—creating the Sikh ideal of the saint‑soldier. By decreeing the Guru Granth Sahib as the eternal Guru, he forever altered the structure of Sikh worship and community.",
+    "description": "Guru Gobind Singh Ji’s divine inspiration set Sikhism on its path of valor, spiritual sovereignty, and the defense of justice. His creation of the Khalsa established the Sikh identity as inseparably linked to equality, sacrifice, compassion, and devotion.",
     "keyContributions": [
-      "Creation of the Khalsa as an egalitarian, committed brotherhood",
-      "Transitioning the living Guru lineage to the scripture (Guru Granth Sahib)",
-      "Promotion of just, principled resistance (Dharam Yuddh) against tyranny"
+      "Instituted the Khalsa Panth and the Five Ks",
+      "Sanctified Guru Granth Sahib as the eternal Guru",
+      "Composed the Dasam Granth, inspiring prayer, chivalry, and resilience",
+      "Elevated Sikh martial and spiritual disciplines",
+      "Unified Sikhs beyond distinctions, empowering women and lower castes"
     ]
   },
+
   "modernRelevance": {
-    "description": "His doctrines of equality, justice, and active resistance to oppression remain vital globally today. They resonate in diverse applications including human rights, military ethics, leadership, and multi‑faith understanding.",
+    "description": "Guru Gobind Singh Ji’s message stands for universal human rights, social justice, and resistance to tyranny. The Khalsa remains a living example of fearlessness, service, and global humanitarianism.",
     "contemporaryImpact": [
-      "Empowerment of social justice and anti‑tyranny movements",
-      "Inspiration for ethical conduct in military and defense forces",
-      "Model of courageous leadership during adversity",
-      "Continued influence in interfaith dialogue and religious pluralism"
+      "Khalsa tradition inspires humanitarian, anti-oppression, and equality movements",
+      "His poetry and codes guide modern Sikh ritual and philosophy",
+      "Gurdwaras and Sikh diaspora model his ideals of seva (service) and courage in times of crisis"
     ]
   },
+
   "achievements": [
-    { "title": "Founding the Khalsa", "year": "1699", "description": "Established a casteless military‑spiritual order with Panj Pyare and Five Ks.", "icon": "Crown" },
-    { "title": "Institution of the Five Ks", "year": "1699", "description": "Mandated physical identity elements—Kesh, Kangha, Kara, Kachera, Kirpan—to foster discipline and cohesion.", "icon": "Star" },
-    { "title": "Battle Leadership & Defense", "year": "1686–1707", "description": "Sustained multiple military defenses to protect Sikh autonomy and religious freedom.", "icon": "Sword" },
-    { "title": "Literary Contribution", "year": "1684–1708", "description": "Authored the Dasam Granth and Zafarnama, preserving theological and martial guidance.", "icon": "BookOpen" },
-    { "title": "Eternal Guruship Declaration", "year": "1708", "description": "Proclaimed Guru Granth Sahib as the living Guru, establishing enduring spiritual authority.", "icon": "Book" },
-    { "title": "Founding of Hola Mohalla", "year": "1701", "description": "Launched an annual gathering emphasizing martial prowess, community morale, and spiritual music.", "icon": "Festival" }
+    {
+      "title": "Founded Khalsa Panth",
+      "year": "1699",
+      "description": "Created a new order bound by a distinctive spiritual and martial identity, dedicated to justice and faith.",
+      "icon": "Shield"
+    },
+    {
+      "title": "Sanctified Eternal Guru",
+      "year": "1708",
+      "description": "Declared Guru Granth Sahib as the perpetual spiritual guide for all Sikhs.",
+      "icon": "BookOpen"
+    },
+    {
+      "title": "Composed the Dasam Granth",
+      "year": "1695–1708",
+      "description": "Compiled poems, prayers, and philosophical works still foundational to Sikh liturgy and practice.",
+      "icon": "Feather"
+    },
+    {
+      "title": "Led Major Defensive Battles",
+      "year": "1688–1705",
+      "description": "Fought at Bhangani, Anandpur, Chamkaur, Muktsar; symbolizing righteous resistance to cruelty.",
+      "icon": "CrossedSwords"
+    },
+    {
+      "title": "Personal Sacrifice",
+      "year": "1705",
+      "description": "Endured loss of all four sons (Chaar Sahibzaade) who were martyred for faith and justice.",
+      "icon": "Crown"
+    }
   ],
+
   "quotes": [
     {
-      "original": "ਦੇਹ ਸਿਵਾ ਬਰ ਮੋਹਿ ਇਹੈ ਸੁਭ ਕਰਮਨ ਤੇ ਕਬਹੂੰ ਨ ਟਰੋਂ ॥",
-      "transliteration": "Deh Shiva bar mohe ihai śhubh karman te kabhauṅ na ţaroṅ",
-      "translation": "Grant me, O Lord, this boon: may I never refrain from righteous deeds.",
-      "context": "On righteous conduct",
-      "source": "Swayya (Dasam Granth)"
+      "original": "ਦੇਹ ਸੀਵ ਗੁਰ ਕੀ ਭਗਤਿ ਕਰੀਜੈ। ਇਉ ਰਹੈ ਦੇਹੀ ਭਾਇ ਨ ਕੀਜੈ।",
+      "transliteration": "Deh sīv gur kī bhagat karījai. Iu rahai dehī bhāi na kījai.",
+      "translation": "Sew your body with devotion to the Guru; do not be attached to this body as your own.",
+      "context": "On selfless service and detachment",
+      "source": "Dasam Granth, Zafarnama"
     },
     {
-      "original": "ਨ ਡਰੋਂ ਅਰਿ ਸੋ ਜਬ ਜਾਇ ਲਰੋਂ ਨਿਸਚੈ ਕਰ ਅਪਨੀ ਜੀਤ ਕਰੋਂ ॥",
-      "transliteration": "Na ḍaroṅ ar so jab jāe laroṅ nishchai kar apnī jīt karoṅ",
-      "translation": "I shall not fear the enemy when I go to fight; resolved in mind, I shall seize my victory.",
-      "context": "On fearlessness in battle",
-      "source": "Swayya (Dasam Granth)"
+      "original": "ਚਿੱਠੀ ਲਿਖੀ ਸਿਰ ਮੁੜੈ ਨਾਉ। ਦੀਨ ਦੁਨਿਆ ਰਖਿਆ ਧਰਮ ਕਾ ਨਾਉ॥",
+      "transliteration": "Chitthi likhi sir murhai nāu. Deen duniyā rakhiā dharam kā nāu.",
+      "translation": "I have signed this letter with my decapitated head; upholding dharma in both worlds.",
+      "context": "On spiritual courage in the Zafarnama to Aurangzeb",
+      "source": "Dasam Granth, Zafarnama"
     },
     {
-      "original": "ਪੂਰਨ ਉਰਸੁ ਕਰਹਿ ਜੋ ਏਨਾ ਜੋ ਪਾਕਿ ਨ ਲਾਗੈ ਕੋਇ ॥",
-      "transliteration": "Pūran uras karahi jo enā jo pāk na lāgai koi",
-      "translation": "All human beings—bright or dark, ugly or beautiful—are created by the same Lord.",
-      "context": "On universal human equality",
+      "original": "ਮਿਤ੍ਰ ਪਿਆਰੇ ਨੂੰ ਹਾਲ ਮੁਰੀਦਾਂ ਦਾ ਕਹਿਣਾ",
+      "transliteration": "Mitr piyāre nū haal mureedān dā kehna",
+      "translation": "Tell the Beloved Friend of the plight of His disciples.",
+      "context": "Written after the martyrdom of his sons, expressing spiritual longing amid suffering",
       "source": "Dasam Granth"
     }
   ],
+
   "timeline": [
-    { "year": "1666", "date": "22 Dec", "event": "Born Gobind Rai in Patna Sahib", "type": "birth" },
-    { "year": "1672", "event": "Family moves to Anandpur (Chakk Nanaki)", "type": "earlyLife" },
-    { "year": "1675", "event": "Martyrdom of Guru Tegh Bahadur; Gobind Rai is declared Guru", "type": "guruship" },
-    { "year": "1686", "event": "Battle of Bhangani near Paonta Sahib", "type": "battle" },
-    { "year": "1691", "event": "Battle of Nadaun in alliance with hill chiefs", "type": "battle" },
-    { "year": "1699", "date": "30 Mar", "event": "Formation of Khalsa; Panj Pyare and Five Ks instituted", "type": "achievement" },
-    { "year": "1701", "event": "First Hola Mohalla festival held", "type": "cultural" },
-    { "year": "1704", "date": "6 Dec", "event": "Battle of Chamkaur; martyrdom of Sahibzada Ajit & Jujhar Singh", "type": "battle" },
-    { "year": "1704", "date": "21 Dec", "event": "Battle of Sarsa; younger sons captured", "type": "battle" },
-    { "year": "1705", "event": "Battle of Muktsar; retreat from Anandpur", "type": "battle" },
-    { "year": "1707", "event": "Battle of Baghaur; involvement in Mughal succession (Jajau)", "type": "battle" },
-    { "year": "1707", "event": "Final revision of Adi Granth at Damdama Sahib", "type": "literary" },
-    { "year": "1708", "date": "7 Oct", "event": "Assassinated at Hazur Sahib; declared Guru Granth Sahib as eternal Guru", "type": "death" }
+    {
+      "year": "1666",
+      "date": "22 Dec 1666",
+      "event": "Birth of Guru Gobind Singh Ji as Gobind Rai in Patna Sahib",
+      "type": "birth"
+    },
+    {
+      "year": "1675",
+      "event": "Became Tenth Sikh Guru at age 9 after martyrdom of Guru Tegh Bahadur Ji",
+      "type": "appointment"
+    },
+    {
+      "year": "1699",
+      "event": "Creation of Khalsa Panth at Anandpur Sahib (Vaisakhi)",
+      "type": "milestone"
+    },
+    {
+      "year": "1704–1705",
+      "event": "Battles of Anandpur, Chamkaur, Muktsar; martyrdom of his four sons",
+      "type": "martyrdom"
+    },
+    {
+      "year": "1708",
+      "date": "7 Oct 1708",
+      "event": "Passing of Guru Gobind Singh Ji at Nanded; Declares Guru Granth Sahib as eternal Guru",
+      "type": "death"
+    }
   ],
+
   "relatedPersonalities": [
-    { "name": "Guru Tegh Bahadur Ji", "relation": "Father", "slug": "guru-tegh-bahadur-ji" },
-    { "name": "Mata Gujri Ji", "relation": "Mother", "slug": "mata-gujri-ji" },
-    { "name": "Mata Jito Ji", "relation": "First wife", "slug": "mata-jito-ji" },
-    { "name": "Mata Sundri Ji", "relation": "Second wife", "slug": "mata-sundri-ji" },
-    { "name": "Mata Sahib Kaur Ji", "relation": "Spiritual wife (Khalsa Chetan)", "slug": "mata-sahib-kaur-ji" },
-    { "name": "Sahibzada Ajit Singh Ji", "relation": "Elder son (martyred 1704)", "slug": "sahibzada-ajit-singh-ji" },
-    { "name": "Sahibzada Jujhar Singh Ji", "relation": "Elder son (martyred 1704)", "slug": "sahibzada-jujhar-singh-ji" },
-    { "name": "Sahibzada Zorawar Singh Ji", "relation": "Younger son (martyred 1704)", "slug": "sahibzada-zorawar-singh-ji" },
-    { "name": "Sahibzada Fateh Singh Ji", "relation": "Younger son (martyred 1704)", "slug": "sahibzada-fateh-singh-ji" },
-    { "name": "Banda Singh Bahadur", "relation": "Appointed military commander", "slug": "banda-singh-bahadur" }
+    {
+      "name": "Guru Tegh Bahadur Ji",
+      "relation": "Father (9th Sikh Guru)",
+      "slug": "guru-tegh-bahadur-ji"
+    },
+    {
+      "name": "Mata Gujri Ji",
+      "relation": "Mother",
+      "slug": "mata-gujri-ji"
+    },
+    {
+      "name": "Baba Ajit Singh Ji, Baba Jujhar Singh Ji, Baba Zorawar Singh Ji, Baba Fateh Singh Ji",
+      "relation": "Sons (Chaar Sahibzaade)",
+      "slug": "chaar-sahibzaade"
+    },
+    {
+      "name": "Panj Pyare",
+      "relation": "First initiates of Khalsa",
+      "slug": "panj-pyare"
+    }
   ],
+
   "historicalContext": {
-    "period": "Late Mughal Era (Aurangzeb: 1658–1707)",
-    "politicalSituation": "With Aurangzeb’s orthodox policies and forced conversions, Sikh and Hindu communities were persecuted, prompting militarization under Guru Gobind Singh to defend religious freedom.",
-    "socialConditions": "Rampant caste-based inequity, religious intolerance, and Mughal coercion undermined pluralistic social structures.",
-    "significance": "Guru Gobind Singh reshaped Sikh identity—embedding martial readiness, literary and spiritual depth, institutional strength, egalitarian values, and governance under scripture."
+    "period": "Late 17th–early 18th century (Mughal Empire; Aurangzeb)",
+    "politicalSituation": "Widespread persecution of non-Muslims in the Mughal Empire, intense repression of the Sikh and Hindu communities, and centralization of power under Aurangzeb.",
+    "socialConditions": "Rigid caste divides, religious intolerance, and institutional violence necessitated a powerful, unified Sikh community ready to defend dharma and equality.",
+    "significance": "Guru Gobind Singh Ji’s leadership transformed Sikhism into a distinctly sovereign, martial, and egalitarian faith with enduring identity and resilience."
   },
+
   "references": [
-    "Encyclopaedia Britannica – Guru Gobind Singh biography",
-    "Britannica – Sikhism & the founding of the Khalsa",
-    "SikhiWiki – Battles and chronology",
-    "Wikipedia – Battle entries & Dasam Granth",
-    "Various scholarly works on Guru Gobind Singh’s life and writings"
+    "Wikipedia: Guru Gobind Singh[1]",
+    "Britannica: Guru Gobind Singh[2]",
+    "Vajiram and Ravi: Guru Gobind Singh, Biography, Early Life, Contributions, Legacy[3]",
+    "Khan Global Studies: Guru Gobind Singh Jayanti: Contribution and Sacrifice[9]",
+    "StudyIQ: Guru Gobind Singh Jayanti 2025, Biography, Legacy, Military ...[5]",
+    "DVNetwork: Guru Gobind Singh Ji: The Warrior Poet[6]"
   ]
 }
