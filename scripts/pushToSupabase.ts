@@ -1,10 +1,9 @@
-require("dotenv").config();
-const fs = require("fs");
-const path = require("path");
-const { createClient } = require("@supabase/supabase-js");
+import fs from "fs";
+import path from "path";
+import { createClient } from "@supabase/supabase-js";
 
 // Create Supabase client
-const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_KEY);
+const supabase = createClient(process.env.SUPABASE_URL!, process.env.SUPABASE_KEY!);
 
 // Load all personalities
 const dataDir = path.join(__dirname, "../data/personalities");
@@ -33,7 +32,7 @@ async function pushToSupabase() {
 
   const { data, error } = await supabase
     .from("soorme_index")
-    .upsert(metadata, { onConflict: ["slug"] });
+    .upsert(metadata, { onConflict: "slug" });
 
   if (error) {
     console.error("Error pushing to Supabase:", error);
