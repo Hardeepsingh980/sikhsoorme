@@ -13,8 +13,6 @@ permissions:
 env:
   SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
   SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
-  NEXT_PUBLIC_SUPABASE_URL: ${{ vars.NEXT_PUBLIC_SUPABASE_URL }}
-  NEXT_PUBLIC_SUPABASE_ANON_KEY: ${{ vars.NEXT_PUBLIC_SUPABASE_ANON_KEY }}
 
 jobs:
   build-and-deploy:
@@ -30,13 +28,16 @@ jobs:
           node-version: 18
 
       - name: 📦 Install dependencies
-        run: npm install
+        run: |
+          npm install
+          npm install --save-dev ts-node typescript
 
       - name: 🛠️ Run data scripts
         run: |
-          ts-node scripts/generateCategories.ts
-          ts-node scripts/generateHomepageData.js
-          ts-node scripts/pushToSupabase.js
+          npx ts-node scripts/generateHomepageData.ts
+          npx ts-node scripts/generateCategories.ts
+          npx ts-node scripts/generateTimeline.ts
+          npx ts-node scripts/pushToSupabase.ts
 
       - name: ⚒️ Build static site
         run: npm run build
