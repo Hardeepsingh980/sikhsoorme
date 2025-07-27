@@ -1,4 +1,6 @@
-import { withContentCollections } from "@content-collections/next";
+/** @type {import('next').NextConfig} */
+const isGitHubPages = process.env.GITHUB_ACTIONS || false
+const repo = "sikhsoorme" // replace with your repo name
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
@@ -6,6 +8,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: isGitHubPages ? `/${repo}` : "",
+  assetPrefix: isGitHubPages ? `/${repo}/` : "",
 };
 
-export default withContentCollections(nextConfig);
+export default nextConfig;
