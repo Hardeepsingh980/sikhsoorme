@@ -1,0 +1,136 @@
+{
+    "name": "Guru Angad Dev Ji",
+    "slug": "guru-angad-dev-ji",
+    "category": "gurus",
+    "birth": "1504-03-31",
+    "death": "1552-03-29",
+    "birthPlace": "Matte‑di‑Sarai (now Sarainaga, Muktsar), Punjab, Delhi Sultanate",
+    "image": "https://dvncorestorageprod.blob.core.windows.net/files/page/57/Image/Sri_Guru_Angad_Dev_Ji_20231101054919308.jpg",
+    "excerpt": "The second Sikh Guru, Guru Angad Dev Ji (born Bhai Lehna), carried forward Guru Nanak’s mission, standardized the Gurmukhi script, institutionalized langar and education, and deepened Sikh identity through humility, service, and learning.",
+    "designation": "2nd Sikh Guru",
+    "quickStats": [
+      { "label": "Guruship (years)", "value": 13 },
+      { "label": "Hymns in Guru Granth Sahib", "value": 62 }
+    ],
+    "quickFacts": [
+      { "label": "Birth Place", "value": "Matte‑di‑Sarai (now Sarainaga), Punjab" },
+      { "label": "Death Place", "value": "Khadur Sahib (near Goindwal), Punjab" },
+      { "label": "Guruship Duration", "value": "1539–1552 (approx. 13 years)" },
+      { "label": "Language Standardized", "value": "Punjabi in Gurmukhi script" }
+    ],
+    "version": {
+      "lastUpdated": "2025-07-20T12:00:00Z",
+      "version": "v1.0.0",
+      "contributors": 1,
+      "edits": 1,
+      "historyUrl": ""
+    },
+    "biographySections": [
+      {
+        "label": "Early Life & Background",
+        "icon": "Star",
+        "value": "Born as Bhai Lehna (or Lahina) on 31 March 1504 in Matte‑di‑Sarai (Sarainaga) to Pheru Mal and Mata Ramo. His family originally settled in Khadur Sahib after migrating due to Mughal invasions. Lehna served as a religious teacher and pujāri in a temple dedicated to the goddess Durga before meeting Guru Nanak Ji." 
+      },
+      {
+        "label": "Meeting Guru Nanak & Adoption",
+        "icon": "Heart",
+        "value": "In his late 20s, after hearing hymns of Asa Di Var, he met Guru Nanak at Kartarpur. Lehna renounced idol worship and devoted himself to the Guru’s service for around six or seven years, living with exemplary humility." 
+      },
+      {
+        "label": "Installation as Guru",
+        "icon": "Crown",
+        "value": "Selected by Guru Nanak himself, he was formally installed on 7 September 1539 as Guru Angad (meaning ‘part of the Guru’), after demonstrating profound obedience and devotion in the face of tasks even Guru Nanak’s sons would avoid." 
+      },
+      {
+        "label": "Language & Education Reforms",
+        "icon": "BookOpen",
+        "value": "He standardized the Gurmukhi script—introducing spacing, bindi marks, grammar rules, and adding letters for proper phonetic representation—ensuring Punjabi became an accessible literary language. He established schools at Khadur Sahib to teach children reading, writing, arithmetic, and Gurbani."
+      },
+      {
+        "label": "Social & Institutional Contributions",
+        "icon": "Temple",
+        "value": "He expanded Guru Nanak’s langar tradition, personally overseen by his wife Mata Khivi. Instituted mal akhara (wrestling arenas) for youth—combining physical fitness and spiritual discipline—and founded dharamsalas to spread Sikh teachings."
+      },
+      {
+        "label": "Compositions & Documentation",
+        "icon": "Book",
+        "value": "Composed about 62–63 saloks and hymns, later included in the Guru Granth Sahib. He also collected Bhai Bala’s Janamsakhi accounts to compile the earliest biography of Guru Nanak."
+      },
+      {
+        "label": "Final Years & Succession",
+        "icon": "Star",
+        "value": "Retired briefly into seclusion after Guru Nanak’s death; was persuaded by Baba Buddha to resume Guruship. Before passing away on 29 March 1552 at Khadur Sahib, he designated Amar Das as his successor, bypassing his own sons in favor of merit and devotion."
+      }
+    ],
+    "spiritualLegacy": {
+      "description": "Guru Angad solidified Sikh community identity—literacy in Punjabi script, equality in langar seating, and moral discipline through seva and education. His synthesis of humility, learning, and physical robustness set enduring norms.",
+      "keyContributions": [
+        "Standardized Gurmukhi script as the official Sikh & Punjabi script",
+        "Expanded Sikh educational systems",
+        "Institutionalized langar and egalitarian community practice",
+        "Promoted physical and spiritual training through akharas",
+        "Preserved Guru Nanak’s life story and teachings in written form"
+      ]
+    },
+    "modernRelevance": {
+      "description": "His reforms shaped Punjabi identity, equipping Sikhs with a unique script and shared values. Today, literacy in Gurmukhi, community langars, and integrated physical‑spiritual training trace back to his initiatives.",
+      "contemporaryImpact": [
+        "Punjabi language and script in education, media, and culture",
+        "Community kitchens as models of social equality globally",
+        "Schools and literacy programs in Sikh communities",
+        "Traditions of youth akharas and fitness‑discipline",
+        "Written Sikh historiography beginning with Bhai Bala’s Janamsakhi"
+      ]
+    },
+    "achievements": [
+      { "title": "Standardization of Gurmukhi Script", "year": "c.1535–1545", "description": "Set writing rules, added letters, established spacing and grammar for Punjabi.", "icon": "BookOpen" },
+      { "title": "Promotion of Education", "year": "1539–1552", "description": "Opened schools teaching Gurmukhi literacy and moral education.", "icon": "School" },
+      { "title": "Institutionalization of Langar", "year": "1540s", "description": "Formalized community kitchens with Mata Khivi’s leadership.", "icon": "Utensils" },
+      { "title": "Introduction of Mall Akhara", "year": "1550s", "description": "Wrestling arenas combining physical strength and spiritual training.", "icon": "Shield" },
+      { "title": "Composition & Documentation", "year": "1539–1552", "description": "Composed hymns and compiled the first written Janamsakhi of Guru Nanak.", "icon": "Book" },
+      { "title": "Succession to Guru Amar Das", "year": "1552", "description": "Passed Guruship based on merit and devotion, rather than birth.", "icon": "Crown" }
+    ],
+    "quotes": [
+      {
+        "original": "ਜਿਨਿ ਆਖੀ ਸੋਈ ਕਰੇ ਜਿਨਿ ਕੀਤੀ ਤਿਨੈ ਥਟੀਐ",
+        "transliteration": "Jin ākhī soī kare jin kītī tainai ṯhaṭīai",
+        "translation": "Whatever the Guru said, he did—and thereby was elevated.",
+        "context": "On obedient devotion earning spiritual succession"
+      },
+      {
+        "original": "ਲੰਗਰੁ ਚਲੈ ਗੁਰ ਸਬਦਿ ਹਰਿ ਤੋਟਿ ਨ ਆਵੀ ਖਟੀਐ",
+        "transliteration": "Laṅgar chalae gur sabad har tot na āvī khaṭīai",
+        "translation": "The Guru’s langar continues with the Word; its supply never ends.",
+        "context": "On the sustaining power of communal service"
+      }
+    ],
+    "timeline": [
+      { "year": "1504", "date": "31 Mar", "event": "Born Bhai Lehna in Matte‑di‑Sarai", "type": "birth" },
+      { "year": "1520", "event": "Married Mata Khivi (age ~16)", "type": "personal" },
+      { "year": "1527–1533", "event": "Meets Guru Nanak & serves him in Kartarpur (~6–7 years)", "type": "spiritual" },
+      { "year": "1539", "date": "7 Sep", "event": "Installed as Guru Angad Dev Ji", "type": "guruship" },
+      { "year": "1540s", "event": "Establishes schools and Gurmukhi teaching at Khadur Sahib", "type": "education" },
+      { "year": "1540s", "event": "Expands langar and inaugurates mal akhara/spiritual‑physical training", "type": "social" },
+      { "year": "1539–1552", "event": "Composes ~62 hymns and compiles Janamsakhi of Guru Nanak", "type": "literary" },
+      { "year": "1552", "date": "29 Mar", "event": "Passes away at Khadur Sahib; appoints Guru Amar Das", "type": "death" }
+    ],
+    "relatedPersonalities": [
+      { "name": "Guru Nanak Dev Ji", "relation": "First Guru & Spiritual Master", "slug": "guru-nanak-dev-ji" },
+      { "name": "Mata Khivi Ji", "relation": "Wife and steward of langar", "slug": "mata-khivi-ji" },
+      { "name": "Guru Amar Das Ji", "relation": "Successor (Third Guru)", "slug": "guru-amar-das-ji" },
+      { "name": "Bhai Bala Ji", "relation": "Source for early Janamsakhi lore", "slug": "bhai-bala-ji" },
+      { "name": "Baba Buddha Ji", "relation": "Influential senior Sikh who urged Angad’s return to service", "slug": "baba-buddha-ji" }
+    ],
+    "historicalContext": {
+      "period": "Early Mughal Era (Babur–Humayun period)",
+      "politicalSituation": "Political upheaval due to Babur’s invasion, followed by Humayun’s struggles. Religion and caste hierarchies dominated social life.",
+      "socialConditions": "Rigid caste structures, gender inequality, low literacy, limited script for Punjabi, and reliance on Sanskrit/Persian for learning.",
+      "significance": "Guru Angad helped move Sikhism from nascent thought to institutional community—with its own script, schooling, egalitarian kitchen, and living tradition of service."
+    },
+    "references": [
+      "SikhiWiki – Guru Angad Dev biography and contributions",
+      "Wikipedia – Guru Angad life and legacy",
+      "Scholarly sources on Sikh Gurus and Gurmukhi script standardization"
+    ]
+  }
+  

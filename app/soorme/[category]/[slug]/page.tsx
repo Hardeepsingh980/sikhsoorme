@@ -5,6 +5,7 @@ import {
   Crown,
   Sword,
   BookOpen,
+  Book,
   Heart,
   GitBranch,
   Clock,
@@ -20,154 +21,61 @@ import { Separator } from "@/components/ui/separator"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import Image from "next/image"
 import Link from "next/link"
+import fs from "fs/promises"
+import path from "path"
+import { notFound } from "next/navigation"
 
-// Sample data - in real app this would come from Contentlayer and GitHub API
-const personality = {
-  name: "Guru Gobind Singh Ji",
-  slug: "guru-gobind-singh-ji",
-  category: "gurus",
-  birth: "1666",
-  death: "1708",
-  birthPlace: "Patna Sahib, Bihar",
-  deathPlace: "Nanded, Maharashtra",
-  image: "/placeholder.svg?height=400&width=400",
-  excerpt:
-    "The tenth Sikh Guru who founded the Khalsa, transformed the Sikh community into a warrior-saint tradition, and gave the ultimate sacrifice for righteousness and freedom.",
+// Map string icon names to Lucide React components for dynamic icon rendering
+const lucideIcons: Record<string, React.FC<any>> = {
+  ArrowLeft,
+  Calendar,
+  MapPin,
+  Crown,
+  Sword,
+  BookOpen,
+  Book,
+  Heart,
+  GitBranch,
+  Clock,
+  Quote,
+  Star,
+  Shield,
+  Eye,
+};
 
-  // Version info from GitHub
-  version: {
-    lastUpdated: "2025-01-15T10:30:00Z",
-    version: "v2.4.1",
-    contributors: 12,
-    edits: 47,
-    historyUrl: "https://github.com/Hardeepsingh980/sikhsoorme/content/commits/main/gurus/guru-gobind-singh-ji.mdx",
-  },
+export async function generateStaticParams() {
+  const dirPath = path.join(process.cwd(), "data/personalities")
+  const entries = await fs.readdir(dirPath, { withFileTypes: true })
 
-  // Biographical sections
-  biography: {
-    earlyLife:
-      "Born as Gobind Rai to Guru Tegh Bahadur Ji and Mata Gujri Ji in Patna Sahib on December 22, 1666. His early years were marked by spiritual learning and preparation for the monumental challenges that lay ahead. At the tender age of nine, he witnessed his father's supreme sacrifice for religious freedom, an event that would profoundly shape his worldview and mission.",
+  const params = []
 
-    guruship:
-      "Became the tenth Sikh Guru at age 9 following his father's martyrdom in 1675. Despite his young age, he displayed remarkable wisdom and leadership, continuing his father's mission of protecting religious freedom and fighting against oppression. He spent his early years as Guru in Anandpur Sahib, where he received extensive education in languages, literature, and martial arts.",
+  for (const entry of entries) {
+    if (!entry.isFile() || !entry.name.endsWith(".json")) continue
 
-    khalsa:
-      "On Vaisakhi day, April 13, 1699, Guru Gobind Singh Ji performed one of the most significant acts in Sikh history - the creation of the Khalsa. In a dramatic ceremony at Anandpur Sahib, he called for volunteers willing to sacrifice their lives for their faith. Five brave souls stepped forward, known as the Panj Piare (Five Beloved Ones), and thus the Khalsa Panth was born.",
+    const filePath = path.join(dirPath, entry.name)
+    const content = await fs.readFile(filePath, "utf-8")
+    const json = JSON.parse(content)
 
-    battles:
-      "Led numerous battles against the Mughal Empire and hill rajas who sought to suppress Sikh independence. Major battles included the Battle of Bhangani (1688), Battle of Nadaun (1691), and the prolonged siege of Anandpur Sahib (1704-1705). His military genius and strategic acumen helped establish Sikh sovereignty in Punjab.",
+    // Validate expected fields exist
+    if (!json.slug || !json.category) {
+      console.warn(`Skipping ${entry.name}: Missing slug or category`)
+      continue
+    }
 
-    sacrifice:
-      "Endured immense personal losses including the martyrdom of all four of his sons - the elder two, Sahibzada Ajit Singh and Jujhar Singh, died fighting at Chamkaur Sahib, while the younger two, Zorawar Singh and Fateh Singh, were bricked alive in Sirhind. Despite these heart-wrenching sacrifices, he never wavered from his mission.",
+    params.push({
+      slug: json.slug,
+      category: json.category,
+    })
+  }
 
-    legacy:
-      "Before his passing in 1708, he declared the Guru Granth Sahib as the eternal Guru of the Sikhs, ending the line of human Gurus. His teachings, compiled in the Dasam Granth, continue to inspire millions. He transformed the Sikh community from a peaceful religious group into a warrior-saint tradition capable of defending righteousness.",
-  },
+  return params
+}
 
-  // Key achievements and contributions
-  achievements: [
-    {
-      title: "Founding of the Khalsa",
-      year: "1699",
-      description:
-        "Established the Khalsa Panth, creating a community of saint-soldiers committed to fighting oppression and upholding righteousness.",
-      icon: Crown,
-    },
-    {
-      title: "The Five Ks (Panj Kakar)",
-      year: "1699",
-      description:
-        "Instituted the five symbols of Sikh identity: Kesh, Kara, Kanga, Kachera, and Kirpan, creating a distinct Sikh identity.",
-      icon: Star,
-    },
-    {
-      title: "Military Leadership",
-      year: "1688-1705",
-      description:
-        "Led numerous successful military campaigns against Mughal forces and established Sikh sovereignty in Punjab.",
-      icon: Sword,
-    },
-    {
-      title: "Literary Contributions",
-      year: "1685-1708",
-      description:
-        "Authored numerous works compiled in Dasam Granth, including Jaap Sahib, Tav-Prasad Savaiye, and Chaupai Sahib.",
-      icon: BookOpen,
-    },
-  ],
-
-  // Famous quotes and teachings
-  quotes: [
-    {
-      original: "ਚਿੜੀਆਂ ਨਾਲ ਮੈਂ ਬਾਜ਼ ਲੜਾਵਾਂ, ਤਬੇ ਗੋਬਿੰਦ ਸਿੰਘ ਨਾਮ ਕਹਾਵਾਂ",
-      translation: "I will make sparrows fight hawks, only then will I be called Gobind Singh",
-      context: "Expressing his determination to empower the oppressed to fight against tyranny",
-    },
-    {
-      original: "ਸਵਾ ਲਾਖ ਸੇ ਏਕ ਲੜਾਊਂ, ਤਬੇ ਗੋਬਿੰਦ ਸਿੰਘ ਨਾਮ ਕਹਾਊਂ",
-      translation: "I will make one fight against 125,000, only then will I be called Gobind Singh",
-      context: "Demonstrating his confidence in the spiritual and physical strength of the Khalsa",
-    },
-    {
-      original: "ਦੇਹ ਸਿਵਾ ਬਰ ਮੋਹਿ ਇਹੈ ਸੁਭ ਕਰਮਨ ਤੇ ਕਬਹੂੰ ਨ ਟਰੋਂ",
-      translation: "Grant me this boon, O God, that I may never hesitate from righteous acts",
-      context: "From his famous prayer seeking divine strength to always stand for righteousness",
-    },
-  ],
-
-  // Timeline of major events
-  timeline: [
-    { year: "1666", event: "Born in Patna Sahib", type: "birth" },
-    { year: "1675", event: "Became 10th Sikh Guru at age 9", type: "milestone" },
-    { year: "1684", event: "Married Mata Jito Ji", type: "personal" },
-    { year: "1687", event: "Birth of first son, Sahibzada Jujhar Singh", type: "family" },
-    { year: "1688", event: "Battle of Bhangani - first major victory", type: "battle" },
-    { year: "1691", event: "Battle of Nadaun", type: "battle" },
-    { year: "1699", event: "Founded the Khalsa on Vaisakhi", type: "milestone" },
-    { year: "1704", event: "Battle of Chamkaur Sahib", type: "battle" },
-    { year: "1705", event: "Martyrdom of elder Sahibzadas", type: "tragedy" },
-    { year: "1705", event: "Martyrdom of younger Sahibzadas", type: "tragedy" },
-    { year: "1708", event: "Passed away in Nanded", type: "death" },
-  ],
-
-  // Related personalities
-  relatedPersonalities: [
-    {
-      name: "Guru Tegh Bahadur Ji",
-      relation: "Father",
-      image: "/placeholder.svg?height=80&width=80",
-      slug: "guru-tegh-bahadur-ji",
-    },
-    {
-      name: "Mata Gujri Ji",
-      relation: "Mother",
-      image: "/placeholder.svg?height=80&width=80",
-      slug: "mata-gujri-ji",
-    },
-    {
-      name: "Sahibzada Ajit Singh",
-      relation: "Elder Son",
-      image: "/placeholder.svg?height=80&width=80",
-      slug: "sahibzada-ajit-singh",
-    },
-    {
-      name: "Bhai Daya Singh",
-      relation: "Panj Piare",
-      image: "/placeholder.svg?height=80&width=80",
-      slug: "bhai-daya-singh",
-    },
-  ],
-
-  // Historical context
-  historicalContext: {
-    period: "Mughal Era (1526-1857)",
-    politicalSituation:
-      "The Mughal Empire under Aurangzeb was at its peak but facing internal rebellions. Religious persecution of non-Muslims was widespread, with forced conversions and destruction of temples being common.",
-    socialConditions:
-      "Society was deeply divided along religious and caste lines. The common people faced heavy taxation, religious oppression, and social injustice.",
-    significance:
-      "Guru Gobind Singh Ji's leadership came at a crucial time when organized resistance was needed against tyranny and oppression.",
-  },
+type Params = {
+  params: {
+    category: string
+    slug: string
+  }
 }
 
 const timelineColors: Record<string, string> = {
@@ -180,17 +88,17 @@ const timelineColors: Record<string, string> = {
   death: "bg-orange-500",
 }
 
-export async function generateStaticParams() {
-  return [{
-    category: "gurus",
-    slug: "guru-gobind-singh-ji",
-  }];
-}
+export default async function PersonalityDetailPage({ params }: Params) {
+  const filePath = path.join(process.cwd(), `data/personalities/${params.slug}.json`)
+  let fileContent: string
 
-export default function PersonalityDetailPage({ params }: { params: { category: string; slug: string } }) {
-  const { category, slug } = params;
+  try {
+    fileContent = await fs.readFile(filePath, 'utf-8')
+  } catch (err) {
+    return notFound()
+  }
 
-
+  const personality = JSON.parse(fileContent)
   return (
     <div>
       {/* Header */}
@@ -256,9 +164,11 @@ export default function PersonalityDetailPage({ params }: { params: { category: 
             {/* Main Info */}
             <div className="md:col-span-2 text-white">
               <div className="mb-4">
-                <Badge className="bg-white/20 text-white border-white/30 mb-4">
-                  {personality.category.toUpperCase()} • 10TH SIKH GURU
-                </Badge>
+                {personality.designation && (
+                  <Badge className="bg-white/20 text-white border-white/30 mb-4">
+                    {personality.designation}
+                  </Badge>
+                )}
               </div>
 
               <h1 className="text-4xl md:text-5xl font-bold mb-4 leading-tight">{personality.name}</h1>
@@ -274,24 +184,20 @@ export default function PersonalityDetailPage({ params }: { params: { category: 
                   <MapPin className="w-5 h-5" />
                   <span>{personality.birthPlace}</span>
                 </div>
-              </div>
 
-              <p className="text-xl leading-relaxed text-orange-100 mb-8 max-w-3xl">{personality.excerpt}</p>
+                <p className="text-xl leading-relaxed text-orange-100 mb-8 max-w-3xl">{personality.excerpt}</p>
 
-              {/* Quick Stats */}
-              <div className="grid grid-cols-3 gap-6">
-                <div className="text-center">
-                  <div className="text-2xl font-bold text-white">{personality.version.contributors}</div>
-                  <div className="text-sm text-orange-200">Contributors</div>
-                </div>
-                <div className="text-center">
-                  <div className="text-2xl font-bold text-white">{personality.version.edits}</div>
-                  <div className="text-sm text-orange-200">Total Edits</div>
-                </div>
-                <div className="text-center">
-                  <div className="text-2xl font-bold text-white">42</div>
-                  <div className="text-sm text-orange-200">Years as Guru</div>
-                </div>
+                {/* Quick Stats */}
+                {Array.isArray(personality.quickStats) && personality.quickStats.length > 0 && (
+                  <div className="grid grid-cols-3 gap-6">
+                    {personality.quickStats.map((stat: any, idx: number) => (
+                      <div className="text-center" key={idx}>
+                        <div className="text-2xl font-bold text-white">{stat.value}</div>
+                        <div className="text-sm text-orange-200">{stat.label}</div>
+                      </div>
+                    ))}
+                  </div>
+                )}
               </div>
             </div>
           </div>
@@ -349,124 +255,55 @@ export default function PersonalityDetailPage({ params }: { params: { category: 
           <TabsContent value="biography" className="space-y-8">
             <div className="grid md:grid-cols-3 gap-8">
               <div className="md:col-span-2 space-y-8">
-                {/* Early Life */}
-                <Card className="bg-gradient-to-br from-white to-amber-50 border-2 border-amber-200">
-                  <CardHeader>
-                    <CardTitle className="flex items-center gap-2 text-amber-900">
-                      <Star className="w-5 h-5 text-orange-600" />
-                      Early Life & Childhood
-                    </CardTitle>
-                  </CardHeader>
-                  <CardContent>
-                    <p className="text-amber-800 leading-relaxed">{personality.biography.earlyLife}</p>
-                  </CardContent>
-                </Card>
-
-                {/* Guruship */}
-                <Card className="bg-gradient-to-br from-white to-amber-50 border-2 border-amber-200">
-                  <CardHeader>
-                    <CardTitle className="flex items-center gap-2 text-amber-900">
-                      <Crown className="w-5 h-5 text-orange-600" />
-                      Ascension to Guruship
-                    </CardTitle>
-                  </CardHeader>
-                  <CardContent>
-                    <p className="text-amber-800 leading-relaxed">{personality.biography.guruship}</p>
-                  </CardContent>
-                </Card>
-
-                {/* Khalsa Formation */}
-                <Card className="bg-gradient-to-br from-orange-100 to-amber-100 border-2 border-orange-300">
-                  <CardHeader>
-                    <CardTitle className="flex items-center gap-2 text-amber-900">
-                      <Shield className="w-5 h-5 text-orange-600" />
-                      Formation of the Khalsa
-                    </CardTitle>
-                    <CardDescription className="text-amber-700">
-                      The most significant event in Sikh history - April 13, 1699
-                    </CardDescription>
-                  </CardHeader>
-                  <CardContent>
-                    <p className="text-amber-800 leading-relaxed mb-4">{personality.biography.khalsa}</p>
-                    <div className="bg-orange-50 p-4 rounded-lg border-l-4 border-orange-500">
-                      <p className="text-amber-900 font-medium italic">
-                        "Today, I have created the Khalsa. The Khalsa shall rule. Their enemies will be scattered. Only
-                        they that seek refuge will be saved."
-                      </p>
-                    </div>
-                  </CardContent>
-                </Card>
-
-                {/* Military Leadership */}
-                <Card className="bg-gradient-to-br from-white to-amber-50 border-2 border-amber-200">
-                  <CardHeader>
-                    <CardTitle className="flex items-center gap-2 text-amber-900">
-                      <Sword className="w-5 h-5 text-orange-600" />
-                      Military Leadership & Battles
-                    </CardTitle>
-                  </CardHeader>
-                  <CardContent>
-                    <p className="text-amber-800 leading-relaxed">{personality.biography.battles}</p>
-                  </CardContent>
-                </Card>
-
-                {/* Personal Sacrifices */}
-                <Card className="bg-gradient-to-br from-red-50 to-orange-50 border-2 border-red-200">
-                  <CardHeader>
-                    <CardTitle className="flex items-center gap-2 text-red-900">
-                      <Heart className="w-5 h-5 text-red-600" />
-                      Ultimate Sacrifices
-                    </CardTitle>
-                    <CardDescription className="text-red-700">The supreme price paid for righteousness</CardDescription>
-                  </CardHeader>
-                  <CardContent>
-                    <p className="text-red-800 leading-relaxed">{personality.biography.sacrifice}</p>
-                  </CardContent>
-                </Card>
-
-                {/* Legacy */}
-                <Card className="bg-gradient-to-br from-white to-amber-50 border-2 border-amber-200">
-                  <CardHeader>
-                    <CardTitle className="flex items-center gap-2 text-amber-900">
-                      <BookOpen className="w-5 h-5 text-orange-600" />
-                      Eternal Legacy
-                    </CardTitle>
-                  </CardHeader>
-                  <CardContent>
-                    <p className="text-amber-800 leading-relaxed">{personality.biography.legacy}</p>
-                  </CardContent>
-                </Card>
+                {Array.isArray(personality.biographySections) && personality.biographySections.length > 0 &&
+                  personality.biographySections.map((section: any, idx: number) => {
+                    const IconComponent = section.icon && lucideIcons[section.icon] ? lucideIcons[section.icon] : undefined;
+                    return (
+                      <Card
+                        className={`bg-gradient-to-br from-white to-amber-50 border-2 border-amber-200${section.icon === 'Shield' ? ' from-orange-100 to-amber-100 border-orange-300' : ''}${section.icon === 'Heart' ? ' from-red-50 to-orange-50 border-red-200' : ''}`}
+                        key={idx}
+                      >
+                        <CardHeader>
+                          <CardTitle className={`flex items-center gap-2 ${section.icon === 'Heart' ? 'text-red-900' : 'text-amber-900'}`}>
+                            {IconComponent && <IconComponent className={`w-5 h-5 ${section.icon === 'Heart' ? 'text-red-600' : 'text-orange-600'}`} />}
+                            {section.label}
+                          </CardTitle>
+                          {section.description && (
+                            <CardDescription className="text-amber-700">{section.description}</CardDescription>
+                          )}
+                        </CardHeader>
+                        <CardContent>
+                          <p className={`${section.icon === 'Heart' ? 'text-red-800' : 'text-amber-800'} leading-relaxed mb-4`}>{section.value}</p>
+                          {section.quote && (
+                            <div className="bg-orange-50 p-4 rounded-lg border-l-4 border-orange-500">
+                              <p className="text-amber-900 font-medium italic">"{section.quote}"</p>
+                            </div>
+                          )}
+                        </CardContent>
+                      </Card>
+                    );
+                  })}
               </div>
 
               {/* Sidebar */}
               <div className="space-y-6">
                 {/* Quick Facts */}
-                <Card className="bg-gradient-to-br from-amber-100 to-orange-100 border-2 border-amber-300">
-                  <CardHeader>
-                    <CardTitle className="text-amber-900">Quick Facts</CardTitle>
-                  </CardHeader>
-                  <CardContent className="space-y-4">
-                    <div>
-                      <div className="text-sm font-medium text-amber-700">Birth Place</div>
-                      <div className="text-amber-900">{personality.birthPlace}</div>
-                    </div>
-                    <Separator className="bg-amber-300" />
-                    <div>
-                      <div className="text-sm font-medium text-amber-700">Death Place</div>
-                      <div className="text-amber-900">{personality.deathPlace}</div>
-                    </div>
-                    <Separator className="bg-amber-300" />
-                    <div>
-                      <div className="text-sm font-medium text-amber-700">Age at Guruship</div>
-                      <div className="text-amber-900">9 years old</div>
-                    </div>
-                    <Separator className="bg-amber-300" />
-                    <div>
-                      <div className="text-sm font-medium text-amber-700">Duration as Guru</div>
-                      <div className="text-amber-900">33 years (1675-1708)</div>
-                    </div>
-                  </CardContent>
-                </Card>
+                {Array.isArray(personality.quickFacts) && personality.quickFacts.length > 0 && (
+                  <Card className="bg-gradient-to-br from-amber-100 to-orange-100 border-2 border-amber-300">
+                    <CardHeader>
+                      <CardTitle className="text-amber-900">Quick Facts</CardTitle>
+                    </CardHeader>
+                    <CardContent className="space-y-4">
+                      {personality.quickFacts.map((fact: any, idx: number) => (
+                        <div key={idx}>
+                          <div className="text-sm font-medium text-amber-700">{fact.label}</div>
+                          <div className="text-amber-900">{fact.value}</div>
+                          {idx < personality.quickFacts.length - 1 && <Separator className="bg-amber-300" />}
+                        </div>
+                      ))}
+                    </CardContent>
+                  </Card>
+                )}
 
                 {/* Historical Context */}
                 <Card className="bg-gradient-to-br from-white to-amber-50 border-2 border-amber-200">
@@ -495,10 +332,10 @@ export default function PersonalityDetailPage({ params }: { params: { category: 
                   </CardHeader>
                   <CardContent>
                     <div className="space-y-3">
-                      {personality.relatedPersonalities.map((person, index) => (
+                      {personality.relatedPersonalities.map((person: any, index: any) => (
                         <Link
                           key={index}
-                          href={`/gurus/${person.slug}`}
+                          href={`/soorme/${person.category}/${person.slug}`}
                           className="flex items-center gap-3 p-2 rounded-lg hover:bg-amber-100 transition-colors"
                         >
                           <Image
@@ -524,32 +361,36 @@ export default function PersonalityDetailPage({ params }: { params: { category: 
           {/* Achievements Tab */}
           <TabsContent value="achievements" className="space-y-6">
             <div className="grid md:grid-cols-2 gap-6">
-              {personality.achievements.map((achievement, index) => {
-                const IconComponent = achievement.icon
-                return (
-                  <Card
-                    key={index}
-                    className="bg-gradient-to-br from-white to-amber-50 border-2 border-amber-200 hover:shadow-lg transition-all"
-                  >
-                    <CardHeader>
-                      <div className="flex items-center gap-3">
-                        <div className="w-12 h-12 bg-orange-500 rounded-full flex items-center justify-center">
-                          <IconComponent className="w-6 h-6 text-white" />
+              {Array.isArray(personality.achievements) && personality.achievements.length > 0 ? (
+                personality.achievements.map((achievement: any, index: any) => {
+                  const IconComponent = typeof achievement.icon === "string" && lucideIcons[achievement.icon] ? lucideIcons[achievement.icon] : Star;
+                  return (
+                    <Card
+                      key={index}
+                      className="bg-gradient-to-br from-white to-amber-50 border-2 border-amber-200 hover:shadow-lg transition-all"
+                    >
+                      <CardHeader>
+                        <div className="flex items-center gap-3">
+                          <div className="w-12 h-12 bg-orange-500 rounded-full flex items-center justify-center">
+                            <IconComponent className="w-6 h-6 text-white" />
+                          </div>
+                          <div>
+                            <CardTitle className="text-amber-900">{achievement.title}</CardTitle>
+                            <Badge variant="outline" className="border-orange-300 text-orange-700 mt-1">
+                              {achievement.year}
+                            </Badge>
+                          </div>
                         </div>
-                        <div>
-                          <CardTitle className="text-amber-900">{achievement.title}</CardTitle>
-                          <Badge variant="outline" className="border-orange-300 text-orange-700 mt-1">
-                            {achievement.year}
-                          </Badge>
-                        </div>
-                      </div>
-                    </CardHeader>
-                    <CardContent>
-                      <p className="text-amber-800 leading-relaxed">{achievement.description}</p>
-                    </CardContent>
-                  </Card>
-                )
-              })}
+                      </CardHeader>
+                      <CardContent>
+                        <p className="text-amber-800 leading-relaxed">{achievement.description}</p>
+                      </CardContent>
+                    </Card>
+                  )
+                })
+              ) : (
+                <div className="text-amber-700">No achievements listed.</div>
+              )}
             </div>
           </TabsContent>
 
@@ -564,7 +405,7 @@ export default function PersonalityDetailPage({ params }: { params: { category: 
               </CardHeader>
               <CardContent>
                 <div className="space-y-6">
-                  {personality.timeline.map((event, index) => (
+                  {personality.timeline.map((event: any, index: any) => (
                     <div key={index} className="flex items-start gap-4">
                       <div className="flex flex-col items-center">
                         <div
@@ -581,15 +422,14 @@ export default function PersonalityDetailPage({ params }: { params: { category: 
                           </Badge>
                           <Badge
                             variant="secondary"
-                            className={`text-xs capitalize ${
-                              event.type === "milestone"
-                                ? "bg-blue-100 text-blue-800"
-                                : event.type === "battle"
-                                  ? "bg-red-100 text-red-800"
-                                  : event.type === "tragedy"
-                                    ? "bg-gray-100 text-gray-800"
-                                    : "bg-amber-100 text-amber-800"
-                            }`}
+                            className={`text-xs capitalize ${event.type === "milestone"
+                              ? "bg-blue-100 text-blue-800"
+                              : event.type === "battle"
+                                ? "bg-red-100 text-red-800"
+                                : event.type === "tragedy"
+                                  ? "bg-gray-100 text-gray-800"
+                                  : "bg-amber-100 text-amber-800"
+                              }`}
                           >
                             {event.type}
                           </Badge>
@@ -606,7 +446,7 @@ export default function PersonalityDetailPage({ params }: { params: { category: 
           {/* Teachings Tab */}
           <TabsContent value="teachings" className="space-y-6">
             <div className="space-y-6">
-              {personality.quotes.map((quote, index) => (
+              {personality.quotes.map((quote: any, index: any) => (
                 <Card key={index} className="bg-gradient-to-br from-orange-50 to-amber-50 border-2 border-orange-200">
                   <CardContent className="p-8">
                     <div className="flex items-start gap-4">
@@ -637,20 +477,23 @@ export default function PersonalityDetailPage({ params }: { params: { category: 
                   <CardTitle className="text-amber-900">Spiritual Legacy</CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-4">
-                  <p className="text-amber-800 leading-relaxed">
-                    Guru Gobind Singh Ji's spiritual teachings continue to guide millions of Sikhs worldwide. His
-                    emphasis on the unity of God, equality of all humans, and the importance of standing against
-                    injustice remains as relevant today as it was 300 years ago.
-                  </p>
-                  <div className="bg-amber-100 p-4 rounded-lg">
-                    <h4 className="font-semibold text-amber-900 mb-2">Key Spiritual Contributions:</h4>
-                    <ul className="text-amber-800 text-sm space-y-1">
-                      <li>• Established the concept of Miri-Piri (temporal and spiritual authority)</li>
-                      <li>• Created the Khalsa as a community of saint-soldiers</li>
-                      <li>• Declared Guru Granth Sahib as the eternal Guru</li>
-                      <li>• Emphasized the importance of righteous warfare</li>
-                    </ul>
-                  </div>
+                  {personality.spiritualLegacy && (
+                    <>
+                      <p className="text-amber-800 leading-relaxed">
+                        {personality.spiritualLegacy.description}
+                      </p>
+                      {Array.isArray(personality.spiritualLegacy.keyContributions) && personality.spiritualLegacy.keyContributions.length > 0 && (
+                        <div className="bg-amber-100 p-4 rounded-lg">
+                          <h4 className="font-semibold text-amber-900 mb-2">Key Spiritual Contributions:</h4>
+                          <ul className="text-amber-800 text-sm space-y-1">
+                            {personality.spiritualLegacy.keyContributions.map((item: string, idx: number) => (
+                              <li key={idx}>• {item}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+                    </>
+                  )}
                 </CardContent>
               </Card>
 
@@ -659,20 +502,23 @@ export default function PersonalityDetailPage({ params }: { params: { category: 
                   <CardTitle className="text-amber-900">Modern Relevance</CardTitle>
                 </CardHeader>
                 <CardContent className="space-y-4">
-                  <p className="text-amber-800 leading-relaxed">
-                    In today's world, Guru Gobind Singh Ji's teachings about standing up against oppression, protecting
-                    the innocent, and maintaining one's principles in the face of adversity continue to inspire people
-                    across all faiths and backgrounds.
-                  </p>
-                  <div className="bg-orange-100 p-4 rounded-lg">
-                    <h4 className="font-semibold text-amber-900 mb-2">Contemporary Impact:</h4>
-                    <ul className="text-amber-800 text-sm space-y-1">
-                      <li>• Human rights advocacy and social justice movements</li>
-                      <li>• Military ethics and righteous warfare principles</li>
-                      <li>• Leadership in times of crisis and adversity</li>
-                      <li>• Interfaith dialogue and religious tolerance</li>
-                    </ul>
-                  </div>
+                  {personality.modernRelevance && (
+                    <>
+                      <p className="text-amber-800 leading-relaxed">
+                        {personality.modernRelevance.description}
+                      </p>
+                      {Array.isArray(personality.modernRelevance.contemporaryImpact) && personality.modernRelevance.contemporaryImpact.length > 0 && (
+                        <div className="bg-orange-100 p-4 rounded-lg">
+                          <h4 className="font-semibold text-amber-900 mb-2">Contemporary Impact:</h4>
+                          <ul className="text-amber-800 text-sm space-y-1">
+                            {personality.modernRelevance.contemporaryImpact.map((item: string, idx: number) => (
+                              <li key={idx}>• {item}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+                    </>
+                  )}
                 </CardContent>
               </Card>
             </div>
