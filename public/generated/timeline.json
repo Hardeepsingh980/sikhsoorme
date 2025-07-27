@@ -1,0 +1,76 @@
+{
+  "periods": [
+    {
+      "id": "guru-period",
+      "name": "Guru Period",
+      "years": "1469–1708",
+      "startYear": 1469,
+      "endYear": 1708,
+      "description": "The foundation era of Sikhism under the ten Gurus",
+      "color": "bg-purple-500",
+      "lightColor": "bg-purple-100",
+      "textColor": "text-purple-900",
+      "events": []
+    },
+    {
+      "id": "banda-singh-period",
+      "name": "Banda Singh Era",
+      "years": "1708–1716",
+      "startYear": 1708,
+      "endYear": 1716,
+      "description": "The first Sikh state under Banda Singh Bahadur's leadership",
+      "color": "bg-red-500",
+      "lightColor": "bg-red-100",
+      "textColor": "text-red-900",
+      "events": []
+    },
+    {
+      "id": "misl-period",
+      "name": "Misl Period",
+      "years": "1716–1799",
+      "startYear": 1716,
+      "endYear": 1799,
+      "description": "Era of Sikh confederacies and the rise of Sikh power in Punjab",
+      "color": "bg-blue-500",
+      "lightColor": "bg-blue-100",
+      "textColor": "text-blue-900",
+      "events": []
+    },
+    {
+      "id": "sikh-empire",
+      "name": "Sikh Empire",
+      "years": "1799–1849",
+      "startYear": 1799,
+      "endYear": 1849,
+      "description": "The golden age of Sikh political power under Maharaja Ranjit Singh",
+      "color": "bg-yellow-500",
+      "lightColor": "bg-yellow-100",
+      "textColor": "text-yellow-900",
+      "events": []
+    },
+    {
+      "id": "colonial-period",
+      "name": "Colonial Period",
+      "years": "1849–1947",
+      "startYear": 1849,
+      "endYear": 1947,
+      "description": "Sikh community under British rule and the independence struggle",
+      "color": "bg-gray-500",
+      "lightColor": "bg-gray-100",
+      "textColor": "text-gray-900",
+      "events": []
+    },
+    {
+      "id": "modern-era",
+      "name": "Modern Era",
+      "years": "1947–Present",
+      "startYear": 1947,
+      "endYear": 2025,
+      "description": "Sikhs in independent India and the global diaspora",
+      "color": "bg-green-500",
+      "lightColor": "bg-green-100",
+      "textColor": "text-green-900",
+      "events": []
+    }
+  ]
+}
