@@ -20,6 +20,10 @@ async function loadAllPersonalities() {
       image: json.image,
       excerpt: json.excerpt || "",
       category: json.category || "",
+      birth: json.birth || "",
+      death: json.death || "",
+      birthPlace: json.birthPlace || "",
+      era: json.era || "",
     };
   });
 }

@@ -8,6 +8,7 @@ import Image from "next/image"
 import Link from "next/link"
 import fs from "fs/promises"
 import path from "path"
+import Searchbar from "@/components/Searchbar"
 
 const rawHomepageData = await fs.readFile(path.join(process.cwd(), "public/generated/homepageData.json"), "utf-8");
 const homepageData = JSON.parse(rawHomepageData);
@@ -93,19 +94,7 @@ export default function HomePage() {
             scholars, and martyrs who shaped history with their unwavering faith and extraordinary courage.
           </p>
 
-          {/* Search Bar */}
-          <div className="max-w-lg mx-auto mb-10">
-            <div className="relative">
-              <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-amber-600 w-5 h-5" />
-              <Input
-                placeholder="Search for Sikh personalities..."
-                className="pl-12 py-4 text-lg border-2 border-amber-300 focus:border-orange-500 focus:ring-orange-500 bg-white/80 backdrop-blur-sm rounded-full shadow-lg"
-              />
-              <Button className="absolute right-2 top-1/2 transform -translate-y-1/2 bg-orange-500 hover:bg-orange-600 rounded-full px-6">
-                Search
-              </Button>
-            </div>
-          </div>
+          <Searchbar />
 
           {/* Stats */}
           <div className="flex justify-center gap-12 text-amber-800">
