@@ -1,12 +1,18 @@
 import fs from "fs";
 import path from "path";
 import { createClient } from "@supabase/supabase-js";
+import { fileURLToPath } from "url";
+
+import dotenv from "dotenv";
+dotenv.config();
 
 // Create Supabase client
 const supabase = createClient(process.env.SUPABASE_URL!, process.env.SUPABASE_KEY!);
 
-// Load all personalities
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 const dataDir = path.join(__dirname, "../data/personalities");
+
 
 async function loadAllPersonalities() {
   const files = fs.readdirSync(dataDir);
