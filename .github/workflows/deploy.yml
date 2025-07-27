@@ -34,8 +34,8 @@ jobs:
 
       - name: 🛠️ Run data scripts
         run: |
-          npx ts-node scripts/generateHomepageData.ts
           npx ts-node scripts/generateCategories.ts
+          npx ts-node scripts/generateHomepageData.ts
           npx ts-node scripts/generateTimeline.ts
           npx ts-node scripts/pushToSupabase.ts
 
