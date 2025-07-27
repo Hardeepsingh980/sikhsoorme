@@ -36,7 +36,6 @@ jobs:
         run: |
           npx tsx scripts/generateCategories.ts
           npx tsx scripts/generateHomepageData.ts
-          npx tsx scripts/generateTimeline.ts
           npx tsx scripts/pushToSupabase.ts
 
       - name: ⚒️ Build static site
