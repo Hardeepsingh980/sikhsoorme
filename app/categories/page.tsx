@@ -1,11 +1,6 @@
 import {
     ArrowLeft,
-    Crown,
-    Shield,
-    Sword,
-    Heart,
     BookOpen,
-    Globe,
     Users,
     MapPin,
     Star,
@@ -270,7 +265,7 @@ export default function CategoriesPage() {
                         </CardHeader>
                         <CardContent>
                             <div className="space-y-4">
-                                {categoriesData.categories.map((category: any, index: number) => {
+                                {categoriesData.categories.map((category: any) => {
                                     const percentage = (category.count / categoriesData.overview.totalPersonalities) * 100
                                     return (
                                         <div key={category.id} className="space-y-2">

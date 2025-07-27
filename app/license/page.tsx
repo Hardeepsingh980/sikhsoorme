@@ -256,7 +256,7 @@ export default function LicensePage() {
                 <li>Your contributions become available under CC BY-SA 4.0</li>
                 <li>You retain copyright but grant usage rights to the community</li>
                 <li>Your work can be used, adapted, and built upon by others</li>
-                <li>You'll be credited as a contributor</li>
+                <li>{"You'll be credited as a contributor"}</li>
               </ul>
             </div>
 
@@ -292,9 +292,7 @@ export default function LicensePage() {
 
           <div className="mt-6 p-4 bg-white rounded-lg">
             <p className="text-gray-600 text-sm">
-              <strong>Note:</strong> This page provides general guidance on our content licensing. For specific legal
-              questions or commercial licensing arrangements, please contact us directly. We're committed to making Sikh
-              heritage accessible while respecting intellectual property rights.
+              <strong>Note:</strong> {"This page provides general guidance on our content licensing. For specific legal questions or commercial licensing arrangements, please contact us directly. We're committed to making Sikh heritage accessible while respecting intellectual property rights."}
             </p>
           </div>
         </div>

@@ -1,6 +1,5 @@
-import { Search, Users, BookOpen, GitBranch, Heart, Crown, Sword, Quote, Star, Clock } from "lucide-react"
+import { Users, BookOpen, GitBranch, Heart, Crown, Sword, Quote, Star, Clock } from "lucide-react"
 import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
@@ -161,7 +160,7 @@ export default function HomePage() {
                     <div className="flex items-start gap-3">
                       <Quote className="w-5 h-5 text-orange-600 mt-1 flex-shrink-0" />
                       <div>
-                        <p className="text-amber-900 font-medium italic mb-2">"{soormaOfTheDay.quote}"</p>
+                        <p className="text-amber-900 font-medium italic mb-2">{`"${soormaOfTheDay.quote}"`}</p>
                         <p className="text-amber-700 text-sm">{soormaOfTheDay.quoteTranslation}</p>
                       </div>
                     </div>
@@ -210,7 +209,7 @@ export default function HomePage() {
                   <div className="flex items-start gap-4">
                     <Quote className="w-8 h-8 text-orange-500 flex-shrink-0 mt-1" />
                     <div>
-                      <p className="text-amber-900 font-medium text-lg italic mb-3">"{quote.quote}"</p>
+                      <p className="text-amber-900 font-medium text-lg italic mb-3">{`"${quote.quote}"`}</p>
                       <p className="text-amber-700 text-sm mb-3 font-mono">{quote.translation}</p>
                       <p className="text-orange-600 font-semibold">— {quote.author}</p>
                     </div>

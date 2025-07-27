@@ -71,12 +71,6 @@ export async function generateStaticParams() {
   return params
 }
 
-type Params = {
-  params: {
-    category: string
-    slug: string
-  }
-}
 
 const timelineColors: Record<string, string> = {
   birth: "bg-green-500",
@@ -88,13 +82,14 @@ const timelineColors: Record<string, string> = {
   death: "bg-orange-500",
 }
 
-export default async function PersonalityDetailPage({ params }: Params) {
+export default async function PersonalityDetailPage({ params }: any) {
   const filePath = path.join(process.cwd(), `data/personalities/${params.slug}.json`)
   let fileContent: string
 
   try {
     fileContent = await fs.readFile(filePath, 'utf-8')
-  } catch (err) {
+  } catch (err: any) {
+    console.error(err)
     return notFound()
   }
 
@@ -276,7 +271,7 @@ export default async function PersonalityDetailPage({ params }: Params) {
                           <p className={`${section.icon === 'Heart' ? 'text-red-800' : 'text-amber-800'} leading-relaxed mb-4`}>{section.value}</p>
                           {section.quote && (
                             <div className="bg-orange-50 p-4 rounded-lg border-l-4 border-orange-500">
-                              <p className="text-amber-900 font-medium italic">"{section.quote}"</p>
+                              <p className="text-amber-900 font-medium italic">{`"${section.quote}"`}</p>
                             </div>
                           )}
                         </CardContent>
@@ -455,7 +450,7 @@ export default async function PersonalityDetailPage({ params }: Params) {
                         <div className="text-2xl font-bold text-amber-900 font-mono leading-relaxed">
                           {quote.original}
                         </div>
-                        <div className="text-lg text-amber-800 italic">"{quote.translation}"</div>
+                        <div className="text-lg text-amber-800 italic">{`"${quote.translation}"`}</div>
                         <div className="bg-amber-100 p-4 rounded-lg border-l-4 border-orange-500">
                           <p className="text-amber-800 text-sm leading-relaxed">
                             <span className="font-medium">Context:</span> {quote.context}

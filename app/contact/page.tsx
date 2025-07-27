@@ -21,7 +21,7 @@ export default function ContactPage() {
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-4 text-amber-100">Contact Us</h1>
           <p className="text-xl md:text-2xl text-amber-200 max-w-3xl mx-auto">
-            Connect with our community. We're here to help, collaborate, and grow together.
+            {"Connect with our community. We're here to help, collaborate, and grow together."}
           </p>
         </div>
       </div>
@@ -83,7 +83,7 @@ export default function ContactPage() {
                 <Send className="w-6 h-6" />
                 Send us a Message
               </CardTitle>
-              <CardDescription>Fill out the form below and we'll get back to you within 24-48 hours.</CardDescription>
+              <CardDescription>{"Fill out the form below and we'll get back to you within 24-48 hours."}</CardDescription>
             </CardHeader>
             <CardContent className="space-y-6">
               <div className="grid md:grid-cols-2 gap-4">
@@ -298,8 +298,7 @@ export default function ContactPage() {
             <CardContent className="py-12">
               <h2 className="text-3xl font-bold text-amber-900 mb-4">Ready to Get Involved?</h2>
               <p className="text-lg text-amber-700 mb-8 max-w-2xl mx-auto">
-                Whether you're a researcher, developer, educator, or simply passionate about Sikh heritage, there's a
-                place for you in our community.
+                {"Whether you're a researcher, developer, educator, or simply passionate about Sikh heritage, there's a place for you in our community."}
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <Button size="lg" className="bg-amber-600 hover:bg-amber-700 text-white">

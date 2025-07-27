@@ -1,12 +1,11 @@
 import {
-  ArrowLeft, Search, Calendar, Sword, Shield, Crown, Star, Users, BookOpen,
+  ArrowLeft, Search, Star, Users, BookOpen,
   SortAsc, Grid3X3, List, Eye
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Separator } from "@/components/ui/separator";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import Image from "next/image";
@@ -167,13 +166,12 @@ export async function generateStaticParams() {
 
 
 // ✅ MAIN PAGE COMPONENT
-export default async function CategoryPage({ params }: { params: { category: string } }) {
+export default async function CategoryPage({ params }: any) {
   const categoryData = await getCategoryData(params.category);
   const personalities = await getCategoryPersonalities(params.category);
 
   // Mock battleStats and timelinePeriods if not available:
   const battleStats = categoryData.battleStats || [];
-  const timelinePeriods = categoryData.timelinePeriods || [];
 
   const IconComponent = MAP_ICON[categoryData.icon]
 

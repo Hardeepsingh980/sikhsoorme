@@ -18,7 +18,6 @@ import {
   import { Input } from "@/components/ui/input"
   import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
   import { Badge } from "@/components/ui/badge"
-  import { Separator } from "@/components/ui/separator"
   import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
   import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@/components/ui/collapsible"
   import Image from "next/image"
@@ -632,8 +631,7 @@ import {
             </h1>
   
             <p className="text-xl text-orange-100 mb-8 max-w-4xl mx-auto leading-relaxed">
-              Journey through the chronological story of Sikhism, from Guru Nanak's birth in 1469 to the present day.
-              Explore major events, personalities, and milestones that shaped Sikh heritage.
+                {"Journey through the chronological story of Sikhism, from Guru Nanak's birth in 1469 to the present day. Explore major events, personalities, and milestones that shaped Sikh heritage."}
             </p>
   
             {/* Timeline Stats */}
@@ -667,7 +665,7 @@ import {
             </div>
   
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {timelineData.periods.map((period, index) => (
+              {timelineData.periods.map((period) => (
                 <Card
                   key={period.id}
                   className="bg-white/90 backdrop-blur-sm border-2 border-amber-200 hover:shadow-lg transition-all"

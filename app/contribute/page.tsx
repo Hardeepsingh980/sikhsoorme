@@ -516,8 +516,7 @@ import {
                         <strong>Markdown Knowledge:</strong> Helpful but not required
                       </p>
                       <p className="text-blue-800">
-                        Don't have technical skills? No problem! You can submit content via email and we'll help format
-                        it.
+                        {"Don't have technical skills? No problem! You can submit content via email and we'll help format it."}
                       </p>
                     </div>
                   </CardContent>

@@ -15,7 +15,6 @@ import {
   import { Button } from "@/components/ui/button"
   import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
   import { Badge } from "@/components/ui/badge"
-  import { Separator } from "@/components/ui/separator"
   import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
   import { Progress } from "@/components/ui/progress"
   import Link from "next/link"
@@ -291,7 +290,7 @@ import {
           <div className="max-w-6xl mx-auto px-4">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-amber-900 mb-4">Our Mission & Vision</h2>
-              <p className="text-amber-700 text-lg">What drives us and where we're heading</p>
+              <p className="text-amber-700 text-lg">{"What drives us and where we're heading"}</p>
             </div>
   
             <div className="grid lg:grid-cols-2 gap-8 mb-12">
@@ -390,7 +389,7 @@ import {
                 <CardHeader>
                   <CardTitle className="text-center text-amber-900 text-2xl">Our Journey</CardTitle>
                   <CardDescription className="text-center text-amber-700">
-                    Key milestones in SikhSoorme's development
+                    {"Key milestones in SikhSoorme's development"}
                   </CardDescription>
                 </CardHeader>
                 <CardContent>
@@ -556,7 +555,7 @@ import {
             <TabsContent value="future" className="space-y-8">
               <div className="text-center mb-8">
                 <h2 className="text-3xl font-bold text-amber-900 mb-4">Future Plans & Roadmap</h2>
-                <p className="text-amber-700 text-lg">Where we're heading and how we'll get there</p>
+                <p className="text-amber-700 text-lg">{"Where we're heading and how we'll get there"}</p>
               </div>
   
               {/* Roadmap */}
@@ -668,8 +667,7 @@ import {
             <Heart className="w-16 h-16 text-white mx-auto mb-6" />
             <h2 className="text-3xl font-bold text-white mb-4">Join Our Mission</h2>
             <p className="text-xl text-orange-100 mb-8 max-w-2xl mx-auto">
-              Help us preserve Sikh heritage for future generations. Whether you're a researcher, developer, or simply
-              passionate about Sikh culture, there's a place for you in our community.
+              {"Help us preserve Sikh heritage for future generations. Whether you're a researcher, developer, or simply passionate about Sikh culture, there's a place for you in our community."}
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" className="bg-white text-orange-600 hover:bg-amber-50" asChild>

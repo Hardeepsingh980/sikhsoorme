@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, Suspense } from "react"
 import { useSearchParams } from "next/navigation"
 import Link from "next/link"
 import Image from "next/image"
@@ -34,23 +34,16 @@ const categories = [
     { value: "modern", label: "Modern Era" },
 ]
 
-export default function SearchPage() {
+function SearchPageComponent() {
     const searchParams = useSearchParams()
     const [searchQuery, setSearchQuery] = useState(searchParams.get("q") || "")
     const [selectedCategory, setSelectedCategory] = useState("all")
     const [filteredPersonalities, setFilteredPersonalities] = useState([])
-    const [sortBy, setSortBy] = useState("relevance")
-    const [selectedTimePeriod, setSelectedTimePeriod] = useState("all")
-    const [selectedTags, setSelectedTags] = useState<string[]>([])
-    const [showFilters, setShowFilters] = useState(false)
 
     const hasActiveFilters = selectedCategory !== "all"
 
     const clearFilters = () => {
         setSelectedCategory("all")
-        setSelectedTimePeriod("all")
-        setSelectedTags([])
-        setSortBy("relevance")
     }
 
     useEffect(() => {
@@ -213,7 +206,7 @@ export default function SearchPage() {
                                         No Results Found
                                     </h3>
                                     <p className="text-amber-700 mb-6">
-                                        We couldn't find any personalities matching your search criteria.
+                                        {"We couldn't find any personalities matching your search criteria."}
                                     </p>
                                     {hasActiveFilters && (
                                         <Button
@@ -232,3 +225,12 @@ export default function SearchPage() {
         </div>
     )
 }
+
+
+export default function SearchPage() {
+    return (
+      <Suspense fallback={<div>Loading search...</div>}>
+        <SearchPageComponent />
+      </Suspense>
+    );
+  }    
