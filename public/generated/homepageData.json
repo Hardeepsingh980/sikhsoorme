@@ -1,0 +1,93 @@
+{
+  "soormaOfTheDay": {
+    "name": "Guru Gobind Singh Ji",
+    "slug": "guru-gobind-singh-ji",
+    "category": "gurus",
+    "birth": "1666-12-22",
+    "death": "1708-10-07",
+    "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
+    "excerpt": "The tenth and last human Sikh Guru, pioneer of the warrior‑saint Khalsa, literary compiler of the Dasam Granth, and the initiator of the Guru Granth Sahib as the eternal Guru.",
+    "quote": "ਦੇਹ ਸਿਵਾ ਬਰ ਮੋਹਿ ਇਹੈ ਸੁਭ ਕਰਮਨ ਤੇ ਕਬਹੂੰ ਨ ਟਰੋਂ ॥",
+    "quoteTranslation": "Grant me, O Lord, this boon: may I never refrain from righteous deeds.",
+    "significance": "Guru Gobind Singh reshaped Sikh identity—embedding martial readiness, literary and spiritual depth, institutional strength, egalitarian values, and governance under scripture."
+  },
+  "featuredPersonalities": [
+    {
+      "name": "Guru Amar Das Ji",
+      "slug": "guru-amar-das-ji",
+      "category": "gurus",
+      "birth": "1479-05-05",
+      "death": "1574-09-01",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTt_hpauL4AYtSp_GCdI9Vb9ZCZ7wDqqZfKeYd6cmMiuGVsRMG2ajGOK8VC-FpQFzRwInSK7tSO36MEKy9DcwPYPA",
+      "excerpt": "The third Sikh Guru, whose tenure (1552–1574) saw the institutional consolidation of Sikhism—fortifying langar, launching administrative and missionary systems, abolishing social injustices, composing Anand Sahib, and forging relations with Emperor Akbar.",
+      "era": ""
+    },
+    {
+      "name": "Guru Angad Dev Ji",
+      "slug": "guru-angad-dev-ji",
+      "category": "gurus",
+      "birth": "1504-03-31",
+      "death": "1552-03-29",
+      "image": "https://dvncorestorageprod.blob.core.windows.net/files/page/57/Image/Sri_Guru_Angad_Dev_Ji_20231101054919308.jpg",
+      "excerpt": "The second Sikh Guru, Guru Angad Dev Ji (born Bhai Lehna), carried forward Guru Nanak’s mission, standardized the Gurmukhi script, institutionalized langar and education, and deepened Sikh identity through humility, service, and learning.",
+      "era": ""
+    },
+    {
+      "name": "Guru Gobind Singh Ji",
+      "slug": "guru-gobind-singh-ji",
+      "category": "gurus",
+      "birth": "1666-12-22",
+      "death": "1708-10-07",
+      "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
+      "excerpt": "The tenth and last human Sikh Guru, pioneer of the warrior‑saint Khalsa, literary compiler of the Dasam Granth, and the initiator of the Guru Granth Sahib as the eternal Guru.",
+      "era": ""
+    },
+    {
+      "name": "Guru Nanak Dev Ji",
+      "slug": "guru-nanak-dev-ji",
+      "category": "gurus",
+      "birth": "1469-04-15",
+      "death": "1539-09-22",
+      "image": "https://miro.medium.com/v2/resize:fit:748/1*hdqjfu0xkLzAiRuBmDtRUg.jpeg",
+      "excerpt": "The founder and first Sikh Guru, whose revolutionary teachings—One God, equality, honest living, service and sharing—laid the foundation of Sikhism. He traveled extensively, composed divine hymns, and established Sikh community life centered around langar and spiritual equality.",
+      "era": ""
+    }
+  ],
+  "recentAdditions": [
+    {
+      "name": "Guru Amar Das Ji",
+      "category": "gurus",
+      "added": "2025-07-20T12:00:00Z"
+    },
+    {
+      "name": "Guru Angad Dev Ji",
+      "category": "gurus",
+      "added": "2025-07-20T12:00:00Z"
+    },
+    {
+      "name": "Guru Gobind Singh Ji",
+      "category": "gurus",
+      "added": "2025-07-20T12:00:00Z"
+    },
+    {
+      "name": "Guru Nanak Dev Ji",
+      "category": "gurus",
+      "added": "2025-07-20T12:00:00Z"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Gurus",
+      "slug": "gurus",
+      "count": 4,
+      "icon": "🙏",
+      "description": "The ten divine teachers who founded and shaped Sikhism"
+    }
+  ],
+  "historicalQuotes": [],
+  "quickStats": {
+    "totalPersonalities": 4,
+    "totalCategories": 1,
+    "yearsOfHistory": "550+"
+  }
+}
