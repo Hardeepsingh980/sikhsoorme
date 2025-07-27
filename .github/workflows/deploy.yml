@@ -34,9 +34,9 @@ jobs:
 
       - name: 🛠️ Run data scripts
         run: |
-          node scripts/generateCategories.ts
-          node scripts/generateHomepageData.js
-          node scripts/pushToSupabase.js
+          ts-node scripts/generateCategories.ts
+          ts-node scripts/generateHomepageData.js
+          ts-node scripts/pushToSupabase.js
 
       - name: ⚒️ Build static site
         run: npm run build
