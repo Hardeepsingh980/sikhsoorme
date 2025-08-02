@@ -257,9 +257,9 @@ export default async function PersonalityDetailPage({ params }: any) {
             <TabsTrigger value="timeline" className="data-[state=active]:bg-orange-500 data-[state=active]:text-white">
               Timeline
             </TabsTrigger>
-            <TabsTrigger value="teachings" className="data-[state=active]:bg-orange-500 data-[state=active]:text-white">
+            {/* <TabsTrigger value="teachings" className="data-[state=active]:bg-orange-500 data-[state=active]:text-white">
               Teachings
-            </TabsTrigger>
+            </TabsTrigger> */}
             <TabsTrigger value="legacy" className="data-[state=active]:bg-orange-500 data-[state=active]:text-white">
               Legacy
             </TabsTrigger>
@@ -483,7 +483,7 @@ export default async function PersonalityDetailPage({ params }: any) {
           </TabsContent>
 
           {/* Teachings Tab */}
-          <TabsContent value="teachings" className="space-y-6">
+          {/* <TabsContent value="teachings" className="space-y-6">
             <div className="space-y-6">
               {personality.quotes.map((quote: any, index: any) => (
                 <Card key={index} className="bg-gradient-to-br from-orange-50 to-amber-50 border-2 border-orange-200">
@@ -506,7 +506,7 @@ export default async function PersonalityDetailPage({ params }: any) {
                 </Card>
               ))}
             </div>
-          </TabsContent>
+          </TabsContent> */}
 
           {/* Legacy Tab */}
           <TabsContent value="legacy" className="space-y-6">
