@@ -165,7 +165,7 @@ Server Action (e.g., search)
 Supabase API queried
    ↓
 Data rendered in real time
-
+```
 ---
 
 ## ⚙️ Scripts Overview
