@@ -8,25 +8,58 @@
   "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
   "excerpt": "Guru Gobind Singh Ji, the tenth Sikh Guru, redefined Sikhism with his unmatched courage, visionary leadership, and prolific poetry. Founder of the Khalsa, compiler of the Dasam Granth, and sanctifier of the Guru Granth Sahib as the eternal Guru, he led Sikhs through persecution and loss. His legacy unites valor, sacrifice, equality, and spiritual resolve.",
   "designation": "10th Sikh Guru",
-
   "quickStats": [
-    { "label": "Guruship (years)", "value": 33 },
-    { "label": "Years Lived", "value": 41 },
-    { "label": "Key Battles Fought", "value": "Bhangani, Nadaun, Chamkaur, Muktsar" },
-    { "label": "Hymns in Guru Granth Sahib", "value": 0 },
-    { "label": "Compositions in Dasam Granth", "value": "Jap Sahib, Akal Ustat, Bachittar Natak, Chandi di Vaar" }
+    {
+      "label": "Guruship (years)",
+      "value": 33
+    },
+    {
+      "label": "Years Lived",
+      "value": 41
+    },
+    {
+      "label": "Key Battles Fought",
+      "value": "Bhangani, Nadaun, Chamkaur, Muktsar"
+    },
+    {
+      "label": "Hymns in Guru Granth Sahib",
+      "value": 0
+    },
+    {
+      "label": "Compositions in Dasam Granth",
+      "value": "Jap Sahib, Akal Ustat, Bachittar Natak, Chandi di Vaar"
+    }
   ],
-
   "quickFacts": [
-    { "label": "Birth Name", "value": "Gobind Rai" },
-    { "label": "Father", "value": "Guru Tegh Bahadur Ji" },
-    { "label": "Mother", "value": "Mata Gujri Ji" },
-    { "label": "Spouse", "value": "Mata Jito Ji, Mata Sundari Ji, Mata Sahib Kaur Ji" },
-    { "label": "Appointed Guru Age", "value": "9 years old" },
-    { "label": "Date of Passing", "value": "7 October 1708" },
-    { "label": "Place of Martyrdom", "value": "Nanded, Maharashtra" }
+    {
+      "label": "Birth Name",
+      "value": "Gobind Rai"
+    },
+    {
+      "label": "Father",
+      "value": "Guru Tegh Bahadur Ji"
+    },
+    {
+      "label": "Mother",
+      "value": "Mata Gujri Ji"
+    },
+    {
+      "label": "Spouse",
+      "value": "Mata Jito Ji, Mata Sundari Ji, Mata Sahib Kaur Ji"
+    },
+    {
+      "label": "Appointed Guru Age",
+      "value": "9 years old"
+    },
+    {
+      "label": "Date of Passing",
+      "value": "7 October 1708"
+    },
+    {
+      "label": "Place of Martyrdom",
+      "value": "Nanded, Maharashtra"
+    }
   ],
-
   "version": {
     "lastUpdated": "2025-07-28T00:15:00+05:30",
     "version": "1.0.0",
@@ -34,7 +67,6 @@
     "edits": 25,
     "historyUrl": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh"
   },
-
   "biographySections": [
     {
       "label": "Early Life",
@@ -62,7 +94,6 @@
       "value": "In his last years, Guru Gobind Singh Ji survived many assassination attempts and finally attained martyrdom on 7 October 1708 at Nanded. Before passing, he declared that henceforth the Guru Granth Sahib would be the eternal Guru, abolishing the tradition of personal Gurus and inaugurating a new era for the Sikh faith.[1][9]"
     }
   ],
-
   "spiritualLegacy": {
     "description": "Guru Gobind Singh Ji’s divine inspiration set Sikhism on its path of valor, spiritual sovereignty, and the defense of justice. His creation of the Khalsa established the Sikh identity as inseparably linked to equality, sacrifice, compassion, and devotion.",
     "keyContributions": [
@@ -73,7 +104,6 @@
       "Unified Sikhs beyond distinctions, empowering women and lower castes"
     ]
   },
-
   "modernRelevance": {
     "description": "Guru Gobind Singh Ji’s message stands for universal human rights, social justice, and resistance to tyranny. The Khalsa remains a living example of fearlessness, service, and global humanitarianism.",
     "contemporaryImpact": [
@@ -82,7 +112,6 @@
       "Gurdwaras and Sikh diaspora model his ideals of seva (service) and courage in times of crisis"
     ]
   },
-
   "achievements": [
     {
       "title": "Founded Khalsa Panth",
@@ -115,7 +144,6 @@
       "icon": "Crown"
     }
   ],
-
   "quotes": [
     {
       "original": "ਦੇਹ ਸੀਵ ਗੁਰ ਕੀ ਭਗਤਿ ਕਰੀਜੈ। ਇਉ ਰਹੈ ਦੇਹੀ ਭਾਇ ਨ ਕੀਜੈ।",
@@ -139,7 +167,6 @@
       "source": "Dasam Granth"
     }
   ],
-
   "timeline": [
     {
       "year": "1666",
@@ -169,37 +196,46 @@
       "type": "death"
     }
   ],
-
   "relatedPersonalities": [
     {
       "name": "Guru Tegh Bahadur Ji",
       "relation": "Father (9th Sikh Guru)",
-      "slug": "guru-tegh-bahadur-ji"
+      "slug": "guru-tegh-bahadur-ji",
+      "category": "gurus",
+      "image": "https://dvncorestorageprod.blob.core.windows.net/files/page/61/Image/GuruTeghBahadurSahibbySobhaSinghArt-webistemaindropshadow_1135x_20231101071233682.jpg",
+      "exists": true
     },
     {
       "name": "Mata Gujri Ji",
       "relation": "Mother",
-      "slug": "mata-gujri-ji"
+      "slug": "mata-gujri-ji",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Baba Ajit Singh Ji, Baba Jujhar Singh Ji, Baba Zorawar Singh Ji, Baba Fateh Singh Ji",
       "relation": "Sons (Chaar Sahibzaade)",
-      "slug": "chaar-sahibzaade"
+      "slug": "chaar-sahibzaade",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Panj Pyare",
       "relation": "First initiates of Khalsa",
-      "slug": "panj-pyare"
+      "slug": "panj-pyare",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
-
   "historicalContext": {
     "period": "Late 17th–early 18th century (Mughal Empire; Aurangzeb)",
     "politicalSituation": "Widespread persecution of non-Muslims in the Mughal Empire, intense repression of the Sikh and Hindu communities, and centralization of power under Aurangzeb.",
     "socialConditions": "Rigid caste divides, religious intolerance, and institutional violence necessitated a powerful, unified Sikh community ready to defend dharma and equality.",
     "significance": "Guru Gobind Singh Ji’s leadership transformed Sikhism into a distinctly sovereign, martial, and egalitarian faith with enduring identity and resilience."
   },
-
   "references": [
     "Wikipedia: Guru Gobind Singh[1]",
     "Britannica: Guru Gobind Singh[2]",

@@ -8,26 +8,62 @@
   "image": "https://4.bp.blogspot.com/-HPt0MXWvqr8/Uu0-IfObjFI/AAAAAAAABPQ/ywO5U28v84k/s1600/Guru+Amar+Das.jpg",
   "excerpt": "Guru Amar Das Ji became the third Sikh Guru in 1552 at the age of 73. Revered for his humility, he greatly expanded Sikhism through the Manji system, established the first Sikh pilgrimage center at Goindwal, championed social reforms like gender and caste equality, and composed many hymns including Anand Sahib. His leadership solidified Sikh institutions, elevated the practice of langar, and advanced the Sikh faith’s message of service, inclusion, and spiritual discipline.",
   "designation": "3rd Sikh Guru",
-
   "quickStats": [
-    { "label": "Guruship (years)", "value": 22 },
-    { "label": "Years Lived", "value": 95 },
-    { "label": "Hymns in Guru Granth Sahib", "value": 907 },
-    { "label": "Children", "value": 4 },
-    { "label": "Major Contributions", "value": "Manji system, Goindwal Baoli, Anand Sahib, social reforms" }
+    {
+      "label": "Guruship (years)",
+      "value": 22
+    },
+    {
+      "label": "Years Lived",
+      "value": 95
+    },
+    {
+      "label": "Hymns in Guru Granth Sahib",
+      "value": 907
+    },
+    {
+      "label": "Children",
+      "value": 4
+    },
+    {
+      "label": "Major Contributions",
+      "value": "Manji system, Goindwal Baoli, Anand Sahib, social reforms"
+    }
   ],
-
   "quickFacts": [
-    { "label": "Birth Name", "value": "Amar Das" },
-    { "label": "Father", "value": "Tej Bhan" },
-    { "label": "Mother", "value": "Mata Bakht (Lachmi)" },
-    { "label": "Spouse", "value": "Mata Mansa Devi" },
-    { "label": "Birth Place", "value": "Basarke, Amritsar district, Punjab" },
-    { "label": "Appointed Guru Age", "value": "73 years old" },
-    { "label": "Date of Passing", "value": "1 September 1574" },
-    { "label": "Samadhi Place", "value": "Goindwal Sahib, Punjab" }
+    {
+      "label": "Birth Name",
+      "value": "Amar Das"
+    },
+    {
+      "label": "Father",
+      "value": "Tej Bhan"
+    },
+    {
+      "label": "Mother",
+      "value": "Mata Bakht (Lachmi)"
+    },
+    {
+      "label": "Spouse",
+      "value": "Mata Mansa Devi"
+    },
+    {
+      "label": "Birth Place",
+      "value": "Basarke, Amritsar district, Punjab"
+    },
+    {
+      "label": "Appointed Guru Age",
+      "value": "73 years old"
+    },
+    {
+      "label": "Date of Passing",
+      "value": "1 September 1574"
+    },
+    {
+      "label": "Samadhi Place",
+      "value": "Goindwal Sahib, Punjab"
+    }
   ],
-
   "version": {
     "lastUpdated": "2025-07-27T23:30:00+05:30",
     "version": "1.0.0",
@@ -35,7 +71,6 @@
     "edits": 20,
     "historyUrl": "https://en.wikipedia.org/wiki/Guru_Amar_Das"
   },
-
   "biographySections": [
     {
       "label": "Early Life",
@@ -78,7 +113,6 @@
       "value": "Spending his last years at Goindwal in devotional service, Guru Amar Das Ji appointed his son-in-law Bhai Jetha (Guru Ram Das Ji) as his successor, continuing the merit-based tradition of Guruship."
     }
   ],
-
   "spiritualLegacy": {
     "description": "Guru Amar Das Ji’s legacy is defined by social equality and spiritual discipline. He reinforced ‘seva’ (service) as a spiritual path and expanded Sikh practice with new institutions and liturgical compositions.",
     "keyContributions": [
@@ -88,7 +122,6 @@
       "Expanded Langar and eliminated social barriers in Sikh worship"
     ]
   },
-
   "modernRelevance": {
     "description": "Guru Amar Das Ji’s teachings on equality, dignity of women, and universal service remain pillars of Sikh faith and social work globally.",
     "contemporaryImpact": [
@@ -98,7 +131,6 @@
       "Anand Sahib integral to all major Sikh ceremonies"
     ]
   },
-
   "achievements": [
     {
       "title": "Established Manji System",
@@ -131,7 +163,6 @@
       "icon": "Utensils"
     }
   ],
-
   "quotes": [
     {
       "original": "ਜੇਸਾ ਸੇਵੇ ਸੁ ਤੈਸੋ ਹੋਇ ॥",
@@ -155,7 +186,6 @@
       "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 919"
     }
   ],
-
   "timeline": [
     {
       "year": "1479",
@@ -185,37 +215,46 @@
       "type": "death"
     }
   ],
-
   "relatedPersonalities": [
     {
       "name": "Guru Angad Dev Ji",
       "relation": "Predecessor, spiritual teacher",
-      "slug": "guru-angad-dev-ji"
+      "slug": "guru-angad-dev-ji",
+      "category": "gurus",
+      "image": "https://sikhvichardhara.com/wp-content/uploads/sites/325/2023/10/Angad.jpg",
+      "exists": true
     },
     {
       "name": "Guru Ram Das Ji",
       "relation": "Successor (4th Sikh Guru), son-in-law",
-      "slug": "guru-ram-das-ji"
+      "slug": "guru-ram-das-ji",
+      "category": "gurus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPzp097daIYZghyi14ouxZqeb5bk0qFMcMK8gp1aj_ydDE3RKfKsIsI5KHwKYvTP0rFQ&usqp=CAU",
+      "exists": true
     },
     {
       "name": "Bibi Bhani Ji",
       "relation": "Daughter, mother of Guru Arjan Dev Ji",
-      "slug": "bibi-bhani-ji"
+      "slug": "bibi-bhani-ji",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Mata Mansa Devi",
       "relation": "Wife",
-      "slug": "mata-mansa-devi"
+      "slug": "mata-mansa-devi",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
-
   "historicalContext": {
     "period": "Mid-16th century (early Mughal era)",
     "politicalSituation": "Indian subcontinent under early Mughal rule (Babur, Humayun, Akbar); Punjab fragmented with rising Mughal authority.",
     "socialConditions": "Rigid caste system, gender inequality, religious diversity with entrenched ritualism. Socio-religious reform movements gaining ground.",
     "significance": "Guru Amar Das Ji’s institution-building, gender and caste reforms, and spiritual teachings helped shape Sikhism into a distinct faith and unified movement."
   },
-
   "references": [
     "Encyclopaedia of Sikhism (Punjabi University, Patiala)",
     "Guru Amar Das: Third Sikh Guru by Surjit Singh Gandhi",

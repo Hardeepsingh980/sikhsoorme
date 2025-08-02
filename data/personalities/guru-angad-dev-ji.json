@@ -8,26 +8,62 @@
   "image": "https://sikhvichardhara.com/wp-content/uploads/sites/325/2023/10/Angad.jpg",
   "excerpt": "Guru Angad Dev Ji, born as Bhai Lehna in 1504, became the second Sikh Guru in 1539 after being chosen by Guru Nanak Dev Ji. He is best known for standardizing and popularizing the Gurmukhi script, strengthening the Sikh community through organization and service, and furthering the message of humility, discipline, and devotion. His stewardship established foundational institutions and practices central to Sikhism.",
   "designation": "2nd Sikh Guru",
-
   "quickStats": [
-    { "label": "Guruship (years)", "value": 13 },
-    { "label": "Years Lived", "value": 48 },
-    { "label": "Hymns in Guru Granth Sahib", "value": 62 },
-    { "label": "Children", "value": 2 },
-    { "label": "Major Contributions", "value": "Gurmukhi script, Organization of Sangat and Langar" }
+    {
+      "label": "Guruship (years)",
+      "value": 13
+    },
+    {
+      "label": "Years Lived",
+      "value": 48
+    },
+    {
+      "label": "Hymns in Guru Granth Sahib",
+      "value": 62
+    },
+    {
+      "label": "Children",
+      "value": 2
+    },
+    {
+      "label": "Major Contributions",
+      "value": "Gurmukhi script, Organization of Sangat and Langar"
+    }
   ],
-
   "quickFacts": [
-    { "label": "Birth Name", "value": "Lehna" },
-    { "label": "Father", "value": "Bhai Pheru Mal" },
-    { "label": "Mother", "value": "Mata Daya Kaur (Sabhrai)" },
-    { "label": "Spouse", "value": "Mata Khivi" },
-    { "label": "Birth Place", "value": "Matte di Sarai, Muktsar, Punjab" },
-    { "label": "Appointed Guru Age", "value": "35 years old" },
-    { "label": "Date of Passing", "value": "29 March 1552" },
-    { "label": "Samadhi Place", "value": "Khadur Sahib, Punjab" }
+    {
+      "label": "Birth Name",
+      "value": "Lehna"
+    },
+    {
+      "label": "Father",
+      "value": "Bhai Pheru Mal"
+    },
+    {
+      "label": "Mother",
+      "value": "Mata Daya Kaur (Sabhrai)"
+    },
+    {
+      "label": "Spouse",
+      "value": "Mata Khivi"
+    },
+    {
+      "label": "Birth Place",
+      "value": "Matte di Sarai, Muktsar, Punjab"
+    },
+    {
+      "label": "Appointed Guru Age",
+      "value": "35 years old"
+    },
+    {
+      "label": "Date of Passing",
+      "value": "29 March 1552"
+    },
+    {
+      "label": "Samadhi Place",
+      "value": "Khadur Sahib, Punjab"
+    }
   ],
-
   "version": {
     "lastUpdated": "2025-07-27T23:10:00+05:30",
     "version": "1.0.0",
@@ -35,7 +71,6 @@
     "edits": 18,
     "historyUrl": "https://en.wikipedia.org/wiki/Guru_Angad"
   },
-
   "biographySections": [
     {
       "label": "Early Life",
@@ -63,7 +98,6 @@
       "value": "Guru Angad Dev Ji spent his last years at Khadur Sahib, serving the community with compassion and humility. Before his passing in 1552, he appointed Guru Amar Das Ji as his successor, strengthening the tradition of spiritual leadership by merit."
     }
   ],
-
   "spiritualLegacy": {
     "description": "Guru Angad Dev Ji solidified the spiritual, linguistic, and organizational foundations of Sikhism, setting a model of obedience, humility, and selfless service for all future generations.",
     "keyContributions": [
@@ -74,7 +108,6 @@
       "Encouraged physical health and sports within the Sikh community"
     ]
   },
-
   "modernRelevance": {
     "description": "Guru Angad Dev Ji’s legacy resonates today in the centrality of Gurmukhi as a vehicle of Punjabi identity, the ongoing seva (selfless service) tradition, and the ideals of humility and inclusiveness.",
     "contemporaryImpact": [
@@ -84,7 +117,6 @@
       "Emphasis on physical wellness and character-building continues in Sikh and Punjabi culture"
     ]
   },
-
   "achievements": [
     {
       "title": "Standardized Gurmukhi Script",
@@ -111,7 +143,6 @@
       "icon": "BookOpen"
     }
   ],
-
   "quotes": [
     {
       "original": "ਸਤਿਗੁਰ ਕੀ ਸੇਵਾ ਨਿਸਫਲ ਨਹੀ ਜਾਤੀ ॥",
@@ -135,7 +166,6 @@
       "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 1331"
     }
   ],
-
   "timeline": [
     {
       "year": "1504",
@@ -165,32 +195,38 @@
       "type": "death"
     }
   ],
-
   "relatedPersonalities": [
     {
       "name": "Guru Nanak Dev Ji",
       "relation": "Predecessor, spiritual teacher",
-      "slug": "guru-nanak-dev-ji"
+      "slug": "guru-nanak-dev-ji",
+      "category": "gurus",
+      "image": "https://sikhsewak.wordpress.com/wp-content/uploads/2015/06/guru-nanak-dev-ji1.jpg?w=640",
+      "exists": true
     },
     {
       "name": "Guru Amar Das Ji",
       "relation": "Successor (3rd Sikh Guru)",
-      "slug": "guru-amar-das-ji"
+      "slug": "guru-amar-das-ji",
+      "category": "gurus",
+      "image": "https://4.bp.blogspot.com/-HPt0MXWvqr8/Uu0-IfObjFI/AAAAAAAABPQ/ywO5U28v84k/s1600/Guru+Amar+Das.jpg",
+      "exists": true
     },
     {
       "name": "Mata Khivi",
       "relation": "Wife, organizer of langar",
-      "slug": "mata-khivi"
+      "slug": "mata-khivi",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
-
   "historicalContext": {
     "period": "Early to mid-16th century",
     "politicalSituation": "End of the Lodi dynasty, early Mughal rule under Babur and Humayun; period of political instability in Northern India.",
     "socialConditions": "Entrenched caste distinctions, gender inequality, and religious orthodoxy prevailed. Literacy was very limited among common people.",
     "significance": "Guru Angad’s reforms facilitated social upliftment, inclusive community organization, and the creation of a script and identity distinct from both Hindu and Islamic traditions."
   },
-
   "references": [
     "The Sikhs by Patwant Singh",
     "The Encyclopaedia of Sikhism (Punjabi University, Patiala)",

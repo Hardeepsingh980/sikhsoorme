@@ -322,24 +322,49 @@ export default async function PersonalityDetailPage({ params }: any) {
                   </CardHeader>
                   <CardContent>
                     <div className="space-y-3">
-                      {personality.relatedPersonalities.map((person: any, index: any) => (
-                        <Link
-                          key={index}
-                          href={`/soorme/${person.category}/${person.slug}`}
-                          className="flex items-center gap-3 p-2 rounded-lg hover:bg-amber-100 transition-colors"
-                        >
-                          <Image
-                            src={person.image || "/placeholder.svg"}
-                            alt={person.name}
-                            width={40}
-                            height={40}
-                            className="rounded-full border border-amber-300"
-                          />
-                          <div className="flex-1 min-w-0">
-                            <div className="font-medium text-amber-900 text-sm">{person.name}</div>
-                            <div className="text-xs text-amber-700">{person.relation}</div>
+                      {personality.relatedPersonalities.map((person: any, index: number) => (
+                        person.exists ? (
+                          <Link
+                            key={index}
+                            href={`/soorme/${person.category}/${person.slug}`}
+                            className="flex items-center gap-3 p-2 rounded-lg hover:bg-amber-100 transition-colors"
+                          >
+                            <Image
+                              src={person.image || "/placeholder.svg"}
+                              alt={person.name}
+                              width={40}
+                              height={40}
+                              className="rounded-full border border-amber-300"
+                            />
+                            <div className="flex-1 min-w-0">
+                              <div className="font-medium text-amber-900 text-sm">{person.name}</div>
+                              <div className="text-xs text-amber-700">{person.relation}</div>
+                              <Link href={`/soorme/${person.category}/${person.slug}`} className="text-xs text-amber-700">Read More</Link>
+                            </div>
+                          </Link>
+                        ) : (
+                          <div
+                            key={index}
+                            className="flex items-center gap-3 p-2 rounded-lg bg-amber-50 border border-amber-200"
+                          >
+                            <Image
+                              src={person.image || "/placeholder.png"}
+                              alt={person.name}
+                              width={40}
+                              height={40}
+                              className="rounded-full border border-amber-300 grayscale"
+                            />
+                            <div className="flex-1 min-w-0">
+                              <div className="font-medium text-amber-900 text-sm">{person.name}</div>
+                              <div className="text-xs text-amber-700">{person.relation}</div>
+                              <Link href={GITHUB_EDIT_URL} target="_blank">
+                                <div className="text-[10px] mt-1 text-amber-500 bg-amber-100 inline-block px-2 py-0.5 rounded-full font-medium">
+                                  Contribute this profile →
+                                </div>
+                              </Link>
+                            </div>
                           </div>
-                        </Link>
+                        )
                       ))}
                     </div>
                   </CardContent>

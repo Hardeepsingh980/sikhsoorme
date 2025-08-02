@@ -1,196 +1,234 @@
 {
-    "name": "Guru Granth Sahib Ji",
-    "slug": "guru-granth-sahib-ji",
-    "category": "gurus",
-    "birth": "1604-08-16",
-    "death": "Eternal",
-    "birthPlace": "Amritsar, Punjab, India (First installation at Harmandir Sahib)",
-    "image": "https://archives.vsktelangana.org/wp-content/uploads/2020/08/gurugrantsahibd.jpg",
-    "excerpt": "The Guru Granth Sahib Ji, the eternal Guru of the Sikhs, is a universal scripture that encompasses the spiritual wisdom of Sikh Gurus and an array of enlightened saints. Compiled first by Guru Arjan Dev Ji in 1604 and bestowed eternal Guruship by Guru Gobind Singh Ji in 1708, it is the fountain of Sikh theology, ethics, music, and spiritual practice, prescribing oneness, compassion, and justice for all.",
-    "designation": "Eternal Guru of the Sikhs",
-  
-    "quickStats": [
-      { "label": "First Compilation", "value": "1604 CE" },
-      { "label": "Final Standardization", "value": "1708 CE (Damdama version, by Guru Gobind Singh Ji)" },
-      { "label": "Composers", "value": "6 Sikh Gurus, 15 Bhagats, 11 Bhatts, other saints" },
-      { "label": "Total Hymns", "value": "5,894" },
-      { "label": "Script", "value": "Gurmukhi" },
-      { "label": "Pages (Angs)", "value": "1,430" }
-    ],
-  
-    "quickFacts": [
-      { "label": "Eternal Guru", "value": "Since 1708 (by order of Guru Gobind Singh Ji)" },
-      { "label": "Language", "value": "Predominantly Punjabi, also Hindi, Persian, Marathi, Sanskrit" },
-      { "label": "Arranged by", "value": "Ragas (musical modes)" },
-      { "label": "Installation Place", "value": "Harmandir Sahib (Golden Temple), Amritsar" },
-      { "label": "First Scribe", "value": "Bhai Gurdas Ji" },
-      { "label": "Final Adi Granth Addition", "value": "Compositions of Guru Tegh Bahadur Ji" }
-    ],
-  
-    "version": {
-      "lastUpdated": "2025-07-28T00:00:00+05:30",
-      "version": "1.0.0",
-      "contributors": 6,
-      "edits": 28,
-      "historyUrl": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib"
+  "name": "Guru Granth Sahib Ji",
+  "slug": "guru-granth-sahib-ji",
+  "category": "gurus",
+  "birth": "1604-08-16",
+  "death": "Eternal",
+  "birthPlace": "Amritsar, Punjab, India (First installation at Harmandir Sahib)",
+  "image": "https://archives.vsktelangana.org/wp-content/uploads/2020/08/gurugrantsahibd.jpg",
+  "excerpt": "The Guru Granth Sahib Ji, the eternal Guru of the Sikhs, is a universal scripture that encompasses the spiritual wisdom of Sikh Gurus and an array of enlightened saints. Compiled first by Guru Arjan Dev Ji in 1604 and bestowed eternal Guruship by Guru Gobind Singh Ji in 1708, it is the fountain of Sikh theology, ethics, music, and spiritual practice, prescribing oneness, compassion, and justice for all.",
+  "designation": "Eternal Guru of the Sikhs",
+  "quickStats": [
+    {
+      "label": "First Compilation",
+      "value": "1604 CE"
     },
-  
-    "biographySections": [
-      {
-        "label": "Revelation & Compilation",
-        "icon": "BookOpen",
-        "value": "Guru Granth Sahib Ji embodies the revealed Bani (Word) as received and written by the Sikh Gurus and various saints. Guru Arjan Dev Ji compiled the first version in 1604 at Amritsar, including the verses of the first five Gurus and other enlightened souls from Hindu and Muslim backgrounds, promoting spiritual universality.[1][6][8]"
-      },
-      {
-        "label": "Standardization & Guruship",
-        "icon": "Crown",
-        "value": "Guru Gobind Singh Ji, the tenth Guru, reviewed and finalized the scripture at Damdama Sahib in 1705-1708, adding the hymns of Guru Tegh Bahadur Ji and decreeing it as the eternal Guru for all Sikhs with the command 'Guru Maneyo Granth.'[1][4][6]"
-      },
-      {
-        "label": "Structure and Language",
-        "icon": "Feather",
-        "value": "The Granth spans 1,430 Angs (pages) containing 5,894 hymns. The hymns are organized by musical ragas and rendered in Gurmukhi script, using a blend of Punjabi, Hindi, Sanskrit, Marathi, and Persian; this linguistic diversity amplifies its universal appeal.[1][8]"
-      },
-      {
-        "label": "Central Teaching & Philosophy",
-        "icon": "Lightbulb",
-        "value": "The Guru Granth Sahib teaches unity of God, brotherhood of humanity, selfless service, truthful living, and renunciation of ritualism and caste. It contains discourses on the purpose of existence, ethical conduct, justice, and Divine love. Its spiritual guidance is rooted in Mool Mantar and Japji Sahib.[5][9][10]"
-      },
-      {
-        "label": "Living Guru & Practices",
-        "icon": "Home",
-        "value": "Its verses are sung daily in every Gurdwara. As the living Guru, it is ceremonially opened, read, and respectfully closed daily. Sikhs bow to it, and its hymns—kirtan—accompany all Sikh rites of passage. Whenever a decision or guidance is needed, a random reading (hukamnama) is taken from its pages.[1][4][5]"
-      }
-    ],
-  
-    "spiritualLegacy": {
-      "description": "Guru Granth Sahib Ji is both the embodiment and eternal source of Sikh spiritual authority. Its message transcends faith boundaries, urging devotion, justice, equality, and compassion for all.",
-      "keyContributions": [
-        "Sanctified as the eternal living Guru",
-        "Universal scripture embracing teachings of diverse saints",
-        "Gave Sikhs a spiritual and ethical constitution",
-        "Established music (raga) as means to Divine communion",
-        "Repository of Sikh theology, philosophy, and code of conduct"
-      ]
+    {
+      "label": "Final Standardization",
+      "value": "1708 CE (Damdama version, by Guru Gobind Singh Ji)"
     },
-  
-    "modernRelevance": {
-      "description": "Guru Granth Sahib Ji continues to be the spiritual center of Sikh life, guiding millions worldwide on paths of service, integrity, equality, and faith.",
-      "contemporaryImpact": [
-        "Basis of global Sikh rites, worship, and values",
-        "Universal scripture inspiring interfaith harmony",
-        "Resource for social justice, ethical living, and inclusive spirituality",
-        "Daily recitation sustains traditions of remembrance (Simran), kirtan, and community"
-      ]
+    {
+      "label": "Composers",
+      "value": "6 Sikh Gurus, 15 Bhagats, 11 Bhatts, other saints"
     },
-  
-    "achievements": [
-      {
-        "title": "Installation of Adi Granth",
-        "year": "1604",
-        "description": "First compiled by Guru Arjan Dev Ji and installed at Harmandir Sahib, Amritsar.",
-        "icon": "Landmark"
-      },
-      {
-        "title": "Bestowed Guruship",
-        "year": "1708",
-        "description": "Guru Gobind Singh Ji declared it the eternal Guru, ending the line of human Gurus.",
-        "icon": "Crown"
-      },
-      {
-        "title": "Universal Spirituality",
-        "year": "1604-1708",
-        "description": "Included hymns of saints from various social and religious backgrounds.",
-        "icon": "Globe"
-      }
-    ],
-  
-    "quotes": [
-      {
-        "original": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ",
-        "transliteration": "Ik Onkar Satnam Kartā Purakh Nirbhau Nirvair",
-        "translation": "There is but One God. His Name is Truth. He is the Creator. He is without fear. He is without hate.",
-        "context": "Mool Mantar, the foundational verse opening Guru Granth Sahib Ji",
-        "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 1"
-      },
-      {
-        "original": "ਬੂਝਹੁ ਗਿਆਨੀ ਭੇਦੁ ਬਾਨੀ ਕਉ ਇਹੁ ਪਦੁ ਨਾਨਕ ਨਿਰਾਲਾ ॥",
-        "transliteration": "Būjhahu giānī bhed bani kau ih pad Nanak nirālā.",
-        "translation": "O wise, understand the mystery of the Word; this teaching of Nanak is unique.",
-        "context": "On the uniqueness of Guru's Word (Bani)",
-        "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 635"
-      },
-      {
-        "original": "ਆਪਿ ਨਾਥੁ ਨਾਥੀ ਸਭ ਜਾ ਕੀ ਰਿਦੈ ਸੁਧੁ ਜਪੇ ਸੋਈ ॥",
-        "transliteration": "Aap nāth nāthī sabh jā kī riday sudh jape soī.",
-        "translation": "He Himself is the Lord; He is the friend of all. One whose heart is pure meditates on Him.",
-        "context": "Universal Divine Oneness and spiritual practice",
-        "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 294"
-      }
-    ],
-  
-    "timeline": [
-      {
-        "year": "1604",
-        "date": "16 Aug 1604",
-        "event": "First compilation of Adi Granth by Guru Arjan Dev Ji, installed at Harmandir Sahib",
-        "type": "founding"
-      },
-      {
-        "year": "1704-1708",
-        "event": "Finalization and addition of Guru Tegh Bahadur Ji's compositions by Guru Gobind Singh Ji at Damdama Sahib",
-        "type": "revision"
-      },
-      {
-        "year": "1708",
-        "event": "Guru Granth Sahib Ji bestowed Guruship by Guru Gobind Singh Ji",
-        "type": "appointment"
-      }
-    ],
-  
-    "relatedPersonalities": [
-      {
-        "name": "Guru Arjan Dev Ji",
-        "relation": "First compiler and editor",
-        "slug": "guru-arjan-dev-ji"
-      },
-      {
-        "name": "Guru Gobind Singh Ji",
-        "relation": "Final standardizer, bestowed eternal Guruship",
-        "slug": "guru-gobind-singh-ji"
-      },
-      {
-        "name": "Bhai Gurdas Ji",
-        "relation": "First scribe of the Adi Granth",
-        "slug": "bhai-gurdas-ji"
-      },
-      {
-        "name": "Bhagat Kabir Ji",
-        "relation": "Major saint-poet contributor",
-        "slug": "bhagat-kabir-ji"
-      },
-      {
-        "name": "Sheikh Farid",
-        "relation": "Muslim Sufi saint, major contributor",
-        "slug": "sheikh-farid"
-      }
-    ],
-  
-    "historicalContext": {
-      "period": "16th–18th centuries (Mughal period in India)",
-      "politicalSituation": "Punjab under Mughal governance, periods of religious reform, persecution, and cultural cross-pollination.",
-      "socialConditions": "Rise of Bhakti and Sant movements, entrenched ritualism, and caste hierarchies; Sikh Gurus promoted egalitarian, spiritual, and ethical revolution.",
-      "significance": "Guru Granth Sahib unified the multi-faith teachings of saints and Gurus as the foundation for Sikh identity, serving as both scripture and living Guru for the community."
+    {
+      "label": "Total Hymns",
+      "value": "5,894"
     },
-  
-    "references": [
-      "Wikipedia: Guru Granth Sahib[1]",
-      "Britannica: Adi Granth[8]",
-      "SikhiWiki: Guru Granth Sahib[4]",
-      "Times of India: The eternal Sri Guru Granth Sahib[6]",
-      "Times of India: The living Guru[5]",
-      "Wikibooks: Sri Guru Granth Sahib Ji[9]",
-      "Encyclopedia.com: Sri Guru Granth Sahib[10]"
+    {
+      "label": "Script",
+      "value": "Gurmukhi"
+    },
+    {
+      "label": "Pages (Angs)",
+      "value": "1,430"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Eternal Guru",
+      "value": "Since 1708 (by order of Guru Gobind Singh Ji)"
+    },
+    {
+      "label": "Language",
+      "value": "Predominantly Punjabi, also Hindi, Persian, Marathi, Sanskrit"
+    },
+    {
+      "label": "Arranged by",
+      "value": "Ragas (musical modes)"
+    },
+    {
+      "label": "Installation Place",
+      "value": "Harmandir Sahib (Golden Temple), Amritsar"
+    },
+    {
+      "label": "First Scribe",
+      "value": "Bhai Gurdas Ji"
+    },
+    {
+      "label": "Final Adi Granth Addition",
+      "value": "Compositions of Guru Tegh Bahadur Ji"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2025-07-28T00:00:00+05:30",
+    "version": "1.0.0",
+    "contributors": 6,
+    "edits": 28,
+    "historyUrl": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib"
+  },
+  "biographySections": [
+    {
+      "label": "Revelation & Compilation",
+      "icon": "BookOpen",
+      "value": "Guru Granth Sahib Ji embodies the revealed Bani (Word) as received and written by the Sikh Gurus and various saints. Guru Arjan Dev Ji compiled the first version in 1604 at Amritsar, including the verses of the first five Gurus and other enlightened souls from Hindu and Muslim backgrounds, promoting spiritual universality.[1][6][8]"
+    },
+    {
+      "label": "Standardization & Guruship",
+      "icon": "Crown",
+      "value": "Guru Gobind Singh Ji, the tenth Guru, reviewed and finalized the scripture at Damdama Sahib in 1705-1708, adding the hymns of Guru Tegh Bahadur Ji and decreeing it as the eternal Guru for all Sikhs with the command 'Guru Maneyo Granth.'[1][4][6]"
+    },
+    {
+      "label": "Structure and Language",
+      "icon": "Feather",
+      "value": "The Granth spans 1,430 Angs (pages) containing 5,894 hymns. The hymns are organized by musical ragas and rendered in Gurmukhi script, using a blend of Punjabi, Hindi, Sanskrit, Marathi, and Persian; this linguistic diversity amplifies its universal appeal.[1][8]"
+    },
+    {
+      "label": "Central Teaching & Philosophy",
+      "icon": "Lightbulb",
+      "value": "The Guru Granth Sahib teaches unity of God, brotherhood of humanity, selfless service, truthful living, and renunciation of ritualism and caste. It contains discourses on the purpose of existence, ethical conduct, justice, and Divine love. Its spiritual guidance is rooted in Mool Mantar and Japji Sahib.[5][9][10]"
+    },
+    {
+      "label": "Living Guru & Practices",
+      "icon": "Home",
+      "value": "Its verses are sung daily in every Gurdwara. As the living Guru, it is ceremonially opened, read, and respectfully closed daily. Sikhs bow to it, and its hymns—kirtan—accompany all Sikh rites of passage. Whenever a decision or guidance is needed, a random reading (hukamnama) is taken from its pages.[1][4][5]"
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Guru Granth Sahib Ji is both the embodiment and eternal source of Sikh spiritual authority. Its message transcends faith boundaries, urging devotion, justice, equality, and compassion for all.",
+    "keyContributions": [
+      "Sanctified as the eternal living Guru",
+      "Universal scripture embracing teachings of diverse saints",
+      "Gave Sikhs a spiritual and ethical constitution",
+      "Established music (raga) as means to Divine communion",
+      "Repository of Sikh theology, philosophy, and code of conduct"
     ]
-  }
-  
+  },
+  "modernRelevance": {
+    "description": "Guru Granth Sahib Ji continues to be the spiritual center of Sikh life, guiding millions worldwide on paths of service, integrity, equality, and faith.",
+    "contemporaryImpact": [
+      "Basis of global Sikh rites, worship, and values",
+      "Universal scripture inspiring interfaith harmony",
+      "Resource for social justice, ethical living, and inclusive spirituality",
+      "Daily recitation sustains traditions of remembrance (Simran), kirtan, and community"
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Installation of Adi Granth",
+      "year": "1604",
+      "description": "First compiled by Guru Arjan Dev Ji and installed at Harmandir Sahib, Amritsar.",
+      "icon": "Landmark"
+    },
+    {
+      "title": "Bestowed Guruship",
+      "year": "1708",
+      "description": "Guru Gobind Singh Ji declared it the eternal Guru, ending the line of human Gurus.",
+      "icon": "Crown"
+    },
+    {
+      "title": "Universal Spirituality",
+      "year": "1604-1708",
+      "description": "Included hymns of saints from various social and religious backgrounds.",
+      "icon": "Globe"
+    }
+  ],
+  "quotes": [
+    {
+      "original": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ",
+      "transliteration": "Ik Onkar Satnam Kartā Purakh Nirbhau Nirvair",
+      "translation": "There is but One God. His Name is Truth. He is the Creator. He is without fear. He is without hate.",
+      "context": "Mool Mantar, the foundational verse opening Guru Granth Sahib Ji",
+      "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 1"
+    },
+    {
+      "original": "ਬੂਝਹੁ ਗਿਆਨੀ ਭੇਦੁ ਬਾਨੀ ਕਉ ਇਹੁ ਪਦੁ ਨਾਨਕ ਨਿਰਾਲਾ ॥",
+      "transliteration": "Būjhahu giānī bhed bani kau ih pad Nanak nirālā.",
+      "translation": "O wise, understand the mystery of the Word; this teaching of Nanak is unique.",
+      "context": "On the uniqueness of Guru's Word (Bani)",
+      "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 635"
+    },
+    {
+      "original": "ਆਪਿ ਨਾਥੁ ਨਾਥੀ ਸਭ ਜਾ ਕੀ ਰਿਦੈ ਸੁਧੁ ਜਪੇ ਸੋਈ ॥",
+      "transliteration": "Aap nāth nāthī sabh jā kī riday sudh jape soī.",
+      "translation": "He Himself is the Lord; He is the friend of all. One whose heart is pure meditates on Him.",
+      "context": "Universal Divine Oneness and spiritual practice",
+      "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 294"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1604",
+      "date": "16 Aug 1604",
+      "event": "First compilation of Adi Granth by Guru Arjan Dev Ji, installed at Harmandir Sahib",
+      "type": "founding"
+    },
+    {
+      "year": "1704-1708",
+      "event": "Finalization and addition of Guru Tegh Bahadur Ji's compositions by Guru Gobind Singh Ji at Damdama Sahib",
+      "type": "revision"
+    },
+    {
+      "year": "1708",
+      "event": "Guru Granth Sahib Ji bestowed Guruship by Guru Gobind Singh Ji",
+      "type": "appointment"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Arjan Dev Ji",
+      "relation": "First compiler and editor",
+      "slug": "guru-arjan-dev-ji",
+      "category": "gurus",
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/06/14/1f3d5ec8d32807e3ec21b98a27cd81b0_original.JPG?impolicy=abp_cdn&imwidth=320",
+      "exists": true
+    },
+    {
+      "name": "Guru Gobind Singh Ji",
+      "relation": "Final standardizer, bestowed eternal Guruship",
+      "slug": "guru-gobind-singh-ji",
+      "category": "gurus",
+      "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
+      "exists": true
+    },
+    {
+      "name": "Bhai Gurdas Ji",
+      "relation": "First scribe of the Adi Granth",
+      "slug": "bhai-gurdas-ji",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
+    },
+    {
+      "name": "Bhagat Kabir Ji",
+      "relation": "Major saint-poet contributor",
+      "slug": "bhagat-kabir-ji",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
+    },
+    {
+      "name": "Sheikh Farid",
+      "relation": "Muslim Sufi saint, major contributor",
+      "slug": "sheikh-farid",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
+    }
+  ],
+  "historicalContext": {
+    "period": "16th–18th centuries (Mughal period in India)",
+    "politicalSituation": "Punjab under Mughal governance, periods of religious reform, persecution, and cultural cross-pollination.",
+    "socialConditions": "Rise of Bhakti and Sant movements, entrenched ritualism, and caste hierarchies; Sikh Gurus promoted egalitarian, spiritual, and ethical revolution.",
+    "significance": "Guru Granth Sahib unified the multi-faith teachings of saints and Gurus as the foundation for Sikh identity, serving as both scripture and living Guru for the community."
+  },
+  "references": [
+    "Wikipedia: Guru Granth Sahib[1]",
+    "Britannica: Adi Granth[8]",
+    "SikhiWiki: Guru Granth Sahib[4]",
+    "Times of India: The eternal Sri Guru Granth Sahib[6]",
+    "Times of India: The living Guru[5]",
+    "Wikibooks: Sri Guru Granth Sahib Ji[9]",
+    "Encyclopedia.com: Sri Guru Granth Sahib[10]"
+  ]
+}

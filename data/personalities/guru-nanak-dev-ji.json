@@ -210,22 +210,34 @@
     {
       "name": "Bhai Mardana",
       "relation": "Close Companion and Musician",
-      "slug": "bhai-mardana"
+      "slug": "bhai-mardana",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Guru Angad Dev Ji",
       "relation": "Successor (2nd Sikh Guru)",
-      "slug": "guru-angad-dev-ji"
+      "slug": "guru-angad-dev-ji",
+      "category": "gurus",
+      "image": "https://sikhvichardhara.com/wp-content/uploads/sites/325/2023/10/Angad.jpg",
+      "exists": true
     },
     {
       "name": "Bhai Bala",
       "relation": "Friend and early disciple",
-      "slug": "bhai-bala"
+      "slug": "bhai-bala",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Mata Sulakhni",
       "relation": "Wife",
-      "slug": "mata-sulakhni"
+      "slug": "mata-sulakhni",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
   "historicalContext": {

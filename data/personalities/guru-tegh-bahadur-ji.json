@@ -1,205 +1,240 @@
 {
-    "name": "Guru Tegh Bahadur Ji",
-    "slug": "guru-tegh-bahadur-ji",
-    "category": "gurus",
-    "birth": "1621-04-01",
-    "death": "1675-11-11",
-    "birthPlace": "Amritsar, Punjab",
-    "image": "https://dvncorestorageprod.blob.core.windows.net/files/page/61/Image/GuruTeghBahadurSahibbySobhaSinghArt-webistemaindropshadow_1135x_20231101071233682.jpg",
-    "excerpt": "Guru Tegh Bahadur Ji, the ninth Sikh Guru, is revered as the 'Protector of Humanity' for his supreme sacrifice defending religious liberty. A celebrated scholar, poet, and saint-soldier, he traveled widely to spread Guru Nanak’s teachings, founded the city of Anandpur Sahib, and courageously gave his life in Delhi to protect the right of people of all faiths to practice their religion.",
-    "designation": "9th Sikh Guru",
-  
-    "quickStats": [
-      { "label": "Guruship (years)", "value": 10 },
-      { "label": "Years Lived", "value": 54 },
-      { "label": "Hymns in Guru Granth Sahib", "value": 116 },
-      { "label": "Children", "value": 1 },
-      { "label": "Foundations", "value": "Anandpur Sahib" }
-    ],
-  
-    "quickFacts": [
-      { "label": "Birth Name", "value": "Tyag Mal" },
-      { "label": "Father", "value": "Guru Hargobind Sahib Ji" },
-      { "label": "Mother", "value": "Mata Nanaki Ji" },
-      { "label": "Spouse", "value": "Mata Gujri Ji" },
-      { "label": "Appointed Guru Age", "value": "43 years old" },
-      { "label": "Date of Martyrdom", "value": "11 November 1675" },
-      { "label": "Samadhi Place", "value": "Gurdwara Rakab Ganj Sahib, Delhi" }
-    ],
-  
-    "version": {
-      "lastUpdated": "2025-07-28T00:10:00+05:30",
-      "version": "1.0.0",
-      "contributors": 5,
-      "edits": 20,
-      "historyUrl": "https://en.wikipedia.org/wiki/Guru_Tegh_Bahadur"
+  "name": "Guru Tegh Bahadur Ji",
+  "slug": "guru-tegh-bahadur-ji",
+  "category": "gurus",
+  "birth": "1621-04-01",
+  "death": "1675-11-11",
+  "birthPlace": "Amritsar, Punjab",
+  "image": "https://dvncorestorageprod.blob.core.windows.net/files/page/61/Image/GuruTeghBahadurSahibbySobhaSinghArt-webistemaindropshadow_1135x_20231101071233682.jpg",
+  "excerpt": "Guru Tegh Bahadur Ji, the ninth Sikh Guru, is revered as the 'Protector of Humanity' for his supreme sacrifice defending religious liberty. A celebrated scholar, poet, and saint-soldier, he traveled widely to spread Guru Nanak’s teachings, founded the city of Anandpur Sahib, and courageously gave his life in Delhi to protect the right of people of all faiths to practice their religion.",
+  "designation": "9th Sikh Guru",
+  "quickStats": [
+    {
+      "label": "Guruship (years)",
+      "value": 10
     },
-  
-    "biographySections": [
-      {
-        "label": "Early Life",
-        "icon": "Child",
-        "value": "Born on 1 April 1621 in Amritsar to Guru Hargobind and Mata Nanaki Ji, Guru Tegh Bahadur Ji was raised with a deep grounding in Sikh spiritual and martial values. He was trained in literature, divinity, and warfare, and was known for his meditative and compassionate temperament from childhood.[1][5]"
-      },
-      {
-        "label": "Spiritual Ascent and Travels",
-        "icon": "BookOpen",
-        "value": "Guru Tegh Bahadur Ji devoted years to meditation and spiritual pursuit at Bakala before his Guruship. He undertook extensive missionary tours across northern and eastern India, setting up Sikh centers and initiating social welfare works, especially in Bengal and Assam.[1][3][6]"
-      },
-      {
-        "label": "Succession as Guru",
-        "icon": "Crown",
-        "value": "After Guru Har Krishan Ji’s passing, Guru Tegh Bahadur Ji was revealed as the ninth Guru at Bakala in 1664. He emphasized humility, detachment, and the remembrance of God, and began strengthening the Sikh community against external threats.[1][5]"
-      },
-      {
-        "label": "Founding of Anandpur Sahib",
-        "icon": "Landmark",
-        "value": "Guru Ji founded Anandpur Sahib in 1665 in the Shivalik foothills, establishing a new center for Sikhs and promoting communal harmony, education, and spiritual instruction.[1][8][4]"
-      },
-      {
-        "label": "Defense of Religious Freedom & Martyrdom",
-        "icon": "Shield",
-        "value": "When Kashmiri Pandits and Hindus faced forced conversions by Mughal Emperor Aurangzeb, Guru Ji stood as their savior, asserting the right to freedom of faith for all. Summoned to Delhi and offered the choice to convert or face execution, he refused, and was publicly beheaded at Chandni Chowk on 11 November 1675. His martyrdom, along with his companions, became a beacon for religious liberty and paved the way for the creation of Khalsa by his son, Guru Gobind Singh Ji.[1][2][3][8]"
-      }
-    ],
-  
-    "spiritualLegacy": {
-      "description": "Guru Tegh Bahadur Ji’s legacy is rooted in his unparalleled defense of religious freedom, his teachings on detachment, compassion, and the unity of humanity, and his poetic hymns included in the Guru Granth Sahib.",
-      "keyContributions": [
-        "Supreme sacrifice for protection of religious liberty",
-        "Composed 116 shabads (hymns) and 57 saloks, emphasizing fearlessness and devotion",
-        "Founded Anandpur Sahib, now a spiritual capital of Sikhs",
-        "Instituted social welfare, wells, and langars during missionary travels",
-        "Inspired the transformation of Sikhs into a courageous, spiritually dedicated community"
-      ]
+    {
+      "label": "Years Lived",
+      "value": 54
     },
-  
-    "modernRelevance": {
-      "description": "Guru Tegh Bahadur Ji’s message of tolerance, courage, and standing up for justice remains a foundation for Sikh identity and resonates globally as an inspiration for the upholding of human rights.",
-      "contemporaryImpact": [
-        "His martyrdom is commemorated annually on 'Shaheedi Divas'",
-        "Anandpur Sahib and major gurdwaras serve as centers for interfaith dialogue",
-        "Teachings on detachment and service are integral to Sikh and modern ethical philosophy",
-        "Symbol of minority rights, tolerance, and civil courage worldwide"
-      ]
+    {
+      "label": "Hymns in Guru Granth Sahib",
+      "value": 116
     },
-  
-    "achievements": [
-      {
-        "title": "Founded Anandpur Sahib",
-        "year": "1665",
-        "description": "Established Anandpur Sahib as a center for Sikh faith and the foundation for the Khalsa.",
-        "icon": "Landmark"
-      },
-      {
-        "title": "Composed Hymns and Saloks",
-        "year": "1665–1675",
-        "description": "Wrote 116 shabads and 57 saloks included in Guru Granth Sahib, enriching Sikh doctrine.",
-        "icon": "BookOpen"
-      },
-      {
-        "title": "Extensive Missionary Tours",
-        "year": "1665–1675",
-        "description": "Extended Sikh outreach and service across Assam, Bengal, and eastern India.",
-        "icon": "Map"
-      },
-      {
-        "title": "Martyred for Protecting Faith",
-        "year": "1675",
-        "description": "Gave his life in defense of freedom of religion, inspiring spiritual and civil resistance.",
-        "icon": "Shield"
-      }
-    ],
-  
-    "quotes": [
-      {
-        "original": "ਤਿਲਕ ਜੰਊ ਰਾਖਾ ਪ੍ਰਭ ਤਾਕਾ। ਕੀਨੋ ਬਡੋ ਕਲੂ ਮਹਿ ਸਾਕਾ॥ ਸਾਧਨ ਹੇਤਿ ਇਤੀ ਜਿਨਿ ਕਰੀ। ਸੀਸੁ ਦੀਆ ਪਰ ਸੀ ਨ ਉਚਰੀ॥",
-        "transliteration": "Tilak janju rakha prabh taka, kino bado kalu mahi saka. Saadhan heti iti jin kari, sis diya par sir na uchari.",
-        "translation": "He protected the sacred mark and sacred thread of the Hindus. He performed a great deed in this dark age. For the sake of righteousness, he laid down his head without hesitation.",
-        "context": "Composed by Guru Gobind Singh Ji in praise of Guru Tegh Bahadur Ji’s supreme sacrifice",
-        "source": "Bachittar Natak, Dasam Granth"
-      },
-      {
-        "original": "ਉਸਤਤਿ ਨਿੰਦਾ ਦੋਊ ਤਿਆਗੈ ਖੋਜੈ ਪਦੁ ਨਿਰਬਾਨਾ। ਜਨ ਨਾਨਕ ਇਹੁ ਖੇਲੁ ਕਠਨੁ ਹੈ ਕਿਨਹੂੰ ਗੁਰਮੁਖਿ ਜਾਨਾ॥",
-        "transliteration": "Ustat ninda do-u tiagai khojai padu nirbana. Jan Nanak ihu khelu kathanu hai kinhaun gurmukh jaana.",
-        "translation": "Renounce both praise and blame; seek instead the state of Nirvana. O Nanak, this is a difficult game; only a Gurmukh understands it.",
-        "context": "On detachment and spiritual equipoise",
-        "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 219"
-      },
-      {
-        "original": "ਕਾਹੂ ਕਉ ਦੇਤ ਨੈ ਨੈ ਮਾਨਤ ਆਨ। ਕਹੁ ਨਾਨਕ ਸੁਨੁ ਰੇ ਮਨਾ ਗਿਆਨੀ ਤਾਹਿ ਬਖਾਨ॥",
-        "transliteration": "Kaahoo kau det nai nai manath aan. Kahu Nanak sun re mana gyani taahi bakhan.",
-        "translation": "He gives not to any, nor accepts from any other; O Nanak, listen, call him the yogi who truly knows.",
-        "context": "On fearlessness and self-realization",
-        "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 1427"
-      }
-    ],
-  
-    "timeline": [
-      {
-        "year": "1621",
-        "date": "1 Apr 1621",
-        "event": "Birth of Guru Tegh Bahadur Ji in Amritsar",
-        "type": "birth"
-      },
-      {
-        "year": "1664",
-        "event": "Appointed 9th Guru at Bakala",
-        "type": "appointment"
-      },
-      {
-        "year": "1665",
-        "event": "Founded Anandpur Sahib",
-        "type": "founding"
-      },
-      {
-        "year": "1675",
-        "event": "Martyrdom in Delhi for defense of religious freedom",
-        "date": "11 Nov 1675",
-        "type": "martyrdom"
-      }
-    ],
-  
-    "relatedPersonalities": [
-      {
-        "name": "Guru Hargobind Sahib Ji",
-        "relation": "Father, 6th Sikh Guru",
-        "slug": "guru-hargobind-sahib-ji"
-      },
-      {
-        "name": "Mata Nanaki Ji",
-        "relation": "Mother",
-        "slug": "mata-nanaki-ji"
-      },
-      {
-        "name": "Guru Gobind Singh Ji",
-        "relation": "Son and successor (10th Sikh Guru)",
-        "slug": "guru-gobind-singh-ji"
-      },
-      {
-        "name": "Mata Gujri Ji",
-        "relation": "Spouse",
-        "slug": "mata-gujri-ji"
-      }
-    ],
-  
-    "historicalContext": {
-      "period": "Mid to late-17th century (Mughal era, Aurangzeb)",
-      "politicalSituation": "Period of intense Mughal persecution of Hindus and Sikhs; increased religious intolerance and forced conversions by Emperor Aurangzeb.",
-      "socialConditions": "Rising anxiety among religious minorities, crises of conscience, non-violent resistance by Sikh leaders, polarization between communities.",
-      "significance": "Guru Tegh Bahadur Ji’s execution marks a pivotal moment in Sikh and Indian history—defining the Sikh ethos as defenders of liberty, tolerance, and human dignity for all.[1][2][8]"
+    {
+      "label": "Children",
+      "value": 1
     },
-  
-    "references": [
-      "Wikipedia: Guru Tegh Bahadur[1]",
-      "Britannica: Guru Tegh Bahadur[2]",
-      "Delhi Sikh Gurdwara Management Committee (DSGMC): Guru Tegh Bahadur Ji[3]",
-      "SGTB Khalsa College: Historical Perspective[4]",
-      "DV Network: Legacy and Teachings of Guru Tegh Bahadur Ji[5]",
-      "WeAreSikhs.org: Meet Guru Tegh Bahadur Ji[6]",
-      "BYJU'S: Guru Tegh Bahadur Biography[8]",
-      "Ritiriwaz.com: Quotes by Guru Tegh Bahadur[7]",
-      "SikhiWiki: Guru Tegh Bahadur[9]"
+    {
+      "label": "Foundations",
+      "value": "Anandpur Sahib"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Birth Name",
+      "value": "Tyag Mal"
+    },
+    {
+      "label": "Father",
+      "value": "Guru Hargobind Sahib Ji"
+    },
+    {
+      "label": "Mother",
+      "value": "Mata Nanaki Ji"
+    },
+    {
+      "label": "Spouse",
+      "value": "Mata Gujri Ji"
+    },
+    {
+      "label": "Appointed Guru Age",
+      "value": "43 years old"
+    },
+    {
+      "label": "Date of Martyrdom",
+      "value": "11 November 1675"
+    },
+    {
+      "label": "Samadhi Place",
+      "value": "Gurdwara Rakab Ganj Sahib, Delhi"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2025-07-28T00:10:00+05:30",
+    "version": "1.0.0",
+    "contributors": 5,
+    "edits": 20,
+    "historyUrl": "https://en.wikipedia.org/wiki/Guru_Tegh_Bahadur"
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "Child",
+      "value": "Born on 1 April 1621 in Amritsar to Guru Hargobind and Mata Nanaki Ji, Guru Tegh Bahadur Ji was raised with a deep grounding in Sikh spiritual and martial values. He was trained in literature, divinity, and warfare, and was known for his meditative and compassionate temperament from childhood.[1][5]"
+    },
+    {
+      "label": "Spiritual Ascent and Travels",
+      "icon": "BookOpen",
+      "value": "Guru Tegh Bahadur Ji devoted years to meditation and spiritual pursuit at Bakala before his Guruship. He undertook extensive missionary tours across northern and eastern India, setting up Sikh centers and initiating social welfare works, especially in Bengal and Assam.[1][3][6]"
+    },
+    {
+      "label": "Succession as Guru",
+      "icon": "Crown",
+      "value": "After Guru Har Krishan Ji’s passing, Guru Tegh Bahadur Ji was revealed as the ninth Guru at Bakala in 1664. He emphasized humility, detachment, and the remembrance of God, and began strengthening the Sikh community against external threats.[1][5]"
+    },
+    {
+      "label": "Founding of Anandpur Sahib",
+      "icon": "Landmark",
+      "value": "Guru Ji founded Anandpur Sahib in 1665 in the Shivalik foothills, establishing a new center for Sikhs and promoting communal harmony, education, and spiritual instruction.[1][8][4]"
+    },
+    {
+      "label": "Defense of Religious Freedom & Martyrdom",
+      "icon": "Shield",
+      "value": "When Kashmiri Pandits and Hindus faced forced conversions by Mughal Emperor Aurangzeb, Guru Ji stood as their savior, asserting the right to freedom of faith for all. Summoned to Delhi and offered the choice to convert or face execution, he refused, and was publicly beheaded at Chandni Chowk on 11 November 1675. His martyrdom, along with his companions, became a beacon for religious liberty and paved the way for the creation of Khalsa by his son, Guru Gobind Singh Ji.[1][2][3][8]"
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Guru Tegh Bahadur Ji’s legacy is rooted in his unparalleled defense of religious freedom, his teachings on detachment, compassion, and the unity of humanity, and his poetic hymns included in the Guru Granth Sahib.",
+    "keyContributions": [
+      "Supreme sacrifice for protection of religious liberty",
+      "Composed 116 shabads (hymns) and 57 saloks, emphasizing fearlessness and devotion",
+      "Founded Anandpur Sahib, now a spiritual capital of Sikhs",
+      "Instituted social welfare, wells, and langars during missionary travels",
+      "Inspired the transformation of Sikhs into a courageous, spiritually dedicated community"
     ]
-  }
-  
+  },
+  "modernRelevance": {
+    "description": "Guru Tegh Bahadur Ji’s message of tolerance, courage, and standing up for justice remains a foundation for Sikh identity and resonates globally as an inspiration for the upholding of human rights.",
+    "contemporaryImpact": [
+      "His martyrdom is commemorated annually on 'Shaheedi Divas'",
+      "Anandpur Sahib and major gurdwaras serve as centers for interfaith dialogue",
+      "Teachings on detachment and service are integral to Sikh and modern ethical philosophy",
+      "Symbol of minority rights, tolerance, and civil courage worldwide"
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Founded Anandpur Sahib",
+      "year": "1665",
+      "description": "Established Anandpur Sahib as a center for Sikh faith and the foundation for the Khalsa.",
+      "icon": "Landmark"
+    },
+    {
+      "title": "Composed Hymns and Saloks",
+      "year": "1665–1675",
+      "description": "Wrote 116 shabads and 57 saloks included in Guru Granth Sahib, enriching Sikh doctrine.",
+      "icon": "BookOpen"
+    },
+    {
+      "title": "Extensive Missionary Tours",
+      "year": "1665–1675",
+      "description": "Extended Sikh outreach and service across Assam, Bengal, and eastern India.",
+      "icon": "Map"
+    },
+    {
+      "title": "Martyred for Protecting Faith",
+      "year": "1675",
+      "description": "Gave his life in defense of freedom of religion, inspiring spiritual and civil resistance.",
+      "icon": "Shield"
+    }
+  ],
+  "quotes": [
+    {
+      "original": "ਤਿਲਕ ਜੰਊ ਰਾਖਾ ਪ੍ਰਭ ਤਾਕਾ। ਕੀਨੋ ਬਡੋ ਕਲੂ ਮਹਿ ਸਾਕਾ॥ ਸਾਧਨ ਹੇਤਿ ਇਤੀ ਜਿਨਿ ਕਰੀ। ਸੀਸੁ ਦੀਆ ਪਰ ਸੀ ਨ ਉਚਰੀ॥",
+      "transliteration": "Tilak janju rakha prabh taka, kino bado kalu mahi saka. Saadhan heti iti jin kari, sis diya par sir na uchari.",
+      "translation": "He protected the sacred mark and sacred thread of the Hindus. He performed a great deed in this dark age. For the sake of righteousness, he laid down his head without hesitation.",
+      "context": "Composed by Guru Gobind Singh Ji in praise of Guru Tegh Bahadur Ji’s supreme sacrifice",
+      "source": "Bachittar Natak, Dasam Granth"
+    },
+    {
+      "original": "ਉਸਤਤਿ ਨਿੰਦਾ ਦੋਊ ਤਿਆਗੈ ਖੋਜੈ ਪਦੁ ਨਿਰਬਾਨਾ। ਜਨ ਨਾਨਕ ਇਹੁ ਖੇਲੁ ਕਠਨੁ ਹੈ ਕਿਨਹੂੰ ਗੁਰਮੁਖਿ ਜਾਨਾ॥",
+      "transliteration": "Ustat ninda do-u tiagai khojai padu nirbana. Jan Nanak ihu khelu kathanu hai kinhaun gurmukh jaana.",
+      "translation": "Renounce both praise and blame; seek instead the state of Nirvana. O Nanak, this is a difficult game; only a Gurmukh understands it.",
+      "context": "On detachment and spiritual equipoise",
+      "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 219"
+    },
+    {
+      "original": "ਕਾਹੂ ਕਉ ਦੇਤ ਨੈ ਨੈ ਮਾਨਤ ਆਨ। ਕਹੁ ਨਾਨਕ ਸੁਨੁ ਰੇ ਮਨਾ ਗਿਆਨੀ ਤਾਹਿ ਬਖਾਨ॥",
+      "transliteration": "Kaahoo kau det nai nai manath aan. Kahu Nanak sun re mana gyani taahi bakhan.",
+      "translation": "He gives not to any, nor accepts from any other; O Nanak, listen, call him the yogi who truly knows.",
+      "context": "On fearlessness and self-realization",
+      "source": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ (Guru Granth Sahib), Ang 1427"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1621",
+      "date": "1 Apr 1621",
+      "event": "Birth of Guru Tegh Bahadur Ji in Amritsar",
+      "type": "birth"
+    },
+    {
+      "year": "1664",
+      "event": "Appointed 9th Guru at Bakala",
+      "type": "appointment"
+    },
+    {
+      "year": "1665",
+      "event": "Founded Anandpur Sahib",
+      "type": "founding"
+    },
+    {
+      "year": "1675",
+      "event": "Martyrdom in Delhi for defense of religious freedom",
+      "date": "11 Nov 1675",
+      "type": "martyrdom"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Hargobind Sahib Ji",
+      "relation": "Father, 6th Sikh Guru",
+      "slug": "guru-hargobind-sahib-ji",
+      "category": "gurus",
+      "image": "https://www.sikhiwiki.org/images/a/ac/Guru_hargobind.jpg",
+      "exists": true
+    },
+    {
+      "name": "Mata Nanaki Ji",
+      "relation": "Mother",
+      "slug": "mata-nanaki-ji",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
+    },
+    {
+      "name": "Guru Gobind Singh Ji",
+      "relation": "Son and successor (10th Sikh Guru)",
+      "slug": "guru-gobind-singh-ji",
+      "category": "gurus",
+      "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
+      "exists": true
+    },
+    {
+      "name": "Mata Gujri Ji",
+      "relation": "Spouse",
+      "slug": "mata-gujri-ji",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
+    }
+  ],
+  "historicalContext": {
+    "period": "Mid to late-17th century (Mughal era, Aurangzeb)",
+    "politicalSituation": "Period of intense Mughal persecution of Hindus and Sikhs; increased religious intolerance and forced conversions by Emperor Aurangzeb.",
+    "socialConditions": "Rising anxiety among religious minorities, crises of conscience, non-violent resistance by Sikh leaders, polarization between communities.",
+    "significance": "Guru Tegh Bahadur Ji’s execution marks a pivotal moment in Sikh and Indian history—defining the Sikh ethos as defenders of liberty, tolerance, and human dignity for all.[1][2][8]"
+  },
+  "references": [
+    "Wikipedia: Guru Tegh Bahadur[1]",
+    "Britannica: Guru Tegh Bahadur[2]",
+    "Delhi Sikh Gurdwara Management Committee (DSGMC): Guru Tegh Bahadur Ji[3]",
+    "SGTB Khalsa College: Historical Perspective[4]",
+    "DV Network: Legacy and Teachings of Guru Tegh Bahadur Ji[5]",
+    "WeAreSikhs.org: Meet Guru Tegh Bahadur Ji[6]",
+    "BYJU'S: Guru Tegh Bahadur Biography[8]",
+    "Ritiriwaz.com: Quotes by Guru Tegh Bahadur[7]",
+    "SikhiWiki: Guru Tegh Bahadur[9]"
+  ]
+}
