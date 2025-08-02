@@ -3,7 +3,7 @@ import './globals.css';
 import { ReactNode } from 'react';
 import Footer from '@/components/layouts/Footer';
 import Script from 'next/script';
-
+import {GoogleAnalytics} from '@next/third-parties/google'
 
 export const metadata = {
   title: 'SikhSoorme - Discover Sikh Heroes',
@@ -66,6 +66,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
           <Footer />
         </div>
       </body>
+      <GoogleAnalytics gaId="GTM-KJSDXDZC" />
     </html>
   );
 }
