@@ -85,6 +85,30 @@ const timelineColors: Record<string, string> = {
   death: "bg-orange-500",
 }
 
+export async function generateMetadata({ params }: any) {
+  const filePath = path.join(process.cwd(), `data/personalities/${params.slug}.json`)
+  let fileContent: string
+
+  try {
+    fileContent = await fs.readFile(filePath, 'utf-8')
+  } catch (err: any) {
+    console.error(err)
+    return notFound()
+  }
+
+  const personality = JSON.parse(fileContent)
+  return {
+    title: personality.name + " - Sikh Soorme",
+    description: personality.excerpt,
+    openGraph: {
+      title: personality.name + " - Sikh Soorme",
+      description: personality.excerpt,
+      images: [{ url: personality.image }],
+    },
+  }
+}
+
+
 export default async function PersonalityDetailPage({ params }: any) {
   const filePath = path.join(process.cwd(), `data/personalities/${params.slug}.json`)
   let fileContent: string
@@ -339,7 +363,7 @@ export default async function PersonalityDetailPage({ params }: any) {
                             <div className="flex-1 min-w-0">
                               <div className="font-medium text-amber-900 text-sm">{person.name}</div>
                               <div className="text-xs text-amber-700">{person.relation}</div>
-                              <Link href={`/soorme/${person.category}/${person.slug}`} className="text-xs text-amber-700">Read More</Link>
+                              <div className="text-xs text-amber-700">Read More</div>
                             </div>
                           </Link>
                         ) : (
