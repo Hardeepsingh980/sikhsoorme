@@ -1,6 +1,6 @@
 {
   "overview": {
-    "totalPersonalities": 4,
+    "totalPersonalities": 11,
     "totalCategories": 1,
     "featuredPersonalities": 3,
     "recentAdditions": 0,
@@ -14,10 +14,10 @@
       "name": "Gurus",
       "icon": "Crown",
       "emoji": "🙏",
-      "count": 4,
+      "count": 11,
       "description": "The ten divine teachers who founded and shaped Sikhism",
       "longDescription": "To be generated or enriched...",
-      "timeSpan": "1469-1708",
+      "timeSpan": "1469-NaN",
       "keyPeriod": "Foundation Era",
       "primaryRegion": "Punjab",
       "significance": "Established the fundamental principles and practices of Sikhism",
@@ -27,6 +27,13 @@
       "textColor": "text-purple-900",
       "featured": [
         {
+          "name": "Guru Granth Sahib Ji",
+          "slug": "guru-granth-sahib-ji",
+          "image": "https://archives.vsktelangana.org/wp-content/uploads/2020/08/gurugrantsahibd.jpg",
+          "years": "1604-NaN",
+          "achievement": "Eternal Guru of the Sikhs"
+        },
+        {
           "name": "Guru Gobind Singh Ji",
           "slug": "guru-gobind-singh-ji",
           "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
@@ -34,22 +41,15 @@
           "achievement": "10th Sikh Guru"
         },
         {
-          "name": "Guru Amar Das Ji",
-          "slug": "guru-amar-das-ji",
-          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTt_hpauL4AYtSp_GCdI9Vb9ZCZ7wDqqZfKeYd6cmMiuGVsRMG2ajGOK8VC-FpQFzRwInSK7tSO36MEKy9DcwPYPA",
-          "years": "1479-1574",
-          "achievement": "3rd Sikh Guru"
-        },
-        {
-          "name": "Guru Angad Dev Ji",
-          "slug": "guru-angad-dev-ji",
-          "image": "https://dvncorestorageprod.blob.core.windows.net/files/page/57/Image/Sri_Guru_Angad_Dev_Ji_20231101054919308.jpg",
-          "years": "1504-1552",
-          "achievement": "2nd Sikh Guru"
+          "name": "Guru Arjan Dev Ji",
+          "slug": "guru-arjan-dev-ji",
+          "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/06/14/1f3d5ec8d32807e3ec21b98a27cd81b0_original.JPG?impolicy=abp_cdn&imwidth=320",
+          "years": "1563-1606",
+          "achievement": "5th Sikh Guru"
         }
       ],
       "stats": {
-        "averageLifespan": 64
+        "averageLifespan": null
       },
       "keyContributions": [],
       "historicalContext": "To be generated..."

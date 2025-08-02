@@ -1,37 +1,17 @@
 {
   "soormaOfTheDay": {
-    "name": "Guru Gobind Singh Ji",
-    "slug": "guru-gobind-singh-ji",
+    "name": "Guru Angad Dev Ji",
+    "slug": "guru-angad-dev-ji",
     "category": "gurus",
-    "birth": "1666-12-22",
-    "death": "1708-10-07",
-    "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
-    "excerpt": "The tenth and last human Sikh Guru, pioneer of the warrior‑saint Khalsa, literary compiler of the Dasam Granth, and the initiator of the Guru Granth Sahib as the eternal Guru.",
-    "quote": "ਦੇਹ ਸਿਵਾ ਬਰ ਮੋਹਿ ਇਹੈ ਸੁਭ ਕਰਮਨ ਤੇ ਕਬਹੂੰ ਨ ਟਰੋਂ ॥",
-    "quoteTranslation": "Grant me, O Lord, this boon: may I never refrain from righteous deeds.",
-    "significance": "Guru Gobind Singh reshaped Sikh identity—embedding martial readiness, literary and spiritual depth, institutional strength, egalitarian values, and governance under scripture."
+    "birth": "1504-03-31",
+    "death": "1552-03-29",
+    "image": "https://sikhvichardhara.com/wp-content/uploads/sites/325/2023/10/Angad.jpg",
+    "excerpt": "Guru Angad Dev Ji, born as Bhai Lehna in 1504, became the second Sikh Guru in 1539 after being chosen by Guru Nanak Dev Ji. He is best known for standardizing and popularizing the Gurmukhi script, strengthening the Sikh community through organization and service, and furthering the message of humility, discipline, and devotion. His stewardship established foundational institutions and practices central to Sikhism.",
+    "quote": "ਸਤਿਗੁਰ ਕੀ ਸੇਵਾ ਨਿਸਫਲ ਨਹੀ ਜਾਤੀ ॥",
+    "quoteTranslation": "Service to the True Guru is never fruitless.",
+    "significance": "Guru Angad’s reforms facilitated social upliftment, inclusive community organization, and the creation of a script and identity distinct from both Hindu and Islamic traditions."
   },
   "featuredPersonalities": [
-    {
-      "name": "Guru Amar Das Ji",
-      "slug": "guru-amar-das-ji",
-      "category": "gurus",
-      "birth": "1479-05-05",
-      "death": "1574-09-01",
-      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTt_hpauL4AYtSp_GCdI9Vb9ZCZ7wDqqZfKeYd6cmMiuGVsRMG2ajGOK8VC-FpQFzRwInSK7tSO36MEKy9DcwPYPA",
-      "excerpt": "The third Sikh Guru, whose tenure (1552–1574) saw the institutional consolidation of Sikhism—fortifying langar, launching administrative and missionary systems, abolishing social injustices, composing Anand Sahib, and forging relations with Emperor Akbar.",
-      "era": ""
-    },
-    {
-      "name": "Guru Angad Dev Ji",
-      "slug": "guru-angad-dev-ji",
-      "category": "gurus",
-      "birth": "1504-03-31",
-      "death": "1552-03-29",
-      "image": "https://dvncorestorageprod.blob.core.windows.net/files/page/57/Image/Sri_Guru_Angad_Dev_Ji_20231101054919308.jpg",
-      "excerpt": "The second Sikh Guru, Guru Angad Dev Ji (born Bhai Lehna), carried forward Guru Nanak’s mission, standardized the Gurmukhi script, institutionalized langar and education, and deepened Sikh identity through humility, service, and learning.",
-      "era": ""
-    },
     {
       "name": "Guru Gobind Singh Ji",
       "slug": "guru-gobind-singh-ji",
@@ -39,55 +19,162 @@
       "birth": "1666-12-22",
       "death": "1708-10-07",
       "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
-      "excerpt": "The tenth and last human Sikh Guru, pioneer of the warrior‑saint Khalsa, literary compiler of the Dasam Granth, and the initiator of the Guru Granth Sahib as the eternal Guru.",
+      "excerpt": "Guru Gobind Singh Ji, the tenth Sikh Guru, redefined Sikhism with his unmatched courage, visionary leadership, and prolific poetry. Founder of the Khalsa, compiler of the Dasam Granth, and sanctifier of the Guru Granth Sahib as the eternal Guru, he led Sikhs through persecution and loss. His legacy unites valor, sacrifice, equality, and spiritual resolve.",
       "era": ""
     },
     {
-      "name": "Guru Nanak Dev Ji",
-      "slug": "guru-nanak-dev-ji",
+      "name": "Guru Tegh Bahadur Ji",
+      "slug": "guru-tegh-bahadur-ji",
       "category": "gurus",
-      "birth": "1469-04-15",
-      "death": "1539-09-22",
-      "image": "https://miro.medium.com/v2/resize:fit:748/1*hdqjfu0xkLzAiRuBmDtRUg.jpeg",
-      "excerpt": "The founder and first Sikh Guru, whose revolutionary teachings—One God, equality, honest living, service and sharing—laid the foundation of Sikhism. He traveled extensively, composed divine hymns, and established Sikh community life centered around langar and spiritual equality.",
+      "birth": "1621-04-01",
+      "death": "1675-11-11",
+      "image": "https://dvncorestorageprod.blob.core.windows.net/files/page/61/Image/GuruTeghBahadurSahibbySobhaSinghArt-webistemaindropshadow_1135x_20231101071233682.jpg",
+      "excerpt": "Guru Tegh Bahadur Ji, the ninth Sikh Guru, is revered as the 'Protector of Humanity' for his supreme sacrifice defending religious liberty. A celebrated scholar, poet, and saint-soldier, he traveled widely to spread Guru Nanak’s teachings, founded the city of Anandpur Sahib, and courageously gave his life in Delhi to protect the right of people of all faiths to practice their religion.",
+      "era": ""
+    },
+    {
+      "name": "Guru Granth Sahib Ji",
+      "slug": "guru-granth-sahib-ji",
+      "category": "scripture",
+      "birth": "1604-08-16",
+      "death": "Eternal",
+      "image": "https://archives.vsktelangana.org/wp-content/uploads/2020/08/gurugrantsahibd.jpg",
+      "excerpt": "The Guru Granth Sahib Ji, the eternal Guru of the Sikhs, is a universal scripture that encompasses the spiritual wisdom of Sikh Gurus and an array of enlightened saints. Compiled first by Guru Arjan Dev Ji in 1604 and bestowed eternal Guruship by Guru Gobind Singh Ji in 1708, it is the fountain of Sikh theology, ethics, music, and spiritual practice, prescribing oneness, compassion, and justice for all.",
+      "era": ""
+    },
+    {
+      "name": "Guru Har Krishan Ji",
+      "slug": "guru-har-krishan-ji",
+      "category": "gurus",
+      "birth": "1656-07-07",
+      "death": "1664-03-30",
+      "image": "https://www.historicalgurudwaras.com/images/8%20Guru-Harkishan-ji.jpg",
+      "excerpt": "Guru Har Krishan Ji, the eighth Sikh Guru and the youngest to hold the Guruship, became Guru at the age of five and guided the Sikh community for less than three years. Renowned for his compassion, wisdom beyond his years, and miraculous healing during the smallpox epidemic in Delhi, Guru Har Krishan Ji is lovingly called 'Bala Pīr' (the Child Prophet) and is remembered for selflessly serving humanity and affirming the unity of all.",
+      "era": ""
+    },
+    {
+      "name": "Guru Har Rai Ji",
+      "slug": "guru-har-rai-ji",
+      "category": "gurus",
+      "birth": "1630-01-16",
+      "death": "1661-10-06",
+      "image": "https://ggss.co.in/images/Gurus/Guru%20Har%20Rai%20ji.jpg",
+      "excerpt": "Guru Har Rai Ji, the seventh Sikh Guru, maintained the martial spirit of his predecessors while emphasizing compassion, healing, and forgiveness. He expanded Sikh missionary work, established herbal dispensaries and hospitals, strengthened the Masand system, and exemplified the principles of kindness and environmental care. His diplomatic approach helped stabilize the Sikh community during turbulent times of Mughal conflict, and his integrity safeguarded Sikh teachings even in the face of imperial pressure.",
+      "era": ""
+    },
+    {
+      "name": "Guru Hargobind Sahib Ji",
+      "slug": "guru-hargobind-sahib-ji",
+      "category": "gurus",
+      "birth": "1595-06-19",
+      "death": "1644-03-03",
+      "image": "https://www.sikhiwiki.org/images/a/ac/Guru_hargobind.jpg",
+      "excerpt": "Guru Hargobind Sahib Ji, the sixth Sikh Guru, transformed Sikhism by instilling martial spirit and integrating temporal and spiritual leadership. After Guru Arjan’s martyrdom, he adorned two swords symbolizing Miri and Piri, built the Akal Takht, fortified Sikh centers, and led the community in several battles to defend righteousness—setting the foundation for the Sikh warrior tradition.",
+      "era": ""
+    },
+    {
+      "name": "Guru Arjan Dev Ji",
+      "slug": "guru-arjan-dev-ji",
+      "category": "gurus",
+      "birth": "1563-04-15",
+      "death": "1606-05-30",
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/06/14/1f3d5ec8d32807e3ec21b98a27cd81b0_original.JPG?impolicy=abp_cdn&imwidth=320",
+      "excerpt": "Guru Arjan Dev Ji, the fifth Sikh Guru, completed the Golden Temple (Harmandir Sahib), compiled the Adi Granth (the original Sikh scripture), and exemplified the highest ideals of sacrifice and service. His leadership transformed Sikhism, expanding its infrastructure, spiritual message, and social base, before he became the first Guru to embrace martyrdom for his faith.",
+      "era": ""
+    },
+    {
+      "name": "Guru Ram Das Ji",
+      "slug": "guru-ram-das-ji",
+      "category": "gurus",
+      "birth": "1534-09-24",
+      "death": "1581-09-01",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPzp097daIYZghyi14ouxZqeb5bk0qFMcMK8gp1aj_ydDE3RKfKsIsI5KHwKYvTP0rFQ&usqp=CAU",
+      "excerpt": "Guru Ram Das Ji, the fourth Sikh Guru, founded the holy city of Amritsar and composed the Lavan, the wedding hymns central to the Sikh marriage ceremony. Known for his humility and compassion, he consolidated Sikh institutions, expanded the Manji-Piri missionary system, and promoted social equality, making lasting contributions to the Sikh faith’s organization and spiritual practice.",
+      "era": ""
+    },
+    {
+      "name": "Guru Amar Das Ji",
+      "slug": "guru-amar-das-ji",
+      "category": "gurus",
+      "birth": "1479-05-05",
+      "death": "1574-09-01",
+      "image": "https://4.bp.blogspot.com/-HPt0MXWvqr8/Uu0-IfObjFI/AAAAAAAABPQ/ywO5U28v84k/s1600/Guru+Amar+Das.jpg",
+      "excerpt": "Guru Amar Das Ji became the third Sikh Guru in 1552 at the age of 73. Revered for his humility, he greatly expanded Sikhism through the Manji system, established the first Sikh pilgrimage center at Goindwal, championed social reforms like gender and caste equality, and composed many hymns including Anand Sahib. His leadership solidified Sikh institutions, elevated the practice of langar, and advanced the Sikh faith’s message of service, inclusion, and spiritual discipline.",
       "era": ""
     }
   ],
   "recentAdditions": [
     {
+      "name": "Guru Gobind Singh Ji",
+      "category": "gurus",
+      "added": "2025-07-28T00:15:00+05:30"
+    },
+    {
+      "name": "Guru Tegh Bahadur Ji",
+      "category": "gurus",
+      "added": "2025-07-28T00:10:00+05:30"
+    },
+    {
+      "name": "Guru Granth Sahib Ji",
+      "category": "scripture",
+      "added": "2025-07-28T00:00:00+05:30"
+    },
+    {
+      "name": "Guru Har Krishan Ji",
+      "category": "gurus",
+      "added": "2025-07-28T00:00:00+05:30"
+    },
+    {
+      "name": "Guru Har Rai Ji",
+      "category": "gurus",
+      "added": "2025-07-27T23:59:00+05:30"
+    },
+    {
+      "name": "Guru Hargobind Sahib Ji",
+      "category": "gurus",
+      "added": "2025-07-27T23:59:00+05:30"
+    },
+    {
+      "name": "Guru Arjan Dev Ji",
+      "category": "gurus",
+      "added": "2025-07-27T23:55:00+05:30"
+    },
+    {
+      "name": "Guru Ram Das Ji",
+      "category": "gurus",
+      "added": "2025-07-27T23:45:00+05:30"
+    },
+    {
       "name": "Guru Amar Das Ji",
       "category": "gurus",
-      "added": "2025-07-20T12:00:00Z"
+      "added": "2025-07-27T23:30:00+05:30"
     },
     {
       "name": "Guru Angad Dev Ji",
       "category": "gurus",
-      "added": "2025-07-20T12:00:00Z"
-    },
-    {
-      "name": "Guru Gobind Singh Ji",
-      "category": "gurus",
-      "added": "2025-07-20T12:00:00Z"
-    },
-    {
-      "name": "Guru Nanak Dev Ji",
-      "category": "gurus",
-      "added": "2025-07-20T12:00:00Z"
+      "added": "2025-07-27T23:10:00+05:30"
     }
   ],
   "categories": [
     {
       "name": "Gurus",
       "slug": "gurus",
-      "count": 4,
+      "count": 10,
       "icon": "🙏",
       "description": "The ten divine teachers who founded and shaped Sikhism"
+    },
+    {
+      "name": "Scripture",
+      "slug": "scripture",
+      "count": 1,
+      "icon": "📜",
+      "description": "Unknown category"
     }
   ],
   "historicalQuotes": [],
   "quickStats": {
-    "totalPersonalities": 4,
-    "totalCategories": 1,
+    "totalPersonalities": 11,
+    "totalCategories": 2,
     "yearsOfHistory": "550+"
   }
 }

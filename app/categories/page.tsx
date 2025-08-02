@@ -24,7 +24,7 @@ import { MAP_ICON } from "../consts"
 const categoriesFilePath = path.join(process.cwd(), "public/generated/categories.json");
 
 type CategoryStats = {
-    [key: string]: string | number; // or whatever types your stats values can be
+    [key: string]: string | number | null; // or whatever types your stats values can be
 };
 
 async function loadCategories() {
@@ -164,7 +164,7 @@ function CategoryDetailCard({ category }: { category: any }) {
                         {Object.entries(category.stats as CategoryStats).map(([key, value]) => (
                             <div key={key} className="flex justify-between">
                                 <span className="text-amber-700 capitalize">{key.replace(/([A-Z])/g, " $1")}</span>
-                                <span className="font-medium text-amber-900">{value}</span>
+                                <span className="font-medium text-amber-900">{value || "N/A"}</span>
                             </div>
                         ))}
                     </div>
@@ -440,7 +440,7 @@ export default function CategoriesPage() {
                                                 {Object.entries(category.stats).map(([key, value]) => (
                                                     <div key={key} className="flex justify-between text-sm">
                                                         <span className="text-amber-700 capitalize">{key.replace(/([A-Z])/g, " $1")}</span>
-                                                        <span className="font-medium text-amber-900">{value!.toString()}</span>
+                                                        <span className="font-medium text-amber-900">{value ? value.toString() : "N/A"}</span>
                                                     </div>
                                                 ))}
                                             </div>
