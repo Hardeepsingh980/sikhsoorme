@@ -1,4 +1,4 @@
-# 🫶 Contributing to SikhSoorme
+# Contributing to SikhSoorme
 
 Thank you for your interest in contributing to **SikhSoorme** — a community-powered, open-source encyclopedia of Sikh personalities. Your help ensures we preserve Sikh history and make it accessible to all.
 
@@ -26,13 +26,11 @@ Whether you're a developer, historian, writer, designer, or educator — you are
    Click "Fork" at the top right → clone it to your machine.
 
 2. **Install dependencies**
-
    ```bash
    npm install
-```
+   ```
 
 3. **Run in development**
-
    ```bash
    npm run dev
    ```
