@@ -2,7 +2,7 @@ import Header from '@/components/layouts/Header';
 import './globals.css';
 import { ReactNode } from 'react';
 import Footer from '@/components/layouts/Footer';
-import { GoogleAnalytics } from '@next/third-parties/google'
+import Script from 'next/script';
 
 
 export const metadata = {
@@ -39,15 +39,33 @@ export const metadata = {
 export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en" className="scroll-smooth">
+      <head>
+        {/* Google Analytics script (gtag.js) */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-1DQLM3W5FG"
+          strategy="afterInteractive"
+        />
+        <Script
+          id="ga-init"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-1DQLM3W5FG');
+            `,
+          }}
+        />
+      </head>
       <body className="min-h-screen flex flex-col font-sans text-gray-900 bg-white antialiased">
         <div className="min-h-screen bg-gradient-to-b from-amber-50 via-orange-50 to-amber-100">
-        <div className="h-2 bg-gradient-to-r from-orange-400 via-amber-500 to-orange-600"></div>
-        <Header />
+          <div className="h-2 bg-gradient-to-r from-orange-400 via-amber-500 to-orange-600"></div>
+          <Header />
           {children}
-        <Footer />
+          <Footer />
         </div>
       </body>
-      <GoogleAnalytics gaId="GTM-KJSDXDZC" />
     </html>
   );
 }
