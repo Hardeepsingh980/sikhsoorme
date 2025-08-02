@@ -6,6 +6,7 @@ import { Textarea } from "@/components/ui/textarea"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Badge } from "@/components/ui/badge"
 import { Mail, MessageSquare, Github, Users, BookOpen, Heart, Clock, Send } from "lucide-react"
+import Link from "next/link"
 
 export const metadata: Metadata = {
   title: "Contact Us - SikhSoorme",
@@ -237,58 +238,6 @@ export default function ContactPage() {
               </CardContent>
             </Card>
 
-            {/* Project Information */}
-            <Card className="border-2 border-amber-200">
-              <CardHeader>
-                <CardTitle className="text-xl text-amber-900 flex items-center gap-2">
-                  <Heart className="w-5 h-5" />
-                  About Our Mission
-                </CardTitle>
-              </CardHeader>
-              <CardContent className="space-y-4">
-                <p className="text-gray-700">
-                  SikhSoorme is a community-driven project dedicated to preserving and sharing the rich heritage of Sikh
-                  history and personalities.
-                </p>
-                <div className="grid grid-cols-2 gap-4 text-center">
-                  <div className="p-3 bg-amber-50 rounded-lg">
-                    <div className="text-2xl font-bold text-amber-700">128+</div>
-                    <div className="text-sm text-amber-600">Personalities</div>
-                  </div>
-                  <div className="p-3 bg-orange-50 rounded-lg">
-                    <div className="text-2xl font-bold text-orange-700">47+</div>
-                    <div className="text-sm text-orange-600">Contributors</div>
-                  </div>
-                </div>
-              </CardContent>
-            </Card>
-
-            {/* FAQ Quick Links */}
-            <Card className="border-2 border-gray-200">
-              <CardHeader>
-                <CardTitle className="text-xl text-gray-900">Frequently Asked Questions</CardTitle>
-              </CardHeader>
-              <CardContent className="space-y-2">
-                <Button variant="ghost" className="w-full justify-start text-left h-auto p-3">
-                  <div>
-                    <div className="font-medium">How can I contribute content?</div>
-                    <div className="text-sm text-gray-600">Learn about our contribution process</div>
-                  </div>
-                </Button>
-                <Button variant="ghost" className="w-full justify-start text-left h-auto p-3">
-                  <div>
-                    <div className="font-medium">Is the project open source?</div>
-                    <div className="text-sm text-gray-600">Yes, find us on GitHub</div>
-                  </div>
-                </Button>
-                <Button variant="ghost" className="w-full justify-start text-left h-auto p-3">
-                  <div>
-                    <div className="font-medium">How do you verify historical accuracy?</div>
-                    <div className="text-sm text-gray-600">Our research and review process</div>
-                  </div>
-                </Button>
-              </CardContent>
-            </Card>
           </div>
         </div>
 
@@ -301,9 +250,9 @@ export default function ContactPage() {
                 {"Whether you're a researcher, developer, educator, or simply passionate about Sikh heritage, there's a place for you in our community."}
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <Button size="lg" className="bg-amber-600 hover:bg-amber-700 text-white">
+                <Link href="/contribute"> <Button size="lg" className="bg-amber-600 hover:bg-amber-700 text-white">
                   Start Contributing
-                </Button>
+                </Button></Link>
                 <Button
                   size="lg"
                   variant="outline"

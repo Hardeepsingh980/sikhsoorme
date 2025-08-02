@@ -26,6 +26,7 @@ import path from "path"
 import { notFound } from "next/navigation"
 import { QuickStats } from "@/components/QuickStats"
 import { formatDate } from "@/lib/utils"
+import { GITHUB_EDIT_URL, GITHUB_HISTORY_URL } from "@/app/consts"
 
 // Map string icon names to Lucide React components for dynamic icon rendering
 const lucideIcons: Record<string, React.FC<any>> = {
@@ -121,7 +122,7 @@ export default async function PersonalityDetailPage({ params }: any) {
                 {personality.version.edits} views today
               </Button>
               <Button size="sm" className="bg-orange-500 hover:bg-orange-600 text-white" asChild>
-                <Link href={personality.version.historyUrl} target="_blank">
+                <Link href={GITHUB_EDIT_URL + params.slug + ".json"} target="_blank">
                   <GitBranch className="w-4 h-4 mr-2" />
                   Edit Page
                 </Link>
@@ -208,7 +209,7 @@ export default async function PersonalityDetailPage({ params }: any) {
               </div>
             </div>
             <Button variant="ghost" size="sm" className="text-amber-800 hover:bg-amber-300" asChild>
-              <Link href={personality.version.historyUrl} target="_blank">
+              <Link href={GITHUB_HISTORY_URL + personality.slug + ".json"} target="_blank">
                 View Edit History →
               </Link>
             </Button>

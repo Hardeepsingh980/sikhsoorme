@@ -1,3 +1,4 @@
+import { GITHUB_REPO } from '@/app/consts'
 import { Separator } from '@radix-ui/react-separator'
 import Link from 'next/link'
 import React from 'react'
@@ -32,8 +33,6 @@ export default function Footer() {
             <li><Link href="/categories" className="hover:text-white transition-colors">All Categories</Link></li>
             <li><Link href="/timeline" className="hover:text-white transition-colors">Historical Timeline</Link></li>
             <li><Link href="/search" className="hover:text-white transition-colors">Advanced Search</Link></li>
-            <li><Link href="/random" className="hover:text-white transition-colors">Random Personality</Link></li>
-            <li><Link href="/featured" className="hover:text-white transition-colors">Featured Stories</Link></li>
           </ul>
         </div>
 
@@ -41,9 +40,7 @@ export default function Footer() {
           <h4 className="font-bold text-lg mb-6 text-orange-200">Community</h4>
           <ul className="space-y-3 text-orange-100">
             <li><Link href="/contribute" className="hover:text-white transition-colors">How to Contribute</Link></li>
-            <li><Link href="/guidelines" className="hover:text-white transition-colors">Content Guidelines</Link></li>
-            <li><Link href="https://github.com/Hardeepsingh980/sikhsoorme" className="hover:text-white transition-colors">GitHub Repository</Link></li>
-            <li><Link href="/contributors" className="hover:text-white transition-colors">Our Contributors</Link></li>
+            <li><Link href={GITHUB_REPO} className="hover:text-white transition-colors">GitHub Repository</Link></li>
             <li><Link href="/contact" className="hover:text-white transition-colors">Contact Us</Link></li>
           </ul>
         </div>

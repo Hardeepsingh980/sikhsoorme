@@ -35,6 +35,7 @@ import {
   import { Checkbox } from "@/components/ui/checkbox"
   import { Label } from "@/components/ui/label"
   import Link from "next/link"
+import { GITHUB_REPO } from "../consts"
   
   // Contribution data structure
   const contributionData = {
@@ -287,7 +288,8 @@ import {
               <span className="font-medium text-amber-900">Reward: {type.reward}</span>
             </div>
           </div>
-  
+          
+          <Link href="#form"></Link>
           <Button className={`w-full ${type.color} hover:opacity-90 text-white`}>
             <GitBranch className="w-4 h-4 mr-2" />
             Start Contributing
@@ -344,7 +346,7 @@ import {
                   className="border-amber-300 text-amber-800 hover:bg-amber-100 bg-transparent"
                   asChild
                 >
-                  <Link href="https://github.com/Hardeepsingh980/sikhsoorme" target="_blank">
+                  <Link href={GITHUB_REPO} target="_blank">
                     <Github className="w-4 h-4 mr-2" />
                     GitHub
                   </Link>
@@ -719,7 +721,7 @@ import {
   
                     <div className="space-y-3">
                       <Button className="w-full bg-gray-800 hover:bg-gray-900 text-white" asChild>
-                        <Link href="https://github.com/Hardeepsingh980/sikhsoorme/content" target="_blank">
+                        <Link href={GITHUB_REPO} target="_blank">
                           <Github className="w-4 h-4 mr-2" />
                           View Repository
                           <ExternalLink className="w-4 h-4 ml-2" />
@@ -731,7 +733,7 @@ import {
                         className="w-full border-gray-300 text-gray-700 hover:bg-gray-100 bg-transparent"
                         asChild
                       >
-                        <Link href="https://github.com/Hardeepsingh980/sikhsoorme/content/blob/main/TEMPLATE.md" target="_blank">
+                        <Link href={GITHUB_REPO + "/blob/main/structed_output.md"} target="_blank">
                           <FileText className="w-4 h-4 mr-2" />
                           Download Template
                           <ExternalLink className="w-4 h-4 ml-2" />

@@ -14,3 +14,8 @@ export const MAP_ICON: Record<string, React.FC<any>> = {
     "BarChart3": BarChart3,
     "Search": Search,
 }
+
+
+export const GITHUB_REPO = "https://github.com/hardeepsingh980/sikhsoorme"
+export const GITHUB_EDIT_URL = `${GITHUB_REPO}/blob/main/data/personalities/`
+export const GITHUB_HISTORY_URL = `${GITHUB_REPO}/commits/main/data/personalities/`
