@@ -1,4 +1,4 @@
-# 🧭 SikhSoorme
+# 🧭 SikhSoorme 
 
 A digital, community-powered encyclopedia of Sikh personalities — saints, warriors, leaders, poets, and modern icons who shaped Sikh history and identity.
 
