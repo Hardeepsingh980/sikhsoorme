@@ -1,34 +1,24 @@
 import {
   ArrowLeft,
-  Search,
   Filter,
   Grid3X3,
   List,
   Calendar,
-  MapPin,
   Users,
   BookOpen,
   Star,
   TrendingUp,
   Clock,
   Eye,
-  Heart,
-  Crown,
-  Sword,
-  Shield,
   Lightbulb,
-  Globe,
   SortAsc,
   BarChart3,
 } from "lucide-react"
 import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { Checkbox } from "@/components/ui/checkbox"
-import { Slider } from "@/components/ui/slider"
+import { Tabs, TabsContent} from "@/components/ui/tabs"
 import Image from "next/image"
 import Link from "next/link"
 // pages/explore.tsx or similar
