@@ -14,6 +14,8 @@ import fs from "fs/promises";
 import path from "path";
 import { notFound } from "next/navigation";
 import { MAP_ICON } from "@/app/consts";
+import { formatDate } from "@/lib/utils";
+import Searchbar from "@/components/Searchbar";
 
 // UTILITY FUNCTIONS
 function getEraFromYear(year: number): "early" | "middle" | "late" {
@@ -81,7 +83,7 @@ function PersonalityCard({ personality, viewMode = "grid" }: { personality: any;
                   <h3 className="text-xl font-bold text-amber-900 mb-1">{personality.name}</h3>
                   <div className="flex items-center gap-3 text-sm text-amber-700 mb-2">
                     <span className="font-medium">
-                      {personality.birth} - {personality.death}
+                      {formatDate(personality.birth)} - {formatDate(personality.death)}
                     </span>
                     <Badge variant="secondary" className="bg-amber-200 text-amber-800">
                       {personality.period}
@@ -133,7 +135,7 @@ function PersonalityCard({ personality, viewMode = "grid" }: { personality: any;
             <CardTitle className="text-lg leading-tight mb-1 text-amber-900">{personality.name}</CardTitle>
             <div className="flex items-center gap-2 text-sm text-amber-700 mb-2">
               <span className="font-medium">
-                {personality.birth} - {personality.death}
+                {formatDate(personality.birth)} - {formatDate(personality.death)}
               </span>
             </div>
             <Badge variant="secondary" className="text-xs bg-amber-200 text-amber-800 border-amber-300">
@@ -270,12 +272,11 @@ export default async function CategoryPage({ params }: any) {
 
             <div className="flex flex-wrap gap-4 items-center">
               {/* Search */}
-              <div className="relative">
-                <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-amber-600 w-4 h-4" />
-                <Input
-                  placeholder={`Search ${categoryData.name}...`}
-                  className="pl-10 w-64 border-amber-300 focus:border-orange-500 bg-white"
-                />
+              <div className="relative" style={{
+                marginTop: "1.5rem",
+                
+              }}>
+                <Searchbar />
               </div>
 
               {/* Sort */}
@@ -291,16 +292,6 @@ export default async function CategoryPage({ params }: any) {
                   <SelectItem value="period">Historical Period</SelectItem>
                 </SelectContent>
               </Select>
-
-              {/* View Mode */}
-              <div className="flex border border-amber-300 rounded-md bg-white">
-                <Button variant="ghost" size="sm" className="rounded-r-none border-r border-amber-300">
-                  <Grid3X3 className="w-4 h-4" />
-                </Button>
-                <Button variant="ghost" size="sm" className="rounded-l-none">
-                  <List className="w-4 h-4" />
-                </Button>
-              </div>
             </div>
           </div>
 

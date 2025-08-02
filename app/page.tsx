@@ -8,6 +8,7 @@ import Link from "next/link"
 import fs from "fs/promises"
 import path from "path"
 import Searchbar from "@/components/Searchbar"
+import { formatDate } from "@/lib/utils"
 
 const rawHomepageData = await fs.readFile(path.join(process.cwd(), "public/generated/homepageData.json"), "utf-8");
 const homepageData = JSON.parse(rawHomepageData);
@@ -35,15 +36,12 @@ function ProfileCard({ personality }: { personality: (typeof featuredPersonaliti
             <CardTitle className="text-lg leading-tight mb-1 text-amber-900">{personality.name}</CardTitle>
             <div className="flex items-center gap-2 text-sm text-amber-700 mb-2">
               <span className="font-medium">
-                {personality.birth} - {personality.death}
+                {formatDate(personality.birth)} - {formatDate(personality.death)}
               </span>
             </div>
             <div className="flex items-center gap-2">
               <Badge variant="secondary" className="text-xs bg-amber-200 text-amber-800 border-amber-300">
                 {personality.category}
-              </Badge>
-              <Badge variant="outline" className="text-xs border-amber-300 text-amber-700">
-                {personality.era}
               </Badge>
             </div>
           </div>
@@ -146,7 +144,7 @@ export default function HomePage() {
                       {soormaOfTheDay.category.toUpperCase()}
                     </Badge>
                     <span className="text-amber-700 font-medium">
-                      {soormaOfTheDay.birth} - {soormaOfTheDay.death}
+                      {formatDate(soormaOfTheDay.birth)} - {formatDate(soormaOfTheDay.death)}
                     </span>
                   </div>
 

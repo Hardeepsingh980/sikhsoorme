@@ -24,6 +24,8 @@ import Link from "next/link"
 import fs from "fs/promises"
 import path from "path"
 import { notFound } from "next/navigation"
+import { QuickStats } from "@/components/QuickStats"
+import { formatDate } from "@/lib/utils"
 
 // Map string icon names to Lucide React components for dynamic icon rendering
 const lucideIcons: Record<string, React.FC<any>> = {
@@ -172,7 +174,9 @@ export default async function PersonalityDetailPage({ params }: any) {
                 <div className="flex items-center gap-2">
                   <Calendar className="w-5 h-5" />
                   <span className="font-medium">
-                    {personality.birth} - {personality.death}
+                    {formatDate(personality.birth)}
+                    {personality.death && ` – ${formatDate(personality.death)}`}
+
                   </span>
                 </div>
                 <div className="flex items-center gap-2">
@@ -182,17 +186,7 @@ export default async function PersonalityDetailPage({ params }: any) {
 
                 <p className="text-xl leading-relaxed text-orange-100 mb-8 max-w-3xl">{personality.excerpt}</p>
 
-                {/* Quick Stats */}
-                {Array.isArray(personality.quickStats) && personality.quickStats.length > 0 && (
-                  <div className="grid grid-cols-3 gap-6">
-                    {personality.quickStats.map((stat: any, idx: number) => (
-                      <div className="text-center" key={idx}>
-                        <div className="text-2xl font-bold text-white">{stat.value}</div>
-                        <div className="text-sm text-orange-200">{stat.label}</div>
-                      </div>
-                    ))}
-                  </div>
-                )}
+                <QuickStats personality={personality} />
               </div>
             </div>
           </div>
