@@ -11,6 +11,7 @@
     "build:data": "node scripts/generateCategories.ts && node scripts/generateHomepageData.ts && node scripts/enrichRelatedPersonalities.ts"
   },
   "dependencies": {
+    "@next/third-parties": "^15.4.5",
     "@radix-ui/react-checkbox": "^1.3.2",
     "@radix-ui/react-collapsible": "^1.1.11",
     "@radix-ui/react-label": "^2.1.7",
