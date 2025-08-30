@@ -119,27 +119,42 @@
     {
       "name": "Guru Gobind Singh Ji",
       "relation": "Guru",
-      "slug": "guru-gobind-singh-ji"
+      "slug": "guru-gobind-singh-ji",
+      "category": "gurus",
+      "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
+      "exists": true
     },
     {
       "name": "Bhai Daya Singh Ji",
       "relation": "Panj Pyare",
-      "slug": "bhai-daya-singh-ji"
+      "slug": "bhai-daya-singh-ji",
+      "category": "Panj Pyare",
+      "image": "https://www.sikhiwiki.org/images/6/61/Dayasingh.jpg",
+      "exists": true
     },
     {
       "name": "Bhai Himmat Singh Ji",
       "relation": "Panj Pyare",
-      "slug": "bhai-himmat-singh-ji"
+      "slug": "bhai-himmat-singh-ji",
+      "category": "Panj Pyare",
+      "image": "N/A",
+      "exists": true
     },
     {
       "name": "Bhai Mohkam Singh Ji",
       "relation": "Panj Pyare",
-      "slug": "bhai-mohkam-singh-ji"
+      "slug": "bhai-mohkam-singh-ji",
+      "category": "Panj Pyare",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mural_of_Guru_Gobind_Singh_being_attended_by_the_inaugural_quintet_of_Panj_Piare_%28Daya_Singh%2C_Dharam_Singh%2C_Sahib_Singh%2C_Mohkam_Singh%2C_Himmat_Singh%29_from_a_Sikh_Samadhi_at_Kot_Fateh_Khan.jpg/1200px-thumbnail.jpg",
+      "exists": true
     },
     {
       "name": "Bhai Sahib Singh Ji",
       "relation": "Panj Pyare",
-      "slug": "bhai-sahib-singh-ji"
+      "slug": "bhai-sahib-singh-ji",
+      "category": "Panj Pyare",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mural_of_Guru_Gobind_Singh_being_attended_by_the_inaugural_quintet_of_Panj_Piare_%28Daya_Singh%2C_Dharam_Singh%2C_Sahib_Singh%2C_Mohkam_Singh%2C_Himmat_Singh%29_from_a_Sikh_Samadhi_at_Kot_Fateh_Khan.jpg/1200px-thumbnail.jpg",
+      "exists": true
     }
   ],
   "historicalContext": {

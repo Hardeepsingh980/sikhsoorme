@@ -119,12 +119,18 @@
     {
       "name": "Guru Gobind Singh Ji",
       "relation": "Initiated the Khalsa",
-      "slug": "guru-gobind-singh-ji"
+      "slug": "guru-gobind-singh-ji",
+      "category": "gurus",
+      "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
+      "exists": true
     },
     {
       "name": "Bhai Daya Singh Ji",
       "relation": "One of the Panj Pyare",
-      "slug": "bhai-daya-singh-ji"
+      "slug": "bhai-daya-singh-ji",
+      "category": "Panj Pyare",
+      "image": "https://www.sikhiwiki.org/images/6/61/Dayasingh.jpg",
+      "exists": true
     }
   ],
   "historicalContext": {

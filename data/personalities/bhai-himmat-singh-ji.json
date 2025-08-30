@@ -134,27 +134,42 @@
     {
       "name": "Guru Gobind Singh Ji",
       "relation": "Guru",
-      "slug": "guru-gobind-singh-ji"
+      "slug": "guru-gobind-singh-ji",
+      "category": "gurus",
+      "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
+      "exists": true
     },
     {
       "name": "Bhai Daya Singh Ji",
       "relation": "Fellow Panj Pyare",
-      "slug": "bhai-daya-singh-ji"
+      "slug": "bhai-daya-singh-ji",
+      "category": "Panj Pyare",
+      "image": "https://www.sikhiwiki.org/images/6/61/Dayasingh.jpg",
+      "exists": true
     },
     {
       "name": "Bhai Dharam Singh Ji",
       "relation": "Fellow Panj Pyare",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Bhai Mohkam Singh Ji",
       "relation": "Fellow Panj Pyare",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Bhai Sahib Singh Ji",
       "relation": "Fellow Panj Pyare",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
   "historicalContext": {

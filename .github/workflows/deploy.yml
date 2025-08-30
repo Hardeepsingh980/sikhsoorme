@@ -39,6 +39,7 @@ jobs:
           npx tsx scripts/generateCategories.ts
           npx tsx scripts/generateHomepageData.ts
           npx tsx scripts/pushToSupabase.ts
+          npx tsx scripts/enrichRelatedPersonalities.ts
 
       - name: ⚒️ Build static site
         run: npm run build
