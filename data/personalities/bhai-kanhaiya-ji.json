@@ -1,0 +1,102 @@
+{
+  "already_exist": false,
+  "name": "Bhai Kanhaiya Ji",
+  "slug": "bhai-kanhaiya-ji",
+  "category": "Spiritual Leaders",
+  "birth": "1660-01-01",
+  "death": "1730-01-01",
+  "birthPlace": "Kandhla, Punjab, India",
+  "excerpt": "Bhai Kanhaiya Ji was a revered Sikh spiritual leader known for his compassionate service and dedication to humanity.",
+  "biographySections": [
+    {
+      "label": "Early Life and Background",
+      "icon": "mdi:history",
+      "value": "Bhai Kanhaiya Ji was born in 1660 in Kandhla, Punjab. He was a dedicated servant and developed a deep sense of compassion from a young age."
+    },
+    {
+      "label": "Philanthropic Work and Legacy",
+      "icon": "mdi:heart",
+      "value": "He is most renowned for his humanitarian efforts, notably serving water to wounded soldiers of all armies during battles and later establishing community kitchens.%0A%0AHis actions exemplified the Sikh principles of selfless service, humility, and compassion."
+    },
+    {
+      "label": "Spiritual Philosophy and Teachings",
+      "icon": "mdi:electric-switch",
+      "value": "Bhai Kanhaiya Ji's teachings emphasized humility, compassion, and service to all beings, transcending religious and social boundaries."
+    },
+    {
+      "label": "Impact on Sikhism and Society",
+      "icon": "mdi:account-group",
+      "value": "His dedication to service and equality has left a lasting impact on Sikh community and broader society, inspiring countless to practice altruism."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Bhai Kanhaiya Ji's spiritual legacy is centered around the values of compassion, humility, and selfless service, which continue to inspire many."
+  },
+  "modernRelevance": {
+    "description": "His life's work remains profoundly relevant today, highlighting the importance of compassionate service in fostering a harmonious society.",
+    "contemporaryImpact": [
+      "Inspiring social service initiatives worldwide.",
+      "Encouraging interfaith dialogue and community unity.",
+      "Promoting the values of empathy and altruism in modern leadership."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Hero of Humanity",
+      "year": "1720",
+      "description": "Recognized for his unwavering commitment to serving all of humanity, regardless of religion or background.",
+      "icon": "mdi:human-male-female"
+    },
+    {
+      "title": "Water Provider During Battles",
+      "year": "1700s",
+      "description": "Provided water to wounded soldiers of all armies during wars, exemplifying his dedication to alleviating suffering.",
+      "icon": "mdi:water"
+    }
+  ],
+  "quotes": [
+    {
+      "original": "Seva binn bhagya nahi, seva binpani nahi.",
+      "translation": "Without service, there is no fortune, and without service, there is no life.",
+      "context": "His emphasis on selfless service as a pathway to spiritual fulfillment."
+    },
+    {
+      "source": "Guru Granth Sahib"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1660,
+      "event": "Born in Kandhla, Punjab."
+    },
+    {
+      "year": 1700,
+      "event": "Began serving water to wounded soldiers during battles."
+    },
+    {
+      "year": 1720,
+      "event": "Recognized as the Hero of Humanity."
+    },
+    {
+      "year": 1730,
+      "event": "Passed away, leaving a legacy of compassion and service."
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Gobind Singh",
+      "relation": "Contemporary and spiritual follower",
+      "slug": "guru-gobind-singh"
+    }
+  ],
+  "historicalContext": {
+    "period": "16th to 18th century",
+    "politicalSituation": "Frequent conflicts and battles among Indian kingdoms and invading forces.",
+    "socialConditions": "Stratified social structure with deep religious diversity and tensions.",
+    "significance": "His life exemplifies the ideals of compassion and service amidst turbulent times."
+  },
+  "references": [
+    "Biography of Bhai Kanhaiya Ji from Sikh Heritage Foundation",
+    "Historical accounts from Sikh History Museum"
+  ]
+}
