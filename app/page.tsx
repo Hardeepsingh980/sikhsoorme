@@ -154,15 +154,19 @@ export default function HomePage() {
                     {soormaOfTheDay.excerpt}
                   </p>
 
-                  <div className="bg-amber-100 p-4 rounded-lg border-l-4 border-orange-500 mb-6">
-                    <div className="flex items-start gap-3">
-                      <Quote className="w-5 h-5 text-orange-600 mt-1 flex-shrink-0" />
-                      <div>
-                        <p className="text-amber-900 font-medium italic mb-2">{`"${soormaOfTheDay.quote}"`}</p>
-                        <p className="text-amber-700 text-sm">{soormaOfTheDay.quoteTranslation}</p>
+                  {
+                    soormaOfTheDay.quote && (
+                      <div className="bg-amber-100 p-4 rounded-lg border-l-4 border-orange-500 mb-6">
+                        <div className="flex items-start gap-3">
+                          <Quote className="w-5 h-5 text-orange-600 mt-1 flex-shrink-0" />
+                          <div>
+                            <p className="text-amber-900 font-medium italic mb-2">{`"${soormaOfTheDay.quote}"`}</p>
+                            <p className="text-amber-700 text-sm">{soormaOfTheDay.quoteTranslation}</p>
+                          </div>
+                        </div>
                       </div>
-                    </div>
-                  </div>
+                    )
+                  }
 
                   <div className="bg-orange-50 p-4 rounded-lg mb-6">
                     <h4 className="font-semibold text-amber-900 mb-2">Historical Significance:</h4>
