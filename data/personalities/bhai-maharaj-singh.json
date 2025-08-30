@@ -1,0 +1,195 @@
+{
+  "name": "Bhai Maharaj Singh",
+  "slug": "bhai-maharaj-singh",
+  "category": "Warriors",
+  "birth": "1770-01-03 or 1780-01-13 (disputed)",
+  "death": "1856-07-05",
+  "birthPlace": "Rabbon Uchi village (Raboo, Nagar Maloud), Ludhiana district",
+  "excerpt": "Bhai Maharaj Singh was a prominent Sikh saint-soldier and a revolutionary anti-colonial resistance fighter against the early British colonial establishment in Punjab. He is also recognized as the first Sikh on record to be exiled to Singapore.",
+  "designation": "Saint-Soldier, Revolutionary Leader",
+  "quickStats": [
+    {
+      "label": "Born",
+      "value": "Late 18th Century"
+    },
+    {
+      "label": "Died",
+      "value": 1856
+    },
+    {
+      "label": "Exiled to",
+      "value": "Singapore"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Birth Name",
+      "value": "Nihal Singh"
+    },
+    {
+      "label": "Khalsa Name",
+      "value": "Bhagvan Singh"
+    },
+    {
+      "label": "Known as",
+      "value": "Karniwala (miracle worker), Guru, Karam Singh (posthumously in Singapore)"
+    },
+    {
+      "label": "Successor to",
+      "value": "Baba Bir Singh of Naurangabad"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2023-10-27T12:00:00Z",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "fas fa-user-circle",
+      "value": "Born as Nihal Singh in the village of Rabbon Uchi (Raboo, Nagar Maloud) in the Ludhiana district during the latter half of the 18th century. His exact birth date is disputed, with sources claiming either January 3, 1770, or January 13, 1780. His father was identified as Kesar Singh or Gurmukh Singh, and he had two brothers, Gurdial Singh and Gurbakhash Singh. From a young age, Nihal Singh displayed a strong religious inclination and a patient demeanor. He was sent to a Sikh seminary for instruction in Gurbani and Gurmukhi. Recognizing his potential, his teacher advised him to attend the Dera of Bhai Tota Singh Thikriwala. Here, he received extensive education in Sikh history, scriptures, and philosophy, including traditional Sikh political ideologies. It is believed he took Amrit during this period and committed to daily Naam Simran meditation, also studying the Vedas and the Guru Granth Sahib."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "fas fa-hand-holding-heart",
+      "value": "Bhai Maharaj Singh's contributions spanned both religious leadership and anti-colonial resistance. He initially dedicated himself to selfless service (seva) at Baba Bir Singh's dera in Naurangabad, where he served as head chef in the langar. After the passing of Baba Bir Singh, he became his successor. Following the annexation of Punjab by the British, Bhai Maharaj Singh emerged as a prominent figure in the anti-colonial movement. He actively organized and led resistance efforts against British rule, seeking to restore Sikh sovereignty. He was considered a 'saint-soldier' (sant-sipahi) due to his blend of spiritual devotion and martial leadership. His efforts to rally support and lead a rebellion made him a significant threat to the British, who eventually captured and exiled him."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "fas fa-pen-nib",
+      "value": "N/A"
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "fas fa-pen",
+      "value": "N/A"
+    },
+    {
+      "label": "Final Years",
+      "icon": "fas fa-hourglass-end",
+      "value": "Following his capture by the British, Bhai Maharaj Singh was exiled to Singapore in 1850. He was imprisoned there without trial and spent his remaining years in confinement. He passed away on July 5, 1856, in Singapore. His exile marks him as the first Sikh to be recorded in Singapore's history. Posthumously, he became known as Karam Singh among local Singaporeans."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Bhai Maharaj Singh's spiritual legacy is rooted in his role as a sant-sipahi, embodying the Sikh ideal of a saint-soldier. He succeeded Baba Bir Singh of Naurangabad, continuing a tradition that emphasized both spiritual devotion (Naam Simran, Gurbani study) and a commitment to justice and defense of the faith. His early life was dedicated to learning Sikh scriptures and philosophy, and later, to serving the community through langar. This strong spiritual foundation fueled his later efforts in resistance, demonstrating that his fight against colonial rule was deeply intertwined with his religious beliefs and the Sikh ethos of standing against oppression.",
+    "keyContributions": [
+      "Successor to Baba Bir Singh (Naurangabad) of Bhai Daya Singh Samparda.",
+      "Embodiment of the Sant-Sipahi ideal.",
+      "Emphasis on Naam Simran and Gurbani study."
+    ]
+  },
+  "modernRelevance": {
+    "description": "Bhai Maharaj Singh remains a significant figure in Sikh history, particularly as a symbol of early anti-colonial resistance. His unwavering commitment to freedom and justice against overwhelming odds inspires Sikhs and others who advocate for self-determination and oppose oppression. His story highlights the martial spirit within Sikhism, where spiritual values are intrinsically linked with defending human rights and sovereignty. His exile to Singapore also connects him to the Sikh diaspora, making him a figure of historical importance beyond the immediate region of Punjab.",
+    "contemporaryImpact": [
+      "Symbol of anti-colonial resistance and freedom.",
+      "Inspiration for standing against injustice.",
+      "Historical link for the Sikh diaspora in Singapore and beyond."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Leader of Sikh Uprising",
+      "year": "1849",
+      "description": "Led significant anti-British resistance after the Second Anglo-Sikh War.",
+      "icon": ""
+    },
+    {
+      "title": "First Sikh in Singapore",
+      "year": "1850",
+      "description": "Exiled to Singapore by the British, becoming the first recorded Sikh in the region.",
+      "icon": ""
+    },
+    {
+      "title": "Sant-Sipahi",
+      "year": "",
+      "description": "Recognized as a saint-soldier, balancing spiritual devotion with active resistance against oppression.",
+      "icon": ""
+    }
+  ],
+  "quotes": [
+    {
+      "original": "\"By taking Amrit you are taking a vow that hereafter you will dedicate each breath of your life in the service of Satguru. In other words, you will live every moment of your life according to the injunctions of Satguru. If your mind always stays alert according to Guru's instructions then your heart and thoughts will stay free from getting polluted.\"",
+      "transliteration": "",
+      "translation": "",
+      "context": "Advice given by his master, Baba Bir Singh, during Bhai Maharaj Singh's Amrit Sanchar ceremony.",
+      "source": "Wikipedia (citationNeeded)"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1770",
+      "date": "January 3",
+      "event": "Possible birth date of Nihal Singh (Bhai Maharaj Singh)",
+      "type": "Birth"
+    },
+    {
+      "year": "1780",
+      "date": "January 13",
+      "event": "Alternate possible birth date of Nihal Singh (Bhai Maharaj Singh)",
+      "type": "Birth"
+    },
+    {
+      "year": "null",
+      "date": "",
+      "event": "Educated at Dera of Bhai Tota Singh Thikriwala",
+      "type": "Education"
+    },
+    {
+      "year": "null",
+      "date": "",
+      "event": "Joined Dera of Baba Bir Singh in Naurangabad",
+      "type": "Religious"
+    },
+    {
+      "year": "null",
+      "date": "",
+      "event": "Assumed leadership of the Dera after Baba Bir Singh's passing",
+      "type": "Leadership"
+    },
+    {
+      "year": "1849",
+      "date": "",
+      "event": "Emerged as a leader of the anti-British resistance movement",
+      "type": "Resistance"
+    },
+    {
+      "year": "1849",
+      "date": "December 28",
+      "event": "Captured by the British near Adampur",
+      "type": "Capture"
+    },
+    {
+      "year": "1850",
+      "date": "April 6",
+      "event": "Exiled to Singapore by the British",
+      "type": "Exile"
+    },
+    {
+      "year": "1856",
+      "date": "July 5",
+      "event": "Passed away in solitary confinement in Singapore",
+      "type": "Death"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Baba Bir Singh",
+      "relation": "Spiritual Teacher",
+      "slug": ""
+    },
+    {
+      "name": "Duleep Singh",
+      "relation": "Last Maharaja of the Sikh Empire",
+      "slug": "duleep-singh"
+    }
+  ],
+  "historicalContext": {
+    "period": "Mid-19th Century (Post-Sikh Empire, Early British Colonial Rule)",
+    "politicalSituation": "The Sikh Empire, once a powerful force under Maharaja Ranjit Singh, had fragmented after his death. The Anglo-Sikh Wars (1845-1846 and 1848-1849) led to the eventual annexation of Punjab by the British East India Company. This period was marked by significant political upheaval, a loss of sovereignty for the Sikhs, and growing anti-colonial sentiment among various sections of the population.",
+    "socialConditions": "The annexation brought about drastic changes in the social fabric of Punjab. British administrative and legal systems were imposed, challenging existing traditions. There was a sense of resentment and disillusionment among many, particularly those who had served the Sikh Empire, including soldiers and religious leaders. Bhai Maharaj Singh's movement tapped into this widespread discontent, offering a spiritual and martial call to resist foreign rule.",
+    "significance": "Bhai Maharaj Singh represents one of the earliest and most determined attempts at armed resistance against British colonial rule in Punjab. His leadership, blending spiritual authority with revolutionary zeal, made him a potent symbol for those who yearned for the restoration of Sikh sovereignty. His actions set a precedent for future anti-colonial movements and highlighted the deep-seated resistance to British expansion in India."
+  }
+}
