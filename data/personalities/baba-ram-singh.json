@@ -1,0 +1,109 @@
+{
+  "name": "Satguru Ram Singh",
+  "slug": "baba-ram-singh",
+  "category": "Leaders",
+  "birth": "1816-02-03",
+  "death": "1885",
+  "birthPlace": "Raiyan, Ludhiana, Punjab",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Detail_of_Ram_Singh_from_an_equestrian_painting_of_him_with_his_retinue_%28including_his_appointed_governors%29%2C_he_was_the_second_Namdhari_Guru_%28cropped%29.jpg/1200px-Detail_of_Ram_Singh_from_an_equestrian_painting_of_him_with_his_retinue_%28including_his_appointed_governors%29%2C_he_was_the_second_Namdhari_Guru_%28cropped%29.jpg",
+  "excerpt": "Satguru Ram Singh (1816–1885) was the 12th Guru of the Namdhari sect of Sikhism. He is recognized as the first Indian to employ non-cooperation and boycott of British goods and services as a political strategy against colonial rule. His efforts led to his exile to Rangoon, Burma, by the British.",
+  "designation": "Namdhari Guru, Social Reformer, Freedom Fighter",
+  "quickStats": [
+    {
+      "label": "Movement Founded",
+      "value": "Namdhari (Kuka) Movement"
+    },
+    {
+      "label": "Political Strategy",
+      "value": "Non-cooperation, Boycott"
+    },
+    {
+      "label": "Exiled to",
+      "value": "Rangoon, Burma"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Pioneered non-violent resistance methods in India.",
+      "value": ""
+    },
+    {
+      "label": "Advocated for social and religious reforms within Sikhism.",
+      "value": ""
+    },
+    {
+      "label": "Recognized by the Indian government for his contributions.",
+      "value": ""
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-05-15",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 0,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "👶",
+      "value": "Satguru Ram Singh was born on February 3, 1816, in the village of Raiyan, near Sri Bhaini Sahib, Ludhiana, to Sada Kaur and Jassa Singh, a farming (Tarkhan) family. His mother nurtured him in the traditions of Guru Nanak, and he learned to read and write in Punjabi. He spent his early 20 years engaged in the family business. At the age of 20, he joined the army of the Sikh Empire."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "🕊️",
+      "value": "After the decline of the Sikh Empire following Maharaja Ranjit Singh's death, Satguru Ram Singh became concerned about growing British influence and the spiritual decline within the Sikh community. He galvanized followers, primarily from humble backgrounds, to establish a 'Sant Khalsa' aimed at restoring Sikh prestige and values. He is credited with pioneering the use of non-cooperation and boycott of British goods and services as a political instrument, predating Mahatma Gandhi's similar movements."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "🛡️",
+      "value": "Satguru Ram Singh initiated significant socio-religious reforms. He administered 'Khande di Pahul' (Amrit Sanchar) to five Sikhs, leading to a large number of baptisms within ten years, as noted in British Archives and Giani Gian Singh's 'Panth Parkash.' His followers, known as Namdhari Sikhs, were also called Kukas due to their spiritually ecstatic behavior during religious gatherings. He emphasized a return to the pure teachings of the Gurus, combating moral degeneration like drinking, opium consumption, and other vices prevalent at the time. Sardar Kapur Singh noted that Baba Ram Singh preached the same path and principles as Guru Nanak and Guru Gobind Singh."
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "✍️",
+      "value": "N/A"
+    },
+    {
+      "label": "Final Years",
+      "icon": "⏳",
+      "value": "Due to his growing influence and the anti-British stance of the Namdhari movement, Satguru Ram Singh was exiled by the British colonial government of India to Rangoon, Burma (Myanmar), on January 18, 1872, where he passed away in 1885."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Satguru Ram Singh's spiritual legacy is primarily rooted in the Namdhari (Kuka) movement, which he founded. He sought to revitalize Sikhism by emphasizing a strict moral code, devotion to Naam Simran (meditation on God's name), and adherence to the pure teachings of the Gurus.",
+    "keyContributions": [
+      "Revived a puritanical form of Sikhism focused on ethical living.",
+      "Introduced the concept of 'Sant Khalsa' for spiritual and social upliftment.",
+      "Inspired followers to resist British cultural and political encroachment through spiritual and social means."
+    ]
+  },
+  "modernRelevance": {
+    "description": "Satguru Ram Singh is recognized today as an early proponent of non-violent resistance and a significant figure in India's independence movement. His methods of non-cooperation and boycott laid a foundation for future nationalist movements.",
+    "contemporaryImpact": [
+      "His pioneering use of non-cooperation and boycott is studied as a precursor to later freedom movements.",
+      "The Indian and Punjab governments officially commemorate his birth anniversary, acknowledging his historical importance.",
+      "His portrait is displayed in the Indian Parliament, recognizing his contributions to the nation."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "First Indian to use Non-Cooperation",
+      "year": "1860s",
+      "description": "Pioneered the use of non-cooperation and boycott of British goods and services as a political tool against colonial rule.",
+      "icon": ""
+    },
+    {
+      "title": "Founder of Namdhari Movement",
+      "year": "1857",
+      "description": "Established the Namdhari (Kuka) movement, a significant socio-religious reform movement within Sikhism, aimed at spiritual and moral revival and resistance against British influence.",
+      "icon": ""
+    },
+    {
+      "title": "National Recognition",
+      "year": "2016",
+      "description": "The Government of India commemorated his 200th birth anniversary, and the Punjab Government declared a holiday on his birth anniversary. His portrait is displayed in the Indian Parliament.",
+      "icon": ""
+    }
+  ]
+}
