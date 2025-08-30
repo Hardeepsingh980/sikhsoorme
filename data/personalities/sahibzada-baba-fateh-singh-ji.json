@@ -1,0 +1,193 @@
+{
+  "name": "Sahibzada Baba Fateh Singh Ji",
+  "slug": "sahibzada-baba-fateh-singh-ji",
+  "category": "Sahibzade",
+  "birth": "1699-12-12",
+  "death": "1705-12-26",
+  "birthPlace": "Anandpur Sahib, Punjab",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mural_of_Sahibzada_Fateh_Singh_%28youngest_son_of_Guru_Gobind_Singh%29_from_the_Pothi-Mala_building_of_Guru_Harsahai%2C_Punjab%2C_circa_18th_or_19th_century.jpg",
+  "excerpt": "Sahibzada Fateh Singh, the youngest son of Guru Gobind Singh, was martyred at the tender age of six alongside his elder brother, Sahibzada Zorawar Singh, by the Mughal authorities in Sirhind. His unwavering faith and courage in the face of immense cruelty make him a revered figure in Sikh history.",
+  "designation": "Youngest Sahibzada of Guru Gobind Singh, Martyr",
+  "quickStats": [
+    {
+      "label": "Age at Martyrdom",
+      "value": "6 years"
+    },
+    {
+      "label": "Father",
+      "value": "Guru Gobind Singh Ji"
+    },
+    {
+      "label": "Mother",
+      "value": "Mata Jito Ji (also known as Mata Sundari Ji)"
+    },
+    {
+      "label": "Grandmother",
+      "value": "Mata Gujri Ji"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Martyred alongside his elder brother, Sahibzada Zorawar Singh.",
+      "value": ""
+    },
+    {
+      "label": "Refused to convert to Islam despite threats and promises of wealth.",
+      "value": ""
+    },
+    {
+      "label": "One of the youngest martyrs in Sikh history.",
+      "value": ""
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-05-18",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "mdi-child",
+      "value": "Sahibzada Fateh Singh was born on December 12, 1699, at Anandpur Sahib, the youngest of Guru Gobind Singh's four sons to Mata Jito Ji (also known as Mata Sundari Ji). He was raised by his paternal grandmother, Mata Gujri, after his mother's passing in December 1700. His early life was spent in Anandpur Sahib, a period marked by intense political and military pressures on the Sikhs from the Mughal Empire and hostile hill chiefs."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "mdi-account-heart",
+      "value": "At a very young age, Sahibzada Fateh Singh, along with his elder brother Zorawar Singh, demonstrated unparalleled steadfastness and courage. During the siege of Anandpur Sahib in 1704, when Guru Gobind Singh and his Sikhs were forced to evacuate due to a broken oath by the Mughals and hill chiefs, Fateh Singh became separated from his father with his brother and grandmother, Mata Gujri. Their refusal to renounce their faith, despite extreme coercion and the threat of a brutal death, stands as a supreme example of unwavering commitment to Sikh principles."
+    },
+    {
+      "label": "Final Years",
+      "icon": "mdi-clock",
+      "value": "Following the evacuation of Anandpur Sahib, Sahibzada Fateh Singh, his elder brother Zorawar Singh, and their grandmother Mata Gujri, were betrayed by Gangu, a former cook of the Guru, and handed over to the Mughal authorities. They were imprisoned in the 'Thanda Burj' (cold tower) in Sirhind during the harsh winter. Despite repeated attempts by Wazir Khan, the provincial governor of Sirhind, to convert them to Islam with promises of lavish rewards and threats of torture, both young Sahibzade staunchly refused. On December 26, 1705, Sahibzada Fateh Singh, at the age of six, and Sahibzada Zorawar Singh, aged eight, were martyred. Historical accounts vary on the exact method, some stating they were simply beheaded, while popular Sikh tradition holds they were bricked alive into a wall and then executed after falling unconscious. Mata Gujri Ji also passed away from shock upon hearing of her grandsons' martyrdom. Diwan Todar Mal, a wealthy banker, purchased land with gold coins to ensure a respectful cremation for the three martyrs."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Sahibzada Fateh Singh's spiritual legacy is profound, epitomizing unparalleled faith, courage, and sacrifice in the face of ultimate adversity. His martyrdom at such a tender age serves as an eternal source of inspiration for Sikhs, reinforcing the core values of standing firm in one's beliefs, even at the cost of one's life. He, along with his brother, represents the ultimate sacrifice for religious freedom and justice.",
+    "keyContributions": [
+      "Embodiment of unyielding faith and courage.",
+      "Symbol of sacrifice for religious freedom against tyranny.",
+      "Inspired future generations to uphold Sikh principles."
+    ]
+  },
+  "modernRelevance": {
+    "description": "In modern times, the sacrifice of Sahibzada Fateh Singh continues to resonate deeply within the Sikh community and beyond. His story is a powerful reminder of the importance of human rights, religious freedom, and the courage to resist oppression. Annual commemorations, particularly at Gurdwara Fatehgarh Sahib, draw millions, emphasizing the timeless message of his martyrdom.",
+    "contemporaryImpact": [
+      "Serves as an enduring symbol of resistance against injustice and forced conversion.",
+      "Inspires advocacy for human rights and religious freedom globally.",
+      "Strengthens Sikh identity and commitment to their faith and values."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Supreme Martyrdom",
+      "year": "1705",
+      "description": "Laid down his life at the age of 6, refusing to convert to Islam, upholding Sikh principles.",
+      "icon": "mdi-martin-top"
+    }
+  ],
+  "quotes": [
+    {
+      "original": "ਮੈਂ ਆਪਣਾ ਧਰਮ ਨਹੀਂ ਛੱਕਾਂਗਾ।",
+      "transliteration": "Main apna dharam nahin chhadanga.",
+      "translation": "I will not abandon my faith.",
+      "context": "Spoken during his interrogation by Wazir Khan, when pressured to convert to Islam.",
+      "source": "Sikh oral tradition and historical accounts."
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1699,
+      "date": "Dec 12",
+      "event": "Birth of Sahibzada Fateh Singh at Anandpur Sahib.",
+      "type": "Birth"
+    },
+    {
+      "year": 1700,
+      "date": "Dec",
+      "event": "Mata Jito Ji (Mata Sundari Ji) passes away; Sahibzada Fateh Singh is raised by Mata Gujri Ji.",
+      "type": "Family Event"
+    },
+    {
+      "year": 1704,
+      "date": "Dec 20-21",
+      "event": "Evacuation of Anandpur Sahib and separation from Guru Gobind Singh Ji.",
+      "type": "Historical Event"
+    },
+    {
+      "year": 1704,
+      "date": "Dec",
+      "event": "Betrayal by Gangu and arrest of Sahibzada Fateh Singh, Sahibzada Zorawar Singh, and Mata Gujri Ji.",
+      "type": "Historical Event"
+    },
+    {
+      "year": 1704,
+      "date": "Dec",
+      "event": "Imprisonment in Thanda Burj, Sirhind.",
+      "type": "Historical Event"
+    },
+    {
+      "year": 1705,
+      "date": "Dec 26",
+      "event": "Martyrdom of Sahibzada Fateh Singh and Sahibzada Zorawar Singh in Sirhind.",
+      "type": "Martyrdom"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Gobind Singh Ji",
+      "relation": "Father",
+      "slug": "guru-gobind-singh-ji"
+    },
+    {
+      "name": "Mata Jito Ji",
+      "relation": "Mother",
+      "slug": "mata-jito-ji"
+    },
+    {
+      "name": "Mata Gujri Ji",
+      "relation": "Grandmother",
+      "slug": "mata-gujri-ji"
+    },
+    {
+      "name": "Sahibzada Zorawar Singh Ji",
+      "relation": "Elder Brother",
+      "slug": "sahibzada-zorawar-singh-ji"
+    },
+    {
+      "name": "Sahibzada Ajit Singh Ji",
+      "relation": "Elder Brother",
+      "slug": "sahibzada-ajit-singh-ji"
+    },
+    {
+      "name": "Sahibzada Jujhar Singh Ji",
+      "relation": "Elder Brother",
+      "slug": "sahibzada-jujhar-singh-ji"
+    },
+    {
+      "name": "Wazir Khan",
+      "relation": "Mughal Governor, Ordered Martyrdom",
+      "slug": "wazir-khan"
+    },
+    {
+      "name": "Diwan Todar Mal",
+      "relation": "Devoted Sikh, Arranged Cremation",
+      "slug": "diwan-todar-mal"
+    }
+  ],
+  "historicalContext": {
+    "period": "Early 18th Century (Mughal-Sikh Wars)",
+    "politicalSituation": "The Mughal Empire, under Emperor Aurangzeb, was engaged in a relentless campaign to suppress Sikhism and convert its followers to Islam. Guru Gobind Singh Ji and his family faced constant persecution and warfare.",
+    "socialConditions": "The era was marked by severe religious intolerance and persecution of non-Muslims by the Mughal administration. Sikhs were particularly targeted for their distinct identity and refusal to conform.",
+    "significance": "The martyrdom of the Sahibzade, particularly the youngest, Sahibzada Fateh Singh, became a pivotal event in Sikh history. It ignited a fierce resolve within the Sikh community, strengthening their commitment to their faith and inspiring future generations to fight against tyranny and injustice. This sacrifice cemented the image of Sikhs as defenders of dharma and human rights."
+  },
+  "references": [
+    "Wikipedia: Fateh Singh (Sikhism) - https://en.wikipedia.org/wiki/Fateh_Singh_(Sikhism)",
+    "SikhiWiki: Sahibzada Fateh Singh - https://www.sikhiwiki.org/index.php/Sahibzada_Fateh_Singh",
+    "SikhNet: Sikh Gurpurab Calendar 2025-26 - https://www.sikhnet.com/pages/sikh-gurpurab-calendar",
+    "The Great Martyrdom of the Sahibzadas (citationNeeded)",
+    "History of the Sikhs by Hari Ram Gupta (citationNeeded)"
+  ]
+}
