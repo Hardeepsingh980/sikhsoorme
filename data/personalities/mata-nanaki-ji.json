@@ -1,0 +1,176 @@
+{
+  "name": "Mata Nanaki Ji",
+  "slug": "mata-nanaki-ji",
+  "category": "Guru Family",
+  "birth": "1598-01-01",
+  "death": "1678-01-01",
+  "birthPlace": "Amritsar",
+  "image": "",
+  "excerpt": "Mata Nanaki Ji was a pivotal figure in Sikh history, renowned as the wife of the sixth Sikh Guru, Guru Hargobind Sahib, and the revered mother of the ninth Sikh Guru, Guru Tegh Bahadur Sahib. She was also the grandmother of Guru Gobind Singh Sahib, the tenth Sikh Guru. Her life was marked by deep faith, resilience, and unwavering support for the Sikh Gurus and the community, enduring significant personal sacrifices and witnessing key historical events.",
+  "designation": "Wife of Guru Hargobind Sahib, Mother of Guru Tegh Bahadur Sahib, Grandmother of Guru Gobind Singh Sahib.",
+  "quickStats": [
+    {
+      "label": "Spouse",
+      "value": "Guru Hargobind Sahib"
+    },
+    {
+      "label": "Son",
+      "value": "Guru Tegh Bahadur Sahib"
+    },
+    {
+      "label": "Grandson",
+      "value": "Guru Gobind Singh Sahib"
+    },
+    {
+      "label": "Lifetime",
+      "value": "80 years (approx.)"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Witnessed the martyrdom of her son, Guru Tegh Bahadur Sahib.",
+      "value": "Yes"
+    },
+    {
+      "label": "Chakk Nanaki (now Anandpur Sahib) was named after her by her son.",
+      "value": "Yes"
+    },
+    {
+      "label": "Accompanied Guru Tegh Bahadur on his journeys.",
+      "value": "Yes"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2023-10-27",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "fa-baby-carriage",
+      "value": "Mata Nanaki was born in 1598 in Amritsar. She was the daughter of Hari Chand and Hardei, a Khatri couple from the village of Bakala. She was married to Guru Hargobind Sahib in April 1613."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "fa-hands-helping",
+      "value": "Mata Nanaki's contributions were primarily through her unwavering support and resilience within the Guru's family. She played a crucial role in raising Guru Tegh Bahadur and later, her grandson Guru Gobind Singh, in an environment of strong Sikh values. She accompanied Guru Tegh Bahadur on his extensive journeys, demonstrating her commitment to the Sikh mission. Her quiet strength and steadfast faith were a source of inspiration during challenging times for the Sikh community. She also took on the responsibility of managing the affairs of Chakk Nanaki after the martyrdom of Guru Tegh Bahadur when Guru Gobind Rai was young."
+    },
+    {
+      "label": "Final Years",
+      "icon": "fa-hourglass-end",
+      "value": "Mata Nanaki Ji continued to serve the community until her passing in 1678. A significant moment in her final years was witnessing the severed head of her martyred son, Guru Tegh Bahadur Sahib, which she accepted as the will of God, finding solace in Guru Gobind Singh Sahib's presence. She remained a guiding presence for the young Guru Gobind Singh during his formative years."
+    },
+    {
+      "label": "Spiritual Legacy",
+      "icon": "fa-spa",
+      "value": "Mata Nanaki's spiritual legacy is that of a devoted mother, wife, and matriarch who embodied the Sikh principles of faith, sacrifice, and resilience. She instilled strong spiritual values in her son, Guru Tegh Bahadur, and her grandson, Guru Gobind Singh, shaping their roles as leaders of the Sikh faith. Her life serves as an example of quiet strength and unwavering dedication to the Guru's mission."
+    },
+    {
+      "label": "Modern Relevance",
+      "icon": "fa-moon",
+      "value": "In modern times, Mata Nanaki Ji remains a revered figure, particularly for her portrayal of steadfastness, maternal strength, and unwavering faith. Her story inspires individuals, especially women, to uphold their spiritual convictions and support their families through adversity."
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Mother of a Guru",
+      "year": "N/A",
+      "description": "Gave birth to Guru Tegh Bahadur Sahib, the ninth Sikh Guru.",
+      "icon": ""
+    },
+    {
+      "title": "Wife of a Guru",
+      "year": "N/A",
+      "description": "Was the wife of Guru Hargobind Sahib, the sixth Sikh Guru.",
+      "icon": ""
+    },
+    {
+      "title": "Grandparent of a Guru",
+      "year": "N/A",
+      "description": "Was the grandmother of Guru Gobind Singh Sahib, the tenth Sikh Guru.",
+      "icon": ""
+    }
+  ],
+  "quotes": [],
+  "timeline": [
+    {
+      "year": 1598,
+      "date": "",
+      "event": "Born in Amritsar.",
+      "type": "Birth"
+    },
+    {
+      "year": 1613,
+      "date": "April",
+      "event": "Married Guru Hargobind Sahib.",
+      "type": "Marriage"
+    },
+    {
+      "year": 1621,
+      "date": "April 18",
+      "event": "Birth of her son, Guru Tegh Bahadur.",
+      "type": "Family"
+    },
+    {
+      "year": 1644,
+      "date": "",
+      "event": "Moved to Bakala with Guru Tegh Bahadur and Mata Gujri after Guru Hargobind's passing.",
+      "type": "Residence Change"
+    },
+    {
+      "year": 1665,
+      "date": "",
+      "event": "Chakk Nanaki (now Anandpur Sahib) founded by Guru Tegh Bahadur, named after her.",
+      "type": "Historical Event"
+    },
+    {
+      "year": 1675,
+      "date": "November 11",
+      "event": "Witnessed the martyrdom of her son, Guru Tegh Bahadur.",
+      "type": "Tragic Event"
+    },
+    {
+      "year": 1678,
+      "date": "",
+      "event": "Passed away.",
+      "type": "Death"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Hargobind Sahib",
+      "relation": "Husband",
+      "slug": "guru-hargobind-sahib"
+    },
+    {
+      "name": "Guru Tegh Bahadur Sahib",
+      "relation": "Son",
+      "slug": "guru-tegh-bahadur-sahib"
+    },
+    {
+      "name": "Mata Gujri Ji",
+      "relation": "Daughter-in-law",
+      "slug": "mata-gujri-ji"
+    },
+    {
+      "name": "Guru Gobind Singh Sahib",
+      "relation": "Grandson",
+      "slug": "guru-gobind-singh-sahib"
+    }
+  ],
+  "historicalContext": {
+    "period": "17th Century (Mughal Empire)",
+    "politicalSituation": "The Sikh Gurus and their followers faced increasing persecution from the Mughal Empire. This era saw significant shifts in the relationship between the Sikh community and the ruling powers, leading to the martyrdoms of Guru Arjan Dev and Guru Tegh Bahadur.",
+    "socialConditions": "Society was largely agrarian, with strong religious and community ties. The Sikh community was consolidating its identity under the guidance of the Gurus, often in the face of external pressures.",
+    "significance": "Mata Nanaki Ji lived through a transformative period in Sikh history, witnessing the evolution of the Sikh faith and the immense sacrifices made by the Gurus for religious freedom and justice. Her life provides a window into the strength and resilience of Sikh women during these challenging times."
+  },
+  "references": [
+    "https://en.wikipedia.org/wiki/Mata_Nanaki",
+    "https://www.sikhiwiki.org/index.php/Mata_Nanaki",
+    "https://en.wikipedia.org/wiki/Guru_Tegh_Bahadur",
+    "https://www.sikhnet.com/news/women-who-enriched-sikh-history-part-ii"
+  ]
+}
