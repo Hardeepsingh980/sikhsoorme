@@ -1,13 +1,45 @@
 {
   "overview": {
-    "totalPersonalities": 11,
-    "totalCategories": 1,
-    "featuredPersonalities": 3,
+    "totalPersonalities": 12,
+    "totalCategories": 2,
+    "featuredPersonalities": 4,
     "recentAdditions": 0,
     "timeSpan": "1469-2024",
     "regions": 8
   },
   "categories": [
+    {
+      "id": "Panj Pyare",
+      "slug": "panj-pyare",
+      "name": "Panj Pyare",
+      "icon": "Crown",
+      "emoji": "🕊️",
+      "count": 1,
+      "description": "The Five Beloved Ones who offered themselves to Guru Gobind Singh Ji in 1699, symbolizing ultimate devotion and sacrifice.",
+      "longDescription": "The Panj Pyare, meaning the 'Five Beloved Ones', were initiated by Guru Gobind Singh Ji on Vaisakhi of 1699. They embodied the Sikh ideals of courage, equality, and devotion, becoming the first members of the Khalsa. Their sacrifice and leadership set the foundation for the Khalsa Panth, inspiring generations of Sikhs to live with discipline, service, and fearlessness.",
+      "timeSpan": "1661–1720",
+      "keyPeriod": "Formation of the Khalsa (1699)",
+      "primaryRegion": "Anandpur Sahib, Punjab",
+      "significance": "First initiated Sikhs who laid the foundation of the Khalsa Panth.",
+      "color": "bg-blue-600",
+      "lightColor": "bg-blue-50",
+      "borderColor": "border-blue-200",
+      "textColor": "text-blue-900",
+      "featured": [
+        {
+          "name": "Bhai Daya Singh Ji",
+          "slug": "bhai-daya-singh-ji",
+          "image": "https://www.sikhiwiki.org/images/6/61/Dayasingh.jpg",
+          "years": "1661-1708",
+          "achievement": "First of the Panj Pyare, Khalsa Member"
+        }
+      ],
+      "stats": {
+        "averageLifespan": 47
+      },
+      "keyContributions": [],
+      "historicalContext": "On Vaisakhi 1699, Guru Gobind Singh Ji called upon Sikhs to offer their heads. Five men responded: Bhai Daya Singh, Bhai Dharam Singh, Bhai Himmat Singh, Bhai Mohkam Singh, and Bhai Sahib Singh. These Panj Pyare were baptized with Amrit and became the nucleus of the Khalsa Panth, forever remembered as embodiments of sacrifice, equality, and faith."
+    },
     {
       "id": "gurus",
       "slug": "gurus",
