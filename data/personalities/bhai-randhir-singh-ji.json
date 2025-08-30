@@ -1,0 +1,107 @@
+{
+  "name": "Bhai Randhir Singh Ji",
+  "slug": "bhai-randhir-singh-ji",
+  "category": "Sikh Personality",
+  "birth": "1878-07-07",
+  "death": "1961-04-16",
+  "birthPlace": "Narangwal, Ludhiana district, Punjab, British India",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Photograph_of_Bhai_Randhir_Singh_posed_whilst_grasping_a_sword_in_his_hand.jpg",
+  "excerpt": "Bhai Randhir Singh Ji was a prominent Sikh theologian, revolutionary, and mystic. He is widely recognized as the founder of the Akhand Kirtani Jatha, a distinct order within Sikhism emphasizing continuous devotional singing (Akhand Kirtan) and strict adherence to the Sikh Rehat Maryada (code of conduct). His life was marked by deep spiritual devotion, fearless activism against British colonial rule, and significant contributions to the Gurdwara Reform Movement.",
+  "designation": "Sikh Theologian, Freedom Fighter, Founder of Akhand Kirtani Jatha",
+  "quickStats": [
+    {
+      "label": "Imprisonment",
+      "value": "Over 15 years for his role in freedom struggle."
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Original Name",
+      "value": "Basant Singh"
+    },
+    {
+      "label": "Authored",
+      "value": "Many books, including 'Jail Chittian' (Letters from Prison)."
+    },
+    {
+      "label": "Founded",
+      "value": "Akhand Kirtani Jatha."
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-07-27",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "📜",
+      "value": "Born as Basant Singh on July 7, 1878, in Narangwal, Ludhiana district, Punjab, British India. He received a traditional Sikh education and displayed a deep spiritual inclination from a young age. His early life was characterized by a profound search for spiritual truth, leading him to an intense study of Gurbani and a commitment to living according to its principles. He underwent a transformative spiritual experience that reshaped his understanding and practice of Sikhism, leading him to adopt a distinctive lifestyle of continuous Simran (remembrance of God) and Kirtan (devotional singing)."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "🤝",
+      "value": "Bhai Randhir Singh Ji was a pivotal figure in the Gurdwara Reform Movement, advocating for the liberation of Sikh shrines from corrupt hereditary custodians (mahants). He was also a staunch advocate for India's independence and suffered long imprisonment under British rule for his nationalist activities, particularly his involvement in the Babbar Akali Movement. During his incarceration, he continued his spiritual practice and inspired fellow prisoners. His primary contribution lies in the establishment of the Akhand Kirtani Jatha, an organization dedicated to the practice of Akhand Kirtan (uninterrupted congregational singing of Gurbani) and adherence to a strict code of conduct, including Sarbloh Bibek (preparation and consumption of food only from iron utensils, partaken from those who strictly adhere to the Sikh code of conduct)."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "⚙️",
+      "value": "Gurdwara Reform Movement, emphasizing strict adherence to Rehat, Akhand Kirtan, and traditional Sikh practices."
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "📝",
+      "value": "Authored several influential books including 'Jail Chithian', 'Gurbani de Sidhant', and 'Amrit ki Hai?'. These writings continue to inspire Sikhs worldwide."
+    },
+    {
+      "label": "Final Years",
+      "icon": "🌅",
+      "value": "Passed away on April 16, 1961, leaving a legacy of unwavering faith, spiritual discipline, and selfless service."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Bhai Randhir Singh Ji's spiritual legacy is characterized by his profound devotion to Naam Simran and Kirtan. He exemplified a life of complete surrender to the Guru's teachings, emphasizing internal transformation through rigorous spiritual practice and strict adherence to the Khalsa Rehat. His personal example of resilience and unwavering faith in the face of adversity, particularly during his long imprisonment, served as a powerful testament to the strength derived from spiritual devotion.",
+    "keyContributions": [
+      "Established the Akhand Kirtani Jatha, promoting a distinct and rigorous path of Sikh spiritual practice centered on Akhand Kirtan.",
+      "Revived and emphasized adherence to traditional Khalsa Rehat Maryada, including specific dietary and communal practices (Sarbloh Bibek).",
+      "Inspired countless Sikhs to live a life of disciplined devotion and service to the Guru."
+    ]
+  },
+  "modernRelevance": {
+    "description": "Bhai Randhir Singh Ji remains a highly revered figure, particularly within the Akhand Kirtani Jatha and among Sikhs who emphasize a puritanical and strict approach to Sikh living. His teachings on the importance of Gurbani, Naam Simran, and Rehat continue to guide a significant portion of the global Sikh community. His struggle for both religious freedom and political independence serves as an enduring inspiration for activism rooted in Sikh values and principles.",
+    "contemporaryImpact": [
+      "The Akhand Kirtani Jatha continues to be an active and influential organization globally, preserving and promoting the practices championed by Bhai Randhir Singh Ji.",
+      "His writings are widely studied and discussed within Sikh intellectual and spiritual circles, influencing theological debates and personal spiritual journeys.",
+      "His life story is often cited as an exemplary model of steadfast faith, moral courage, and resistance against injustice and oppression."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Founder of Akhand Kirtani Jatha",
+      "year": "Early 20th Century",
+      "description": "Established an influential Sikh order focused on continuous Kirtan and strict adherence to Rehat.",
+      "icon": "💡"
+    },
+    {
+      "title": "Gurdwara Reform Activist",
+      "year": "Early 20th Century",
+      "description": "Played a leading role in the movement to liberate Sikh Gurdwaras from corrupt control.",
+      "icon": "✊"
+    },
+    {
+      "title": "Freedom Fighter",
+      "year": "Early 20th Century",
+      "description": "Imprisoned for over 15 years by the British for his role in India's independence movement.",
+      "icon": "⛓️"
+    },
+    {
+      "title": "Prolific Author",
+      "year": "Throughout his life",
+      "description": "Authored several significant books on Sikh theology and personal spiritual experience, including 'Jail Chithian'.",
+      "icon": "✍️"
+    }
+  ]
+}
