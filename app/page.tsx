@@ -266,7 +266,7 @@ export default function HomePage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {categories.map((category: any) => (
-              <Link key={category.slug} href={`/soorme/${category.slug}`} className="group">
+              <Link key={category.slug} href={`/soorme/${category.slug.toLowerCase().replace(" ", "-")}`} className="group">
                 <Card className="text-center hover:shadow-xl transition-all duration-300 group-hover:scale-105 bg-gradient-to-b from-white to-amber-50 border-2 border-amber-200 hover:border-orange-300">
                   <CardContent className="p-8">
                     <div className="text-4xl mb-4">{category.icon}</div>

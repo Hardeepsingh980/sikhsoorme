@@ -44,7 +44,7 @@ function computeCategoryStats(personalities: any[], categories: any) {
   }
   return Object.entries(map).map(([slug, count]) => ({
     name: slug.charAt(0).toUpperCase() + slug.slice(1),
-    slug,
+    slug: slug.toLowerCase().replace(" ", "-"),
     count,
     icon: categories.categories.find((c: any) => c.slug === slug)?.emoji || "📜",
     description: categories.categories.find((c: any) => c.slug === slug)?.description || "",

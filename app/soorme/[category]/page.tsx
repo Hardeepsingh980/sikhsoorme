@@ -51,7 +51,7 @@ async function getCategoryPersonalities(slug: string) {
   );
 
   return personalities
-    .filter((p) => p.category === slug)
+    .filter((p) => p.category.toLowerCase().replace(" ", "-") === slug)
     .map((p) => ({
       ...p,
       birth: new Date(p.birth).getFullYear(),
