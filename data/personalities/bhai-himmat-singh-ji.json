@@ -1,0 +1,166 @@
+{
+  "name": "Bhai Himmat Singh Ji",
+  "slug": "bhai-himmat-singh-ji",
+  "category": "Panj Pyare",
+  "birth": "1661-01-18",
+  "death": "1705-12-07",
+  "birthPlace": "Jagannath Puri, Odisha, India",
+  "image": "N/A",
+  "excerpt": "Bhai Himmat Singh Ji, born Himmat Rai, was one of the original Panj Pyare (the Five Beloved Ones), the first five Sikhs to be initiated into the Khalsa order by Guru Gobind Singh Ji in 1699. He embodied profound devotion and valor, playing a crucial role in establishing the Khalsa.",
+  "designation": "One of the Panj Pyare",
+  "quickStats": [
+    {
+      "label": "Birth Name",
+      "value": "Himmat Rai"
+    },
+    {
+      "label": "Parents",
+      "value": "Gulzari (father), Dhanno (mother)"
+    },
+    {
+      "label": "Caste",
+      "value": "Jhivar"
+    },
+    {
+      "label": "Initiation",
+      "value": "1699, Anandpur Sahib"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Third to offer his head to Guru Gobind Singh Ji.",
+      "value": ""
+    },
+    {
+      "label": "Participated in battles alongside Guru Gobind Singh Ji.",
+      "value": ""
+    },
+    {
+      "label": "Martyred in the Battle of Chamkaur.",
+      "value": ""
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-07-30T12:00:00Z",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "icon-user",
+      "value": "Born as Himmat Rai in 1661 in Jagannath Puri, Odisha, India, into a family of water-suppliers (Jhivar caste). His parents were Gulzari and Dhanno. He arrived in Anandpur at the age of 17 to serve Guru Gobind Singh Ji."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "icon-briefcase",
+      "value": "Bhai Himmat Singh Ji was the third among the five Sikhs who responded to Guru Gobind Singh Ji's call for a head during the historic Vaisakhi of 1699 at Anandpur. He was initiated into the Khalsa, received the name Himmat Singh, and played a pivotal role in the formation of the Khalsa. He actively participated in the battles fought by Guru Gobind Singh Ji against the surrounding hill chiefs and imperial forces, demonstrating unwavering courage and commitment to the Sikh faith."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "icon-cogs",
+      "value": "His participation in the formation of the Khalsa was a key moment in Sikh history, as it established a distinct identity for Sikhs and laid the foundation for a martial and disciplined community dedicated to righteousness and defense of dharma."
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "icon-pen",
+      "value": "N/A"
+    },
+    {
+      "label": "Final Years",
+      "icon": "icon-flag",
+      "value": "Bhai Himmat Singh Ji attained martyrdom in the heroic Battle of Chamkaur on December 7, 1704 or 1705, while fighting alongside Guru Gobind Singh Ji and other brave Sikhs against overwhelming Mughal forces."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Bhai Himmat Singh Ji's spiritual legacy is intertwined with the foundational principles of the Khalsa. His act of offering his head without hesitation symbolized ultimate surrender to the Guru's will and profound faith, inspiring generations of Sikhs to live with courage and devotion.",
+    "keyContributions": [
+      "Embodiment of selfless devotion and courage during the creation of the Khalsa.",
+      "Set an example of readiness to sacrifice for the Sikh faith and its principles."
+    ]
+  },
+  "modernRelevance": {
+    "description": "Bhai Himmat Singh Ji continues to be a symbol of unwavering faith, courage, and sacrifice for Sikhs worldwide. His story reinforces the core values of Sikhism, particularly the importance of standing up for truth and justice.",
+    "contemporaryImpact": [
+      "Inspiration for Sikhs to uphold the values of the Khalsa in their daily lives.",
+      "His sacrifice is commemorated annually, reminding Sikhs of the historical struggle and resilience of the community.",
+      "A memorial park in Puri, Odisha, stands in his memory, serving as a reminder of his birthplace and legacy."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Initiation into Khalsa",
+      "year": "1699",
+      "description": "One of the first five Sikhs (Panj Pyare) to be initiated into the Khalsa by Guru Gobind Singh Ji.",
+      "icon": ""
+    },
+    {
+      "title": "Martyrdom in Battle",
+      "year": "1704/1705",
+      "description": "Sacrificed his life fighting valiantly in the Battle of Chamkaur.",
+      "icon": ""
+    }
+  ],
+  "quotes": [],
+  "timeline": [
+    {
+      "year": 1661,
+      "date": "January 18",
+      "event": "Born as Himmat Rai in Jagannath Puri, Odisha.",
+      "type": "Birth"
+    },
+    {
+      "year": 1678,
+      "date": "",
+      "event": "Arrived in Anandpur to serve Guru Gobind Singh Ji.",
+      "type": "Service"
+    },
+    {
+      "year": 1699,
+      "date": "Vaisakhi",
+      "event": "Became Bhai Himmat Singh Ji, initiated into the Khalsa as one of the Panj Pyare.",
+      "type": "Key Event"
+    },
+    {
+      "year": 1704,
+      "date": "December 7",
+      "event": "Martyred in the Battle of Chamkaur.",
+      "type": "Death"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Gobind Singh Ji",
+      "relation": "Guru",
+      "slug": "guru-gobind-singh-ji"
+    },
+    {
+      "name": "Bhai Daya Singh Ji",
+      "relation": "Fellow Panj Pyare",
+      "slug": "bhai-daya-singh-ji"
+    },
+    {
+      "name": "Bhai Dharam Singh Ji",
+      "relation": "Fellow Panj Pyare",
+      "slug": ""
+    },
+    {
+      "name": "Bhai Mohkam Singh Ji",
+      "relation": "Fellow Panj Pyare",
+      "slug": ""
+    },
+    {
+      "name": "Bhai Sahib Singh Ji",
+      "relation": "Fellow Panj Pyare",
+      "slug": ""
+    }
+  ],
+  "historicalContext": {
+    "period": "Late 17th to early 18th Century",
+    "politicalSituation": "The Mughal Empire, under Aurangzeb, pursued policies of religious intolerance, leading to increased persecution of non-Muslims, including Sikhs. This era saw intense conflicts between the Sikhs and the Mughals, and the hill chiefs allied with them.",
+    "socialConditions": "Society was largely stratified by caste. Guru Gobind Singh Ji's creation of the Khalsa was a revolutionary act that challenged these social norms, creating an egalitarian brotherhood.",
+    "significance": "Bhai Himmat Singh Ji's life and sacrifice are deeply significant as they represent the embodiment of the Khalsa's ideals—courage, faith, and the commitment to defending righteousness against tyranny, at a time when Sikh identity was being forged in the crucible of persecution."
+  }
+}
