@@ -166,15 +166,29 @@
     {
       "name": "Panj Pyare",
       "slug": "Panj Pyare",
-      "count": 1,
-      "icon": "📜",
-      "description": "Unknown category"
+      "count": 5,
+      "icon": "✋",
+      "description": "The first five Sikhs initiated into the Khalsa by Guru Gobind Singh Ji"
+    },
+    {
+      "name": "Activists",
+      "slug": "Activists",
+      "count": 2,
+      "icon": "✊",
+      "description": "Individuals who fought for Sikh rights and social justice in modern times"
+    },
+    {
+      "name": "Sahibzade",
+      "slug": "Sahibzade",
+      "count": 3,
+      "icon": "❤️",
+      "description": "The four sons of Guru Gobind Singh Ji who were martyred for Sikh principles"
     }
   ],
   "historicalQuotes": [],
   "quickStats": {
-    "totalPersonalities": 12,
-    "totalCategories": 2,
+    "totalPersonalities": 21,
+    "totalCategories": 4,
     "yearsOfHistory": "550+"
   }
 }

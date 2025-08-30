@@ -143,7 +143,7 @@ export default async function PersonalityDetailPage({ params }: any) {
                 className="border-amber-300 text-amber-800 hover:bg-amber-100 bg-transparent"
               >
                 <Eye className="w-4 h-4 mr-2" />
-                {personality.version.edits} views today
+                {personality.version?.edits || 0} views today
               </Button>
               <Button size="sm" className="bg-orange-500 hover:bg-orange-600 text-white" asChild>
                 <Link href={GITHUB_EDIT_URL + params.slug + ".json"} target="_blank">
@@ -225,11 +225,13 @@ export default async function PersonalityDetailPage({ params }: any) {
             <div className="flex items-center gap-4 text-amber-800">
               <div className="flex items-center gap-2">
                 <Clock className="w-4 h-4" />
-                <span>Last updated: {new Date(personality.version.lastUpdated).toLocaleDateString()}</span>
+                {personality.version?.lastUpdated && (
+                  <span>Last updated: {new Date(personality.version?.lastUpdated || new Date()).toLocaleDateString()}</span>
+                )}
               </div>
               <div className="flex items-center gap-2">
                 <GitBranch className="w-4 h-4" />
-                <span>Version {personality.version.version}</span>
+                <span>Version {personality.version?.version || 0}</span>
               </div>
             </div>
             <Button variant="ghost" size="sm" className="text-amber-800 hover:bg-amber-300" asChild>
@@ -327,13 +329,13 @@ export default async function PersonalityDetailPage({ params }: any) {
                   <CardContent className="space-y-4">
                     <div>
                       <div className="text-sm font-medium text-amber-700">Period</div>
-                      <div className="text-amber-900 text-sm">{personality.historicalContext.period}</div>
+                      <div className="text-amber-900 text-sm">{personality.historicalContext?.period || "Not available"}</div>
                     </div>
                     <Separator className="bg-amber-200" />
                     <div>
                       <div className="text-sm font-medium text-amber-700">Political Situation</div>
                       <div className="text-amber-900 text-sm leading-relaxed">
-                        {personality.historicalContext.politicalSituation}
+                        {personality.historicalContext?.politicalSituation || "Not available"}
                       </div>
                     </div>
                   </CardContent>
@@ -346,7 +348,7 @@ export default async function PersonalityDetailPage({ params }: any) {
                   </CardHeader>
                   <CardContent>
                     <div className="space-y-3">
-                      {personality.relatedPersonalities.map((person: any, index: number) => (
+                      {personality.relatedPersonalities && personality.relatedPersonalities.map((person: any, index: number) => (
                         person.exists ? (
                           <Link
                             key={index}
@@ -444,7 +446,7 @@ export default async function PersonalityDetailPage({ params }: any) {
               </CardHeader>
               <CardContent>
                 <div className="space-y-6">
-                  {personality.timeline.map((event: any, index: any) => (
+                  {personality.timeline && personality.timeline.map((event: any, index: any) => (
                     <div key={index} className="flex items-start gap-4">
                       <div className="flex flex-col items-center">
                         <div
@@ -575,7 +577,7 @@ export default async function PersonalityDetailPage({ params }: any) {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" className="bg-white text-orange-600 hover:bg-amber-50" asChild>
-              <Link href={personality.version.historyUrl} target="_blank">
+              <Link href={personality.version?.historyUrl || "#"} target="_blank">
                 <GitBranch className="w-5 h-5 mr-2" />
                 Edit This Page
               </Link>

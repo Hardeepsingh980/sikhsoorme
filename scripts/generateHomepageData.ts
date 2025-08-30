@@ -6,7 +6,7 @@ function shuffleArray(arr: any[]) {
 }
 
 function formatSoorma(personality: any) {
-    const quote = personality.quotes[0]
+    const quote = personality.quotes ? personality.quotes[0] : null;
     
 
   return {
@@ -17,8 +17,8 @@ function formatSoorma(personality: any) {
     death: personality.death,
     image: personality.image || "/placeholder.svg?height=300&width=300",
     excerpt: personality.excerpt,
-    quote: quote.original,
-    quoteTranslation: quote.translation,
+    quote: quote?.original || "",
+    quoteTranslation: quote?.translation || "",
     significance: personality.historicalContext.significance || "",
   };
 }
@@ -67,8 +67,8 @@ async function generateHomepageData() {
   );
 
   const sortedByRecent = personalities
-    .filter((p) => p.version && p.version.lastUpdated)
-    .sort((a, b) => new Date(b.version.lastUpdated).getTime() - new Date(a.version.lastUpdated).getTime());
+    .filter((p) => p.version && p.version?.lastUpdated || 0)
+    .sort((a, b) => new Date(b.version?.lastUpdated || 0).getTime() - new Date(a.version?.lastUpdated || 0).getTime());
 
   const featured = personalities
     .sort((a, b) => new Date(b.version?.lastUpdated || 0).getTime() - new Date(a.version?.lastUpdated || 0).getTime())
@@ -81,7 +81,7 @@ async function generateHomepageData() {
   const recentAdditions = sortedByRecent.slice(0, 10).map((p) => ({
     name: p.name,
     category: p.category,
-    added: p.version.lastUpdated,
+    added: p.version?.lastUpdated || 0,
   }));
 
   const categories = computeCategoryStats(personalities, categoriesdata);

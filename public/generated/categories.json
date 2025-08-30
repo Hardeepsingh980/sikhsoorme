@@ -1,30 +1,69 @@
 {
   "overview": {
-    "totalPersonalities": 12,
-    "totalCategories": 2,
-    "featuredPersonalities": 4,
+    "totalPersonalities": 21,
+    "totalCategories": 4,
+    "featuredPersonalities": 10,
     "recentAdditions": 0,
     "timeSpan": "1469-2024",
     "regions": 8
   },
   "categories": [
     {
+      "id": "Sahibzade",
+      "slug": "Sahibzade",
+      "name": "Sahibzade",
+      "icon": "Heart",
+      "emoji": "❤️",
+      "count": 3,
+      "description": "The four sons of Guru Gobind Singh Ji who were martyred for Sikh principles",
+      "longDescription": "To be generated or enriched...",
+      "timeSpan": "1687-1704",
+      "keyPeriod": "Martyrdom of the Guru's Sons",
+      "primaryRegion": "Punjab",
+      "significance": "Youngest martyrs of Sikh history, symbols of bravery and faith",
+      "color": "bg-pink-500",
+      "lightColor": "bg-pink-50",
+      "borderColor": "border-pink-200",
+      "textColor": "text-pink-900",
+      "featured": [
+        {
+          "name": "Sahibzada Ajit Singh Ji",
+          "slug": "baba-ajit-singh-ji",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Detail_of_Sahibzada_Ajit_Singh_from_a_mural_depicting_Guru_Gobind_Singh_and_his_four_sons_%28the_Sahibzadas%29_located_within_Takht_Hazur_Sahib.jpg",
+          "years": "1687-1704",
+          "achievement": "Eldest Sahibzada, Warrior, Martyr"
+        },
+        {
+          "name": "Sahibzada Jujhar Singh Ji",
+          "slug": "baba-jujhar-singh-ji",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Detail_of_Sahibzada_Jujhar_Singh_from_a_mural_depicting_Guru_Gobind_Singh_and_his_four_sons_%28the_Sahibzadas%29_located_within_Takht_Hazur_Sahib.jpg",
+          "years": "1691-1704",
+          "achievement": "Sahibzada"
+        }
+      ],
+      "stats": {
+        "averageLifespan": 13
+      },
+      "keyContributions": [],
+      "historicalContext": "To be generated..."
+    },
+    {
       "id": "Panj Pyare",
-      "slug": "panj-pyare",
+      "slug": "Panj Pyare",
       "name": "Panj Pyare",
-      "icon": "Crown",
-      "emoji": "🕊️",
-      "count": 1,
-      "description": "The Five Beloved Ones who offered themselves to Guru Gobind Singh Ji in 1699, symbolizing ultimate devotion and sacrifice.",
-      "longDescription": "The Panj Pyare, meaning the 'Five Beloved Ones', were initiated by Guru Gobind Singh Ji on Vaisakhi of 1699. They embodied the Sikh ideals of courage, equality, and devotion, becoming the first members of the Khalsa. Their sacrifice and leadership set the foundation for the Khalsa Panth, inspiring generations of Sikhs to live with discipline, service, and fearlessness.",
-      "timeSpan": "1661–1720",
-      "keyPeriod": "Formation of the Khalsa (1699)",
+      "icon": "Sword",
+      "emoji": "✋",
+      "count": 5,
+      "description": "The first five Sikhs initiated into the Khalsa by Guru Gobind Singh Ji",
+      "longDescription": "To be generated or enriched...",
+      "timeSpan": "1661-1708",
+      "keyPeriod": "Formation of the Khalsa",
       "primaryRegion": "Anandpur Sahib, Punjab",
-      "significance": "First initiated Sikhs who laid the foundation of the Khalsa Panth.",
-      "color": "bg-blue-600",
-      "lightColor": "bg-blue-50",
-      "borderColor": "border-blue-200",
-      "textColor": "text-blue-900",
+      "significance": "Symbolized ultimate devotion and courage in Sikhism",
+      "color": "bg-indigo-500",
+      "lightColor": "bg-indigo-50",
+      "borderColor": "border-indigo-200",
+      "textColor": "text-indigo-900",
       "featured": [
         {
           "name": "Bhai Daya Singh Ji",
@@ -32,13 +71,66 @@
           "image": "https://www.sikhiwiki.org/images/6/61/Dayasingh.jpg",
           "years": "1661-1708",
           "achievement": "First of the Panj Pyare, Khalsa Member"
+        },
+        {
+          "name": "Bhai Dharam Singh Ji",
+          "slug": "bhai-dharam-singh-ji",
+          "image": "https://www.sikhiwiki.org/images/b/ba/Daya_Singh%2C_Dharm_Singh_and_Himmat_Singh_of_the_panj_pyare.jpg",
+          "years": "1666-1708",
+          "achievement": "One of the Panj Pyare"
+        },
+        {
+          "name": "Bhai Himmat Singh Ji",
+          "slug": "bhai-himmat-singh-ji",
+          "image": "N/A",
+          "years": "1661-1705",
+          "achievement": "One of the Panj Pyare"
         }
       ],
       "stats": {
-        "averageLifespan": 47
+        "averageLifespan": 43
       },
       "keyContributions": [],
-      "historicalContext": "On Vaisakhi 1699, Guru Gobind Singh Ji called upon Sikhs to offer their heads. Five men responded: Bhai Daya Singh, Bhai Dharam Singh, Bhai Himmat Singh, Bhai Mohkam Singh, and Bhai Sahib Singh. These Panj Pyare were baptized with Amrit and became the nucleus of the Khalsa Panth, forever remembered as embodiments of sacrifice, equality, and faith."
+      "historicalContext": "To be generated..."
+    },
+    {
+      "id": "Activists",
+      "slug": "Activists",
+      "name": "Activists",
+      "icon": "BookOpen",
+      "emoji": "✊",
+      "count": 2,
+      "description": "Individuals who fought for Sikh rights and social justice in modern times",
+      "longDescription": "To be generated or enriched...",
+      "timeSpan": "NaN-1961",
+      "keyPeriod": "Modern Sikh Activism",
+      "primaryRegion": "Punjab & Global",
+      "significance": "Championed Sikh rights and social reforms",
+      "color": "bg-teal-500",
+      "lightColor": "bg-teal-50",
+      "borderColor": "border-teal-200",
+      "textColor": "text-teal-900",
+      "featured": [
+        {
+          "name": "Bhai Randhir Singh Ji",
+          "slug": "bhai-randhir-singh-ji",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Photograph_of_Bhai_Randhir_Singh_posed_whilst_grasping_a_sword_in_his_hand.jpg",
+          "years": "1878-1961",
+          "achievement": "Sikh Theologian, Freedom Fighter, Founder of Akhand Kirtani Jatha"
+        },
+        {
+          "name": "Mewa Singh Lopoke",
+          "slug": "mewa-singh-lopoke",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Portrait_Painting_of_Mewa_Singh.jpg/1200px-Portrait_Painting_of_Mewa_Singh.jpg",
+          "years": "NaN-1915",
+          "achievement": "Ghadar Party Member, Granthi"
+        }
+      ],
+      "stats": {
+        "averageLifespan": null
+      },
+      "keyContributions": [],
+      "historicalContext": "To be generated..."
     },
     {
       "id": "gurus",

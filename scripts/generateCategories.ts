@@ -230,7 +230,7 @@ const CATEGORY_META = [
         id: "activists",
         name: "Activists",
         slug: "activists",
-        icon: "Book",
+        icon: "BookOpen",
         emoji: "✊",
         count: 10,
         description: "Individuals who fought for Sikh rights and social justice in modern times",
@@ -279,7 +279,7 @@ async function generateCategories() {
   const finalCategories = [];
 
   for (const [categoryId, people] of Object.entries(categories)) {
-    const meta = CATEGORY_META.find((c) => c.id === categoryId) || {
+    const meta = CATEGORY_META.find((c) => c.id === categoryId.toLowerCase().replace(" ", "-")) || {
         id: categoryId,
         name: "Unknown",
         slug: "unknown",
