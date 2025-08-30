@@ -1,15 +1,15 @@
 {
   "soormaOfTheDay": {
-    "name": "Guru Har Krishan Ji",
-    "slug": "guru-har-krishan-ji",
-    "category": "gurus",
-    "birth": "1656-07-07",
-    "death": "1664-03-30",
-    "image": "https://www.historicalgurudwaras.com/images/8%20Guru-Harkishan-ji.jpg",
-    "excerpt": "Guru Har Krishan Ji, the eighth Sikh Guru and the youngest to hold the Guruship, became Guru at the age of five and guided the Sikh community for less than three years. Renowned for his compassion, wisdom beyond his years, and miraculous healing during the smallpox epidemic in Delhi, Guru Har Krishan Ji is lovingly called 'Bala Pīr' (the Child Prophet) and is remembered for selflessly serving humanity and affirming the unity of all.",
-    "quote": "ਸ੍ਰੀ ਹਰਿਕ੍ਰਿਸ਼ਨ ਧਿਆਈਐ ਜਿਸੁ ਡਿਠੇ ਸਭਿ ਦੁਖਿ ਜਾਇ ॥",
-    "quoteTranslation": "Contemplate on Sri Har Krishan, whose sight dispels all suffering.",
-    "significance": "Guru Har Krishan Ji’s brief yet impactful Guruship reaffirmed the Sikh dedication to selfless service, even among the youngest and most vulnerable, and reinforced the essential values of humility, sacrifice, and faith."
+    "name": "Bhai Himmat Singh Ji",
+    "slug": "bhai-himmat-singh-ji",
+    "category": "Panj Pyare",
+    "birth": "1661-01-18",
+    "death": "1705-12-07",
+    "image": "N/A",
+    "excerpt": "Bhai Himmat Singh Ji, born Himmat Rai, was one of the original Panj Pyare (the Five Beloved Ones), the first five Sikhs to be initiated into the Khalsa order by Guru Gobind Singh Ji in 1699. He embodied profound devotion and valor, playing a crucial role in establishing the Khalsa.",
+    "quote": "",
+    "quoteTranslation": "",
+    "significance": "Bhai Himmat Singh Ji's life and sacrifice are deeply significant as they represent the embodiment of the Khalsa's ideals—courage, faith, and the commitment to defending righteousness against tyranny, at a time when Sikh identity was being forged in the crucible of persecution."
   },
   "featuredPersonalities": [
     {
@@ -167,22 +167,22 @@
       "name": "Panj Pyare",
       "slug": "Panj Pyare",
       "count": 5,
-      "icon": "✋",
-      "description": "The first five Sikhs initiated into the Khalsa by Guru Gobind Singh Ji"
+      "icon": "📜",
+      "description": ""
     },
     {
       "name": "Activists",
       "slug": "Activists",
       "count": 2,
-      "icon": "✊",
-      "description": "Individuals who fought for Sikh rights and social justice in modern times"
+      "icon": "📜",
+      "description": ""
     },
     {
       "name": "Sahibzade",
       "slug": "Sahibzade",
       "count": 3,
-      "icon": "❤️",
-      "description": "The four sons of Guru Gobind Singh Ji who were martyred for Sikh principles"
+      "icon": "📜",
+      "description": ""
     }
   ],
   "historicalQuotes": [],

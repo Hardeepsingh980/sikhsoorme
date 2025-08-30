@@ -315,8 +315,8 @@ async function generateCategories() {
     // longDescription, significance, historicalContext, keyContributions, stats
 
     finalCategories.push({
-      id: categoryId,
-      slug: categoryId,
+      id: categoryId.toLowerCase().replace(" ", "-"),
+      slug: categoryId.toLowerCase().replace(" ", "-"),
       name: meta.name,
       icon: meta.icon,
       emoji: meta.emoji,

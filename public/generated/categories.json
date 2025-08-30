@@ -9,8 +9,8 @@
   },
   "categories": [
     {
-      "id": "Sahibzade",
-      "slug": "Sahibzade",
+      "id": "sahibzade",
+      "slug": "sahibzade",
       "name": "Sahibzade",
       "icon": "Heart",
       "emoji": "❤️",
@@ -48,8 +48,8 @@
       "historicalContext": "To be generated..."
     },
     {
-      "id": "Panj Pyare",
-      "slug": "Panj Pyare",
+      "id": "panj-pyare",
+      "slug": "panj-pyare",
       "name": "Panj Pyare",
       "icon": "Sword",
       "emoji": "✋",
@@ -94,8 +94,8 @@
       "historicalContext": "To be generated..."
     },
     {
-      "id": "Activists",
-      "slug": "Activists",
+      "id": "activists",
+      "slug": "activists",
       "name": "Activists",
       "icon": "BookOpen",
       "emoji": "✊",
