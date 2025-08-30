@@ -1,0 +1,156 @@
+{
+  "name": "Bhai Dharam Singh Ji",
+  "slug": "bhai-dharam-singh-ji",
+  "category": "Panj Pyare",
+  "birth": "1666",
+  "death": "1708",
+  "birthPlace": "Hastinapur, Meerut, Uttar Pradesh, India",
+  "image": "https://www.sikhiwiki.org/images/b/ba/Daya_Singh%2C_Dharm_Singh_and_Himmat_Singh_of_the_panj_pyare.jpg",
+  "excerpt": "Bhai Dharam Singh Ji was one of the original Panj Pyare, the five beloved ones, who offered their heads to Guru Gobind Singh Ji and were subsequently initiated into the Khalsa order during the historic Vaisakhi of 1699. He exemplified unwavering devotion and courage, becoming a foundational figure in the establishment of the Khalsa.",
+  "designation": "One of the Panj Pyare",
+  "quickStats": [
+    {
+      "label": "Initiation",
+      "value": "1699"
+    },
+    {
+      "label": "Associated Guru",
+      "value": "Guru Gobind Singh Ji"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Original name",
+      "value": "Dharam Das"
+    },
+    {
+      "label": "Origin",
+      "value": "Hastinapur, Meerut, Uttar Pradesh"
+    },
+    {
+      "label": "Community",
+      "value": "Jat"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-07-31T00:00:00Z",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "fas fa-user",
+      "value": "Born as Dharam Das in 1666 in Hastinapur, Meerut, Uttar Pradesh, India. He belonged to the Jat community. His early life instilled in him a deep sense of devotion and service."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "fas fa-hands-helping",
+      "value": "Bhai Dharam Singh Ji's most significant contribution was his unwavering faith and courage in responding to Guru Gobind Singh Ji's call for a head at Anandpur Sahib during the Vaisakhi of 1699. He was the second to offer his head, thereby becoming one of the first five to be initiated into the Khalsa. He participated in several crucial battles alongside Guru Gobind Singh Ji. Notably, after the Battle of Chamkaur in December 1705, he, along with Bhai Daya Singh Ji, accompanied Guru Gobind Singh Ji out of the fort, demonstrating his steadfast loyalty and dedication."
+    },
+    {
+      "label": "Final Years",
+      "icon": "fas fa-mountain",
+      "value": "Bhai Dharam Singh Ji remained a loyal companion and devoted follower of Guru Gobind Singh Ji until the Guru's passing. He attained martyrdom in Nanded, Maharashtra, in 1708."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Bhai Dharam Singh Ji's spiritual legacy is intrinsically linked with the foundational principles of the Khalsa. He represents the ideal Gursikh, one who is willing to sacrifice everything for the Guru and for the upholding of righteousness (Dharam). His life is a testament to the power of unconditional faith and selfless devotion.",
+    "keyContributions": [
+      "Embodiment of unconditional faith and courage in the face of ultimate sacrifice.",
+      "One of the first five to receive Amrit, playing a pivotal role in the establishment of the Khalsa Panth.",
+      "Set an enduring example of a dedicated and disciplined Gursikh for future generations."
+    ]
+  },
+  "modernRelevance": {
+    "description": "Bhai Dharam Singh Ji continues to inspire Sikhs worldwide as a profound symbol of unwavering commitment to the Sikh faith and its core principles of courage, sacrifice, and devotion. His life story reinforces the spiritual and ethical foundations of Sikhism.",
+    "contemporaryImpact": [
+      "His story reinforces the importance of selfless service (Seva) and sacrifice (Shaheedi) in the Sikh tradition.",
+      "Serves as a paramount role model for all Khalsa initiates, highlighting the commitment required to live as a true Sikh.",
+      "His actions underscore the revolutionary spirit of the Khalsa and its commitment to justice and equality."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Initiation into Khalsa",
+      "year": "1699",
+      "description": "One of the first five to be initiated into the Khalsa by Guru Gobind Singh Ji.",
+      "icon": "🙏"
+    },
+    {
+      "title": "Companion to Guru Gobind Singh Ji",
+      "year": "1705",
+      "description": "Accompanied Guru Gobind Singh Ji out of Chamkaur fort after the battle.",
+      "icon": "🚶‍♂️"
+    },
+    {
+      "title": "Martyrdom",
+      "year": "1708",
+      "description": "Gave his life in devotion to the Guru and the Sikh faith in Nanded.",
+      "icon": "⚔️"
+    }
+  ],
+  "quotes": [],
+  "timeline": [
+    {
+      "year": 1666,
+      "event": "Born as Dharam Das in Hastinapur, Meerut.",
+      "type": "Birth"
+    },
+    {
+      "year": 1699,
+      "event": "Offered his head to Guru Gobind Singh Ji and was initiated into the Khalsa.",
+      "type": "Key Event"
+    },
+    {
+      "year": 1705,
+      "event": "Accompanied Guru Gobind Singh Ji out of Chamkaur fort.",
+      "type": "Key Event"
+    },
+    {
+      "year": 1708,
+      "event": "Passed away in Nanded, Maharashtra.",
+      "type": "Death"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Gobind Singh Ji",
+      "relation": "Guru",
+      "slug": "guru-gobind-singh-ji"
+    },
+    {
+      "name": "Bhai Daya Singh Ji",
+      "relation": "Panj Pyare",
+      "slug": "bhai-daya-singh-ji"
+    },
+    {
+      "name": "Bhai Himmat Singh Ji",
+      "relation": "Panj Pyare",
+      "slug": "bhai-himmat-singh-ji"
+    },
+    {
+      "name": "Bhai Mohkam Singh Ji",
+      "relation": "Panj Pyare",
+      "slug": "bhai-mohkam-singh-ji"
+    },
+    {
+      "name": "Bhai Sahib Singh Ji",
+      "relation": "Panj Pyare",
+      "slug": "bhai-sahib-singh-ji"
+    }
+  ],
+  "historicalContext": {
+    "period": "Late 17th - Early 18th Century",
+    "politicalSituation": "The Mughal Empire, under Aurangzeb, pursued policies of religious intolerance, leading to persecution of Sikhs and others.",
+    "socialConditions": "Society was characterized by a rigid caste system and widespread religious discrimination. Sikh Gurus actively challenged these evils, advocating for equality and brotherhood.",
+    "significance": "The formation of the Khalsa in 1699 was a revolutionary act that transformed Sikhs into a warrior-saint community, instilling martial spirit and collective identity to fight tyranny and injustice."
+  },
+  "references": [
+    "https://en.wikipedia.org/wiki/Dharam_Singh_(Sikhism)",
+    "https://www.sikhiwiki.org/index.php/Bhai_Dharam_Singh",
+    "https://www.sikhiwiki.org/index.php/Panj_Piare"
+  ]
+}

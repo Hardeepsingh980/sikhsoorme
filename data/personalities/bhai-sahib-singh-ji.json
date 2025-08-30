@@ -1,0 +1,141 @@
+{
+  "name": "Bhai Sahib Singh Ji",
+  "slug": "bhai-sahib-singh-ji",
+  "category": "Panj Pyare",
+  "birth": "1663-06-17",
+  "death": "1705-12-07",
+  "birthPlace": "Bidar, Karnataka, India",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mural_of_Guru_Gobind_Singh_being_attended_by_the_inaugural_quintet_of_Panj_Piare_%28Daya_Singh%2C_Dharam_Singh%2C_Sahib_Singh%2C_Mohkam_Singh%2C_Himmat_Singh%29_from_a_Sikh_Samadhi_at_Kot_Fateh_Khan.jpg/1200px-thumbnail.jpg",
+  "excerpt": "Bhai Sahib Singh Ji was one of the Panj Pyare (Five Beloved Ones), who, with unwavering devotion, offered their heads to Guru Gobind Singh Ji and were subsequently initiated into the Khalsa order in 1699. Born as Sahib Chand, he exemplified courage and sacrifice, becoming a foundational figure in the establishment of the Khalsa.",
+  "designation": "One of the Panj Pyare",
+  "quickStats": [
+    {
+      "label": "Original Name",
+      "value": "Sahib Chand"
+    },
+    {
+      "label": "Caste before Khalsa",
+      "value": "Nai (Barber)"
+    },
+    {
+      "label": "Martyrdom Location",
+      "value": "Battle of Chamkaur"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "First five Sikhs initiated into Khalsa",
+      "value": "Yes"
+    },
+    {
+      "label": "Symbol of devotion and sacrifice",
+      "value": "True"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-08-30",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "fas fa-user",
+      "value": "Born as Sahib Chand on June 17, 1663, in Bidar, present-day Karnataka, into a family belonging to the Nai (barber) caste. Some traditions suggest his birthplace as Nangal Shaheedan in District Hoshiarpur and his birth year as 1662 or 1665. His parents are generally believed to be Bishan Devi and Tulsi Ram (or Charan Ram), or according to another tradition, Bhai Guru Narayana and his wife. Early Sikh literature also links him to the reincarnation of Bhagat Sain."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "fas fa-hands-helping",
+      "value": "Bhai Sahib Singh Ji's most significant contribution was his selfless act during the historic Vaisakhi of 1699 at Anandpur Sahib. When Guru Gobind Singh Ji asked for heads, Sahib Chand was one of the five who stepped forward, offering his life without hesitation. This profound act of faith and courage led to his initiation as one of the Panj Pyare, receiving Amrit (the nectar of immortality) and becoming Bhai Sahib Singh, a member of the newly formed Khalsa. He embodied the ideals of unwavering devotion and complete surrender to the Guru."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "fas fa-cogs",
+      "value": "N/A"
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "fas fa-pen",
+      "value": "N/A"
+    },
+    {
+      "label": "Final Years",
+      "icon": "fas fa-flag",
+      "value": "Bhai Sahib Singh Ji remained a dedicated member of the Khalsa and participated in various battles. He attained martyrdom in the Battle of Chamkaur on December 7, 1705, fighting valiantly alongside Guru Gobind Singh Ji, Bhai Himmat Singh Ji, and Bhai Mohkam Singh Ji."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Bhai Sahib Singh Ji's legacy is deeply intertwined with the birth of the Khalsa. His willingness to sacrifice his life upon the Guru's call set a supreme example of faith, courage, and dedication that continues to resonate within the Sikh community. He represents the ideal Khalsa warrior, embodying both spiritual devotion and martial prowess.",
+    "keyContributions": [
+      "His ultimate sacrifice helped establish the Khalsa as a formidable order of saint-soldiers.",
+      "He demonstrated the principle of selfless service and complete surrender to the Guru's will."
+    ]
+  },
+  "modernRelevance": {
+    "description": "In modern Sikhism, Bhai Sahib Singh Ji remains a powerful symbol of courage, faith, and the revolutionary spirit of the Khalsa. His story is recited and remembered during Amrit Sanchar (Khalsa initiation ceremonies), inspiring Sikhs to live by the principles of devotion, equality, and unwavering commitment to righteousness.",
+    "contemporaryImpact": [
+      "His life serves as an eternal reminder of the sacrifices made for the Sikh faith and the values of the Khalsa.",
+      "He inspires Sikhs globally to uphold their religious identity and defend justice."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Initiation into the Khalsa",
+      "year": "1699",
+      "description": "One of the first five Sikhs to be initiated by Guru Gobind Singh Ji, demonstrating ultimate devotion and courage.",
+      "icon": "🗡️"
+    },
+    {
+      "title": "Martyrdom in Battle of Chamkaur",
+      "year": "1705",
+      "description": "Sacrificed his life for the Sikh faith, upholding the principles of the Khalsa.",
+      "icon": "⚔️"
+    }
+  ],
+  "quotes": [],
+  "timeline": [
+    {
+      "year": 1663,
+      "date": "June 17",
+      "event": "Birth as Sahib Chand in Bidar, Karnataka.",
+      "type": "Birth"
+    },
+    {
+      "year": 1699,
+      "date": "Vaisakhi",
+      "event": "Offered his head to Guru Gobind Singh Ji and was initiated into the Khalsa as Bhai Sahib Singh.",
+      "type": "Religious Event"
+    },
+    {
+      "year": 1705,
+      "date": "December 07",
+      "event": "Martyred in the Battle of Chamkaur.",
+      "type": "Martyrdom"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Gobind Singh Ji",
+      "relation": "Initiated the Khalsa",
+      "slug": "guru-gobind-singh-ji"
+    },
+    {
+      "name": "Bhai Daya Singh Ji",
+      "relation": "One of the Panj Pyare",
+      "slug": "bhai-daya-singh-ji"
+    }
+  ],
+  "historicalContext": {
+    "period": "Late 17th - Early 18th Century",
+    "politicalSituation": "During this era, the Sikh community faced intense persecution under the Mughal Empire, which sought to suppress their distinct identity and practices. This political climate necessitated a transformation within the Sikh faith, leading to the creation of the Khalsa.",
+    "socialConditions": "Society was rigidly divided by the caste system. Guru Gobind Singh Ji's establishment of the Khalsa, where all members were considered equal regardless of their previous social standing, was a revolutionary act that challenged these prevailing norms.",
+    "significance": "Bhai Sahib Singh Ji's readiness to sacrifice his life, along with the other Panj Pyare, was a pivotal moment in Sikh history. It symbolized the commitment of the Khalsa to defend righteousness and religious freedom, transforming the Sikh community into a resilient and self-respecting order of saint-soldiers."
+  },
+  "references": [
+    "Sahib Singh (Sikh martyr) - Wikipedia: https://en.wikipedia.org/wiki/Sahib_Singh_(Sikh_martyr)",
+    "Bhai Sahib Singh - SikhiWiki: https://www.sikhiwiki.org/index.php/Bhai_Sahib_Singh",
+    "Panj Pyare - Wikipedia: https://en.wikipedia.org/wiki/Panj_Pyare"
+  ]
+}
