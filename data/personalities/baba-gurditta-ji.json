@@ -1,0 +1,85 @@
+{
+  "name": "Baba Gurditta Ji",
+  "slug": "baba-gurditta-ji",
+  "category": "Guru Family",
+  "birth": "1613-11-05",
+  "death": "1638-03-15",
+  "birthPlace": "Daroli, Malwa region, Punjab",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Baba_Gurditta_Ji.jpg/220px-Baba_Gurditta_Ji.jpg",
+  "excerpt": "Baba Gurditta Ji was the eldest son of Guru Hargobind, the sixth Sikh Guru, and the father of Guru Har Rai, the seventh Sikh Guru. He was a revered spiritual figure, known for his profound devotion and his significant role as the head of the Udasi sect, appointed by Baba Sri Chand. He also played a part in the defense of the Sikh faith.",
+  "designation": "Son of Guru Hargobind, Father of Guru Har Rai, Head of Udasi sect.",
+  "version": {
+    "lastUpdated": "2023-10-27T12:00:00Z",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "farm",
+      "value": "Baba Gurditta Ji was born to Guru Hargobind and Mata Damodari. While one account states his birth on 5 November 1613, another by Pashaura Singh places it on 13 October 1608 C.E., in the forests of Daroli, Malwa region of Punjab. It is said that in his youth, he bore a striking resemblance to Guru Nanak Dev Ji. He was engaged in 1619 to Mata Ananti (Netti) and married her on 17 April 1621. Guru Hargobind gifted him a horse worth 100,000 rupees on his wedding."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "achievement",
+      "value": "Baba Gurditta Ji played a pivotal role in early Sikh history. He was instrumental in establishing Kiratpur Sahib near the Shivalik foothills, following the commands of his father. He also actively participated in the Battle of Kartarpur in 1635, where he notably killed the Mughal general Asman Khan, who was a childhood friend. His most significant spiritual contribution was his appointment by Baba Sri Chand, the son of Guru Nanak, as the head of the Udasi sect. He revitalized the sect's missionary activities by establishing four major preaching centers, known as dhūāṅs, across the region."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "reform",
+      "value": "As the head of the Udasi sect, Baba Gurditta Ji significantly strengthened and energized its missionary outreach. He provided new direction and structure to the Udasi movement, ensuring the continuity of its spiritual and preaching traditions."
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "book",
+      "value": "N/A (No known compositions or writings are attributed to Baba Gurditta Ji in the provided sources.)"
+    },
+    {
+      "label": "Final Years",
+      "icon": "death",
+      "value": "Baba Gurditta Ji passed away on 15 March 1638, in Kiratpur Sahib, during his father's lifetime. According to legend, his death was hastened by a deep remorse after being admonished by Guru Hargobind for performing a miracle – reviving a cow he had accidentally shot during a hunt. He also performed the funerals of martyred Nihangs at a site now known as Killi Sahib."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Baba Gurditta Ji's spiritual legacy is profound, marked by his deep devotion and his leadership of the Udasi sect. His appointment by Baba Sri Chand underscored his spiritual stature and his commitment to spreading the message of Sikhism through ascetic and missionary traditions.",
+    "keyContributions": [
+      "Revitalization and leadership of the Udasi sect.",
+      "Establishment of four key Udasi preaching centers (dhūāṅs), which significantly expanded the sect's reach."
+    ]
+  },
+  "modernRelevance": {
+    "description": "Baba Gurditta Ji's influence continues to resonate in contemporary Sikhism through Kiratpur Sahib, a town he founded, which remains a significant spiritual and historical site. His role in the Udasi sect also ensures his continued relevance within the broader Sikh tradition.",
+    "contemporaryImpact": [
+      "Kiratpur Sahib serves as an important pilgrimage site for Sikhs worldwide.",
+      "His contributions to the Udasi sect are acknowledged in the ongoing practices and history of Udasi orders."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Founder of Kiratpur Sahib",
+      "year": "N/A",
+      "description": "Established the town of Kiratpur Sahib, a significant historical and spiritual center in Sikhism.",
+      "icon": ""
+    },
+    {
+      "title": "Head of Udasi Sect",
+      "year": "N/A",
+      "description": "Appointed by Baba Sri Chand, he led and reinvigorated the Udasi tradition.",
+      "icon": ""
+    },
+    {
+      "title": "Battle of Kartarpur",
+      "year": "1635",
+      "description": "Participated in this crucial battle, demonstrating his commitment to the defense of the Sikh faith.",
+      "icon": ""
+    },
+    {
+      "title": "Established Dhūāṅs",
+      "year": "N/A",
+      "description": "Created four main Udasi preaching centers, expanding the sect's missionary reach.",
+      "icon": ""
+    }
+  ]
+}
