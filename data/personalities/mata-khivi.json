@@ -1,0 +1,113 @@
+{
+  "name": "Mata Khivi",
+  "slug": "mata-khivi",
+  "category": "Modern Era",
+  "birth": "1506",
+  "death": "1582",
+  "birthPlace": "Sangar Kot, near Khadur Sahib",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mata_Khivi.jpg/330px-Mata_Khivi.jpg",
+  "excerpt": "Mata Khivi, the esteemed wife of the second Sikh Guru, Guru Angad Dev Ji, is celebrated for her pivotal role in institutionalizing and managing the Langar (free kitchen) system. She is the only woman explicitly mentioned in the Guru Granth Sahib, lauded for her generous spirit, efficient administration, and the comforting hospitality she provided to all devotees. Her dedication solidified the communal eating tradition, a cornerstone of Sikhism, promoting equality and selfless service.",
+  "designation": "Wife of Guru Angad Dev Ji, Organizer of Langar",
+  "quickStats": [
+    {
+      "label": "Spouse",
+      "value": "Guru Angad Dev Ji"
+    },
+    {
+      "label": "Children",
+      "value": "Dasu, Datu, Bibi Amro, Bibi Anokhi"
+    },
+    {
+      "label": "Lifespan",
+      "value": "76 years"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Only woman mentioned by name in the Guru Granth Sahib",
+      "value": "Yes"
+    },
+    {
+      "label": "Managed the Langar kitchen",
+      "value": "Yes"
+    },
+    {
+      "label": "Known for hospitality and service (Sewa)",
+      "value": "Yes"
+    },
+    {
+      "label": "Lived through the Guruship of five Sikh Gurus",
+      "value": "Yes"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-05-30",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "fa-user",
+      "value": "Born in 1506 in Sangar Kot, near Khadur Sahib, Mata Khivi was the daughter of Devi Chand and Karan Devi, a Marwaha Khatri family. Her father was a respected wholesale businessman and moneylender. She inherited her father's qualities of generosity and congenial spirit. In 1519, at the age of 13, she married Lehna, who later became Guru Angad Dev Ji. Initially, the family lived in Sangar village, but later moved back to Khadur Sahib after Bhai Pheru (Lehna's father) passed away and Lehna took over the family business."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "fa-hands-helping",
+      "value": "Mata Khivi's most significant contribution to Sikhism was her dedicated and exemplary management of the Langar. She personally worked in the kitchen, ensuring that only the best ingredients were used and that every devotee was served with utmost courtesy and affection. Her efforts transformed Langar into a well-organized and enduring institution, symbolizing equality, selfless service, and community bonding. The Langar under her care became famously known as 'Mata Khivi ji da Langar.' She also played a crucial role in establishing and perfecting the Sewa (selfless service) tradition within the Sikh community."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "fa-user-friends",
+      "value": "Mata Khivi's work in the Langar system was not merely administrative; it was a practical demonstration of the Sikh principles of equality and community. By serving everyone without distinction of caste, creed, or social status, she reinforced Guru Nanak Dev Ji's teachings and helped break down societal barriers prevalent at the time. Her presence and active participation made the Langar a welcoming space for all, fostering a sense of unity and shared humanity."
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "fa-pen-fancy",
+      "value": "Mata Khivi did not author any compositions or writings. However, her profound impact is recognized through her mention in the Guru Granth Sahib by Bhai Balwand and Satta, a unique distinction for a woman."
+    },
+    {
+      "label": "Final Years",
+      "icon": "fa-hourglass-end",
+      "value": "Mata Khivi lived for thirty years after Guru Angad Dev Ji's passing, remaining actively involved with the Guru's house and continuing her service to the community. She had the unique privilege of meeting five of the Sikh Gurus. She passed away in 1582 at the age of 76, and her funeral was attended by Guru Arjan Dev Ji."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Mata Khivi's spiritual legacy is inseparable from the institution of Langar. She embodied the Sikh ideals of selfless service (Sewa), humility, and devotion. Her leadership in the kitchen ensured that the physical nourishment provided through Langar was accompanied by spiritual nourishment and a sense of belonging for all who partook. Her life demonstrated that a householder's life, lived with devotion and service, is a path to spiritual fulfillment.",
+    "keyContributions": [
+      "Institutionalized and managed the Langar system with dedication and efficiency.",
+      "Provided a model of selfless service and hospitality for the nascent Sikh community.",
+      "Her mention in the Guru Granth Sahib underscores the importance of women's contributions in Sikhism."
+    ]
+  },
+  "modernRelevance": {
+    "description": "Mata Khivi remains an inspirational figure in Sikhism, particularly for her role in establishing the Langar, which continues to be a fundamental and globally recognized practice of the Sikh faith. Her life exemplifies the values of equality, community service, and the significant role women have played and continue to play in Sikh history and institutions.",
+    "contemporaryImpact": [
+      "Her legacy continues to inspire the ongoing practice of Langar in Gurdwaras worldwide, feeding millions daily regardless of background.",
+      "She serves as a powerful symbol of women's leadership and agency within the Sikh tradition.",
+      "Her story reinforces the importance of humility, service, and community in an increasingly individualistic world."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Organizer of Langar",
+      "year": "1539",
+      "description": "Took charge of and institutionalized the Langar (free kitchen) system during Guru Angad Dev Ji's Guruship, ensuring its efficient operation and embodying the principles of equality and selfless service. She personally oversaw its management, using the best ingredients and treating everyone with respect. The Langar became widely known as 'Mata Khivi ji da Langar,' a testament to her dedication. ",
+      "icon": "fa-utensils"
+    },
+    {
+      "title": "Mention in Guru Granth",
+      "year": "N/A",
+      "description": "She is the only woman mentioned by name in the Guru Granth Sahib, in a verse by Bhai Balwand and Satta, acknowledging her significant contributions to the Langar and her noble character. This unique distinction highlights her spiritual and communal importance within Sikhism.",
+      "icon": "fa-book"
+    },
+    {
+      "title": "Promoter of Sewa",
+      "year": "1539",
+      "description": "Instrumental in organizing and promoting the tradition of Sewa (selfless service) within the Sikh community, which extended beyond the Langar to various aspects of community life. She set a high standard for service, fostering a culture of voluntary contributions and community welfare.",
+      "icon": "fa-hands-helping"
+    }
+  ]
+}
