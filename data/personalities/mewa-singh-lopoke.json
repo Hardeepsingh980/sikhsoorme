@@ -1,0 +1,131 @@
+{
+  "name": "Mewa Singh Lopoke",
+  "slug": "mewa-singh-lopoke",
+  "category": "Activist",
+  "birth": "1881-00-00",
+  "death": "1915-01-11",
+  "birthPlace": "Lopoke, Ajnala Tehsil, Amritsar district, Punjab, India",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Portrait_Painting_of_Mewa_Singh.jpg/1200px-Portrait_Painting_of_Mewa_Singh.jpg",
+  "excerpt": "Mewa Singh Lopoke (1881 - January 11, 1915) was a Sikh activist in Canada who was a member of the Vancouver branch of the Ghadar Party, which called for the overthrow of British rule in India. On October 21, 1914, Mewa Singh murdered a Canadian immigration inspector, W. C. Hopkinson, a political act of violence for which he was executed by the Canadian government. In the eyes of Sikh Canadians, Mewa Singh's assassination of Hopkinson was a display of martyrdom, one which they commemorate annually.",
+  "designation": "Ghadar Party Member, Granthi",
+  "quickStats": [
+    {
+      "label": "Born",
+      "value": "1881"
+    },
+    {
+      "label": "Died",
+      "value": "January 11, 1915"
+    },
+    {
+      "label": "Age at Death",
+      "value": "33-34"
+    },
+    {
+      "label": "Nationality",
+      "value": "Indian (then British Indian)"
+    },
+    {
+      "label": "Movement",
+      "value": "Ghadar Party"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Immigrated to Canada",
+      "value": "1906"
+    },
+    {
+      "label": "Involved in building the first Gurdwara in Vancouver",
+      "value": ""
+    },
+    {
+      "label": "Served as a Granthi",
+      "value": ""
+    },
+    {
+      "label": "Assassinated W.C. Hopkinson",
+      "value": "October 21, 1914"
+    },
+    {
+      "label": "Executed by Canadian government",
+      "value": "January 11, 1915"
+    },
+    {
+      "label": "Martyrdom",
+      "value": "Considered a martyr by Sikh Canadians"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-07-30T12:00:00Z",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "fa-home",
+      "value": "Mewa Singh was born in 1881 in the village of Lopoke, located in the Ajnala Tehsil of Amritsar district in Punjab, India. He was the son of Nand Singh Aulakh. In 1906, like many others seeking better opportunities, he immigrated to British Columbia, Canada. He found employment working on the green chain of Fraser Mills in New Westminster, near Vancouver."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "fa-hands-helping",
+      "value": "Upon arriving in Canada, Mewa Singh became an active member of the nascent Punjabi community in British Columbia. He came into contact with Sikh community leaders like Bhag Singh Bhikhiwind and Balwant Singh Khurdpur of the Khalsa Diwan Society Vancouver. He played a significant role in the fundraising and construction of the first Gurdwara (Sikh temple) in Vancouver and North America, which was inaugurated in January 1908. After its opening, Mewa Singh was initiated as a Khalsa Sikh and actively participated in the Gurdwara's upkeep, also serving as a granthi, or scripture reader. He later became a member of the Ghadar Party, a movement founded in April 1913 by Indians in North America with the aim of achieving India's independence from British rule."
+    },
+    {
+      "label": "Final Years",
+      "icon": "fa-star",
+      "value": "Mewa Singh's involvement with the Ghadar Party deepened as he became aware of the surveillance efforts by Canadian immigration officials against Indian nationalists. W.C. Hopkinson, an immigration inspector, was at the center of this effort, employing informants within the Punjabi community. On October 21, 1914, Mewa Singh assassinated W.C. Hopkinson. This act of political violence led to his arrest, trial, and subsequent execution by the Canadian government on January 11, 1915. In the eyes of Sikh Canadians, Mewa Singh's sacrifice is commemorated annually as a display of martyrdom."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Mewa Singh Lopoke's actions, particularly his execution, are regarded by Sikh Canadians as a significant act of martyrdom. His sacrifice is commemorated annually, seen as a stand against oppression and a defense of the community's integrity in the face of colonial surveillance and discriminatory practices. He embodies the spirit of standing for justice and religious freedom.",
+    "keyContributions": [
+      "Embodiment of defiance against colonial oppression and injustice.",
+      "Symbol of martyrdom for religious and political freedom within the Sikh diaspora.",
+      "Active role in the establishment and maintenance of the first Gurdwara in Vancouver, fostering early Sikh community life in Canada."
+    ]
+  },
+  "modernRelevance": {
+    "description": "Mewa Singh Lopoke remains an important figure in the historical narrative of Sikh Canadians and the broader South Asian diaspora in North America. His story highlights the struggles of early immigrants against discriminatory policies, colonial influence, and the fight for justice and self-determination.",
+    "contemporaryImpact": [
+      "His martyrdom is commemorated annually by Sikh Canadians, serving as a reminder of historical injustices and the spirit of resistance.",
+      "His life and actions contribute to ongoing discussions about political activism, human rights, and the challenges faced by immigrant communities in securing their rights and identity."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Gurdwara Founding Contributor",
+      "year": "1908",
+      "description": "Involved in fundraising and construction of the first Gurdwara in Vancouver, a crucial institution for the early Sikh community in North America.",
+      "icon": "🏛️"
+    },
+    {
+      "title": "Khalsa Initiation",
+      "year": "1908",
+      "description": "Initiated as a Khalsa Sikh, signifying his deep commitment to the Sikh faith and its principles.",
+      "icon": "🙏"
+    },
+    {
+      "title": "Granthi Service",
+      "year": "Early 1900s",
+      "description": "Served as a scripture reader (granthi) in the Vancouver Gurdwara, contributing to the spiritual life of the community.",
+      "icon": "📖"
+    },
+    {
+      "title": "Ghadar Party Member",
+      "year": "1913-1915",
+      "description": "Active member of the Ghadar Party, a revolutionary organization dedicated to achieving India's independence from British rule.",
+      "icon": "✊"
+    },
+    {
+      "title": "Martyrdom for Justice",
+      "year": "1915",
+      "description": "Executed for assassinating W.C. Hopkinson; this act is viewed as a supreme sacrifice for justice and religious freedom by Sikh Canadians.",
+      "icon": "🕊️"
+    }
+  ],
+  "quotes": []
+}
