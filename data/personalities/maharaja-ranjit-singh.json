@@ -1,0 +1,251 @@
+{
+  "name": "Maharaja Ranjit Singh",
+  "slug": "maharaja-ranjit-singh",
+  "category": "Leaders",
+  "birth": "1780-11-13",
+  "death": "1839-06-27",
+  "birthPlace": "Gujranwala, Punjab region (present-day Punjab, Pakistan)",
+  "image": "https://upload.wikimedia.org/wikipedia/en/f/f0/Company_School_Oval_painting_of_Ranjit_%28Detailed%29.png",
+  "excerpt": "Maharaja Ranjit Singh, known as \"Sher-e-Punjab\" (Lion of Punjab), was the founder and first Maharaja of the Sikh Empire in the northwest Indian subcontinent. He ruled from 1801 until his death in 1839, unifying fragmented Sikh misls and expanding his empire to include territories like Multan, Kashmir, and Peshawar. His reign was marked by reforms, modernization, and a secular administration that promoted prosperity and cultural renaissance.",
+  "designation": "Founder and First Maharaja of the Sikh Empire",
+  "quickStats": [
+    {
+      "label": "Reign",
+      "value": "1801-1839"
+    },
+    {
+      "label": "Nickname",
+      "value": "Sher-e-Punjab (Lion of Punjab)"
+    },
+    {
+      "label": "Key Achievement",
+      "value": "Unified Sikh Misls and established the Sikh Empire"
+    },
+    {
+      "label": "Military Modernization",
+      "value": "First Asian ruler to modernize army to European standards"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Survived smallpox in infancy",
+      "value": "Yes"
+    },
+    {
+      "label": "Crowned at age 21",
+      "value": "Yes"
+    },
+    {
+      "label": "Good relations with British",
+      "value": "Yes"
+    },
+    {
+      "label": "Merit-based administration",
+      "value": "Yes"
+    },
+    {
+      "label": "Rebuilt Harmandir Sahib (Golden Temple)",
+      "value": "Yes"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-05-18T12:00:00Z",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": "https://example.com/history/ranjit-singh"
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "fas fa-child",
+      "value": "Born on November 13, 1780, in Gujranwala, Punjab, to Maha Singh, leader of the Sukerchakia Misl, and Raj Kaur, daughter of Raja Gajpat Singh of Jind. He was initially named Buddh Singh but his father changed it to Ranjit Singh (victor in battle) to commemorate a military victory. He suffered from smallpox as an infant, resulting in the loss of sight in his left eye and a pockmarked face. Despite never receiving formal schooling, he was trained in horse riding, musketry, and martial arts. His father died when Ranjit Singh was 12, and he inherited the Sukerchakia Misl estates. He was raised by his mother and Lakhpat Rai, and later aided by his mother-in-law, Sada Kaur, after his mother's death."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "fas fa-flag",
+      "value": "Ranjit Singh's most significant contribution was the unification of the various Sikh misls (factions) into a powerful Sikh Empire. He captured Lahore in 1799 and was crowned Maharaja on April 12, 1801. He expanded the empire by conquering Durrani Afghan-ruled territories of Multan, Kashmir, and Peshawar. He was a visionary leader who introduced significant reforms, modernized the military, and fostered general prosperity in his empire. He rebuilt the Harmandir Sahib in Amritsar with marble and gold leaf, earning it the name \"Golden Temple,\" and sponsored the rebuilding of other important gurdwaras like Takht Sri Patna Sahib and Hazur Sahib Nanded."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "fas fa-cogs",
+      "value": "Ranjit Singh implemented reforms that transformed the fragmented Punjab into a formidable state. He abolished the discriminatory \"jizya\" tax on Hindus and Sikhs, treating all religious communities with equality. His administration and army were secular, with individuals appointed and promoted based on ability rather than religion. He modernized his army, the Khalsa Fauj, by incorporating European military training and tactics, making it one of the most advanced in Asia. He also established a well-defined system of rewards and payments for his military personnel."
+    },
+    {
+      "label": "Spiritual Legacy",
+      "icon": "fas fa-praying-hands",
+      "value": "Ranjit Singh's spiritual legacy is deeply intertwined with his commitment to the Sikh faith and its principles of equality and service. His patronage of gurdwaras, most notably the Harmandir Sahib, ensured the preservation and enhancement of these holy sites. His secular approach to governance, where merit superseded religious affiliation, reflected the inclusive ethos of Sikhism."
+    },
+    {
+      "label": "Modern Relevance",
+      "icon": "fas fa-people-carry",
+      "value": "Maharaja Ranjit Singh remains a towering figure in Sikh history and an inspiration for modern leadership. His ability to unite diverse factions, build a strong and modern state, and govern with a secular outlook is still celebrated. He symbolizes Punjabi pride and a golden age of prosperity and cultural flourishing."
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Founder of the Sikh Empire",
+      "year": "1801",
+      "description": "United various Sikh misls into a powerful empire.",
+      "icon": "👑"
+    },
+    {
+      "title": "Conqueror of Lahore",
+      "year": "1799",
+      "description": "Captured the city of Lahore, making it his capital.",
+      "icon": "⚔️"
+    },
+    {
+      "title": "Modernized Sikh Army",
+      "year": "Early 19th Century",
+      "description": "Transformed the Khalsa army with European training and artillery.",
+      "icon": "🛡️"
+    },
+    {
+      "title": "Rebuilt Harmandir Sahib",
+      "year": "1809, 1830",
+      "description": "Reconstructed the Golden Temple in marble and copper, overlaid with gold leaf.",
+      "icon": "✨"
+    },
+    {
+      "title": "Instituted Order of Merit",
+      "year": "1837",
+      "description": "Established the Kaukab-i-Iqbal-i-Panjab (Star of the Prosperity of the Punjab).",
+      "icon": "🎖️"
+    }
+  ],
+  "quotes": [
+    {
+      "original": "\"The Maharajah is like the sun and the sun has only one eye. The splendor and luminosity of his single eye is so much that I have never dared to look at his other eye.\"",
+      "source": "Fakir Azizuddin, SikhiWiki"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1780,
+      "date": "November 13",
+      "event": "Born in Gujranwala.",
+      "type": "Birth"
+    },
+    {
+      "year": 1792,
+      "date": "",
+      "event": "Became leader of Sukerchakia Misl after his father's death.",
+      "type": "Leadership"
+    },
+    {
+      "year": 1799,
+      "date": "July 7",
+      "event": "Captured Lahore.",
+      "type": "Military Victory"
+    },
+    {
+      "year": 1801,
+      "date": "April 12",
+      "event": "Crowned Maharaja of Punjab.",
+      "type": "Coronation"
+    },
+    {
+      "year": 1802,
+      "date": "",
+      "event": "Took control of Amritsar.",
+      "type": "Military Victory"
+    },
+    {
+      "year": 1813,
+      "date": "",
+      "event": "Annexed Sikh misls and took over local kingdoms.",
+      "type": "Expansion"
+    },
+    {
+      "year": 1830,
+      "date": "",
+      "event": "Overlaid the sanctum of Harmandir Sahib with gold leaf.",
+      "type": "Construction"
+    },
+    {
+      "year": 1837,
+      "date": "March",
+      "event": "Instituted the Order of Merit, Kaukab-i-Iqbal-i-Panjab.",
+      "type": "Achievement"
+    },
+    {
+      "year": 1839,
+      "date": "June 27",
+      "event": "Died in Lahore.",
+      "type": "Death"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Maha Singh",
+      "relation": "Father",
+      "slug": ""
+    },
+    {
+      "name": "Raj Kaur",
+      "relation": "Mother",
+      "slug": ""
+    },
+    {
+      "name": "Sada Kaur",
+      "relation": "Mother-in-law/Guardian",
+      "slug": ""
+    },
+    {
+      "name": "Kharak Singh",
+      "relation": "Son/Successor",
+      "slug": ""
+    },
+    {
+      "name": "Duleep Singh",
+      "relation": "Son",
+      "slug": ""
+    },
+    {
+      "name": "Hari Singh Nalwa",
+      "relation": "General",
+      "slug": "hari-singh-nalwa"
+    },
+    {
+      "name": "Fakir Azizuddin",
+      "relation": "Foreign Minister",
+      "slug": ""
+    },
+    {
+      "name": "Jean-Baptiste Ventura",
+      "relation": "European General",
+      "slug": ""
+    },
+    {
+      "name": "Jean-François Allard",
+      "relation": "European General",
+      "slug": ""
+    },
+    {
+      "name": "Claude Auguste Court",
+      "relation": "European General",
+      "slug": ""
+    },
+    {
+      "name": "Alexander Gardner",
+      "relation": "European Colonel",
+      "slug": ""
+    }
+  ],
+  "historicalContext": {
+    "period": "Late 18th to mid-19th Century",
+    "politicalSituation": "The Punjab region was fragmented into numerous warring Sikh misls, Muslim, and Hindu states after the decline of the Mughal Empire. The Durrani Afghan Empire also held significant control over parts of the region. Ranjit Singh emerged during this tumultuous period to unify the region.",
+    "socialConditions": "Society was diverse, comprising Sikhs, Hindus, and Muslims. Before Ranjit Singh, there were instances of discriminatory practices like the \"jizya\" tax imposed by Muslim rulers. His reign brought about a period of relative peace, stability, and inter-religious harmony.",
+    "significance": "Maharaja Ranjit Singh's rule is considered a golden age in Sikh history. He not only established a powerful empire but also laid the foundations for a modern, secular administration and a formidable military, successfully resisting British expansion in the region for decades. His legacy continues to inspire and shape Punjabi identity."
+  },
+  "references": [
+    "\"Ranjit Singh.\" Wikipedia. https://en.wikipedia.org/wiki/Ranjit_Singh",
+    "\"Maharaja Ranjit Singh.\" SikhiWiki, free Sikh encyclopedia. https://www.sikhiwiki.org/index.php/Maharaja_Ranjit_Singh",
+    "Bajwa, Fauja Singh. *Military System of the Sikhs*. Delhi, 1964.",
+    "Balwant Singh. *The Army of Maharajah Ranjit Singh*. Lahore, 1932.",
+    "Ganda Singh and Teja Singh, ed. *Maharajah Ranjit Singh: First Death Centenary Memorial Volume*. Amritsar, 1939.",
+    "Khushwant Singh. *A History of the Sikhs*, 2 vols. Princeton, 1963 and 1966.",
+    "Harbans Singh. *Maharajah Ranjit Singh*. Delhi, 1980."
+  ]
+}
