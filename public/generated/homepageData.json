@@ -1,15 +1,15 @@
 {
   "soormaOfTheDay": {
-    "name": "Bhai Himmat Singh Ji",
-    "slug": "bhai-himmat-singh-ji",
-    "category": "Panj Pyare",
-    "birth": "1661-01-18",
-    "death": "1705-12-07",
-    "image": "N/A",
-    "excerpt": "Bhai Himmat Singh Ji, born Himmat Rai, was one of the original Panj Pyare (the Five Beloved Ones), the first five Sikhs to be initiated into the Khalsa order by Guru Gobind Singh Ji in 1699. He embodied profound devotion and valor, playing a crucial role in establishing the Khalsa.",
-    "quote": "",
-    "quoteTranslation": "",
-    "significance": "Bhai Himmat Singh Ji's life and sacrifice are deeply significant as they represent the embodiment of the Khalsa's ideals—courage, faith, and the commitment to defending righteousness against tyranny, at a time when Sikh identity was being forged in the crucible of persecution."
+    "name": "Guru Gobind Singh Ji",
+    "slug": "guru-gobind-singh-ji",
+    "category": "gurus",
+    "birth": "1666-12-22",
+    "death": "1708-10-07",
+    "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
+    "excerpt": "Guru Gobind Singh Ji, the tenth Sikh Guru, redefined Sikhism with his unmatched courage, visionary leadership, and prolific poetry. Founder of the Khalsa, compiler of the Dasam Granth, and sanctifier of the Guru Granth Sahib as the eternal Guru, he led Sikhs through persecution and loss. His legacy unites valor, sacrifice, equality, and spiritual resolve.",
+    "quote": "ਦੇਹ ਸਿਵਾ ਬਰ ਮੋਹਿ ਇਹੈ। ਸੁਭ ਕਰਮਨ ਤੇ ਕਬਹੂੰ ਨ ਟਰੋ। ਨਾ ਡਰੋ ਅਰਿ ਸੋ ਜਬ ਜਾਇ ਲਰੋ। ਨਿਸਚੈ ਕਰਿ ਅਪਨੀ ਜੀਤ ਕਰੋ।",
+    "quoteTranslation": "Grant me this boon, O Lord, may I never refrain from righteous acts. Never may I fear when I go into battle, and with determination, may I claim victory.",
+    "significance": "Guru Gobind Singh Ji’s leadership transformed Sikhism into a distinctly sovereign, martial, and egalitarian faith with enduring identity and resilience."
   },
   "featuredPersonalities": [
     {
@@ -164,22 +164,36 @@
       "description": "The ten divine teachers who founded and shaped Sikhism"
     },
     {
+      "name": "Martyrs",
+      "slug": "martyrs",
+      "count": 1,
+      "icon": "📜",
+      "description": ""
+    },
+    {
       "name": "Panj Pyare",
-      "slug": "Panj Pyare",
+      "slug": "panj-pyare",
       "count": 5,
       "icon": "📜",
       "description": ""
     },
     {
+      "name": "Guru Family",
+      "slug": "guru-family",
+      "count": 4,
+      "icon": "📜",
+      "description": ""
+    },
+    {
       "name": "Activists",
-      "slug": "Activists",
+      "slug": "activists",
       "count": 2,
       "icon": "📜",
       "description": ""
     },
     {
       "name": "Sahibzade",
-      "slug": "Sahibzade",
+      "slug": "sahibzade",
       "count": 3,
       "icon": "📜",
       "description": ""
@@ -187,8 +201,8 @@
   ],
   "historicalQuotes": [],
   "quickStats": {
-    "totalPersonalities": 21,
-    "totalCategories": 4,
+    "totalPersonalities": 26,
+    "totalCategories": 6,
     "yearsOfHistory": "550+"
   }
 }

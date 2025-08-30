@@ -258,6 +258,28 @@ const CATEGORY_META = [
         ],
         historicalContext: "Modern Sikh activists emerged during colonial rule, partition, and global diaspora movements, addressing political, social, and religious challenges.",
     },
+    {
+        id: "guru-family",
+        name: "Guru Family",
+        slug: "guru-family",
+        icon: "Heart",
+        emoji: "❤️",
+        count: 0,
+        description: "Family members of Sikh Gurus",
+        longDescription: "Family members of Sikh Gurus",
+        timeSpan: "1469-2024",
+        keyPeriod: "Foundation Era",
+        primaryRegion: "Punjab",
+        significance: "Family members of Sikh Gurus",
+        color: "bg-gray-500",
+        lightColor: "bg-gray-50",
+        borderColor: "border-gray-200",
+        textColor: "text-gray-900",
+        featured: [],
+        stats: { averageLifespan: 0 },
+        keyContributions: [],
+        historicalContext: "Family members of Sikh Gurus"
+    }
 ];
 
 

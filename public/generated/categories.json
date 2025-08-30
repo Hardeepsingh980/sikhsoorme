@@ -1,8 +1,8 @@
 {
   "overview": {
-    "totalPersonalities": 21,
-    "totalCategories": 4,
-    "featuredPersonalities": 10,
+    "totalPersonalities": 26,
+    "totalCategories": 6,
+    "featuredPersonalities": 13,
     "recentAdditions": 0,
     "timeSpan": "1469-2024",
     "regions": 8
@@ -94,6 +94,45 @@
       "historicalContext": "To be generated..."
     },
     {
+      "id": "guru-family",
+      "slug": "guru-family",
+      "name": "Guru Family",
+      "icon": "Heart",
+      "emoji": "❤️",
+      "count": 4,
+      "description": "Family members of Sikh Gurus",
+      "longDescription": "To be generated or enriched...",
+      "timeSpan": "NaN-NaN",
+      "keyPeriod": "Foundation Era",
+      "primaryRegion": "Punjab",
+      "significance": "Family members of Sikh Gurus",
+      "color": "bg-gray-500",
+      "lightColor": "bg-gray-50",
+      "borderColor": "border-gray-200",
+      "textColor": "text-gray-900",
+      "featured": [
+        {
+          "name": "Mata Khivi",
+          "slug": "mata-khivi",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mata_Khivi.jpg/330px-Mata_Khivi.jpg",
+          "years": "1506-1582",
+          "achievement": "Wife of Guru Angad Dev Ji, Organizer of Langar"
+        },
+        {
+          "name": "Mata Sulakhni",
+          "slug": "mata-sulakhni",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/An_Imaginary_Meeting_between_Guru_Nanak_and_Gobind_Singh_LACMA_M.75.114.2.jpg/800px-An_Imaginary_Meeting_between_Guru_Nanak_and_Gobind_Singh_LACMA_M.75.114.2.jpg",
+          "years": "NaN-NaN",
+          "achievement": "Wife of Guru Nanak Dev Ji"
+        }
+      ],
+      "stats": {
+        "averageLifespan": null
+      },
+      "keyContributions": [],
+      "historicalContext": "To be generated..."
+    },
+    {
       "id": "activists",
       "slug": "activists",
       "name": "Activists",
@@ -170,6 +209,38 @@
           "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/06/14/1f3d5ec8d32807e3ec21b98a27cd81b0_original.JPG?impolicy=abp_cdn&imwidth=320",
           "years": "1563-1606",
           "achievement": "5th Sikh Guru"
+        }
+      ],
+      "stats": {
+        "averageLifespan": null
+      },
+      "keyContributions": [],
+      "historicalContext": "To be generated..."
+    },
+    {
+      "id": "martyrs",
+      "slug": "martyrs",
+      "name": "Martyrs",
+      "icon": "Heart",
+      "emoji": "🕊️",
+      "count": 1,
+      "description": "Those who made the ultimate sacrifice for faith and justice",
+      "longDescription": "To be generated or enriched...",
+      "timeSpan": "NaN-1705",
+      "keyPeriod": "Persecution & Resistance",
+      "primaryRegion": "Punjab & Delhi",
+      "significance": "Demonstrated ultimate commitment to Sikh principles and values",
+      "color": "bg-gray-600",
+      "lightColor": "bg-gray-50",
+      "borderColor": "border-gray-200",
+      "textColor": "text-gray-900",
+      "featured": [
+        {
+          "name": "Mata Gujri Ji",
+          "slug": "mata-gujri-ji",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Newborn_Guru_Gobind_Rai_cradled_by_Mata_Gujari.jpg/800px-Newborn_Guru_Gobind_Rai_cradled_by_Mata_Gujari.jpg",
+          "years": "NaN-1705",
+          "achievement": "Mother of the Tenth Sikh Guru, Guru Gobind Singh Ji; Wife of the Ninth Sikh Guru, Guru Tegh Bahadur Ji."
         }
       ],
       "stats": {
