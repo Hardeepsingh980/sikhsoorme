@@ -1,0 +1,159 @@
+{
+  "name": "Bhai Mohkam Singh Ji",
+  "slug": "bhai-mohkam-singh-ji",
+  "category": "Panj Pyare",
+  "birth": "1663-06-06",
+  "death": "1704-12-07",
+  "birthPlace": "Bet Dwarka, Gujarat, India",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Mural_of_Guru_Gobind_Singh_being_attended_by_the_inaugural_quintet_of_Panj_Piare_%28Daya_Singh%2C_Dharam_Singh%2C_Sahib_Singh%2C_Mohkam_Singh%2C_Himmat_Singh%29_from_a_Sikh_Samadhi_at_Kot_Fateh_Khan.jpg/1200px-thumbnail.jpg",
+  "excerpt": "Bhai Mohkam Singh Ji, born Mohkam Chand, was one of the original Panj Pyare (Five Beloved Ones) who responded to Guru Gobind Singh Ji's call for sacrifice in 1699. He was initiated into the Khalsa and later attained martyrdom in the Battle of Chamkaur.",
+  "designation": "One of the Panj Pyare, Sikh Warrior",
+  "quickStats": [
+    {
+      "label": "Caste",
+      "value": "Chhimba"
+    },
+    {
+      "label": "Parents",
+      "value": "Tirath Chandi and Devi Bai"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Offer his head to Guru Gobind Singh Ji.",
+      "value": "Yes"
+    },
+    {
+      "label": "Participated in Sikh battles.",
+      "value": "Yes"
+    },
+    {
+      "label": "Martyr in the Battle of Chamkaur.",
+      "value": "Yes"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-07-30",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "fa-user",
+      "value": "Born Mohkam Chand on June 6, 1663, in Bet Dwarka, Gujarat, India, to Tirath Chandi and Devi Bai. He belonged to the Chhimba caste, traditionally associated with tailoring and cloth printing. Around 1685, he journeyed to Anandpur, the then-seat of Guru Gobind Singh Ji, where he dedicated himself to the Guru's service."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "fa-hands-helping",
+      "value": "Bhai Mohkam Singh Ji's most significant contribution came on the Baisakhi day of 1699, when he was one of the five Sikhs who responded to Guru Gobind Singh Ji's call for a head, symbolizing ultimate devotion. He was subsequently initiated into the Khalsa, receiving the surname 'Singh' and becoming Bhai Mohkam Singh. He actively participated in the Sikh battles against the surrounding hill chiefs and imperial Mughal troops, demonstrating unwavering courage and commitment to the Sikh faith."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "fa-reform",
+      "value": "As one of the Panj Pyare, he was instrumental in the formation of the Khalsa, a pivotal reform that transformed the Sikh community into a disciplined saint-soldier order, dedicated to righteousness and the defense of justice."
+    },
+    {
+      "label": "Final Years",
+      "icon": "fa-cross",
+      "value": "Bhai Mohkam Singh Ji continued to fight alongside Guru Gobind Singh Ji. He attained martyrdom in the heroic Battle of Chamkaur on December 7, 1704, alongside Bhai Himmat Singh and Bhai Sahib Singh, defending the Guru and the Sikh community against overwhelming Mughal forces."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Bhai Mohkam Singh Ji's spiritual legacy is intertwined with the foundational principles of the Khalsa. His willingness to offer his life exemplified the ultimate surrender and devotion required of a Sikh. He embodies the ideal of a Gursikh who places the Guru's command above all else, thereby contributing to the spiritual fortitude of the Sikh nation.",
+    "keyContributions": [
+      "Embodied self-sacrifice and devotion during the formation of the Khalsa.",
+      "A foundational pillar of the Khalsa, setting an example for future generations of Sikhs.",
+      "His martyrdom solidified the principles of courage and unwavering faith in the face of tyranny."
+    ]
+  },
+  "modernRelevance": {
+    "description": "In modern Sikhism, Bhai Mohkam Singh Ji remains an enduring symbol of courage, commitment, and selfless service to the Guru and the community. His story inspires Sikhs worldwide to uphold the values of the Khalsa and stand firm in their faith.",
+    "contemporaryImpact": [
+      "Serves as an inspiration for Sikhs to embody the spirit of Chardi Kala (ever-rising spirits) and fearlessness.",
+      "Represents the ideal of the 'saint-soldier' within the Sikh tradition.",
+      "His sacrifice reinforces the importance of defending religious freedom and justice for all."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Initiation into Khalsa",
+      "year": "1699",
+      "description": "Became one of the first five Sikhs to be initiated into the Khalsa order by Guru Gobind Singh Ji.",
+      "icon": ""
+    },
+    {
+      "title": "Martyrdom at Chamkaur",
+      "year": "1704",
+      "description": "Sacrificed his life defending Guru Gobind Singh Ji in the Battle of Chamkaur.",
+      "icon": ""
+    }
+  ],
+  "quotes": [],
+  "timeline": [
+    {
+      "year": 1663,
+      "date": "June 6",
+      "event": "Born Mohkam Chand in Bet Dwarka, Gujarat.",
+      "type": "Birth"
+    },
+    {
+      "year": 1685,
+      "date": "",
+      "event": "Arrived at Anandpur and dedicated himself to Guru Gobind Singh Ji's service.",
+      "type": "Life Event"
+    },
+    {
+      "year": 1699,
+      "date": "Baisakhi",
+      "event": "Offered his head to Guru Gobind Singh Ji and was initiated into the Khalsa, becoming Bhai Mohkam Singh.",
+      "type": "Key Event"
+    },
+    {
+      "year": 1704,
+      "date": "December 7",
+      "event": "Martyred in the Battle of Chamkaur.",
+      "type": "Death"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Gobind Singh Ji",
+      "relation": "Guru",
+      "slug": "guru-gobind-singh-ji"
+    },
+    {
+      "name": "Bhai Daya Singh Ji",
+      "relation": "Fellow Panj Pyare",
+      "slug": "bhai-daya-singh-ji"
+    },
+    {
+      "name": "Bhai Dharam Singh Ji",
+      "relation": "Fellow Panj Pyare",
+      "slug": ""
+    },
+    {
+      "name": "Bhai Himmat Singh Ji",
+      "relation": "Fellow Panj Pyare",
+      "slug": "bhai-himmat-singh-ji"
+    },
+    {
+      "name": "Bhai Sahib Singh Ji",
+      "relation": "Fellow Panj Pyare",
+      "slug": "bhai-sahib-singh-ji"
+    }
+  ],
+  "historicalContext": {
+    "period": "Late 17th - Early 18th Century (Mughal Empire)",
+    "politicalSituation": "The Sikh community faced severe persecution from the Mughal Empire, leading to significant conflicts. Guru Gobind Singh Ji was actively working to defend the Sikh faith and its followers against imperial aggression.",
+    "socialConditions": "Society was marked by deep-rooted caste divisions and religious intolerance. Guru Gobind Singh Ji's creation of the Khalsa aimed to establish an egalitarian society based on spiritual principles and martial prowess.",
+    "significance": "Bhai Mohkam Singh Ji's life and sacrifice represent a critical period in Sikh history, marking the transition from a purely spiritual community to a well-defined socio-religious and martial order capable of defending its values and adherents."
+  },
+  "references": [
+    "Mohkam Singh - Wikipedia (https://en.wikipedia.org/wiki/Mohkam_Singh)",
+    "Bhai Mukham Singh - SikhiWiki (https://www.sikhiwiki.org/index.php/Bhai_Mukham_Singh)",
+    "Panj Pyare - Wikipedia (https://en.wikipedia.org/wiki/Panj_Pyare)"
+  ]
+}
