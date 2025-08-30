@@ -1,0 +1,36 @@
+{
+  "name": "Sahibzada Zorawar Singh Ji",
+  "slug": "baba-zorawar-singh-ji",
+  "category": "Sahibzade",
+  "birth": "1696-11-17",
+  "death": "1704-12-26",
+  "birthPlace": "Anandpur Sahib",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Detail_of_Sahibzada_Zorawar_Singh_from_a_mural_depicting_Guru_Gobind_Singh_and_his_four_sons_%28the_Sahibzadas%29_located_within_Takht_Hazur_Sahib.jpg",
+  "excerpt": "Sahibzada Zorawar Singh Ji was the third son of Guru Gobind Singh Ji, martyred at the tender age of eight along with his younger brother Sahibzada Fateh Singh Ji, for refusing to convert to Islam under the orders of Wazir Khan, the Mughal Governor of Sirhind. His unwavering faith and supreme sacrifice are a beacon of courage in Sikh history.",
+  "designation": "Sahibzada",
+  "quickStats": [
+    {
+      "label": "Father",
+      "value": "Guru Gobind Singh Ji"
+    },
+    {
+      "label": "Mother",
+      "value": "Mata Jito Ji"
+    },
+    {
+      "label": "Age at Martyrdom",
+      "value": "8 years"
+    },
+    {
+      "label": "Place of Martyrdom",
+      "value": "Sirhind"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Third son of Guru Gobind Singh Ji.",
+      "value": "2024-07-30T12:00:00Z"
+    },
+    {}
+  ]
+}
