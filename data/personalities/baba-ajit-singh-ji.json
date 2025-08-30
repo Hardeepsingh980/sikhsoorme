@@ -1,0 +1,85 @@
+{
+  "name": "Sahibzada Ajit Singh Ji",
+  "slug": "baba-ajit-singh-ji",
+  "category": "Sahibzade",
+  "birth": "1687-02-11",
+  "death": "1704-12-07",
+  "birthPlace": "Paonta Sahib",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Detail_of_Sahibzada_Ajit_Singh_from_a_mural_depicting_Guru_Gobind_Singh_and_his_four_sons_%28the_Sahibzadas%29_located_within_Takht_Hazur_Sahib.jpg",
+  "excerpt": "The eldest son of Guru Gobind Singh, Sahibzada Ajit Singh was a valiant warrior and a spiritual beacon who embodied courage and sacrifice. He attained martyrdom defending Sikh principles in the Second Battle of Chamkaur.",
+  "designation": "Eldest Sahibzada, Warrior, Martyr",
+  "quickStats": [
+    {
+      "label": "Father",
+      "value": "Guru Gobind Singh Ji"
+    },
+    {
+      "label": "Mother",
+      "value": "Mata Sundari Ji"
+    },
+    {
+      "label": "Battle of Martyrdom",
+      "value": "Second Battle of Chamkaur"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "First Military Assignment",
+      "value": "At age 12"
+    },
+    {
+      "label": "Training",
+      "value": "Religious texts, history, philosophy, swordsmanship, archery."
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-07-27T00:00:00Z",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "🌱",
+      "value": "Born to Mata Sundari and Guru Gobind Singh at Paonta Sahib on February 11, 1687, Sahibzada Ajit Singh Ji grew up in Anandpur. He received a comprehensive education that included religious texts, history, and philosophy. From a young age, he was trained in martial arts such as riding, swordsmanship, and archery by esteemed teachers like Bhai Jaita (Jeevan Singh). This holistic upbringing prepared him for both spiritual leadership and military command."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "⚔️",
+      "value": "\n- **Military Leadership:** At the tender age of 12, he was given his first military assignment, leading a contingent of 100 men to recover looted property from the Ranghars of Nuh on May 23, 1699.\n- **Defense of Anandpur:** He played a crucial role in the defense of Anandpur Sahib. During the siege by hill chiefs and Mughal forces in 1700, he, alongside Bhai Udai Singh, successfully commanded the defense of Qila Taragarh Sahib, repelling the initial attacks.\n- **Expeditions:** On March 15, 1701, he led a successful expedition against Gujjars and Rangers who had waylaid a Sikh Sangat (congregation).\n- **Victories:** Sahibzada Ajit Singh Ji demonstrated exceptional battlefield prowess, leading Sikh forces to victory against the Mughals in the Battle of Nirmohgarh (1702) and the Battle of Basoli (1702).\n- **Justice:** In March 1703, he spearheaded an expedition to Bassi Kalan to rescue a Brahmin's wife who had been forcibly abducted by Chowdhry Jabar Khan. He engaged Jabar Khan's forces, ensuring the woman's safe return and exemplifying the Sikh commitment to justice and protection of the vulnerable."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "📝",
+      "value": "N/A"
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "✍️",
+      "value": "N/A"
+    },
+    {
+      "label": "Final Years",
+      "icon": "🎯",
+      "value": "Following the treacherous evacuation of Anandpur Sahib, Guru Gobind Singh and his remaining Sikhs were relentlessly pursued by overwhelming Mughal forces. They took refuge in a small, fortified mud house in Chamkaur. On December 7, 1704, during the heroic and vastly outnumbered stand in the Second Battle of Chamkaur, Sahibzada Ajit Singh Ji, along with his younger brother Sahibzada Jujhar Singh Ji, bravely led successive sorties against the besieging army, ultimately attaining martyrdom."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Sahibzada Ajit Singh Ji stands as a supreme embodiment of the \"Sant-Sipahi\" (saint-soldier) ideal, a cornerstone of the Khalsa spirit. His life, though tragically brief, was a powerful testament to unwavering faith, indomitable courage, and selfless devotion to Sikh principles and the protection of righteousness. His martyrdom, alongside his brother, at such a young age, remains an eternal and profound source of inspiration for Sikhs worldwide, illustrating the ultimate sacrifice for dharma.",
+    "keyContributions": [
+      "Embodied the highest ideals of the Khalsa, combining spiritual devotion with martial valor.",
+      "Set a supreme example of sacrifice for faith, justice, and the protection of human dignity.",
+      "Inspired generations of Sikhs with his bravery, leadership, and unwavering commitment in the face of overwhelming odds."
+    ]
+  },
+  "modernRelevance": {
+    "description": "Sahibzada Ajit Singh Ji's life continues to resonate deeply in modern times, inspiring courage, self-sacrifice, and an unyielding commitment to justice in the face of tyranny and oppression. His story serves as a powerful and enduring reminder of the fundamental values of standing up for truth, defending the vulnerable, and protecting the rights of all, regardless of personal cost.",
+    "contemporaryImpact": [
+      "Serves as a timeless symbol of youthful valor, principled resistance, and supreme sacrifice.",
+      "Motivates Sikhs and others globally to uphold ideals of justice, righteousness, and human rights.",
+      "His legacy is commemorated annually through various events and tributes, reinforcing Sikh identity, historical consciousness, and moral values for future generations."
+    ]
+  }
+}
