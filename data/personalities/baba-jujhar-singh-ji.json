@@ -1,0 +1,139 @@
+{
+  "name": "Sahibzada Jujhar Singh Ji",
+  "slug": "baba-jujhar-singh-ji",
+  "category": "Sahibzaade",
+  "birth": "1691-03-14",
+  "death": "1704-12-23",
+  "birthPlace": "Anandpur Sahib, Punjab, India",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Detail_of_Sahibzada_Jujhar_Singh_from_a_mural_depicting_Guru_Gobind_Singh_and_his_four_sons_%28the_Sahibzadas%29_located_within_Takht_Hazur_Sahib.jpg",
+  "excerpt": "Sahibzada Jujhar Singh Ji, the second son of Guru Gobind Singh Ji, embodied valor and devotion, sacrificing his life at the tender age of 14 during the heroic Second Battle of Chamkaur. His martyrdom stands as a profound symbol of unwavering faith and courage in Sikh history.",
+  "designation": "Sahibzada",
+  "quickStats": [
+    {
+      "label": "Parents",
+      "value": "Guru Gobind Singh Ji and Mata Jito Ji"
+    },
+    {
+      "label": "Brothers",
+      "value": "Sahibzada Ajit Singh Ji, Sahibzada Zorawar Singh Ji, Sahibzada Fateh Singh Ji (collectively, the Chaar Sahibzaade)"
+    },
+    {
+      "label": "Age at Martyrdom",
+      "value": "14 years"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Battle of Martyrdom",
+      "value": "Second Battle of Chamkaur"
+    },
+    {
+      "label": "Symbolism",
+      "value": "Represents ultimate sacrifice for religious freedom and righteousness."
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-07-30",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "👶",
+      "value": "Sahibzada Jujhar Singh Ji was born on March 14, 1691, in Anandpur Sahib, Punjab, to Guru Gobind Singh Ji, the Tenth Sikh Guru, and Mata Jito Ji. As the second eldest of the four Sahibzaade, he was raised in an environment steeped in spiritual teachings and martial traditions. From a young age, he received comprehensive training in religious scriptures, history, philosophy, horsemanship, swordsmanship, and archery, preparing him for the life of a Khalsa warrior."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "🎖️",
+      "value": "Sahibzada Jujhar Singh Ji's primary contribution to Sikhism was his ultimate sacrifice during the Second Battle of Chamkaur. At the age of 14, he bravely fought alongside his father, Guru Gobind Singh Ji, and his elder brother, Sahibzada Ajit Singh Ji, against overwhelming Mughal forces. His courageous stand, despite his young age, exemplified the Sikh ideal of fighting for righteousness (Dharma) and defending the oppressed, even unto death."
+    },
+    {
+      "label": "Spiritual Legacy",
+      "icon": "� spiritual",
+      "value": "Sahibzada Jujhar Singh Ji's spiritual legacy is profound, representing an unparalleled example of courage, devotion, and selfless sacrifice in the Sikh faith. His martyrdom, alongside his elder brother, stands as a beacon of inspiration, symbolizing the unwavering commitment of Sikhs to their principles, even in the face of insurmountable odds. His youthful bravery underscores the spiritual strength that empowers individuals to uphold righteousness and defend religious freedom."
+    },
+    {
+      "label": "Key Contributions",
+      "icon": "✨",
+      "value": "• Symbol of ultimate sacrifice for faith and dharma.\n• Inspired Sikhs with his unwavering resolve and adherence to Sikh tenets in the face of tyranny."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Sahibzada Jujhar Singh Ji's spiritual legacy is profound, representing an unparalleled example of courage, devotion, and selfless sacrifice in the Sikh faith. His martyrdom, alongside his elder brother, stands as a beacon of inspiration, symbolizing the unwavering commitment of Sikhs to their principles, even in the face of insurmountable odds. His youthful bravery underscores the spiritual strength that empowers individuals to uphold righteousness and defend religious freedom.",
+    "keyContributions": [
+      "Symbol of ultimate sacrifice for faith and dharma.",
+      "Inspired Sikhs with his unwavering resolve and adherence to Sikh tenets in the face of tyranny."
+    ]
+  },
+  "modernRelevance": {
+    "description": "In contemporary times, Sahibzada Jujhar Singh Ji's story continues to resonate as a powerful narrative of heroism and sacrifice. His valor, especially as a young boy, serves as an enduring inspiration for children and adults globally. The annual commemoration of his martyrdom, particularly on occasions like Veer Bal Diwas, reinforces the universal values of courage, righteousness, and the importance of standing against injustice.",
+    "contemporaryImpact": [
+      "Inspires youth globally to embody courage and strong moral character.",
+      "Reinforces the values of selfless service, sacrifice, and adherence to principles within the Sikh community and beyond."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Martyrdom",
+      "year": "1704",
+      "description": "Sacrificed his life fighting for righteousness in the Second Battle of Chamkaur.",
+      "icon": "⚔️"
+    }
+  ],
+  "quotes": [],
+  "timeline": [
+    {
+      "year": 1691,
+      "date": "March 14",
+      "event": "Born in Anandpur Sahib.",
+      "type": "Birth"
+    },
+    {
+      "year": 1704,
+      "date": "December 23",
+      "event": "Martyred in the Second Battle of Chamkaur.",
+      "type": "Martyrdom"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Gobind Singh Ji",
+      "relation": "Father",
+      "slug": "guru-gobind-singh-ji"
+    },
+    {
+      "name": "Sahibzada Ajit Singh Ji",
+      "relation": "Elder Brother",
+      "slug": "sahibzada-ajit-singh-ji"
+    },
+    {
+      "name": "Sahibzada Zorawar Singh Ji",
+      "relation": "Younger Brother",
+      "slug": "sahibzada-zorawar-singh-ji"
+    },
+    {
+      "name": "Sahibzada Fateh Singh Ji",
+      "relation": "Younger Brother",
+      "slug": "sahibzada-fateh-singh-ji"
+    }
+  ],
+  "historicalContext": {
+    "period": "Late 17th - Early 18th Century (Mughal-Sikh conflicts)",
+    "politicalSituation": "This era was marked by severe persecution of Sikhs by the Mughal Empire under Emperor Aurangzeb. Guru Gobind Singh Ji and the Sikh community were actively engaged in defending their faith and way of life against imperial oppression. The Battle of Chamkaur was a direct consequence of the prolonged siege of Anandpur Sahib and the subsequent retreat.",
+    "socialConditions": "Sikhs faced immense religious intolerance and systematic attempts to suppress their distinct identity and practices. Despite these challenges, the Sikh community, under the leadership of Guru Gobind Singh Ji, was forging a strong identity as Khalsa, committed to principles of justice and equality.",
+    "significance": "Sahibzada Jujhar Singh Ji's martyrdom, along with that of his brothers and the immense sacrifices made by Guru Gobind Singh Ji's family, is a pivotal moment in Sikh history. It solidified the resolve of the Khalsa, reinforced the principles of religious freedom and self-defense, and inspired future generations to uphold truth and justice at all costs."
+  },
+  "references": [
+    "Jujhar Singh - Wikipedia: https://en.wikipedia.org/wiki/Jujhar_Singh",
+    "Sahibzada Jujhar Singh - SikhiWiki, free Sikh encyclopedia.: https://www.sikhiwiki.org/index.php/Sahibzada_Jujhar_Singh",
+    "Kuir Singh Gurbilds Pdtshdhi 10. Patiala, 1968.",
+    "Chhibbar, Kesar Singh, Rnnsdvalindma Dasdn Pdlshdhldn Kd. Chandigarh, 1972.",
+    "Gian Singh, Giani, Panth Prakdsh. Patiala, 1970.",
+    "Padam, Piara Singh, Char Sdhihidde. Patiala, 1970.",
+    "Macauliffe, Max Arthur, The Sikh Religion. Oxford, 1909.",
+    "SikhNet.com (for some birth/death dates): https://www.sikhnet.com/"
+  ]
+}
