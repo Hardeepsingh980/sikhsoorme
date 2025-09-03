@@ -1,0 +1,218 @@
+{
+  "name": "Giani Ditt Singh",
+  "slug": "giani-ditt-singh",
+  "category": "Scholars",
+  "birth": "1850-04-21",
+  "death": "1901-09-06",
+  "birthPlace": "Kalaur, Distt Fatehgarh Sahib, Punjab, India",
+  "excerpt": "Giani Ditt Singh (1850-1901) was a prominent 19th-century Sikh scholar, poet, editor, and an influential reformer of the Singh Sabha Movement. He authored over 70 books on Sikhism and played a crucial role in promoting Sikh ideology and education, notably through his editorship of the \"Khalsa Akhbar.\"",
+  "designation": "Scholar, Poet, Editor, Reformer, Educator",
+  "quickStats": [
+    {
+      "label": "Number of Books Authored",
+      "value": 71
+    },
+    {
+      "label": "Associated Movement",
+      "value": "Singh Sabha Movement"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Initial Associations",
+      "value": "Gulabdasi sect and Arya Samaj"
+    },
+    {
+      "label": "Debates with Swami Dayanand",
+      "value": "Renowned for intellectual debates"
+    },
+    {
+      "label": "Editor of Khalsa Akhbar",
+      "value": "Served as the editor of Khalsa Akhbar Lahore"
+    },
+    {
+      "label": "Educational Contributions",
+      "value": "Contributed to Khalsa College, Amritsar"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-05-18T10:00:00Z",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "👶",
+      "value": "Giani Ditt Singh was born on April 21, 1850, in the village of Kalaur, presently located in the Fatehgarh Sahib district of Punjab, India. His father, Diwan Singh, was learned in Nyaya and Vedanta. He was initiated into the Gulabdasi sect by Sant Desa Singh and later influenced by Bhai Jawahar Singh."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "📝",
+      "value": "He emerged as a pivotal figure in the Singh Sabha Movement, edited the Khalsa Akhbar, contributed to Sikh education and authored approximately 71 books related to Sikh theology, history, and polemics."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "🔧",
+      "value": "Led the Singh Sabha Movement, supported Sikh educational institutions, and defended Sikh doctrines through writings and debates."
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "📚",
+      "value": "Authored over 71 books including Khalsa Akhbar, Guru Nanak Prabodh, Guru Arjan Chariltar, Durga Prabodh, and others."
+    },
+    {
+      "label": "Final Years",
+      "icon": "⚰️",
+      "value": "Passed away on September 6, 1901, after personal tragedy and health deterioration."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Giani Ditt Singh's spiritual legacy is characterized by his profound scholarship and unwavering commitment to safeguarding and articulating the distinct identity of Sikhism. He played a crucial role in re-establishing the theological foundations of Sikhism during a period of intense religious debate and cultural assertion. His emphasis on rational discourse and ethical living as integral to Sikh faith continues to resonate.",
+    "keyContributions": [
+      "Championed monotheistic Sikh tenets",
+      "Defended Sikhism against misinterpretations",
+      "Inspired Sikh engagement with heritage"
+    ]
+  },
+  "modernRelevance": {
+    "description": "His contributions remain relevant in understanding Sikh reformist movements, identity formation, and educational initiatives. His writings serve as primary sources for Sikh history and his methodology of reasoned debate influences contemporary interfaith dialogues."
+  },
+  "achievements": [
+    {
+      "title": "Editor of \"Khalsa Akhbar\"",
+      "year": "1886",
+      "description": "Transformed Khalsa Akhbar into a powerful medium for Sikh ideology.",
+      "icon": ""
+    },
+    {
+      "title": "Prolific Author",
+      "year": "",
+      "description": "Authored 71 books, significantly contributing to Sikh literature.",
+      "icon": ""
+    },
+    {
+      "title": "Educational Pioneer",
+      "year": "",
+      "description": "Helped establish Khalsa College, Amritsar, and developed textbooks.",
+      "icon": ""
+    },
+    {
+      "title": "Debated Swami Dayanand",
+      "year": "1877",
+      "description": "Engaged in debates defending Sikh philosophy.",
+      "icon": ""
+    },
+    {
+      "title": "Singh Sabha Reformer",
+      "year": "1880s-1901",
+      "description": "Led efforts to revitalize Sikhism through the Singh Sabha Movement.",
+      "icon": ""
+    }
+  ],
+  "quotes": [
+    {
+      "original": "ਜਾਗੋ ਜਾਗੋ ਜੀ ਦਿੱਤ ਸਿੰਘ ਪਿਆਰੇ, ਕੌਮ ਬੈਠੀ ਸਿਰਹਾਣੇ ਜਗਾਵੇ| ਕਿਓਂ ਕੀਤੀ ਨੀਂਦ ਪਿਆਰੀ, ਕਿਓਂ ਜਾਗ ਤ੝ਹਾਨੂੰ ਨਾ ਆਵੇ | ਕਦੀ ਕੌਮ ਜਗਾਈ ਸੀ ਤੈਨੇ, ਲਮੇ ਕਢ ਕਢ ਵੈਣ ਤੇ ਹਾਵੇ| ਹਾਂ! ਜਾਗ ਕੇ ਕੌਮ ਭ੝ਲੱਕੜ, ਆਪ ਸੋਂ ਗਝ ਹੋ ਬੇਦਾਵੇ",
+      "transliteration": "Jago jago ji Ditt Singh piare, Qaum baithee sirane jagawe. Kion kiti neend piaree, kion jaag tuhanun na aave. Kadi qaum jagaayee si taine, lame kaddh kaddh vain te haave. Han! Jagaike qaum bhulakad, aap saun gaye hoi bedawe.",
+      "translation": "Wake up, wake up, O Ditt Singh ji dear, The nation (Sikh qaum) is sitting near your pillow. Why have you made sleep so dear? Why do you not awaken? Once you awakened the entire nation by praying, crying, howling and growling. Now, after awakening the forgetful nation, you yourself have gone to sleep unattached.",
+      "context": "Poem by Bhai Vir Singh expressing lament over Ditt Singh's loss."
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1850,
+      "date": "April 21",
+      "event": "Born in Kalaur, Fatehgarh Sahib, Punjab.",
+      "type": "Birth"
+    },
+    {
+      "year": 1858,
+      "date": "c. 1858-1859",
+      "event": "Sent for schooling in Tiur, Ambala district.",
+      "type": "Education"
+    },
+    {
+      "year": 1850,
+      "date": "",
+      "event": "Initiated into Gulabdasi sect.",
+      "type": "Religious"
+    },
+    {
+      "year": 1877,
+      "date": "",
+      "event": "Debates with Swami Dayanand documented in his book.",
+      "type": "Dialogue"
+    },
+    {
+      "year": 1886,
+      "date": "",
+      "event": "Became a key contributor to Khalsa Diwan, established as a leader in Sikh reform.",
+      "type": "Career"
+    },
+    {
+      "year": 1887,
+      "date": "April 16",
+      "event": "Published satirical piece 'Svapan Natak,' leading to a defamation case.",
+      "type": "Publication Legal"
+    },
+    {
+      "year": 1888,
+      "date": "April 30",
+      "event": "Acquitted after court appeal.",
+      "type": "Legal"
+    },
+    {
+      "year": 1888,
+      "date": "November 25",
+      "event": "Departed Arya Samaj after derogatory remarks against Sikh Gurus.",
+      "type": "Religious"
+    },
+    {
+      "year": 1901,
+      "date": "June 17",
+      "event": "His daughter Vidyavant Kaur died.",
+      "type": "Personal"
+    },
+    {
+      "year": 1901,
+      "date": "September 6",
+      "event": "Died in Lahore.",
+      "type": "Death"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Bhai Gurmukh Singh",
+      "relation": "Mentor and collaborator in Singh Sabha Movement"
+    },
+    {
+      "name": "Bhai Jawahar Singh",
+      "relation": "Friend and associate in Sikh reform movements"
+    },
+    {
+      "name": "Swami Dayanand Saraswati",
+      "relation": "Debated philosopher and Arya Samaj founder"
+    },
+    {
+      "name": "Bhai Vir Singh",
+      "relation": "Poet and scholar who admired Ditt Singh"
+    },
+    {
+      "name": "Sant Desa Singh",
+      "relation": "Initiator into Gulabdasi sect"
+    }
+  ],
+  "historicalContext": {
+    "period": "Late 19th century in Punjab",
+    "politicalSituation": "Under British colonial rule, Sikh community faced external influence and internal reform efforts.",
+    "socialConditions": "Religious revival, reform movements like Singh Sabha emphasizing education, and safeguarding Sikh identity.",
+    "significance": "Ditt Singh's leadership helped shape modern Sikh identity, education, and defended Sikh doctrine."
+  },
+  "references": [
+    "https://www.sikhiwiki.org/index.php/Giani_Dit_Singh",
+    "https://en.wikipedia.org/wiki/Giani_Ditt_Singh",
+    "The Heritage of the Sikhs by Harbans Singh"
+  ]
+}
