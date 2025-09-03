@@ -139,42 +139,66 @@
     {
       "name": "Guru Gobind Singh Ji",
       "relation": "Father",
-      "slug": "guru-gobind-singh-ji"
+      "slug": "guru-gobind-singh-ji",
+      "category": "gurus",
+      "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
+      "exists": true
     },
     {
       "name": "Mata Jito Ji",
       "relation": "Mother",
-      "slug": "mata-jito-ji"
+      "slug": "mata-jito-ji",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Mata Gujri Ji",
       "relation": "Grandmother",
-      "slug": "mata-gujri-ji"
+      "slug": "mata-gujri-ji",
+      "category": "Martyrs",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Newborn_Guru_Gobind_Rai_cradled_by_Mata_Gujari.jpg/800px-Newborn_Guru_Gobind_Rai_cradled_by_Mata_Gujari.jpg",
+      "exists": true
     },
     {
       "name": "Sahibzada Zorawar Singh Ji",
       "relation": "Elder Brother",
-      "slug": "sahibzada-zorawar-singh-ji"
+      "slug": "sahibzada-zorawar-singh-ji",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Sahibzada Ajit Singh Ji",
       "relation": "Elder Brother",
-      "slug": "sahibzada-ajit-singh-ji"
+      "slug": "sahibzada-ajit-singh-ji",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Sahibzada Jujhar Singh Ji",
       "relation": "Elder Brother",
-      "slug": "sahibzada-jujhar-singh-ji"
+      "slug": "sahibzada-jujhar-singh-ji",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Wazir Khan",
       "relation": "Mughal Governor, Ordered Martyrdom",
-      "slug": "wazir-khan"
+      "slug": "wazir-khan",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Diwan Todar Mal",
       "relation": "Devoted Sikh, Arranged Cremation",
-      "slug": "diwan-todar-mal"
+      "slug": "diwan-todar-mal",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
   "historicalContext": {

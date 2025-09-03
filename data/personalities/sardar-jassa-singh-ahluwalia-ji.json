@@ -1,0 +1,206 @@
+{
+  "name": "Sardar Jassa Singh Ahluwalia Ji",
+  "slug": "sardar-jassa-singh-ahluwalia-ji",
+  "category": "Leaders",
+  "birth": "1718-05-03",
+  "death": "1783-10-20",
+  "birthPlace": "Ahluwal village, Lahore district, Punjab (present-day Pakistan)",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Equestrian_painting_of_Jassa_Singh_Ahluwalia_on_horseback_in-front_of_his_haveli_with_a_fly-whisk_attendant%2C_circa_late_18th_century.jpg",
+  "excerpt": "Sardar Jassa Singh Ahluwalia Ji (1718–1783), honored as Sultan-ul-Qaum (King of the Sikh Nation), was a legendary leader of the Dal Khalsa and the Ahluwalia Misl. He united the Sikh misls, defended Punjab against Mughal and Afghan invasions, and laid the foundation for Sikh sovereignty that culminated in Maharaja Ranjit Singh’s empire. Revered for his courage, humility, and devotion to the Panth, he remains one of the most celebrated Sikh generals in history.",
+  "designation": "Leader of the Dal Khalsa; Head of the Ahluwalia Misl; Sultan-ul-Qaum.",
+  "quickStats": [
+    {
+      "label": "Misl",
+      "value": "Ahluwalia Misl"
+    },
+    {
+      "label": "Title",
+      "value": "Sultan-ul-Qaum (King of the Sikh Nation)"
+    },
+    {
+      "label": "Notable Role",
+      "value": "Leader of Dal Khalsa, unifier of Sikh misls"
+    },
+    {
+      "label": "Battles",
+      "value": "Multiple campaigns against Mughals and Ahmad Shah Abdali"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Leadership Recognition",
+      "value": "Chosen as supreme leader of Dal Khalsa at the Sarbat Khalsa"
+    },
+    {
+      "label": "Coinage",
+      "value": "Issued Sikh coins in the name of the Guru Granth Sahib"
+    },
+    {
+      "label": "Unifier",
+      "value": "Played a central role in uniting the 12 Sikh misls"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2025-09-03T12:00:00Z",
+    "version": "1.0",
+    "contributors": 0,
+    "edits": 0,
+    "historyUrl": "N/A"
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "fas fa-child",
+      "value": "Sardar Jassa Singh Ji was born on May 3, 1718, in Ahluwal village near Lahore. He was orphaned at a young age and raised under the guardianship of Mata Sundari Ji, widow of Guru Gobind Singh Ji. Recognizing his potential, she ensured his training in both spiritual and martial disciplines. Sardar Jassa Singh Ji grew up embodying the saint-soldier ideal of the Khalsa."
+    },
+    {
+      "label": "Rise to Leadership",
+      "icon": "fas fa-crown",
+      "value": "By the mid-18th century, Sardar Jassa Singh Ji had emerged as a prominent general. At the Sarbat Khalsa, he was chosen as the leader of the Dal Khalsa, earning the title 'Sultan-ul-Qaum'. He commanded respect across the 12 Sikh misls, becoming a unifying figure during a turbulent era."
+    },
+    {
+      "label": "Military Campaigns",
+      "icon": "fas fa-crossed-swords",
+      "value": "He led the Sikhs in several major campaigns against the Mughals and Afghan invader Ahmad Shah Abdali. Despite severe losses in the Wadda Ghallughara (1762), he reorganized Sikh forces, recaptured territories, and repeatedly liberated Lahore. In 1761, after the Third Battle of Panipat weakened Abdali, Sardar Jassa Singh expanded Sikh influence in Punjab."
+    },
+    {
+      "label": "Governance and Reforms",
+      "icon": "fas fa-landmark",
+      "value": "Beyond military leadership, Sardar Jassa Singh Ahluwalia Ji issued Sikh coinage in the name of Guru Granth Sahib, symbolizing Sikh sovereignty. He encouraged justice, equality, and collective decision-making through the Sarbat Khalsa."
+    },
+    {
+      "label": "Final Years",
+      "icon": "fas fa-hourglass-end",
+      "value": "Sardar Jassa Singh Ahluwalia Ji spent his final years consolidating Sikh power and mentoring future leaders. He passed away on October 20, 1783, at Amritsar. His legacy paved the way for the eventual rise of the Sikh Empire under Maharaja Ranjit Singh."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Sardar Jassa Singh Ahluwalia Ji’s legacy lies not only in his military triumphs but also in his embodiment of Khalsa values — humility, bravery, justice, and service to the Panth.",
+    "keyContributions": [
+      "Defended Punjab and Sikhism against repeated invasions by Mughals and Afghans.",
+      "Issued coins in the name of Guru Granth Sahib, asserting Sikh sovereignty.",
+      "Strengthened unity among Sikh misls, laying the foundation for a Sikh Empire."
+    ]
+  },
+  "modernRelevance": {
+    "description": "In today’s world, Sardar Jassa Singh Ahluwalia Ji symbolizes leadership rooted in courage, faith, and humility. His model of collective governance and fearless resistance continues to inspire Sikhs and leaders globally.",
+    "contemporaryImpact": [
+      "Serves as an example of uniting communities against oppression.",
+      "Inspires modern Sikh organizations with his principle of Sarbat Khalsa (collective decision-making).",
+      "Remains a global symbol of resistance against tyranny and foreign domination."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Leadership of Dal Khalsa",
+      "year": "1748",
+      "description": "Chosen at the Sarbat Khalsa as the supreme leader of the Dal Khalsa, uniting Sikh misls under his command.",
+      "icon": ""
+    },
+    {
+      "title": "Liberation of Lahore",
+      "year": "1761",
+      "description": "Led the Sikhs to capture Lahore, asserting Sikh dominance after Abdali’s weakening at Panipat.",
+      "icon": ""
+    },
+    {
+      "title": "Wadda Ghallughara Recovery",
+      "year": "1762",
+      "description": "Reorganized Sikh forces after the mass massacre of Sikhs by Ahmad Shah Abdali, keeping Sikh sovereignty alive.",
+      "icon": ""
+    },
+    {
+      "title": "Sikh Coinage",
+      "year": "1765",
+      "description": "Issued coins in the name of Guru Granth Sahib, symbolizing Sikh sovereignty and independence.",
+      "icon": ""
+    }
+  ],
+  "quotes": [
+    {
+      "original": "ਮੈਂ ਗੁਰੂ ਦੀ ਫੌਜ ਦਾ ਸੇਵਕ ਹਾਂ, ਰਾਜਾ ਨਹੀਂ।",
+      "transliteration": "Main Guru di fauj da sevak haan, raja nahin.",
+      "translation": "I am a servant of the Guru’s army, not a king.",
+      "context": "Said in humility when offered kingship, reflecting his deep devotion to the Guru and the Panth.",
+      "source": "Sikh oral tradition"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1718,
+      "date": "May 3",
+      "event": "Birth of Sardar Jassa Singh Ji in Ahluwal, near Lahore.",
+      "type": "Birth"
+    },
+    {
+      "year": 1723,
+      "event": "Orphaned at age 5 and raised under Mata Sundari Ji’s care.",
+      "type": "Personal"
+    },
+    {
+      "year": 1748,
+      "event": "Appointed leader of the Dal Khalsa at the Sarbat Khalsa.",
+      "type": "Leadership"
+    },
+    {
+      "year": 1761,
+      "event": "Led Sikh forces in capturing Lahore after the Third Battle of Panipat.",
+      "type": "Military"
+    },
+    {
+      "year": 1762,
+      "event": "Reorganized Sikhs after the Wadda Ghallughara massacre.",
+      "type": "Historical"
+    },
+    {
+      "year": 1765,
+      "event": "Issued Sikh coins in the name of Guru Granth Sahib.",
+      "type": "Historical"
+    },
+    {
+      "year": 1783,
+      "date": "October 20",
+      "event": "Death of Sardar Jassa Singh Ahluwalia Ji in Amritsar.",
+      "type": "Death"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Mata Sundari Ji",
+      "relation": "Guardian during childhood",
+      "slug": "mata-sundari-ji",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
+    },
+    {
+      "name": "Ahmad Shah Abdali",
+      "relation": "Adversary",
+      "slug": "ahmad-shah-abdali",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
+    },
+    {
+      "name": "Maharaja Ranjit Singh Ji",
+      "relation": "Successor of Sikh sovereignty legacy",
+      "slug": "maharaja-ranjit-singh-ji",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
+    }
+  ],
+  "historicalContext": {
+    "period": "18th century Punjab, during Mughal decline and Afghan invasions.",
+    "politicalSituation": "The Mughal Empire was weakening while Ahmad Shah Abdali launched repeated invasions of Punjab. Sikhs rose as a dominant power through guerilla warfare and the misl system.",
+    "socialConditions": "Punjab was ravaged by warfare and invasions. Sikh unity and resilience provided hope and resistance for oppressed communities.",
+    "significance": "Sardar Jassa Singh Ahluwalia Ji was the first to assert Sikh sovereignty, laying groundwork for the Sikh Empire. His leadership and humility established the Sikh model of collective governance."
+  },
+  "references": [
+    "Wikipedia: https://en.wikipedia.org/wiki/Jassa_Singh_Ahluwalia",
+    "SikhiWiki: https://www.sikhiwiki.org/index.php/Jassa_Singh_Ahluwalia",
+    "Khushwant Singh, *A History of the Sikhs, Vol. 1: 1469-1839*",
+    "Hari Ram Gupta, *History of the Sikhs*",
+    "Sikh Oral Tradition and Historical Records"
+  ]
+}

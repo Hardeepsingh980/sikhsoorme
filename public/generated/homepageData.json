@@ -1,17 +1,27 @@
 {
   "soormaOfTheDay": {
-    "name": "Guru Gobind Singh Ji",
-    "slug": "guru-gobind-singh-ji",
-    "category": "gurus",
-    "birth": "1666-12-22",
-    "death": "1708-10-07",
-    "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
-    "excerpt": "Guru Gobind Singh Ji, the tenth Sikh Guru, redefined Sikhism with his unmatched courage, visionary leadership, and prolific poetry. Founder of the Khalsa, compiler of the Dasam Granth, and sanctifier of the Guru Granth Sahib as the eternal Guru, he led Sikhs through persecution and loss. His legacy unites valor, sacrifice, equality, and spiritual resolve.",
-    "quote": "ਦੇਹ ਸਿਵਾ ਬਰ ਮੋਹਿ ਇਹੈ। ਸੁਭ ਕਰਮਨ ਤੇ ਕਬਹੂੰ ਨ ਟਰੋ। ਨਾ ਡਰੋ ਅਰਿ ਸੋ ਜਬ ਜਾਇ ਲਰੋ। ਨਿਸਚੈ ਕਰਿ ਅਪਨੀ ਜੀਤ ਕਰੋ।",
-    "quoteTranslation": "Grant me this boon, O Lord, may I never refrain from righteous acts. Never may I fear when I go into battle, and with determination, may I claim victory.",
-    "significance": "Guru Gobind Singh Ji’s leadership transformed Sikhism into a distinctly sovereign, martial, and egalitarian faith with enduring identity and resilience."
+    "name": "Bhai Dharam Singh Ji",
+    "slug": "bhai-dharam-singh-ji",
+    "category": "Panj Pyare",
+    "birth": "1666",
+    "death": "1708",
+    "image": "https://www.sikhiwiki.org/images/b/ba/Daya_Singh%2C_Dharm_Singh_and_Himmat_Singh_of_the_panj_pyare.jpg",
+    "excerpt": "Bhai Dharam Singh Ji was one of the original Panj Pyare, the five beloved ones, who offered their heads to Guru Gobind Singh Ji and were subsequently initiated into the Khalsa order during the historic Vaisakhi of 1699. He exemplified unwavering devotion and courage, becoming a foundational figure in the establishment of the Khalsa.",
+    "quote": "",
+    "quoteTranslation": "",
+    "significance": "The formation of the Khalsa in 1699 was a revolutionary act that transformed Sikhs into a warrior-saint community, instilling martial spirit and collective identity to fight tyranny and injustice."
   },
   "featuredPersonalities": [
+    {
+      "name": "Sardar Jassa Singh Ahluwalia Ji",
+      "slug": "sardar-jassa-singh-ahluwalia-ji",
+      "category": "Leaders",
+      "birth": "1718-05-03",
+      "death": "1783-10-20",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Equestrian_painting_of_Jassa_Singh_Ahluwalia_on_horseback_in-front_of_his_haveli_with_a_fly-whisk_attendant%2C_circa_late_18th_century.jpg",
+      "excerpt": "Sardar Jassa Singh Ahluwalia Ji (1718–1783), honored as Sultan-ul-Qaum (King of the Sikh Nation), was a legendary leader of the Dal Khalsa and the Ahluwalia Misl. He united the Sikh misls, defended Punjab against Mughal and Afghan invasions, and laid the foundation for Sikh sovereignty that culminated in Maharaja Ranjit Singh’s empire. Revered for his courage, humility, and devotion to the Panth, he remains one of the most celebrated Sikh generals in history.",
+      "era": ""
+    },
     {
       "name": "Guru Gobind Singh Ji",
       "slug": "guru-gobind-singh-ji",
@@ -91,19 +101,14 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPzp097daIYZghyi14ouxZqeb5bk0qFMcMK8gp1aj_ydDE3RKfKsIsI5KHwKYvTP0rFQ&usqp=CAU",
       "excerpt": "Guru Ram Das Ji, the fourth Sikh Guru, founded the holy city of Amritsar and composed the Lavan, the wedding hymns central to the Sikh marriage ceremony. Known for his humility and compassion, he consolidated Sikh institutions, expanded the Manji-Piri missionary system, and promoted social equality, making lasting contributions to the Sikh faith’s organization and spiritual practice.",
       "era": ""
-    },
-    {
-      "name": "Guru Amar Das Ji",
-      "slug": "guru-amar-das-ji",
-      "category": "gurus",
-      "birth": "1479-05-05",
-      "death": "1574-09-01",
-      "image": "https://4.bp.blogspot.com/-HPt0MXWvqr8/Uu0-IfObjFI/AAAAAAAABPQ/ywO5U28v84k/s1600/Guru+Amar+Das.jpg",
-      "excerpt": "Guru Amar Das Ji became the third Sikh Guru in 1552 at the age of 73. Revered for his humility, he greatly expanded Sikhism through the Manji system, established the first Sikh pilgrimage center at Goindwal, championed social reforms like gender and caste equality, and composed many hymns including Anand Sahib. His leadership solidified Sikh institutions, elevated the practice of langar, and advanced the Sikh faith’s message of service, inclusion, and spiritual discipline.",
-      "era": ""
     }
   ],
   "recentAdditions": [
+    {
+      "name": "Sardar Jassa Singh Ahluwalia Ji",
+      "category": "Leaders",
+      "added": "2025-09-03T12:00:00Z"
+    },
     {
       "name": "Guru Gobind Singh Ji",
       "category": "gurus",
@@ -148,14 +153,16 @@
       "name": "Guru Amar Das Ji",
       "category": "gurus",
       "added": "2025-07-27T23:30:00+05:30"
-    },
-    {
-      "name": "Guru Angad Dev Ji",
-      "category": "gurus",
-      "added": "2025-07-27T23:10:00+05:30"
     }
   ],
   "categories": [
+    {
+      "name": "Leaders",
+      "slug": "leaders",
+      "count": 1,
+      "icon": "📜",
+      "description": ""
+    },
     {
       "name": "Gurus",
       "slug": "gurus",
@@ -194,15 +201,15 @@
     {
       "name": "Sahibzade",
       "slug": "sahibzade",
-      "count": 3,
+      "count": 4,
       "icon": "📜",
       "description": ""
     }
   ],
   "historicalQuotes": [],
   "quickStats": {
-    "totalPersonalities": 26,
-    "totalCategories": 6,
+    "totalPersonalities": 28,
+    "totalCategories": 7,
     "yearsOfHistory": "550+"
   }
 }

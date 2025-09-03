@@ -156,32 +156,50 @@
     {
       "name": "Guru Nanak Dev Ji",
       "relation": "Husband",
-      "slug": "guru-nanak-dev-ji"
+      "slug": "guru-nanak-dev-ji",
+      "category": "gurus",
+      "image": "https://sikhsewak.wordpress.com/wp-content/uploads/2015/06/guru-nanak-dev-ji1.jpg?w=640",
+      "exists": true
     },
     {
       "name": "Sri Chand",
       "relation": "Son",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Lakhmi Das",
       "relation": "Son",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Mool Chand",
       "relation": "Father",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Chando Rani",
       "relation": "Mother",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Jai Ram",
       "relation": "Brother-in-law (of Guru Nanak)",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
   "historicalContext": {
