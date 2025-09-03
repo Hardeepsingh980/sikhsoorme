@@ -97,7 +97,10 @@
     {
       "name": "Guru Nanak Dev Ji",
       "relation": "Spiritual Master",
-      "slug": "guru-nanak-dev-ji"
+      "slug": "guru-nanak-dev-ji",
+      "category": "gurus",
+      "image": "https://sikhsewak.wordpress.com/wp-content/uploads/2015/06/guru-nanak-dev-ji1.jpg?w=640",
+      "exists": true
     }
   ],
   "historicalContext": {

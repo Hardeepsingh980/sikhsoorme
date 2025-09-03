@@ -1,8 +1,8 @@
 {
   "overview": {
-    "totalPersonalities": 26,
-    "totalCategories": 6,
-    "featuredPersonalities": 13,
+    "totalPersonalities": 28,
+    "totalCategories": 7,
+    "featuredPersonalities": 15,
     "recentAdditions": 0,
     "timeSpan": "1469-2024",
     "regions": 8
@@ -14,10 +14,10 @@
       "name": "Sahibzade",
       "icon": "Heart",
       "emoji": "❤️",
-      "count": 3,
+      "count": 4,
       "description": "The four sons of Guru Gobind Singh Ji who were martyred for Sikh principles",
       "longDescription": "To be generated or enriched...",
-      "timeSpan": "1687-1704",
+      "timeSpan": "1687-1705",
       "keyPeriod": "Martyrdom of the Guru's Sons",
       "primaryRegion": "Punjab",
       "significance": "Youngest martyrs of Sikh history, symbols of bravery and faith",
@@ -39,10 +39,17 @@
           "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Detail_of_Sahibzada_Jujhar_Singh_from_a_mural_depicting_Guru_Gobind_Singh_and_his_four_sons_%28the_Sahibzadas%29_located_within_Takht_Hazur_Sahib.jpg",
           "years": "1691-1704",
           "achievement": "Sahibzada"
+        },
+        {
+          "name": "Sahibzada Baba Fateh Singh Ji",
+          "slug": "sahibzada-baba-fateh-singh-ji",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Mural_of_Sahibzada_Fateh_Singh_%28youngest_son_of_Guru_Gobind_Singh%29_from_the_Pothi-Mala_building_of_Guru_Harsahai%2C_Punjab%2C_circa_18th_or_19th_century.jpg",
+          "years": "1699-1705",
+          "achievement": "Youngest Sahibzada of Guru Gobind Singh, Martyr"
         }
       ],
       "stats": {
-        "averageLifespan": 13
+        "averageLifespan": 11
       },
       "keyContributions": [],
       "historicalContext": "To be generated..."
@@ -245,6 +252,38 @@
       ],
       "stats": {
         "averageLifespan": null
+      },
+      "keyContributions": [],
+      "historicalContext": "To be generated..."
+    },
+    {
+      "id": "leaders",
+      "slug": "leaders",
+      "name": "Leaders",
+      "icon": "Shield",
+      "emoji": "👑",
+      "count": 1,
+      "description": "Kings, rulers, and political leaders who shaped Sikh history",
+      "longDescription": "To be generated or enriched...",
+      "timeSpan": "1718-1783",
+      "keyPeriod": "Political Ascendancy",
+      "primaryRegion": "Punjab & Kashmir",
+      "significance": "Established Sikh political sovereignty and territorial control",
+      "color": "bg-blue-500",
+      "lightColor": "bg-blue-50",
+      "borderColor": "border-blue-200",
+      "textColor": "text-blue-900",
+      "featured": [
+        {
+          "name": "Sardar Jassa Singh Ahluwalia Ji",
+          "slug": "sardar-jassa-singh-ahluwalia-ji",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Equestrian_painting_of_Jassa_Singh_Ahluwalia_on_horseback_in-front_of_his_haveli_with_a_fly-whisk_attendant%2C_circa_late_18th_century.jpg",
+          "years": "1718-1783",
+          "achievement": "Leader of the Dal Khalsa; Head of the Ahluwalia Misl; Sultan-ul-Qaum."
+        }
+      ],
+      "stats": {
+        "averageLifespan": 65
       },
       "keyContributions": [],
       "historicalContext": "To be generated..."

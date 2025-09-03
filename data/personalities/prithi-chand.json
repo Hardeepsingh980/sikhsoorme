@@ -87,12 +87,18 @@
     {
       "name": "Guru Ram Das Ji",
       "relation": "Father",
-      "slug": "guru-ram-das-ji"
+      "slug": "guru-ram-das-ji",
+      "category": "gurus",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPzp097daIYZghyi14ouxZqeb5bk0qFMcMK8gp1aj_ydDE3RKfKsIsI5KHwKYvTP0rFQ&usqp=CAU",
+      "exists": true
     },
     {
       "name": "Guru Arjan Dev Ji",
       "relation": "Younger Brother",
-      "slug": "guru-arjan-dev-ji"
+      "slug": "guru-arjan-dev-ji",
+      "category": "gurus",
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/06/14/1f3d5ec8d32807e3ec21b98a27cd81b0_original.JPG?impolicy=abp_cdn&imwidth=320",
+      "exists": true
     }
   ],
   "historicalContext": {

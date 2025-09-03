@@ -211,27 +211,42 @@
     {
       "name": "Guru Tegh Bahadur Ji",
       "relation": "Husband",
-      "slug": "guru-tegh-bahadur-ji"
+      "slug": "guru-tegh-bahadur-ji",
+      "category": "gurus",
+      "image": "https://dvncorestorageprod.blob.core.windows.net/files/page/61/Image/GuruTeghBahadurSahibbySobhaSinghArt-webistemaindropshadow_1135x_20231101071233682.jpg",
+      "exists": true
     },
     {
       "name": "Guru Gobind Singh Ji",
       "relation": "Son",
-      "slug": "guru-gobind-singh-ji"
+      "slug": "guru-gobind-singh-ji",
+      "category": "gurus",
+      "image": "https://srichants.in/wp-content/uploads/2024/12/Guru-Gobind-Singh-Ji.jpg",
+      "exists": true
     },
     {
       "name": "Sahibzada Zorawar Singh Ji",
       "relation": "Grandson",
-      "slug": "baba-zorawar-singh-ji"
+      "slug": "baba-zorawar-singh-ji",
+      "category": "Sahibzade",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Detail_of_Sahibzada_Zorawar_Singh_from_a_mural_depicting_Guru_Gobind_Singh_and_his_four_sons_%28the_Sahibzadas%29_located_within_Takht_Hazur_Sahib.jpg",
+      "exists": true
     },
     {
       "name": "Sahibzada Fateh Singh Ji",
       "relation": "Grandson",
-      "slug": "sahibzada-fateh-singh-ji"
+      "slug": "sahibzada-fateh-singh-ji",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Seth Todar Mal",
       "relation": "Benefactor who performed cremation",
-      "slug": "seth-todar-mal"
+      "slug": "seth-todar-mal",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
   "historicalContext": {

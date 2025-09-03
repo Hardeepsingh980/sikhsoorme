@@ -211,9 +211,9 @@
       "name": "Bhai Mardana",
       "relation": "Close Companion and Musician",
       "slug": "bhai-mardana",
-      "category": "unknown",
+      "category": "Guru Family",
       "image": "/placeholder.png",
-      "exists": false
+      "exists": true
     },
     {
       "name": "Guru Angad Dev Ji",
@@ -235,9 +235,9 @@
       "name": "Mata Sulakhni",
       "relation": "Wife",
       "slug": "mata-sulakhni",
-      "category": "unknown",
-      "image": "/placeholder.png",
-      "exists": false
+      "category": "Guru Family",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/An_Imaginary_Meeting_between_Guru_Nanak_and_Gobind_Singh_LACMA_M.75.114.2.jpg/800px-An_Imaginary_Meeting_between_Guru_Nanak_and_Gobind_Singh_LACMA_M.75.114.2.jpg",
+      "exists": true
     }
   ],
   "historicalContext": {

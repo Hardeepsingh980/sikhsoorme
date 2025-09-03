@@ -215,9 +215,9 @@
       "name": "Mata Gujri Ji",
       "relation": "Spouse",
       "slug": "mata-gujri-ji",
-      "category": "unknown",
-      "image": "/placeholder.png",
-      "exists": false
+      "category": "Martyrs",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Newborn_Guru_Gobind_Rai_cradled_by_Mata_Gujari.jpg/800px-Newborn_Guru_Gobind_Rai_cradled_by_Mata_Gujari.jpg",
+      "exists": true
     }
   ],
   "historicalContext": {

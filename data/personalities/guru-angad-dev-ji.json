@@ -216,9 +216,9 @@
       "name": "Mata Khivi",
       "relation": "Wife, organizer of langar",
       "slug": "mata-khivi",
-      "category": "unknown",
-      "image": "/placeholder.png",
-      "exists": false
+      "category": "Guru Family",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mata_Khivi.jpg/330px-Mata_Khivi.jpg",
+      "exists": true
     }
   ],
   "historicalContext": {
