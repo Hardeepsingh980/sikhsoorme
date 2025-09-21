@@ -154,7 +154,7 @@ export default function HomePage() {
                     {soormaOfTheDay.excerpt}
                   </p>
 
-                  {
+                  {/* {
                     soormaOfTheDay.quote && (
                       <div className="bg-amber-100 p-4 rounded-lg border-l-4 border-orange-500 mb-6">
                         <div className="flex items-start gap-3">
@@ -166,7 +166,7 @@ export default function HomePage() {
                         </div>
                       </div>
                     )
-                  }
+                  } */}
 
                   <div className="bg-orange-50 p-4 rounded-lg mb-6">
                     <h4 className="font-semibold text-amber-900 mb-2">Historical Significance:</h4>
