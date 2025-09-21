@@ -277,77 +277,122 @@
     {
       "name": "Pritam Kaur",
       "relation": "Spouse",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Ishar Singh",
       "relation": "Son",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Inderjit Singh",
       "relation": "Son",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Joginder Singh Brar",
       "relation": "Father",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Nihal Kaur",
       "relation": "Mother",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Gurbachan Singh Khalsa",
       "relation": "Religious Teacher",
-      "slug": "sant-gurbachan-singh-bhindranwale"
+      "slug": "sant-gurbachan-singh-bhindranwale",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Kartar Singh Khalsa",
       "relation": "Religious Teacher & Predecessor",
-      "slug": "sant-kartar-singh-khalsa-bhindranwale"
+      "slug": "sant-kartar-singh-khalsa-bhindranwale",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Amrik Singh",
       "relation": "Close Associate, President of AISSF",
-      "slug": "amrik-singh"
+      "slug": "amrik-singh",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Harchand Singh Longowal",
       "relation": "Akali Dal Leader",
-      "slug": "harchand-singh-longowal"
+      "slug": "harchand-singh-longowal",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Gurcharan Singh Tohra",
       "relation": "SGPC President",
-      "slug": "gurcharan-singh-tohra"
+      "slug": "gurcharan-singh-tohra",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Shabeg Singh",
       "relation": "Military Advisor",
-      "slug": "shabeg-singh"
+      "slug": "shabeg-singh",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Indira Gandhi",
       "relation": "Prime Minister of India",
-      "slug": "indira-gandhi"
+      "slug": "indira-gandhi",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Giani Zail Singh",
       "relation": "Home Minister of India, later President",
-      "slug": "giani-zail-singh"
+      "slug": "giani-zail-singh",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Darbara Singh",
       "relation": "Chief Minister of Punjab",
-      "slug": "darbara-singh"
+      "slug": "darbara-singh",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Lala Jagat Narain",
       "relation": "Editor, Opponent",
-      "slug": "lala-jagat-narain"
+      "slug": "lala-jagat-narain",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
   "historicalContext": {

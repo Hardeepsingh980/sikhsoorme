@@ -232,22 +232,34 @@
     {
       "name": "Rajinder Kaur",
       "relation": "Daughter",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Mahatma Gandhi",
       "relation": "Contemporary Political Leader",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Jawaharlal Nehru",
       "relation": "Contemporary Political Leader (Prime Minister of India)",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Sant Attar Singh",
       "relation": "Spiritual Figure (administered Amrit to Tara Singh)",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
   "historicalContext": {

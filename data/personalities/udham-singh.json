@@ -214,22 +214,34 @@
     {
       "name": "Bhagat Singh",
       "relation": "Inspiration, fellow revolutionary",
-      "slug": "bhagat-singh"
+      "slug": "bhagat-singh",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Sir Michael O'Dwyer",
       "relation": "Target of assassination, former Lieutenant Governor of Punjab",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Mahatma Gandhi",
       "relation": "Political contemporary, condemned the assassination",
-      "slug": "mahatma-gandhi"
+      "slug": "mahatma-gandhi",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Jawaharlal Nehru",
       "relation": "Political contemporary, initially condemned, later praised",
-      "slug": "jawaharlal-nehru"
+      "slug": "jawaharlal-nehru",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
   "historicalContext": {

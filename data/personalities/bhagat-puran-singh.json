@@ -195,22 +195,34 @@
     {
       "name": "Piara Singh",
       "relation": "First patient taken care of by Bhagat Puran Singh",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Dr. Inderjit Kaur",
       "relation": "Current head of Pingalwara after Bhagat Puran Singh's demise",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Khushwant Singh",
       "relation": "Noted Indian writer who referred to him as the \"bearded Mother Teresa of Punjab\"",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "V.N. Narayanan",
       "relation": "Editor-in-Chief of The Tribune, Chandigarh, who wrote articles about Bhagat Puran Singh",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
   "historicalContext": {

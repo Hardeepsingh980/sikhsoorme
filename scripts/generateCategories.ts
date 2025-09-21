@@ -279,7 +279,135 @@ const CATEGORY_META = [
         stats: { averageLifespan: 0 },
         keyContributions: [],
         historicalContext: "Family members of Sikh Gurus"
-    }
+    },
+    {
+      id: "modern-era",
+      name: "Modern Era Personalities",
+      slug: "modern-era",
+      icon: "Globe",
+      emoji: "🌍",
+      count: 15,
+      description: "Influential Sikh figures of the 20th and 21st centuries",
+      longDescription:
+          "Modern Sikh figures include thinkers, leaders, reformers, and global influencers who shaped Sikh identity in contemporary times. From post-independence India to the global diaspora, they advanced education, politics, arts, and social reform while keeping Sikh traditions alive.",
+      timeSpan: "1900–Present",
+      keyPeriod: "Contemporary Sikhism",
+      primaryRegion: "Punjab & Global",
+      significance: "Bridged Sikh tradition with modern challenges and opportunities",
+      color: "bg-green-500",
+      lightColor: "bg-green-50",
+      borderColor: "border-green-200",
+      textColor: "text-green-900",
+      featured: [
+          { name: "Sant Jarnail Singh Bhindranwale", slug: "sant-jarnail-singh-bhindranwale", image: "/placeholder.svg?height=80&width=80", years: "1947–1984", achievement: "Prominent Sikh leader of the late 20th century" },
+          { name: "Khushwant Singh", slug: "khushwant-singh", image: "/placeholder.svg?height=80&width=80", years: "1915–2014", achievement: "Celebrated author and historian" },
+          { name: "Jagmeet Singh", slug: "jagmeet-singh", image: "/placeholder.svg?height=80&width=80", years: "1979–Present", achievement: "First Sikh leader of a major Canadian political party" },
+      ],
+      stats: { averageLifespan: 72, writers: 5, politicians: 4, globalFigures: 6 },
+      keyContributions: [
+          "Represented Sikh voices in global politics",
+          "Produced influential literature and scholarship",
+          "Strengthened Sikh identity in the diaspora",
+          "Advocated for human rights and equality",
+      ],
+      historicalContext: "As Sikhs migrated worldwide and India underwent transformation, modern leaders carried Sikh values into politics, arts, and global advocacy."
+  },
+  {
+      id: "sewadars",
+      name: "Sewadars",
+      slug: "sewadars",
+      icon: "Hand",
+      emoji: "🤲",
+      count: 12,
+      description: "Humble servants dedicated to community service and Seva",
+      longDescription:
+          "Sewadars are individuals known for their selfless service (Seva) in Gurdwaras, during humanitarian crises, and within communities. They represent the Sikh principle of humility and service, uplifting others without seeking recognition.",
+      timeSpan: "1500–Present",
+      keyPeriod: "Timeless Service",
+      primaryRegion: "Punjab & Global",
+      significance: "Embodied Sikh values of humility, charity, and equality",
+      color: "bg-yellow-500",
+      lightColor: "bg-yellow-50",
+      borderColor: "border-yellow-200",
+      textColor: "text-yellow-900",
+      featured: [
+          { name: "Bhai Kanaihya Ji", slug: "bhai-kanaihya-ji", image: "/placeholder.svg?height=80&width=80", years: "1648–1718", achievement: "Served water to all, even enemies in battle" },
+          { name: "Ravinder Singh Khalsa Aid", slug: "ravinder-singh", image: "/placeholder.svg?height=80&width=80", years: "1970–Present", achievement: "Founded Khalsa Aid, global humanitarian charity" },
+          { name: "Langar Sewadars", slug: "langar-sewadars", image: "/placeholder.svg?height=80&width=80", years: "1500–Present", achievement: "Volunteers serving free food in Gurdwaras" },
+      ],
+      stats: { averageLifespan: 65, humanitarianLeaders: 4, gurdwaraVolunteers: "countless" },
+      keyContributions: [
+          "Pioneered the Sikh practice of Langar (community kitchen)",
+          "Provided humanitarian aid globally",
+          "Demonstrated compassion even in wartime",
+          "Inspired global volunteerism rooted in Sikh ethics",
+      ],
+      historicalContext: "From the Guru period to today’s global Sikh charities, Sewadars have exemplified the principle of Seva — selfless service to humanity."
+  },
+  {
+      id: "artists",
+      name: "Artists & Poets",
+      slug: "artists",
+      icon: "Music",
+      emoji: "🎨",
+      count: 18,
+      description: "Poets, musicians, and artists who enriched Sikh culture",
+      longDescription:
+          "Artists and poets played a vital role in shaping Sikh thought, aesthetics, and culture. From Bhai Gurdas’s writings to contemporary musicians, they have preserved Sikh values through art, kirtan, literature, and painting.",
+      timeSpan: "1500–Present",
+      keyPeriod: "Cultural Flourishing",
+      primaryRegion: "Punjab & Global",
+      significance: "Preserved and spread Sikh teachings through art and music",
+      color: "bg-orange-500",
+      lightColor: "bg-orange-50",
+      borderColor: "border-orange-200",
+      textColor: "text-orange-900",
+      featured: [
+          { name: "Bhai Gurdas Ji", slug: "bhai-gurdas-ji", image: "/placeholder.svg?height=80&width=80", years: "1551–1636", achievement: "First scribe of Guru Granth Sahib and poet" },
+          { name: "Bhai Nand Lal Ji", slug: "bhai-nand-lal-ji", image: "/placeholder.svg?height=80&width=80", years: "1633–1713", achievement: "Poet laureate at Guru Gobind Singh’s court" },
+          { name: "Surinder Kaur", slug: "surinder-kaur", image: "/placeholder.svg?height=80&width=80", years: "1929–2006", achievement: "Renowned Punjabi singer" },
+      ],
+      stats: { averageLifespan: 68, poets: 10, musicians: 6, painters: 2 },
+      keyContributions: [
+          "Preserved Sikh scripture through poetry",
+          "Created devotional music traditions",
+          "Popularized Punjabi culture worldwide",
+          "Inspired spiritual reflection through art",
+      ],
+      historicalContext: "Artists have always been close to the Sikh tradition — from scripture preservation to modern Punjabi music, they carry forward the Sikh message in creative ways."
+  },
+  {
+      id: "scholars",
+      name: "Scholars & Educators",
+      slug: "scholars",
+      icon: "Book",
+      emoji: "📚",
+      count: 14,
+      description: "Thinkers, writers, and educators who advanced Sikh philosophy",
+      longDescription:
+          "Sikh scholars have interpreted, preserved, and spread Sikh teachings across generations. They worked as theologians, teachers, and modern academics to keep Sikhism intellectually vibrant and accessible.",
+      timeSpan: "1600–Present",
+      keyPeriod: "Philosophical Development",
+      primaryRegion: "Punjab & Diaspora",
+      significance: "Advanced Sikh philosophy and preserved teachings",
+      color: "bg-cyan-500",
+      lightColor: "bg-cyan-50",
+      borderColor: "border-cyan-200",
+      textColor: "text-cyan-900",
+      featured: [
+          { name: "Bhai Mani Singh", slug: "bhai-mani-singh", image: "/placeholder.svg?height=80&width=80", years: "1662–1737", achievement: "Scholar and martyr, compiled Sikh scriptures" },
+          { name: "Prof. Sahib Singh", slug: "prof-sahib-singh", image: "/placeholder.svg?height=80&width=80", years: "1892–1977", achievement: "Author of Gurbani grammar and Sikh exegesis" },
+          { name: "Puran Singh", slug: "puran-singh", image: "/placeholder.svg?height=80&width=80", years: "1881–1931", achievement: "Philosopher and poet of Sikh spirituality" },
+      ],
+      stats: { averageLifespan: 63, theologians: 6, teachers: 5, modernAcademics: 3 },
+      keyContributions: [
+          "Compiled and preserved Sikh scripture",
+          "Developed Gurbani grammar and exegesis",
+          "Promoted Sikh education worldwide",
+          "Engaged in interfaith and philosophical dialogue",
+      ],
+      historicalContext: "Scholars have played an essential role in safeguarding Sikh philosophy and ensuring its transmission across changing times and societies."
+  }  
 ];
 
 

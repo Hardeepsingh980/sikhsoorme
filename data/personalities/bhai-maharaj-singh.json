@@ -178,12 +178,18 @@
     {
       "name": "Baba Bir Singh",
       "relation": "Spiritual Teacher",
-      "slug": ""
+      "slug": "",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Duleep Singh",
       "relation": "Last Maharaja of the Sikh Empire",
-      "slug": "duleep-singh"
+      "slug": "duleep-singh",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
   "historicalContext": {

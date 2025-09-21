@@ -1,6 +1,7 @@
 import {
   ArrowLeft, Star, Users, BookOpen,
-  SortAsc, Eye
+  SortAsc, Eye,
+  StarIcon
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
@@ -46,7 +47,7 @@ async function getCategoryPersonalities(slug: string) {
   const personalities = await Promise.all(
     files.map(async (file) => {
       const content = await fs.readFile(path.join(process.cwd(), "data/personalities", file), "utf-8");
-      return JSON.parse(content);
+      return JSON.parse(content) ?? [];
     })
   );
 
@@ -59,7 +60,7 @@ async function getCategoryPersonalities(slug: string) {
       excerpt: p.excerpt || "",
       period: inferPeriod(p.birth),
       era: getEraFromYear(new Date(p.birth).getFullYear()),
-    }));
+    })) as any[] ?? [];
 }
 
 
@@ -169,12 +170,12 @@ export async function generateStaticParams() {
 // ✅ MAIN PAGE COMPONENT
 export default async function CategoryPage({ params }: any) {
   const categoryData = await getCategoryData(params.category);
-  const personalities = await getCategoryPersonalities(params.category);
+  const personalities = await getCategoryPersonalities(params.category).catch(() => []);
 
   // Mock battleStats and timelinePeriods if not available:
   const battleStats = categoryData.battleStats || [];
 
-  const IconComponent = MAP_ICON[categoryData.icon]
+  const IconComponent = MAP_ICON[categoryData.icon] ?? StarIcon;
 
   return (
     <div>

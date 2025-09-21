@@ -157,27 +157,42 @@
     {
       "name": "Zakaria Khan",
       "relation": "Mughal Governor who ordered Bhai Taru Singh's martyrdom",
-      "slug": "zakaria-khan"
+      "slug": "zakaria-khan",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Bibi Dharam Kaur",
       "relation": "Mother of Bhai Taru Singh",
-      "slug": "bibi-dharam-kaur"
+      "slug": "bibi-dharam-kaur",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Tar Kaur",
       "relation": "Sister of Bhai Taru Singh",
-      "slug": "tar-kaur"
+      "slug": "tar-kaur",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Guru Gobind Singh",
       "relation": "Sikh Guru whose teachings inspired Bhai Taru Singh",
-      "slug": "guru-gobind-singh"
+      "slug": "guru-gobind-singh",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Kirpal Singh",
       "relation": "Artist known for depicting Bhai Taru Singh's martyrdom",
-      "slug": "kirpal-singh"
+      "slug": "kirpal-singh",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
   "historicalContext": {

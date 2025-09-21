@@ -7,6 +7,7 @@ import {
     Eye,
     BarChart3,
     Search,
+    Stars,
 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
@@ -40,7 +41,7 @@ async function loadCategories() {
 const categoriesData = await loadCategories();
 
 function CategoryCard({ category }: { category: any }) {
-    const IconComponent = MAP_ICON[category.icon]
+    const IconComponent = MAP_ICON[category.icon] ?? Stars;
 
     return (
         <Card

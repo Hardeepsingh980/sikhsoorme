@@ -185,23 +185,38 @@
   "relatedPersonalities": [
     {
       "name": "Bhai Gurmukh Singh",
-      "relation": "Mentor and collaborator in Singh Sabha Movement"
+      "relation": "Mentor and collaborator in Singh Sabha Movement",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Bhai Jawahar Singh",
-      "relation": "Friend and associate in Sikh reform movements"
+      "relation": "Friend and associate in Sikh reform movements",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Swami Dayanand Saraswati",
-      "relation": "Debated philosopher and Arya Samaj founder"
+      "relation": "Debated philosopher and Arya Samaj founder",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Bhai Vir Singh",
-      "relation": "Poet and scholar who admired Ditt Singh"
+      "relation": "Poet and scholar who admired Ditt Singh",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     },
     {
       "name": "Sant Desa Singh",
-      "relation": "Initiator into Gulabdasi sect"
+      "relation": "Initiator into Gulabdasi sect",
+      "category": "unknown",
+      "image": "/placeholder.png",
+      "exists": false
     }
   ],
   "historicalContext": {
