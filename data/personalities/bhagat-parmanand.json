@@ -1,0 +1,200 @@
+{
+  "already_exist": false,
+  "name": "Bhagat Parmanand",
+  "slug": "bhagat-parmanand",
+  "category": "Scholars",
+  "birth": "1483-01-01",
+  "death": "N/A",
+  "birthPlace": "Bārsī, near Pandharpur, Maharashtra, India (some sources suggest Kannauj, Uttar Pradesh)",
+  "image": "https://via.placeholder.com/300x300?text=Image+Not+Available",
+  "excerpt": "Bhagat Parmanand was a prominent Vaishnava saint-poet of the Bhakti movement, whose devotional hymn emphasizing true service and devotion over ritualism is included in the Guru Granth Sahib (p. 1253). A follower of Vallabhacharya, he used the nom de plume \"Sarañg\" and transitioned from saguna (with attributes) to nirguna (formless) worship of the Divine.",
+  "designation": "Poet-Saint (Bhagat); Disciple in the Pushtimarg tradition",
+  "quickStats": [
+    {
+      "label": "Lifespan",
+      "value": "~1483–unknown"
+    },
+    {
+      "label": "Compositions in Guru Granth Sahib",
+      "value": "1 shabad"
+    },
+    {
+      "label": "Tradition",
+      "value": "Vaishnavism (Pushtimarg sampradaya)"
+    },
+    {
+      "label": "Nom de Plume",
+      "value": "Sarañg"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Family Background",
+      "value": "Born into a Gaur Brahmin family"
+    },
+    {
+      "label": "Primary Devotion",
+      "value": "Devotee of Lord Krishna (worshipped as Shri Nathji)"
+    },
+    {
+      "label": "Daily Devotional Practice",
+      "value": "Performed 700 daily genuflections as an act of devotion"
+    },
+    {
+      "label": "Spiritual Guru",
+      "value": "Shri Vallabhacharya"
+    },
+    {
+      "label": "Key Associate",
+      "value": "Surdas (fellow disciple)"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2023-10-05",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": "N/A"
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "👶",
+      "value": "Bhagat Parmanand was born around 1483 in a Gaur (or Kanyakubja) Brahmin family. Sources vary on his birthplace: primary Sikh references, such as the Encyclopedia of Sikhism, place him in Bārsī (north of Pandharpur) in present-day Sholapur district, Maharashtra, aligning with the regional Bhakti traditions. Other accounts suggest origins in Kannauj, Uttar Pradesh. From a young age, Parmanand exhibited deep devotion to Vishnu, particularly in the form of Krishna (worshipped as Shri Nathji). He was initiated into the Pushtimarg (Path of Grace) sampradaya by the renowned philosopher-saint Shri Vallabhacharya, becoming a brother-disciple to the blind poet Surdas. Parmanand's early life was marked by rigorous ascetic practices, including performing seven hundred genuflections daily on bare knees, often leading to physical hardship as an expression of his thirst for divine union, symbolized by his nom de plume \"Sarañg\" (a bird yearning for raindrops)."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "🙏",
+      "value": "Parmanand's primary contribution to Sikhism and broader Indian spirituality lies in his poetic expressions of bhakti (devotion), which emphasize inner purity, selfless service (seva), and the company of holy saints (sadh sangat) over mere ritualistic practices. His inclusion in the Guru Granth Sahib by Guru Arjan Dev Ji underscores the universal appeal of his teachings, which align with Sikh principles of ethical living and rejection of hypocrisy. As a Vaishnava saint, he promoted devotion to Krishna while advocating for compassion toward all beings. His life exemplified dedication to spiritual discipline, influencing the Bhakti movement's emphasis on personal realization and social service. Unverified traditions suggest he engaged in teaching and composing devotional songs that critiqued social vices like lust, anger, and greed (citationNeeded)."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "⚖️",
+      "value": "Parmanand advocated a shift from idol worship and rote scriptural recitation to genuine devotion manifested through ethical actions, such as feeding the hungry and avoiding cruelty. He highlighted the futility of rituals without inner transformation, promoting the value of sadh sangat for spiritual growth. This reformist outlook resonated with the Sikh Gurus' teachings against empty formalism, influencing the compilation of the Adi Granth. His emphasis on nirguna (formless) aspects of the Divine marked a personal evolution from saguna (attributed) worship, bridging Vaishnava and Sikh philosophies."
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "📖",
+      "value": "Only one shabad (hymn) by Bhagat Parmanand is included in the Guru Granth Sahib, located on Ang (page) 1253 in Raga Saarang. This composition critiques hypocritical religious practices and calls for true bhakti through service and moral purity. Outside the GGS, Parmanand is credited with numerous unpublished or lost devotional songs (bhajans) in Hindi/Marathi, focused on Krishna bhakti, though these are not systematically documented (citationNeeded). His writings reflect the Bhakti tradition's poetic style, using simple language to convey profound spiritual truths."
+    },
+    {
+      "label": "Final Years",
+      "icon": "🕊️",
+      "value": "Details on Parmanand's later life are scarce and unverified. He is believed to have continued his devotional practices in Bārsī or nearby regions until his passing in the early 16th century. Traditions hold that he attained spiritual enlightenment through his association with Vallabhacharya and sadh sangat, merging into the Divine (citationNeeded). No specific accounts of his death exist in verified sources."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Bhagat Parmanand's legacy endures through his singular contribution to the Guru Granth Sahib, symbolizing the inclusive spirit of Sikh scripture that incorporates voices from diverse Bhakti saints. His teachings reinforce core Sikh values: simran (remembrance of God), seva (selfless service), and eradication of the five vices (kaam, krodh, lobh, moh, ahankaar). As a bridge between Vaishnavism and Sikhism, he exemplifies how personal devotion transcends sectarian boundaries.",
+    "keyContributions": [
+      "Promotion of true devotion over ritualism, influencing Sikh emphasis on ethical living.",
+      "Advocacy for compassion and non-violence toward all beings, aligning with Sikh ideals of daya (mercy).",
+      "Inspiration for sadh sangat as a means of spiritual upliftment, echoed in Gurbani."
+    ]
+  },
+  "modernRelevance": {
+    "description": "In contemporary times, Parmanand's hymn serves as a reminder against superficial religiosity, relevant in an era of social media-driven spirituality and materialism. His message promotes interfaith harmony, as his Vaishnava roots are honored in Sikhism, fostering dialogue between Hindu and Sikh traditions.",
+    "contemporaryImpact": [
+      "Referenced in Sikh kirtan (devotional singing) and sermons to emphasize seva during community service initiatives like langar (community kitchen).",
+      "Studied in Bhakti literature courses for his critique of social hypocrisy, applicable to modern issues like inequality and ethical lapses.",
+      "Inspires environmental and humanitarian efforts, interpreting his call for kindness to living beings as eco-spiritual awareness (citationNeeded)."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Inclusion in Adi Granth",
+      "year": "~1604",
+      "description": "Selected by Guru Arjan Dev Ji for the compilation of Sikh scripture, affirming his spiritual stature among Bhakti saints.",
+      "icon": "📜"
+    },
+    {
+      "title": "Discipleship under Vallabhacharya",
+      "year": "~1500s",
+      "description": "Initiated into Pushtimarg, contributing to the spread of Krishna bhakti in Maharashtra.",
+      "icon": "🕉️"
+    },
+    {
+      "title": "Authorship of Devotional Hymn",
+      "year": "16th Century",
+      "description": "Composition of the shabad on Ang 1253, critiquing vices and promoting pure devotion.",
+      "icon": "✍️"
+    }
+  ],
+  "quotes": [
+    {
+      "original": "ਤੈ ਨਰ ਕਿਆ ਪ੝ਰਾਨ੝ ਸ੝ਨਿ ਕੀਨਾ ॥ ਅਨਪਾਵਨੀ ਭਗਤਿ ਨਹੀ ਉਪਜੀ ਭੂਖੈ ਦਾਨ੝ ਨ ਦੀਨਾ ॥੧॥ ਰਹਾਉ ॥  \nਕਾਮ੝ ਨ ਬਿਸਰਿਓ ਕ੝ਰੋਧ੝ ਨ ਬਿਸਰਿਓ ਲੋਭ੝ ਨ ਛੂਟਿਓ ਦੇਵਾ ॥ ਪਰ ਨਿੰਦਾ ਮ੝ਖ ਤੇ ਨਹੀ ਛੂਟੀ ਨਿਫਲ ਭਈ ਸਭ ਸੇਵਾ ॥੧॥  \nਬਾਟ ਪਾਰਿ ਘਰ੝ ਮੂਸਿ ਬਿਰਾਨੋ ਪੇਟ੝ ਭਰੈ ਅਪ੝ਰਾਧੀ ॥ ਜਿਹਿ ਪਰਲੋਕ ਜਾਇ ਅਪਕੀਰਤਿ ਸੋਈ ਅਬਿਦਿਆ ਸਾਧੀ ॥੨॥  \nਹਿੰਸਾ ਤਉ ਮਨ ਤੇ ਨਹੀ ਛੂਟੀ ਜੀਅ ਦਇਆ ਨਹੀ ਪਾਲੀ ॥ ਪਰਮਾਨੰਦ ਸਾਧਸੰਗਤਿ ਮਿਲਿ ਕਥਾ ਪ੝ਨੀਤ ਨ ਚਾਲੀ ॥੩॥੧॥੬॥",
+      "transliteration": "Tai nar ki-aa puraan sun keenaa. Anpaavnee bhagat nahee upjee bhookhai daan na deenaa. ((1)) rahaa-o.  \nKaam na bisri-o kroDh na bisri-o lobh na chhooti-o dayvaa. Par nindaa mukh tay nahee chhootee nifal bha-ee sabh sayvaa. ((1))  \nBaat paar ghar moos biraano payt bharai apraaDhee. Jihi parlok jaa-ay apkeerat so-ee abidi-aa saaDhee. ((2))  \nHinsaa ta-o man tay nahee chhootee jee-a da-i-aa nahee paalee. Parmaanand saaDhsangat mil kathaa puneet na chaalee. ((3)(1)(6))",
+      "translation": "So what have you accomplished by listening to the Puranas? Faithful devotion has not welled up within you, and you have not been inspired to give to the hungry. ((1)(Pause))  \nYou have not forgotten sexual desire, and you have not forgotten anger; greed has not left you either. Your mouth has not stopped slandering and gossiping about others. Your service is useless and fruitless. ((1))  \nBy breaking into the houses of others and robbing them, you fill your belly, you sinner. But when you go to the world beyond, your guilt will be well known, by the acts of ignorance which you committed. ((2))  \nCruelty has not left your mind; you have not cherished kindness for other living beings. Parmanand has joined the Saadh Sangat, the Company of the Holy. Why have you not followed the sacred teachings? ((3)(1)(6))",
+      "context": "This shabad critiques those who engage in religious rituals without inner change or service to others, urging expulsion of vices and embrace of holy company for true devotion.",
+      "source": "Guru Granth Sahib, Ang 1253 (verified via SikhiWiki and Srigranth.org)."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1483",
+      "date": "Approx.",
+      "event": "Birth in Bārsī, Maharashtra (or Kannauj, UP)",
+      "type": "Personal"
+    },
+    {
+      "year": "~1500s",
+      "date": "N/A",
+      "event": "Initiation by Shri Vallabhacharya into Pushtimarg; association with Surdas",
+      "type": "Spiritual"
+    },
+    {
+      "year": "16th Century",
+      "date": "N/A",
+      "event": "Composition of devotional shabad emphasizing seva and bhakti",
+      "type": "Literary"
+    },
+    {
+      "year": "~1604",
+      "date": "N/A",
+      "event": "Hymn included in the Adi Granth by Guru Arjan Dev Ji",
+      "type": "Historical"
+    },
+    {
+      "year": "Early 16th Century",
+      "date": "N/A",
+      "event": "Passing (exact details unknown)",
+      "type": "Personal"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Shri Vallabhacharya",
+      "relation": "Guru",
+      "slug": "vallabhacharya"
+    },
+    {
+      "name": "Surdas",
+      "relation": "Fellow Disciple/Brother-Saint",
+      "slug": "surdas"
+    },
+    {
+      "name": "Guru Arjan Dev Ji",
+      "relation": "Compiler of Adi Granth",
+      "slug": "guru-arjan-dev"
+    },
+    {
+      "name": "Other Bhagats (e.g., Namdev, Kabir)",
+      "relation": "Contemporaries in Bhakti Movement",
+      "slug": "bhagat-namdev, bhagat-kabir"
+    }
+  ],
+  "historicalContext": {
+    "period": "Late 15th–Early 16th Century (Bhakti Movement era)",
+    "politicalSituation": "Mughal expansion under Babur (1526 onward); regional Hindu kingdoms in Deccan and North India facing instability. The Bhakti movement flourished as a response to social and political turmoil, promoting personal devotion over caste hierarchies.",
+    "socialConditions": "Rigid caste system, ritualistic Hinduism, and emerging Islamic influences created a need for egalitarian spiritual paths. Vaishnavism in Maharashtra emphasized Krishna bhakti amid famines and invasions, with saints like Parmanand challenging Brahminical orthodoxy.",
+    "significance": "Parmanand's life and writings contributed to the syncretic Bhakti tradition, which influenced Sikhism's formation. His inclusion in the Guru Granth Sahib highlights Guru Nanak Dev Ji's and successors' embrace of universal truths, fostering interfaith unity during a time of religious polarization."
+  },
+  "references": [
+    "Encyclopedia of Sikhism by Harbans Singh (Punjabi University, Patiala, 1996) – Primary source for biography and legacy.",
+    "The Sikh Religion, Vol. 6 by Max Arthur MacAuliffe (Oxford University Press, 1909) – Detailed account of Bhagats and shabad analysis.",
+    "SikhiWiki.org: \"Bhagat Parmanand\" (accessed via tool; last edited 2011) – Provides shabad text, translation, and regional context.",
+    "Srigranth.org – Verified Gurbani text and ang reference for the shabad.",
+    "Research_For_Personality Tool Output (2023) – Cross-verified birth details and Vaishnava affiliations; conflicting birthplace noted.",
+    "Wikipedia API Query on \"Bhagat Parmanand\" (2023) – General context on Bhagats in Sikhism; no dedicated page, but confirms inclusion in GGS.",
+    "Unverified: Oral traditions on daily genuflections and exact death (marked as \"citationNeeded\" where used)."
+  ]
+}
