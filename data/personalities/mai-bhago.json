@@ -1,0 +1,98 @@
+{
+  "name": "Mai Bhago",
+  "slug": "mai-bhago",
+  "category": "Warriors",
+  "birth": "N/A",
+  "death": "N/A",
+  "birthPlace": "Jhabal Kalan, Tarn Taran district, Punjab, India",
+  "image": "https://www.sikhiwiki.org/images/0/03/Mata_Bhag_Kaur_Ji.jpg",
+  "excerpt": "Mai Bhago, also known as Mata Bhag Kaur, was an exceptionally skilled Sikh woman warrior who played a pivotal role in Sikh history. She is most renowned for rallying 40 Sikh soldiers, known as the Chali Mukte (Forty Liberated Ones), who had deserted Guru Gobind Singh during the siege of Anandpur Sahib. She led them back into battle against the Mughals at the Battle of Khidrana (later known as Muktsar) in 1705, becoming a revered warrior saint in Sikhism.",
+  "designation": "Warrior, Leader, Saint",
+  "quickStats": [
+    {
+      "label": "Role",
+      "value": "Sikh Woman Warrior, Leader"
+    },
+    {
+      "label": "Key Battle",
+      "value": "Battle of Khidrana (Muktsar), 1705"
+    },
+    {
+      "label": "Associated with",
+      "value": "Guru Gobind Singh, Chali Mukte"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Granddaughter of Bhai Pero Shah",
+      "value": "Yes"
+    },
+    {
+      "label": "Father, Malo Shah, served in Guru Hargobind's army",
+      "value": "Yes"
+    },
+    {
+      "label": "Trained in Shaster Vidya (arms training)",
+      "value": "Yes"
+    },
+    {
+      "label": "Became a bodyguard for Guru Gobind Singh",
+      "value": "Yes"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-08-01T12:00:00Z",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "🏞️",
+      "value": "Mai Bhago was born into a devout Jat family in Jhabal Kalan, located in the present-day Tarn Taran district of Punjab. Her family had a strong Sikh lineage; her grandfather, Bhai Pero Shah, was the younger brother of the esteemed Bhai Langah, who converted to Sikhism during the time of Guru Arjan Dev. Her father, Malo Shah, was a soldier in Guru Hargobind's army, and it was in this environment that Mai Bhago received training in Shaster Vidya (the science of arms). As a young girl, she had the opportunity to visit Anandpur Sahib and receive darshan (glimpse) of Guru Gobind Singh. She later married Bhai Nidhan Singh of Patti."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "🛡️",
+      "value": "Mai Bhago's most significant contribution was her unwavering courage and leadership during a critical period in Sikh history. In 1704-1705, during the Mughal siege of Anandpur Sahib, a group of 40 Sikhs from her region, demoralized by the harsh conditions, deserted Guru Gobind Singh, signing a document disavowing him. Mai Bhago was deeply distressed by this act of desertion. She openly criticized them, shaming them into reconsidering their actions. Through her powerful persuasion, she rallied these 40 Sikhs (the \"Chali Mukte\") and other faithful Sikhs, leading them to seek out Guru Gobind Singh. They intercepted an approaching imperial Mughal army near the dhab (pool) of Khidrana (Muktsar). Mai Bhago, clad in warrior attire and wielding her sword, fought fiercely alongside these Sikhs, inflicting heavy casualties on the Mughal forces and forcing them to retreat."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Mai Bhago's spiritual legacy is deeply intertwined with her embodiment of Sikh ideals of courage, self-sacrifice, and unwavering faith. She is revered as a warrior saint, symbolizing the strength and equality of women in Sikhism. Her act of rallying the 40 deserters not only turned the tide of a crucial battle but also inspired them to reclaim their spiritual integrity and attain martyrdom, thus earning the Guru's blessing.",
+    "keyContributions": [
+      "Inspired and led the Chali Mukte back to Guru Gobind Singh.",
+      "Demonstrated exceptional valor and leadership on the battlefield.",
+      "Became a symbol of Sikh female empowerment and martial prowess."
+    ]
+  },
+  "modernRelevance": {
+    "description": "In the modern era, Mai Bhago remains an icon for Sikh women and a powerful figure representing courage, leadership, and the rejection of societal norms that might limit women's roles. Her story is a testament to the principles of equality and righteous action deeply embedded in Sikh philosophy.",
+    "contemporaryImpact": [
+      "Serves as an inspiration for Sikh women globally to pursue leadership roles and defend their beliefs.",
+      "Her story is taught to young Sikhs to instill values of bravery, loyalty, and dedication to faith.",
+      "Gurudwaras dedicated to her memory, like Gurudwara Tap Asthan Mai Bhago and Bunga Mai Bhago, continue to serve as sites of pilgrimage and remembrance."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Led 40 Liberated Ones in Battle",
+      "year": "1705",
+      "description": "Rallied 40 deserting Sikh soldiers and led them, along with other Sikhs, in the Battle of Khidrana (Muktsar) against a large Mughal army, playing a crucial role in the Sikh victory.",
+      "icon": "⚔️"
+    },
+    {
+      "title": "Guru's Bodyguard",
+      "year": "1705",
+      "description": "Following her valor at Muktsar, she served as a personal bodyguard to Guru Gobind Singh, accompanying him on his journey to Nanded.",
+      "icon": "🛡️"
+    },
+    {
+      "title": "Warrior Saint",
+      "year": "N/A",
+      "description": "Revered as a saint-warrior in Sikhism for her unparalleled bravery, leadership, and unwavering faith, embodying the ideal of a Khalsa warrior.",
+      "icon": "✨"
+    }
+  ]
+}
