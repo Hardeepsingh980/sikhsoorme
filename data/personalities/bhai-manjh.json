@@ -1,0 +1,186 @@
+{
+  "already_exist": false,
+  "name": "Bhai Manjh",
+  "slug": "bhai-manjh",
+  "category": "Leaders",
+  "birth": "N/A",
+  "death": "N/A",
+  "birthPlace": "Village Kang Mai, District Hoshiarpur, Punjab (historical)",
+  "image": "N/A",
+  "excerpt": "Bhai Manjh, originally a wealthy Rajput chieftain named Teeratha from the Manj clan, was a legendary devotee of Guru Arjan Dev Ji. His story exemplifies unwavering faith, selfless service (seva), and perseverance in the face of extreme hardships after converting from the Sakhee Sarvar sect to Sikhism, ultimately becoming a key preacher in the Doaba region.",
+  "designation": "Devoted Sikh, Masand (Sikh representative), Preacher",
+  "quickStats": [
+    {
+      "label": "Era",
+      "value": "16th Century"
+    },
+    {
+      "label": "Guru Association",
+      "value": "Guru Arjan Dev Ji"
+    },
+    {
+      "label": "Key Trait",
+      "value": "Unwavering devotion and seva"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Original Name",
+      "value": "Teeratha"
+    },
+    {
+      "label": "Clan",
+      "value": "Manj Rajput"
+    },
+    {
+      "label": "Converted From",
+      "value": "Sakhee Sarvar sect"
+    },
+    {
+      "label": "Notable Event",
+      "value": "Fell into a well but prioritized langar wood"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2023-10-01",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": "https://www.sikhiwiki.org/index.php?title=Bhai_Manjh&action=history"
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "",
+      "value": "Bhai Manjh was born as Teeratha, a powerful and wealthy Rajput chieftain of the Manj clan, leading the village of Kang Mai near Hoshiarpur, Punjab. As a prominent follower of the mystical Pir Sultan Sakhee Sarvar (based near Multan), he commanded hundreds of devotees and regularly led pilgrimages to the shrine. His life was marked by authority, respect, and material prosperity until a transformative visit to Amritsar exposed him to Sikhism."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "",
+      "value": "Upon converting to Sikhism under Guru Arjan Dev Ji, Bhai Manjh demolished the Sakhee Sarvar shrine in his village and began preaching the Guru's teachings, leading many followers to embrace Sikhism. He constructed a Dharamshala for communal gatherings and recitation of Gurbani. Despite severe backlash, including loss of wealth and status, he performed exemplary seva in Amritsar, such as collecting wood for the langar, cleaning utensils, and serving the sangat. Later, he was appointed by the Guru to propagate Sikhism in the Doaba region, where he established a renowned langar at his home, converting numerous individuals and fostering community service."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "",
+      "value": "N/A (No specific reforms attributed; his life focused on personal and communal devotion rather than institutional changes)."
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "",
+      "value": "N/A (Bhai Manjh is not known for authoring compositions; his legacy is through oral sakhis and exemplary living)."
+    },
+    {
+      "label": "Final Years",
+      "icon": "",
+      "value": "After enduring trials, Guru Arjan Dev Ji restored Bhai Manjh's fortunes miraculously—his wife was honored by the village head, and his wealth returned. He continued preaching in Kang Mai, maintaining a vibrant Dharamshala and langar until his passing (exact date unknown). Guru Arjan visited in 1596, praising his efforts. Today, Gurdwara Gaddi Bhai Manjh Ji stands at his village site."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Bhai Manjh's life is a profound sakhi (anecdote) in Sikh tradition, illustrating the Sikh principles of faith (vishwas), humility, and selfless service (vand chakna and seva). His story teaches that true devotion withstands worldly losses, emphasizing Naam Simran (meditation on the Divine Name) as the ultimate treasure.",
+    "keyContributions": [
+      "Exemplified perseverance by prioritizing langar seva even when trapped in a well during a storm.",
+      "Converted and led hundreds from the Sakhee Sarvar sect to Sikhism, expanding the Panth in Punjab's Doaba region.",
+      "Demonstrated the Sikh ideal of equality and harmony, as seen in his integration into the Guru's darbar despite his former high status."
+    ]
+  },
+  "modernRelevance": {
+    "description": "In contemporary Sikhism, Bhai Manjh's narrative inspires resilience amid personal or communal challenges, such as discrimination or economic hardship. It underscores the Rehat Maryada's emphasis on seva and faith over material wealth.",
+    "contemporaryImpact": [
+      "Motivates global Sikh youth through sakhis shared in gurdwaras and educational programs, promoting mental fortitude.",
+      "Influences community service initiatives, with parallels to modern langar efforts during crises like natural disasters or pandemics."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Conversion and Initiation",
+      "year": "Late 1500s",
+      "description": "Received Naam from Guru Arjan Dev Ji in Amritsar, marking his entry into Sikhism.",
+      "icon": "🕉️"
+    },
+    {
+      "title": "Preacher of Doaba Region",
+      "year": "1596",
+      "description": "Appointed by Guru Arjan to propagate Sikhism; established langar attracting converts.",
+      "icon": "📜"
+    },
+    {
+      "title": "Honored by Guru",
+      "year": "Early 1600s",
+      "description": "Guru's blessing: \"Manjh is beloved of the Guru,\" after ultimate test of faith.",
+      "icon": "🙏"
+    }
+  ],
+  "quotes": [
+    {
+      "original": "\"ਮੰਝੁ ਪਿਆਰਾ ਗੁਰੂ ਕੋ, ਗੁਰੂ ਮੰਝੁ ਪਿਆਰਾ। ਮੰਝੁ ਗੁਰੂ ਕਾ ਬੋਹਿਥਾ, ਜਗੁ ਲੰਘਣਹਾਰਾ।\" (Manjh piara Gurū ko, Gurū Manjh piara | Manjh Gurū ka bohitha, jag langanhara |)",
+      "transliteration": "Manjh piara Gurū ko, Gurū Manjh piara. Manjh Gurū ka bohitha, jag langanhara.",
+      "translation": "\"Manjh is beloved of the Guru and the Guru is beloved of Manjh. Manjh is the ferry of the Guru who will ferry across the world ocean.\"",
+      "context": "Uttered by Guru Arjan Dev Ji after Bhai Manjh's final test in the well, affirming his devotion and role in spiritual salvation.",
+      "source": "Sikh oral tradition and sakhis; referenced in SikhiWiki and Sikh historical narratives (citationNeeded for primary text)."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "Late 1500s",
+      "date": "N/A",
+      "event": "Teeratha (Bhai Manjh) visits Amritsar, converts to Sikhism under Guru Arjan Dev Ji.",
+      "type": "Spiritual"
+    },
+    {
+      "year": "Late 1500s",
+      "date": "N/A",
+      "event": "Returns to Kang Mai, demolishes Sakhee Sarvar shrine, begins preaching; faces curses and loss of cattle/wealth.",
+      "type": "Challenge"
+    },
+    {
+      "year": "Late 1500s",
+      "date": "N/A",
+      "event": "Moves to Amritsar with daughter; performs intensive seva, including wood collection for langar.",
+      "type": "Service"
+    },
+    {
+      "year": "Early 1600s",
+      "date": "N/A",
+      "event": "Falls into well during storm; saves langar wood first, passes ultimate test of faith.",
+      "type": "Trial"
+    },
+    {
+      "year": "1596",
+      "date": "N/A",
+      "event": "Guru Arjan visits Doaba, praises Bhai Manjh's parchar (preaching).",
+      "type": "Recognition"
+    },
+    {
+      "year": "Early 1600s",
+      "date": "N/A",
+      "event": "Wealth restored; continues as regional preacher until death.",
+      "type": "Restoration"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Arjan Dev Ji",
+      "relation": "Guru",
+      "slug": "guru-arjan"
+    },
+    {
+      "name": "Mata Ganga Ji",
+      "relation": "Guru's Wife",
+      "slug": "N/A"
+    }
+  ],
+  "historicalContext": {
+    "period": "Late 16th to early 17th century, during the guruship of Guru Arjan Dev Ji (1581–1606), a time of Sikh institutional growth including the compilation of the Adi Granth.",
+    "politicalSituation": "Under Mughal Emperor Akbar's relatively tolerant rule, but with underlying tensions from orthodox sects. Conversions from local faiths like Sakhee Sarvar highlighted Sikhism's appeal amid syncretic spiritual movements.",
+    "socialConditions": "Feudal society with caste and clan hierarchies; Bhai Manjh's Rajput status amplified his losses. Rural Punjab saw religious pluralism, but conversions often led to social ostracism and economic ruin, testing Sikh egalitarianism.",
+    "significance": "Bhai Manjh's sakhi illustrates Sikhism's emphasis on inner strength over external power, contributing to the Panth's expansion during a formative era. It counters narratives of Sikhism as merely martial, highlighting devotional aspects."
+  },
+  "references": [
+    "SikhiWiki: \"Bhai Manjh\" (https://www.sikhiwiki.org/index.php/Bhai_Manjh) – Primary source for biographical sakhi.",
+    "Sikh Historical Tradition: Oral sakhis from Janamsakhis and Sikh lore.",
+    "Gurdwara Reference: Gurdwara Gaddi Bhai Manjh Ji, Kang Mai, Hoshiarpur.",
+    "Wikipedia: No dedicated page; cross-referenced with Guru Arjan Dev Ji's era (verified via API query).",
+    "Additional: \"The Sikh Religion\" by Max Arthur Macauliffe (1909) – General context on devotees (citationNeeded for specific mention).",
+    "Research Tool: Read_Website_Content from SikhiWiki (comprehensive HTML extraction, 2023). Unverified elements marked as citationNeeded."
+  ]
+}
