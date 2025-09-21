@@ -1,0 +1,183 @@
+{
+  "already_exist": false,
+  "name": "Bhai Sukha Singh",
+  "slug": "bhai-sukha-singh",
+  "category": "Warriors",
+  "birth": "N/A",
+  "death": "1752-01",
+  "birthPlace": "Mardi, Kambo ki (near Amritsar, Punjab)",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Massa_Ranghar.jpg/220px-Massa_Ranghar.jpg",
+  "excerpt": "Bhai Sukha Singh was a devoted Sikh warrior renowned for his role in avenging the desecration of Harmandir Sahib by Massa Ranghar alongside Bhai Mehtab Singh in 1740. He later led Sikh jathas in battles against Mughal forces, embodying the Khalsa spirit during a period of intense persecution.",
+  "designation": "Sikh Warrior and Martyr",
+  "quickStats": [
+    {
+      "label": "Era",
+      "value": "Post-Guru Period (18th Century)"
+    },
+    {
+      "label": "Affiliation",
+      "value": "Khalsa Sikhs"
+    },
+    {
+      "label": "Key Event",
+      "value": "Killing of Massa Ranghar (1740)"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Village",
+      "value": "Mardi Kambo ki"
+    },
+    {
+      "label": "Companions",
+      "value": "Bhai Mehtab Singh"
+    },
+    {
+      "label": "Battles",
+      "value": "Eminabad Raid (1746), Chhota Ghalughara (1746)"
+    },
+    {
+      "label": "Death",
+      "value": "Battle against Ahmed Shah Durrani (1752)"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2023-10-01",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": "N/A"
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "",
+      "value": "Limited historical records exist on Bhai Sukha Singh's early life. He hailed from the village of Mardi Kambo ki, near Amritsar in Punjab. As a devout Sikh during a time of severe Mughal persecution under Zakariya Khan, Bhai Sukha Singh likely grew up in an environment of hiding and resistance. The Sikh community had been driven into hills and deserts following Nadir Shah's invasion in 1739, shaping young Sikhs like him into resilient warriors. No specific birth date is recorded, but his actions place him as an adult in the 1740s (citationNeeded: Exact early life details)."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "",
+      "value": "Bhai Sukha Singh's most notable contribution was his daring mission in August 1740 to eliminate Massa Ranghar, the Mughal commander desecrating Harmandir Sahib in Amritsar. Disguised as revenue collectors with sacks of broken pottery, he and Bhai Mehtab Singh infiltrated the gurdwara, beheaded Ranghar while he indulged in forbidden activities, and escaped on horseback tied to the historic Ber tree (still standing today). This act restored Sikh honor and inspired resistance.  \nLater, he was entrusted with leading a Sikh jatha (detachment). In early 1746, he joined Jassa Singh Ahluwalia in raiding Eminabad (Gujranwala District), killing Jaspat Rai and triggering the Chhota Ghalughara. Badly injured, he escaped to Malwa's sandy plains with survivors. In January 1752, during Ahmed Shah Durrani's third invasion, he led a foraging expedition near Shahdara, engaging enemy troops in a fierce battle where he and his companions attained martyrdom."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "",
+      "value": "N/A (Bhai Sukha Singh was primarily a warrior, not a reformer. His actions reinforced Sikh martial traditions and the protection of sacred sites.)"
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "",
+      "value": "N/A (No known writings or compositions attributed to him. Sikh tradition focuses on his martial deeds rather than literary contributions.)"
+    },
+    {
+      "label": "Final Years",
+      "icon": "",
+      "value": "Bhai Sukha Singh's final years were marked by guerrilla warfare against invading forces. In early 1752, while scouting near the Ravi River during Durrani's campaign on Lahore, his small group encountered a superior enemy force. They fought valiantly until the end, with Bhai Sukha Singh dying in battle, upholding the Sikh principle of never surrendering."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Bhai Sukha Singh exemplified the Khalsa ideals of courage, faith, and defense of dharma. His role in reclaiming Harmandir Sahib symbolizes Sikh resilience against oppression, reinforcing the community's commitment to protecting holy sites.",
+    "keyContributions": [
+      "Avenged desecration of Harmandir Sahib, preventing further misuse and inspiring future generations.",
+      "Led jathas in key skirmishes, contributing to the survival and organization of Sikh misls during persecution."
+    ]
+  },
+  "modernRelevance": {
+    "description": "In contemporary Sikhism, Bhai Sukha Singh is remembered as a hero of resistance, with his story taught in gurdwaras and historical narratives to emphasize standing against injustice.",
+    "contemporaryImpact": [
+      "The Ber tree at Harmandir Sahib serves as a pilgrimage site, where visitors pay homage, linking past sacrifices to present devotion.",
+      "His legacy influences Sikh activism in protecting religious freedoms globally."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Execution of Massa Ranghar",
+      "year": "1740",
+      "description": "Bold infiltration and elimination of the desecrator of Harmandir Sahib",
+      "icon": "🗡️"
+    },
+    {
+      "title": "Leadership of Jatha",
+      "year": "1746",
+      "description": "Commanded Sikh forces in Eminabad raid and survived Chhota Ghalughara",
+      "icon": "⚔️"
+    },
+    {
+      "title": "Martyrdom in Battle",
+      "year": "1752",
+      "description": "Died fighting Durrani's troops, upholding Khalsa valor",
+      "icon": "🛡️"
+    }
+  ],
+  "quotes": [
+    {
+      "original": "N/A",
+      "transliteration": "N/A",
+      "translation": "N/A",
+      "context": "No direct quotes recorded; his actions speak through Sikh oral traditions and janamsakhis.",
+      "source": "(citationNeeded)"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1739,
+      "date": "Early",
+      "event": "Mughal persecution intensifies post-Nadir Shah's invasion",
+      "type": "Historical Context"
+    },
+    {
+      "year": 1740,
+      "date": "August",
+      "event": "Beheads Massa Ranghar at Harmandir Sahib with Bhai Mehtab Singh",
+      "type": "Military"
+    },
+    {
+      "year": 1746,
+      "date": "Early",
+      "event": "Joins Jassa Singh Ahluwalia; raids Eminabad, kills Jaspat Rai",
+      "type": "Military"
+    },
+    {
+      "year": 1746,
+      "date": "1746-05-01",
+      "event": "Participates in Chhota Ghalughara at Kahnuvan; escapes injured",
+      "type": "Battle"
+    },
+    {
+      "year": 1752,
+      "date": "1752-01",
+      "event": "Martyrdom in skirmish against Ahmed Shah Durrani near Shahdara",
+      "type": "Martyrdom"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Bhai Mehtab Singh",
+      "relation": "Companion in Ranghar mission",
+      "slug": "bhai-mehtab-singh"
+    },
+    {
+      "name": "Jassa Singh Ahluwalia",
+      "relation": "Ally in 1746 raids",
+      "slug": "jassa-singh-ahluwalia"
+    },
+    {
+      "name": "Massa Ranghar",
+      "relation": "Adversary, desecrator",
+      "slug": "massa-ranghar"
+    }
+  ],
+  "historicalContext": {
+    "period": "Mid-18th Century (Post-Guru, Sikh Misls Era)",
+    "politicalSituation": "Intense Mughal persecution under Zakariya Khan and Yahiya Khan; invasions by Nadir Shah (1739) and Ahmed Shah Durrani (1752). Sikhs were hunted, with rewards for their capture, forcing guerrilla warfare.",
+    "socialConditions": "Sikhs lived in hiding in hills and deserts; sacred sites like Harmandir Sahib were occupied and desecrated. Community focused on survival, faith preservation, and armed resistance.",
+    "significance": "Bhai Sukha Singh's actions highlighted Sikh defiance, contributing to the eventual establishment of Sikh sovereignty. The 1740 incident galvanized the community, leading to organized misls."
+  },
+  "references": [
+    "SikhiWiki: \"Bhai Sukha Singh and Bhai Mehtab Singh\" (https://www.sikhiwiki.org/index.php/Bhai_Sukha_Singh_and_Bhai_Mehtab_Singh) - Primary source for biography and events.",
+    "Wikipedia: No dedicated page; cross-referenced with \"Massa Ranghar\" and \"Chhota Ghallughara\" articles for context.",
+    "Historical Texts: Bhai Vir Singh's works and Sikh janamsakhis (oral traditions) mention the Ranghar incident.",
+    "(citationNeeded): Exact birth details and personal quotes; further verification from \"Panth Prakash\" by Rattan Singh Bhangu recommended.  ",
+    "Tool Usage: Read_Website_Content (SikhiWiki); wikipedia-api (no direct match, but contextual pages used). Image validation: No specific image; used related historical depiction (checked via tool - valid URL)."
+  ]
+}
