@@ -1,0 +1,198 @@
+{
+    "name": "Sardar Hari Singh Nalwa Ji",
+    "slug": "sardar-hari-singh-nalwa-ji",
+    "category": "warriors",
+    "birth": "1791-00-00",
+    "death": "1837-04-30",
+    "birthPlace": "Gujranwala, Punjab (present-day Pakistan)",
+    "image": "https://khalsavox.com/wp-content/uploads/2023/05/image-115.png",
+    "excerpt": "Sardar Hari Singh Nalwa Ji (1791–1837) was the legendary commander-in-chief of the Sikh Khalsa Army under Maharaja Ranjit Singh. Famous as the 'Lion of the Frontier', he extended the Sikh Empire up to the Khyber Pass, defeating Afghans and Pathans repeatedly. His fearless leadership, unmatched bravery, and administration made him one of the greatest generals in Indian history.",
+    "designation": "Commander-in-Chief of the Sikh Khalsa Army; Governor of Kashmir, Hazara, and Peshawar.",
+    "quickStats": [
+      {
+        "label": "Title",
+        "value": "The Lion of the Frontier"
+      },
+      {
+        "label": "Military Role",
+        "value": "Commander-in-Chief of the Sikh Khalsa Army"
+      },
+      {
+        "label": "Governorships",
+        "value": "Kashmir, Hazara, Peshawar"
+      },
+      {
+        "label": "Key Battles",
+        "value": "Kasur, Multan, Kashmir, Jamrud"
+      }
+    ],
+    "quickFacts": [
+      {
+        "label": "Famous Feat",
+        "value": "First Indian general to control the Khyber Pass"
+      },
+      {
+        "label": "Fear Among Afghans",
+        "value": "Afghans used to silence children by saying 'Hari Singh Nalwa will come!'"
+      },
+      {
+        "label": "Title 'Nalwa'",
+        "value": "Earned after killing a tiger with his bare hands at 17"
+      }
+    ],
+    "version": {
+      "lastUpdated": "2025-09-11T12:00:00Z",
+      "version": "1.0",
+      "contributors": 0,
+      "edits": 0,
+      "historyUrl": "N/A"
+    },
+    "biographySections": [
+      {
+        "label": "Early Life",
+        "icon": "fas fa-child",
+        "value": "Hari Singh Ji was born in 1791 at Gujranwala. Orphaned at a young age, he was raised by his mother, Mata Dharam Kaur Ji. At 17, he joined Maharaja Ranjit Singh’s army and displayed exceptional courage, famously killing a tiger single-handedly, earning him the name 'Nalwa'."
+      },
+      {
+        "label": "Rise in the Khalsa Army",
+        "icon": "fas fa-crown",
+        "value": "Recognized for his valor, Hari Singh quickly rose through the ranks. He became one of Maharaja Ranjit Singh’s most trusted generals and was entrusted with commanding Sikh armies in key battles."
+      },
+      {
+        "label": "Military Campaigns",
+        "icon": "fas fa-crossed-swords",
+        "value": "He fought and led in crucial campaigns: Kasur (1807), Sialkot (1809), Multan (1818), Kashmir (1819), Hazara expeditions, and the frontier battles of Peshawar. His victories consolidated Sikh control across Punjab and beyond."
+      },
+      {
+        "label": "Governor of Frontier",
+        "icon": "fas fa-landmark",
+        "value": "Hari Singh was appointed governor of Kashmir, Hazara, and Peshawar. He established law and order, built forts including Jamrud Fort, and kept Afghan tribes in check, ensuring security for Punjab’s northwestern border."
+      },
+      {
+        "label": "Battle of Jamrud & Martyrdom",
+        "icon": "fas fa-hourglass-end",
+        "value": "In 1837, at the Battle of Jamrud near the Khyber Pass, Hari Singh fought fiercely against Afghan forces. Mortally wounded, he commanded his men not to reveal his death until reinforcements arrived, ensuring Sikh control of the fort. He attained martyrdom at age 46."
+      }
+    ],
+    "spiritualLegacy": {
+      "description": "Hari Singh Nalwa Ji embodied the Khalsa ideal of fearless leadership and selfless service. His bravery was rooted in Sikh values of defending justice and protecting the innocent.",
+      "keyContributions": [
+        "Extended Sikh Empire to the Khyber Pass.",
+        "Ensured Punjab was secure from Afghan invasions.",
+        "Symbolized courage and discipline of the Khalsa Army."
+      ]
+    },
+    "modernRelevance": {
+      "description": "Hari Singh Nalwa Ji remains a symbol of military genius, national defense, and Sikh valor. His strategies and discipline inspire military academies and leaders worldwide.",
+      "contemporaryImpact": [
+        "His frontier defense model is studied in military history.",
+        "Remains a folk hero in Punjab and among Sikhs globally.",
+        "Symbolizes standing firm against invasions and oppression."
+      ]
+    },
+    "achievements": [
+      {
+        "title": "Defeat of Kasur",
+        "year": "1807",
+        "description": "Distinguished himself in the battle of Kasur, earning recognition as a young commander.",
+        "icon": ""
+      },
+      {
+        "title": "Capture of Multan",
+        "year": "1818",
+        "description": "Played a leading role in annexing Multan to the Sikh Empire.",
+        "icon": ""
+      },
+      {
+        "title": "Conquest of Kashmir",
+        "year": "1819",
+        "description": "Led Sikh forces to capture Kashmir, ending centuries of Afghan rule.",
+        "icon": ""
+      },
+      {
+        "title": "Governorship of Peshawar",
+        "year": "1834",
+        "description": "Appointed governor of Peshawar, established Sikh authority on the frontier.",
+        "icon": ""
+      },
+      {
+        "title": "Battle of Jamrud",
+        "year": "1837",
+        "description": "Defended the Jamrud Fort against Afghans; achieved martyrdom ensuring Sikh control of the Khyber gateway.",
+        "icon": ""
+      }
+    ],
+    "quotes": [
+      {
+        "original": "چپ کر جا، نہیں تاں ہری سنگھ آ جائے گا!",
+        "transliteration": "Chup kar ja, nahin tan Hari Singh aa javega!",
+        "translation": "Be quiet, or Hari Singh will come!",
+        "context": "Afghan mothers would say this to silence children, reflecting the fear and respect his name commanded.",
+        "source": "Afghan oral tradition"
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1791,
+        "event": "Birth of Hari Singh Nalwa Ji in Gujranwala.",
+        "type": "Birth"
+      },
+      {
+        "year": 1807,
+        "event": "Joined Sikh Khalsa Army; distinguished in Battle of Kasur.",
+        "type": "Military"
+      },
+      {
+        "year": 1818,
+        "event": "Played key role in annexation of Multan.",
+        "type": "Military"
+      },
+      {
+        "year": 1819,
+        "event": "Led Sikh forces in conquest of Kashmir.",
+        "type": "Military"
+      },
+      {
+        "year": 1834,
+        "event": "Appointed governor of Peshawar.",
+        "type": "Leadership"
+      },
+      {
+        "year": 1837,
+        "date": "April 30",
+        "event": "Martyrdom in the Battle of Jamrud near the Khyber Pass.",
+        "type": "Death"
+      }
+    ],
+    "relatedPersonalities": [
+      {
+        "name": "Maharaja Ranjit Singh Ji",
+        "relation": "Ruler under whom he served",
+        "slug": "maharaja-ranjit-singh-ji",
+        "category": "Leaders",
+        "image": "/placeholder.png",
+        "exists": false
+      },
+      {
+        "name": "Dost Mohammad Khan",
+        "relation": "Afghan adversary at Jamrud",
+        "slug": "dost-mohammad-khan",
+        "category": "Adversary",
+        "image": "/placeholder.png",
+        "exists": false
+      }
+    ],
+    "historicalContext": {
+      "period": "Early 19th century, Sikh Empire expansion.",
+      "politicalSituation": "The Sikh Empire rose under Maharaja Ranjit Singh while Afghans and Pathans sought to reclaim frontier territories.",
+      "socialConditions": "Punjab was transitioning into a strong empire, offering stability and security against centuries of invasions.",
+      "significance": "Hari Singh Nalwa Ji secured the northwest frontier, making the Sikh Empire one of the few powers to halt Afghan incursions into India."
+    },
+    "references": [
+      "Wikipedia: https://en.wikipedia.org/wiki/Hari_Singh_Nalwa",
+      "SikhiWiki: https://www.sikhiwiki.org/index.php/Hari_Singh_Nalwa",
+      "Khushwant Singh, *A History of the Sikhs, Vol. 2: 1839-2004*",
+      "Hari Ram Gupta, *History of the Sikhs*",
+      "Sikh Oral Tradition and Historical Records"
+    ]
+  }
