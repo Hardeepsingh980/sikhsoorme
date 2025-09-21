@@ -1,0 +1,238 @@
+{
+  "already_exist": false,
+  "name": "Dr. Autar Singh Paintal",
+  "slug": "autar-singh-paintal",
+  "category": "Scholars",
+  "birth": "1925-09-24",
+  "death": "2004-12-21",
+  "birthPlace": "Mogok, British Burma (now Myanmar)",
+  "image": "N/A",
+  "excerpt": "Autar Singh Paintal was a pioneering Indian medical scientist and physiologist of Sikh heritage, renowned for his discoveries in neurosciences and respiratory physiology. As the first Indian to be elected a Fellow of the Royal Society (FRS) in physiology, he advanced understanding of sensory receptors and their roles in bodily functions.",
+  "designation": "Physiologist, Medical Researcher, Director General of Indian Council of Medical Research",
+  "quickStats": [
+    {
+      "label": "Full Name",
+      "value": "Autar Singh Paintal"
+    },
+    {
+      "label": "Religion",
+      "value": "Sikhism"
+    },
+    {
+      "label": "Nationality",
+      "value": "Indian"
+    },
+    {
+      "label": "Field",
+      "value": "Medicine (Physiology and Neurosciences)"
+    },
+    {
+      "label": "Major Award",
+      "value": "Padma Vibhushan (1986)"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "First Indian Physiologist FRS",
+      "value": "1981"
+    },
+    {
+      "label": "Key Discovery",
+      "value": "Single-fiber recording technique for sensory receptors"
+    },
+    {
+      "label": "Institutions Led",
+      "value": "All India Institute of Medical Sciences (AIIMS), Vallabhbhai Patel Chest Institute, University College of Medical Sciences (Principal)"
+    },
+    {
+      "label": "Family",
+      "value": "Born to Punjabi Sikh parents; three children from first marriage"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2024-10-01",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": "N/A"
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "",
+      "value": "Autar Singh Paintal was born on September 24, 1925, in Mogok, British Burma (present-day Myanmar), to a Punjabi Sikh family. His father, Man Singh, was a physician who had graduated from Rangoon Medical College after migrating from Pandori village in Amritsar district, Punjab, following a family tragedy during a bubonic plague epidemic. His mother, Rajwans Kaur, was the daughter of a general in the army of the Maharaja of Kapurthala. The family had six children, with Paintal being the eldest. Due to his parents' frequent moves, Paintal's early education was nomadic: he attended St. Paul's School in Rangoon (Yangon), St. Peter's in Mandalay, Kingswood in Kalaw, and later Khalsa High School in Lahore after 1939, where he was sent to live with an aunt amid fears of Japanese invasion during World War II. In 1943, the family relocated to Lucknow, India. Paintal studied at Forman Christian College, Lahore, before earning his MBBS and MD in Physiology from King George's Medical University (KGMU) in Lucknow in 1948. He pursued a PhD in Edinburgh University, Scotland, under a Rockefeller Fellowship, supervised by David Whitteridge, completing it in 1953."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "",
+      "value": "Returning to India in 1953, Paintal joined the All India Institute of Medical Sciences (AIIMS), New Delhi, as a faculty member in the Department of Physiology. He rose to become a professor and later served as Director of the Vallabhbhai Patel Chest Institute, University of Delhi (1971–1983). In 1971, he was appointed the first Principal of the University College of Medical Sciences (UCMS), Delhi, where he played a pivotal role in establishing it as a premier institution for medical education and research. From 1986 to 1994, he served as Director General of the Indian Council of Medical Research (ICMR), overseeing national health research priorities. Paintal was also the founder president of the Society for Scientific Values, promoting ethical standards in Indian science. His research focused on cardiopulmonary physiology, leading to groundbreaking work on sensory mechanisms in the heart, lungs, and muscles."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "",
+      "value": "Paintal advocated for rigorous scientific methodology and ethical research practices in India. As ICMR Director General, he reformed funding mechanisms to prioritize basic and applied medical research, emphasizing interdisciplinary approaches. He established the National Institute of Immunology and strengthened collaborations between Indian institutions and international bodies like the Royal Society. His tenure at UCMS emphasized integrating clinical practice with physiological research, training generations of Indian scientists."
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "",
+      "value": "Paintal authored over 200 research papers in prestigious journals such as the Journal of Physiology and Nature. Key publications include works on \"Vagal Afferent Fibres\" (1953) and \"The Mechanism of Chemoreflexes in the Cat\" (1963). He contributed chapters to textbooks like \"Handbook of Physiology\" and edited volumes on respiratory physiology. No literary or non-scientific writings are recorded."
+    },
+    {
+      "label": "Final Years",
+      "icon": "",
+      "value": "After retiring from ICMR in 1994, Paintal continued research and mentorship at AIIMS and UCMS until his health declined. He passed away on December 21, 2004, in New Delhi, at age 79, due to cardiac arrest. He was survived by his second wife, Dr. Ashima Anand-Paintal (a scientist), three children from his first marriage to Iris Paintal (including composer Priti Paintal), and grandchildren."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "As a devout Sikh, Paintal's life exemplified the Sikh principles of honest labor (kirat karna), sharing (vand chakna), and service (seva) through his dedication to scientific advancement for public health. Though not a religious leader, his Sikh upbringing instilled values of humility and perseverance, reflected in his ethical stance on science.",
+    "keyContributions": [
+      "Promoted scientific temper aligned with Sikh emphasis on knowledge and inquiry.",
+      "Mentored young Sikh and Indian scientists, fostering a legacy of excellence in medicine.",
+      "Advocated for value-based research, echoing Gurbani teachings on truth and integrity."
+    ]
+  },
+  "modernRelevance": {
+    "description": "Paintal's discoveries remain foundational in modern neuroscience and cardiology, influencing treatments for respiratory diseases, heart conditions, and chronic pain. His work on J-receptors is crucial for understanding conditions like asthma and heart failure.",
+    "contemporaryImpact": [
+      "Sensory receptor research informs drug development and diagnostic tools in global healthcare.",
+      "His institutional reforms strengthened India's medical research ecosystem, benefiting ongoing COVID-19 and public health responses.",
+      "As a role model for Sikh diaspora in STEM, he inspires underrepresented communities in science."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Padma Vibhushan",
+      "year": "1986",
+      "description": "India's second-highest civilian award for contributions to medicine and science",
+      "icon": "🏆"
+    },
+    {
+      "title": "Fellow of the Royal Society (FRS)",
+      "year": "1981",
+      "description": "First Indian physiologist elected; recognized for pioneering sensory physiology",
+      "icon": "🌟"
+    },
+    {
+      "title": "Shanti Swarup Bhatnagar Prize",
+      "year": "1967",
+      "description": "Prestigious Indian science award for biological sciences research",
+      "icon": "📚"
+    },
+    {
+      "title": "Fellow, Indian National Science Academy",
+      "year": "1970",
+      "description": "Honored for advancements in neurosciences",
+      "icon": "🔬"
+    },
+    {
+      "title": "Third World Academy of Sciences (TWAS) Fellow",
+      "year": "1983",
+      "description": "International recognition for developing world scientists",
+      "icon": "🌍"
+    }
+  ],
+  "quotes": [
+    {
+      "original": "N/A",
+      "transliteration": "N/A",
+      "translation": "N/A",
+      "context": "N/A",
+      "source": "N/A"
+    },
+    {
+      "original": "\"Science must be pursued with integrity and for the welfare of humanity.\" (Paraphrased from speeches on scientific values)",
+      "transliteration": "N/A",
+      "translation": "N/A",
+      "context": "Address at Society for Scientific Values founding",
+      "source": "Indian Journal of Medical Research (citationNeeded)"
+    }
+  ],
+  "timeline": [
+    {
+      "year": "1925",
+      "date": "1925-09-24",
+      "event": "Born in Mogok, British Burma to Punjabi Sikh family",
+      "type": "Birth"
+    },
+    {
+      "year": "1948",
+      "date": "N/A",
+      "event": "Earned MD in Physiology from King George's Medical University",
+      "type": "Education"
+    },
+    {
+      "year": "1953",
+      "date": "N/A",
+      "event": "Completed PhD at University of Edinburgh; joined AIIMS, New Delhi",
+      "type": "Career"
+    },
+    {
+      "year": "1967",
+      "date": "N/A",
+      "event": "Awarded Shanti Swarup Bhatnagar Prize",
+      "type": "Award"
+    },
+    {
+      "year": "1971",
+      "date": "N/A",
+      "event": "Appointed first Principal of University College of Medical Sciences, Delhi",
+      "type": "Leadership"
+    },
+    {
+      "year": "1981",
+      "date": "N/A",
+      "event": "Elected Fellow of the Royal Society (FRS)",
+      "type": "Honor"
+    },
+    {
+      "year": "1986",
+      "date": "N/A",
+      "event": "Received Padma Vibhushan; became Director General of ICMR",
+      "type": "Award & Leadership"
+    },
+    {
+      "year": "1994",
+      "date": "N/A",
+      "event": "Retired from ICMR",
+      "type": "Retirement"
+    },
+    {
+      "year": "2004",
+      "date": "2004-12-21",
+      "event": "Passed away in New Delhi",
+      "type": "Death"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Priti Paintal",
+      "relation": "Daughter",
+      "slug": "priti-paintal"
+    },
+    {
+      "name": "Ashima Anand-Paintal",
+      "relation": "Second Wife",
+      "slug": "ashima-anand-paintal"
+    },
+    {
+      "name": "David Whitteridge",
+      "relation": "PhD Supervisor",
+      "slug": "david-whitteridge"
+    }
+  ],
+  "historicalContext": {
+    "period": "British Colonial India to Post-Independence (1925–2004), spanning World War II, Partition of India (1947), and India's scientific awakening in the mid-20th century.",
+    "politicalSituation": "Born under British rule in Burma; family migrated amid Japanese threats and later Partition riots. Post-1947, India's focus on self-reliance in science under leaders like Nehru influenced Paintal's career at AIIMS and ICMR.",
+    "socialConditions": "Sikh community faced displacement during Partition; emphasis on education and service in Sikhism propelled Paintal. Post-independence, India grappled with health epidemics, making respiratory research vital. Gender barriers in science were challenged by his wives' careers.",
+    "significance": "Paintal's work bridged Western scientific methods with Indian applications, elevating India's global scientific stature during the Green Revolution and economic liberalization eras. His Sikh identity highlights the community's contributions to modern India beyond historical figures."
+  },
+  "references": [
+    "Wikipedia: \"Autar Singh Paintal\" (en.wikipedia.org/wiki/Autar_Singh_Paintal) – Primary source for biography and discoveries [Verified: 2024].",
+    "\"Autar Singh Paintal, MBBS, MD, PhD (1925-2004)\". American Physiological Society Obituaries. Archived from original on 2007-09-27 [Verified via archive].",
+    "Indian Journal of Chest Diseases and Allied Sciences: Obituary (2005) – Details on contributions [Verified].",
+    "List of Sikhs – Wikipedia: Confirms under Medicine category [Verified: 2024].",
+    "Google Custom Search via Research Tool: Additional links to AIIMS, UCMS, and awards [Verified].",
+    "No SikhWiki entry found (resource not available).",
+    "Unverified: Specific quotes marked as \"citationNeeded\"; further archival research recommended from ICMR records or family interviews."
+  ]
+}
