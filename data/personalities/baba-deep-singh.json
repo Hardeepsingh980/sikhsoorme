@@ -1,0 +1,77 @@
+{
+  "name": "Baba Deep Singh",
+  "slug": "baba-deep-singh",
+  "category": "Martyrs",
+  "birth": "1682-01-26",
+  "death": "1757-11-13",
+  "birthPlace": "Pahuwind village, Amritsar district, Punjab",
+  "excerpt": "Baba Deep Singh is revered among Sikhs as one of the most hallowed martyrs in Sikhism. He is remembered for his extraordinary sacrifice and unwavering devotion to the teachings of the Sikh Gurus, particularly for valiantly defending the Harmandir Sahib (Golden Temple) in Amritsar. He was the first head of Misl Shaheedan Tarna Dal.",
+  "designation": "Sikh Warrior, Scholar, Scribe, Martyr, Head of Shaheed Misl and Damdami Taksal.",
+  "quickStats": [
+    {
+      "label": "Lifespan",
+      "value": "75 years"
+    },
+    {
+      "label": "Battles Fought",
+      "value": "Battle of Sadhaura, Battle of Chappar Chiri, Defense of Harmandir Sahib"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Baptised by Guru Gobind Singh",
+      "value": "1700"
+    },
+    {
+      "label": "Helped Bhai Mani Singh",
+      "value": "Transcribing copies of Guru Granth Sahib"
+    },
+    {
+      "label": "Martyrdom",
+      "value": "Died defending Harmandir Sahib from Afghan forces"
+    },
+    {
+      "label": "Founder of Shaheed Misl",
+      "value": "Yes"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2023-11-19T12:00:00Z",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": ""
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "fa-user",
+      "value": "Baba Deep Singh was born on January 26, 1682, into a Sandhu Jat Sikh family in the village of Pahuwind, Amritsar district. His father was Bhagta, and his mother was Jioni. At age 18, he traveled to Anandpur Sahib on Vaisakhi in 1700, where he was initiated into the Khalsa by Guru Gobind Singh. He trained in martial arts, Gurmukhi, and Gurbani under Guru Gobind Singh and Bhai Mani Singh. He returned to his village in 1702 and was later summoned to Talwandi Sabo in 1705 to assist in transcribing the Guru Granth Sahib."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "fa-sword",
+      "value": "Participated in key battles such as Sadhaura and Chappar Chiri. Appointed leader of Shaheed Misl in 1748. Helped preserve Gurbani by transcribing the Guru Granth Sahib with Bhai Mani Singh."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "fa-pencil-alt",
+      "value": "Ensured accurate transcription and preservation of the Guru Granth Sahib, contributing to Sikh spiritual continuity."
+    },
+    {
+      "label": "Final Years",
+      "icon": "fa-clock",
+      "value": "In 1757, after Durrani’s invasion and the sacrilege of Harmandir Sahib, Baba Deep Singh led a convoy to defend and rebuild the temple. He fought bravely and was mortally wounded, continuing to fight with his severed head before passing away."
+    },
+    {
+      "label": "Spiritual Legacy",
+      "icon": "fa-star",
+      "value": "Exemplifies unwavering devotion, courage, and sacrifice. Inspired Sikhs to defend their faith and sacred sites."
+    },
+    {
+      "label": "Modern Relevance",
+      "icon": "fa-globe",
+      "value": "Symbol of bravery and sacrifice. His martyrdom site in Amritsar remains a pilgrimage destination; his story motivates Sikhs globally."
+    }
+  ]
+}
