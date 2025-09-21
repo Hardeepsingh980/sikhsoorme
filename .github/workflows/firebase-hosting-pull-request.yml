@@ -1,0 +1,48 @@
+# Deploy to Firebase Hosting on PR
+# https://github.com/firebase/firebase-tools
+
+name: Deploy to Firebase Hosting on PR
+
+on: pull_request
+
+jobs:
+  build_and_preview:
+    if: ${{ github.event.pull_request.head.repo.full_name == github.repository }}
+    runs-on: ubuntu-latest
+
+    env:
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+      NEXT_PUBLIC_SUPABASE_URL: ${{ vars.NEXT_PUBLIC_SUPABASE_URL }}
+      NEXT_PUBLIC_SUPABASE_ANON_KEY: ${{ vars.NEXT_PUBLIC_SUPABASE_ANON_KEY }}
+
+    steps:
+      - name: ⬇️ Checkout repo
+        uses: actions/checkout@v4
+
+      - name: 🧱 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: 📦 Install dependencies
+        run: |
+          npm ci
+          npm install --save-dev tsx typescript
+
+      - name: 🛠️ Run data scripts
+        run: |
+          npx tsx scripts/generateCategories.ts
+          npx tsx scripts/generateHomepageData.ts
+          npx tsx scripts/pushToSupabase.ts
+          npx tsx scripts/enrichRelatedPersonalities.ts
+
+      - name: ⚒️ Build static site
+        run: npm run build
+
+      - name: 🚀 Deploy to Firebase Hosting Preview
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_GURBANI_76363 }}
+          projectId: gurbani-76363
