@@ -1,0 +1,177 @@
+{
+  "already_exist": true,
+  "name": "Gurbaksh Singh Khalsa",
+  "slug": "gurbaksh-singh-khalsa",
+  "category": "Activists",
+  "birth": "1965-12-12",
+  "death": "2018-03-20",
+  "birthPlace": "Kurukshetra, Haryana, India",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gurbaksh_Singh_Khalsa.jpg/220px-Gurbaksh_Singh_Khalsa.jpg",
+  "excerpt": "Gurbaksh Singh Khalsa was a prominent Sikh civil rights activist known for his prolonged hunger strikes advocating for the release of Sikh political prisoners detained in Indian jails.",
+  "designation": "Sikh Civil Rights Activist",
+  "quickStats": [
+    {
+      "label": "Age at Death",
+      "value": 52
+    },
+    {
+      "label": "Spouse",
+      "value": "Jasbir Kaur (m. 1987)"
+    },
+    {
+      "label": "Children",
+      "value": 1
+    },
+    {
+      "label": "Nationality",
+      "value": "Indian"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Parents",
+      "value": "Ajit Singh (father), Mohinder Kaur (mother)"
+    },
+    {
+      "label": "Baptism",
+      "value": "Gurdwara Lakhnaur Sahib"
+    },
+    {
+      "label": "Death Place",
+      "value": "Kurukshetra, Haryana, India"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2023-10-05T00:00:00Z",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": "https://en.wikipedia.org/w/index.php?title=Gurbaksh_Singh_Khalsa&action=history"
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "childhood",
+      "value": "Gurbaksh Singh Khalsa was born on December 12, 1965, in Kurukshetra, Haryana, India, to parents Ajit Singh and Mohinder Kaur. He received his primary education and Sikh religious training at Gurdwara Lakhnaur Sahib, where he was also baptized. In 1987, he married Jasbir Kaur, and the couple had one son. Khalsa's early life was deeply rooted in Sikh traditions, shaped by his family's involvement in the community and the local gurdwara."
+    },
+    {
+      "label": "Contributions and Activism",
+      "icon": "activism",
+      "value": "Gurbaksh Singh Khalsa emerged as a prominent Sikh civil rights activist, advocating for the release of Sikh political prisoners who had been detained in Indian jails. His activism was driven by a commitment to justice, drawing on Sikh principles of equality and resistance against injustice.\n\n- **2013 Hunger Strike**: In November 2013, Khalsa began a 44-day hunger strike to demand the release of Sikh detainees. The protest gained significant attention and support from Sikh organizations, artists, and the broader community. It ended after the Akal Takht Jathedar, Giani Gurbachan Singh, assured intervention with the state government. However, no immediate releases occurred, prompting Khalsa to resume his activism.\n\n- **2014-2015 Hunger Strike**: One year later, on November 14, 2014, Khalsa restarted his hunger strike at Gurdwara Lakhnaur Sahib in Haryana. This second campaign lasted 64 days, marking one of the longest such protests in recent Sikh history. By January 8, 2015 (Day 56), a police blockade prevented him from reaching the Akal Takht in Amritsar, the highest temporal seat of the Sikhs. On Day 58 (January 10, 2015), Khalsa was hospitalized due to severe breathing difficulties but continued his fast from his hospital bed in Ambala. His fellow activist, Gurpiar Singh, joined the protest at Lakhnaur Gurdwara in his absence.\n\nThe strike drew widespread support from Punjabi singers, actors, and activists, highlighting the ongoing issue of Sikh prisoners serving extended sentences beyond their legal terms. Discussions in outlets like *The Tribune* detailed the prisoners' cases and potential government responses. Khalsa's efforts spotlighted cases related to events like the 1995 assassination of Punjab Chief Minister Beant Singh and the 1984 anti-Sikh riots.\n\nKhalsa's campaigns emphasized non-violent resistance (inspired by Sikh history, such as the fasts of Darshan Singh Pheruman) and called for legal reforms. He criticized the government's inaction and urged the Sikh community to unite, drawing parallels to historical Sikh movements like the Dal Khalsa era."
+    },
+    {
+      "label": "Legacy",
+      "icon": "legacy",
+      "value": "Gurbaksh Singh Khalsa's activism inspired ongoing efforts for Sikh prisoner releases, influencing figures like Bapu Surat Singh Khalsa (who undertook a similar fast in 2015) and Vikram Singh Dhanaula (a youth activist protesting the 1984 riots). His dedication to Chardi Kala (eternal optimism) and humility resonated widely, as noted in personal accounts from Sikh diaspora members who visited him during his protests. Khalsa's work continues to highlight human rights issues within the Sikh community, emphasizing education, learning from history, and collective action against injustice."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Khalsa's activism was deeply rooted in Sikh principles of equality, justice, and resistance against oppression, embodying the concept of seva (selfless service) through his non-violent protests.",
+    "keyContributions": [
+      "Advocacy for release of Sikh political prisoners",
+      "Prolonged hunger strikes to raise awareness",
+      "Inspiration for community unity and historical remembrance"
+    ]
+  },
+  "modernRelevance": {
+    "description": "Gurbaksh Singh Khalsa's efforts remain relevant in contemporary Sikh advocacy, underscoring the unresolved issues of political detentions and human rights in India.",
+    "contemporaryImpact": [
+      "Influenced subsequent hunger strikes by activists like Bapu Surat Singh Khalsa",
+      "Highlighted ongoing struggles post-1984 anti-Sikh violence",
+      "Encouraged diaspora involvement in Sikh rights movements"
+    ]
+  },
+  "achievements": [
+    {
+      "title": "2013 Hunger Strike for Sikh Prisoners",
+      "year": "2013",
+      "description": "Initiated a 44-day hunger strike demanding the release of Sikh detainees, gaining widespread community support.",
+      "icon": "protest"
+    },
+    {
+      "title": "2014-2015 Extended Hunger Strike",
+      "year": "2014",
+      "description": "Conducted a 64-day hunger strike at Gurdwara Lakhnaur Sahib, spotlighting cases of extended sentences and drawing national attention.",
+      "icon": "endurance"
+    }
+  ],
+  "quotes": [],
+  "timeline": [
+    {
+      "year": 1965,
+      "date": "December 12",
+      "event": "Born in Kurukshetra, Haryana, India",
+      "type": "birth"
+    },
+    {
+      "year": 1987,
+      "date": "",
+      "event": "Married Jasbir Kaur",
+      "type": "personal"
+    },
+    {
+      "year": 2013,
+      "date": "November",
+      "event": "Began 44-day hunger strike for release of Sikh political prisoners",
+      "type": "activism"
+    },
+    {
+      "year": 2014,
+      "date": "November 14",
+      "event": "Started second hunger strike at Gurdwara Lakhnaur Sahib",
+      "type": "activism"
+    },
+    {
+      "year": 2015,
+      "date": "January 10",
+      "event": "Hospitalized but continued fast from bed due to health issues",
+      "type": "activism"
+    },
+    {
+      "year": 2018,
+      "date": "March 20",
+      "event": "Passed away in Kurukshetra, Haryana, India",
+      "type": "death"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Jasbir Kaur",
+      "relation": "Spouse",
+      "slug": "jasbir-kaur"
+    },
+    {
+      "name": "Ajit Singh",
+      "relation": "Father",
+      "slug": ""
+    },
+    {
+      "name": "Mohinder Kaur",
+      "relation": "Mother",
+      "slug": ""
+    },
+    {
+      "name": "Giani Gurbachan Singh",
+      "relation": "Akal Takht Jathedar",
+      "slug": "giani-gurbachan-singh"
+    },
+    {
+      "name": "Bapu Surat Singh Khalsa",
+      "relation": "Influenced Activist",
+      "slug": "bapu-surat-singh-khalsa"
+    }
+  ],
+  "historicalContext": {
+    "period": "Post-1984 Sikh Rights Movement",
+    "politicalSituation": "Detention of Sikh political prisoners following events like Operation Blue Star and anti-Sikh riots",
+    "socialConditions": "Ongoing demand for justice, autonomy, and human rights in Punjab",
+    "significance": "Echoed historical Sikh protests, emphasizing non-violent resistance and community unity"
+  },
+  "references": [
+    "Wikipedia: Gurbaksh Singh Khalsa (https://en.wikipedia.org/wiki/Gurbaksh_Singh_Khalsa)",
+    "SikhNet: Activist Stays Steadfast for Human Rights (https://www.sikhnet.com/news/activist-stays-steadfast-human-rights)",
+    "Sikh24: Brief biography and updates on his campaigns (2013-2015)",
+    "The Tribune (India): Coverage of prisoner lists and government responses (January 2015)",
+    "Hindustan Times: Report on his death and final demand (March 21, 2018)"
+  ]
+}
