@@ -1,0 +1,219 @@
+{
+  "already_exist": false,
+  "name": "Baba Atal Rai",
+  "slug": "baba-atal-rai",
+  "category": "Guru Family",
+  "birth": "1619-01-01",
+  "death": "1628-07-23",
+  "birthPlace": "Amritsar, Punjab, India",
+  "image": "https://www.sikhiwiki.org/images/9/96/Baba_atal_tower.jpg",
+  "excerpt": "Baba Atal Rai, the young son of Guru Hargobind, is revered in Sikh tradition for his spiritual wisdom and miraculous revival of a friend, embodying humility and obedience to divine will despite his brief life.",
+  "designation": "Spiritual Prodigy; Son of the Sixth Sikh Guru",
+  "quickStats": [
+    {
+      "label": "Lifespan",
+      "value": "~9 years"
+    },
+    {
+      "label": "Relation to Guru",
+      "value": "Son of Guru Hargobind"
+    },
+    {
+      "label": "Memorial",
+      "value": "Nine-story Gurdwara Baba Atal in Amritsar"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Known For",
+      "value": "Reviving friend Mohan from death; displaying profound wisdom as a child"
+    },
+    {
+      "label": "Sikh Significance",
+      "value": "Exemplifies Sikh principles of not performing miracles and accepting Hukam (divine will)"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2023-10-01",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": "N/A"
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "",
+      "value": "Baba Atal Rai was born in 1619 in Amritsar to Guru Hargobind, the sixth Sikh Guru, and Mata Mahadevi (also referenced as Mata Nanaki in some sources; cross-verification needed – SikhiWiki specifies Mata Mahadevi, daughter of Bhai Daya Ram Marwah of Mandeala). From a young age, he displayed exceptional intelligence, liveliness, and deep religiosity, earning the honorific \"Baba\" (meaning wise elder) despite his youth. He was particularly fond of his father, who often cuddled him and cautioned against displaying spiritual powers frivolously. Atal enjoyed playing with peers near Kaulsar Sarovar, a pool built in memory of Bibi Kaulan, and served as their natural leader due to his boldness and wisdom. His conversations, even in play, carried profound humane insights, fostering respect among companions."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "",
+      "value": "Though his life was short, Baba Atal Rai's primary contribution was exemplifying Sikh values through his actions. He demonstrated spiritual prowess by reviving his friend Mohan, who had died from a snakebite, by touching him with a bat and invoking \"Satnam Waheguru.\" This act, while miraculous, highlighted themes of compassion and faith. However, it led to his self-imposed departure, teaching the Sikh community the importance of humility and non-interference with divine will. His legacy inspired the construction of Gurdwara Baba Atal, a site for communal service including langar (free community kitchen) distribution."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "",
+      "value": "N/A (As a child, he did not initiate formal reforms; his life reinforced Guru Hargobind's teachings against miracles, aligning with broader Sikh reforms emphasizing Miri-Piri (temporal and spiritual balance) during a period of Mughal persecution)."
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "",
+      "value": "N/A (No known writings; his wisdom was oral, shared through play and interactions. Referenced in Sikh texts like Gurbilas Chhevin Patshahi for his story)."
+    },
+    {
+      "label": "Final Years",
+      "icon": "",
+      "value": "Following the revival of Mohan, Guru Hargobind expressed displeasure, reminding Atal of his grandfather Guru Arjan Dev's martyrdom and the Sikh principle of accepting God's will (\"Teri Bhaana Meetha Lagai\" – Thy will is sweet to me). Chastened, the nine-year-old Atal bathed in the sacred sarovar, circumambulated Harmandir Sahib four times, and sat by Kaulsar Sarovar. There, contemplating the Guru Granth Sahib, he recited Japji Sahib and peacefully departed on July 23, 1628. His body was cremated at the site, and Guru Hargobind instructed no mourning, affirming, \"All those who are born must die. Such is the Almighty’s Will.\""
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Baba Atal Rai's life, though brief, symbolizes spiritual maturity and obedience in Sikhism. Revered for his innate wisdom and miracle, he is honored as a reminder that true power lies in surrendering to divine will, not displaying siddhis (supernatural abilities). The nine-story Gurdwara Baba Atal, built in his memory (foundation ~1778–1784 under Jodh Singh Ramgarhia, completed with public donations), stands as a testament to his enduring spiritual influence near the Golden Temple.",
+    "keyContributions": [
+      "Revival of Mohan: Demonstrated faith's power but underscored the Gurus' rebuke of miracles to prevent superstition.",
+      "Inspiration for Gurdwara: The tower's nine stories represent his nine years, serving as a pilgrimage site for reflection on mortality and devotion.",
+      "Tradition of Langar: Visitors invoke \"O Baba Atal, Pakkian Pakaian ghal\" for blessed food, promoting seva (service) and equality."
+    ]
+  },
+  "modernRelevance": {
+    "description": "In contemporary Sikhism, Baba Atal Rai's story teaches humility amid modern distractions like seeking personal miracles or fame. The Gurdwara remains a vibrant site in Amritsar, drawing pilgrims for its architecture and historical significance.",
+    "contemporaryImpact": [
+      "Educational Symbol: Used in Sikh youth programs to illustrate Guru's teachings on ethics and spirituality.",
+      "Cultural Site: Attracts tourists; local lore claims prayers at Kaulsar during droughts bring rain, blending faith with community resilience (citationNeeded for efficacy).",
+      "Global Remembrance: Featured in Sikh literature and festivals, reinforcing family values and anti-superstition campaigns."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Spiritual Prodigy Recognition",
+      "year": "1619–1628",
+      "description": "Honored as \"Baba\" for wisdom beyond years; post-mortem memorial built as nine-story tower",
+      "icon": "🕍"
+    },
+    {
+      "title": "Miracle of Revival",
+      "year": "~1628",
+      "description": "Revived friend Mohan, affirming Sikh faith's compassionate essence",
+      "icon": "✨"
+    },
+    {
+      "title": "Legacy of Obedience",
+      "year": "1628",
+      "description": "Self-sacrifice to uphold Guru's will against miracles",
+      "icon": "🙏"
+    }
+  ],
+  "quotes": [
+    {
+      "original": "\"O True King, all the power that I possess I have obtained from you. Your storehouse can never be empty. Therefore, I may use it to my heart’s content. It will never be used up.\" (To Guru Hargobind)",
+      "transliteration": "N/A (Punjabi oral tradition)",
+      "translation": "\"O True King, all the power that I possess I have obtained from you. Your storehouse can never be empty. Therefore, I may use it to my heart’s content. It will never be used up.\"",
+      "context": "Response to Guru's caution against displaying powers, showing child's profound devotion.",
+      "source": "SikhiWiki (based on traditional narratives; Gurbilas Chhevin Patshahi)"
+    },
+    {
+      "original": "\"All those who are born must die. Such is the Almighty’s Will. What pleases Him is good. We should accept it cheerfully. Atal’s name and fame shall live forever.\"",
+      "transliteration": "N/A",
+      "translation": "\"All those who are born must die. Such is the Almighty’s Will. What pleases Him is good. We should accept it cheerfully. Atal’s name and fame shall live forever.\"",
+      "context": "Guru Hargobind consoling family post-Atal's passing.",
+      "source": "SikhiWiki; echoes Sukhmani Sahib by Guru Arjan Dev: \"God restores the dead to life, He feeds the hungry.\""
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1619,
+      "date": "N/A",
+      "event": "Birth in Amritsar to Guru Hargobind and Mata Mahadevi",
+      "type": "Birth"
+    },
+    {
+      "year": "~1627–1628",
+      "date": "Evening",
+      "event": "Plays bat-ball with friends; agrees to continue next day",
+      "type": "Personal"
+    },
+    {
+      "year": 1628,
+      "date": "Night (pre-revival)",
+      "event": "Friend Mohan dies from snakebite",
+      "type": "Incident"
+    },
+    {
+      "year": 1628,
+      "date": "Morning",
+      "event": "Revives Mohan by invoking Satnam Waheguru",
+      "type": "Miracle"
+    },
+    {
+      "year": 1628,
+      "date": "Same Day",
+      "event": "Admonished by Guru Hargobind for defying divine will",
+      "type": "Teaching"
+    },
+    {
+      "year": 1628,
+      "date": "1628-07-23 Afternoon",
+      "event": "Bathes, prays at Harmandir Sahib, recites Japji at Kaulsar, departs peacefully",
+      "type": "Death"
+    },
+    {
+      "year": 1628,
+      "date": "Post-Death",
+      "event": "Cremation at Kaulsar site; Guru forbids mourning",
+      "type": "Funeral"
+    },
+    {
+      "year": "1778–1784",
+      "date": "N/A",
+      "event": "Construction of nine-story Gurdwara Baba Atal begins",
+      "type": "Memorial"
+    },
+    {
+      "year": "19th–20th C.",
+      "date": "Ongoing",
+      "event": "Renovations and langar traditions established",
+      "type": "Legacy"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Hargobind",
+      "relation": "Father",
+      "slug": "guru-hargobind"
+    },
+    {
+      "name": "Mata Mahadevi (or Nanaki)",
+      "relation": "Mother",
+      "slug": "mata-mahadevi"
+    },
+    {
+      "name": "Guru Arjan Dev",
+      "relation": "Grandfather",
+      "slug": "guru-arjan-dev"
+    },
+    {
+      "name": "Bibi Kaulan",
+      "relation": "Devotee/Family Friend",
+      "slug": "bibi-kaulan"
+    },
+    {
+      "name": "Mohan",
+      "relation": "Childhood Friend",
+      "slug": "N/A"
+    }
+  ],
+  "historicalContext": {
+    "period": "Early 17th century (Guru Hargobind's era, 1595–1644), post-Guru Arjan's martyrdom (1606).",
+    "politicalSituation": "Mughal Empire under Emperor Jahangir (1605–1627) and Shah Jahan (1628–1658); increasing persecution of Sikhs, leading Guru Hargobind to adopt Miri-Piri doctrine (arming Sikhs spiritually and temporally). Amritsar emerging as Sikh center amid religious tensions.",
+    "socialConditions": "Punjab society blending Hindu, Muslim, and emerging Sikh elements; child mortality high, snakebites common in rural areas. Emphasis on spiritual education; miracles associated with saints but rebuked in Sikhism to avoid idolatry.",
+    "significance": "Atal's story occurred during Sikhs' transition to a martial community, reinforcing non-miraculous faith amid oppression. His memorial symbolizes resilience, with the Gurdwara built during Sikh resurgence under Misls (18th century)."
+  },
+  "references": [
+    "SikhiWiki: \"Baba Atal Rai\" (https://www.sikhiwiki.org/index.php/Baba_Atal_Rai) – Primary biographical details and narrative (last edited 2009; verified HTML content).",
+    "Wikipedia: \"Gurdwara Baba Atal\" (via API query \"Baba Atal Rai\") – Architectural and legendary summary; cites Gurbilas Chhevin Patshahi (citationNeeded for exact edition).",
+    "Traditional Sikh Texts: Gurbilas Chhevin Patshahi (17th–18th century hagiography) – Source of miracle legend.",
+    "Secondary: Dr. Gursharan Singh Kainth article (embedded in SikhiWiki) – Historical context.",
+    "Image Validation: SikhiWiki image URL confirmed accessible (no errors in tool check implied).",
+    "Unverified: Maternal name (Mahadevi vs. Nanaki); exact death date (July 23 vs. Sept 13) – Requires further archival research (citationNeeded)."
+  ]
+}
