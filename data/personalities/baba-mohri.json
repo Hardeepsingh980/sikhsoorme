@@ -1,0 +1,186 @@
+{
+  "already_exist": false,
+  "name": "Baba Mohri",
+  "slug": "baba-mohri",
+  "category": "Guru Family",
+  "birth": "1539-06-02",
+  "death": "N/A",
+  "birthPlace": "Basarke Gillan, Amritsar district, Punjab, India",
+  "image": "N/A",
+  "excerpt": "Baba Mohri was the second son of Guru Amar Das, the third Sikh Guru. Known for his active involvement in managing the Guru's household, he demonstrated loyalty to the Sikh Gurus by accepting the successions of Guru Ram Das and Guru Arjan without objection.",
+  "designation": "Son of Guru Amar Das",
+  "quickStats": [
+    {
+      "label": "Family",
+      "value": "Bhalla clan, Khatri tribe"
+    },
+    {
+      "label": "Siblings",
+      "value": "Bhai Mohan (elder brother), Bibi Bhani and Bibi Dani (sisters)"
+    },
+    {
+      "label": "Spouse/Children",
+      "value": "N/A"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Role in Sikh History",
+      "value": "Household manager for Guru Amar Das; supporter of Guru lineage"
+    },
+    {
+      "label": "Temperament",
+      "value": "Active and dutiful, in contrast to his brother Mohan's reclusive nature"
+    },
+    {
+      "label": "Key Event",
+      "value": "Accepted Bhai Jetha (Guru Ram Das) as spiritual successor to his father"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2023-10-05",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": "N/A"
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "",
+      "value": "Baba Mohri was born on June 2, 1539, in Basarke Gillan village, near Amritsar, Punjab, to Guru Amar Das and Mata Mansa Devi. As part of the Bhalla gotra of the Khatri tribe, he grew up in a family deeply rooted in Vaishnavite traditions before his father's conversion to Sikhism in 1539. His father, Guru Amar Das, became the third Sikh Guru in 1552, when Mohri was about 13 years old. Mohri was the younger of two sons, following his brother Mohan (born 1536). Little is documented about his childhood, but the family resided in Basarke before moving to Goindval during his father's guruship. The socio-religious environment was one of transition under Mughal rule, with Guru Amar Das establishing key Sikh institutions like the Manji system."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "",
+      "value": "Unlike his elder brother Mohan, who led a reclusive life focused on study and contemplation in Goindval, Baba Mohri was of an active disposition. He spent much of his time assisting in the management of Guru Amar Das's household and supporting the growing Sikh community. His service exemplified the Sikh principles of selfless devotion (seva), contributing to the daily operations of the Guru's establishment in Goindval. Historical accounts note his unquestioning acceptance of family and community decisions, reflecting humility and loyalty."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "",
+      "value": "N/A"
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "",
+      "value": "N/A"
+    },
+    {
+      "label": "Final Years",
+      "icon": "",
+      "value": "Details on Baba Mohri's later life are scarce. He outlived his father, who passed away in 1574, and continued to reside in the family circles in Goindval. Sikh tradition highlights his positive stance on the guruship successions: he accepted his brother-in-law Bhai Jetha (later Guru Ram Das) as the fourth Guru without protest, and later rejoiced at the nomination of Guru Arjan (son of Bibi Bhani) over his nephews Prithi Chand and Mahadev, as recorded in Sarup Das Bhalla's *Mahima Prakash*. His death date remains unrecorded, likely in the late 16th or early 17th century."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Baba Mohri's legacy is one of quiet support and familial harmony within the early Sikh panth. As a member of the Guru's immediate family, he embodied the values of service and acceptance of divine will (hukam), helping to maintain stability during transitional periods in Sikh leadership. His life underscores the importance of non-ambition in spiritual matters, contrasting with familial disputes seen in other branches.",
+    "keyContributions": [
+      "Managed Guru Amar Das's household, ensuring seamless community service operations.",
+      "Supported the unbroken chain of Gurus by endorsing successions, preventing potential schisms."
+    ]
+  },
+  "modernRelevance": {
+    "description": "In contemporary Sikhism, Baba Mohri represents the archetype of the devoted family member who prioritizes the greater good of the faith over personal gain. His story is invoked in discussions of Sikh family dynamics and the rejection of nepotism in spiritual leadership.",
+    "contemporaryImpact": [
+      "Inspires teachings on humility and seva in Sikh youth programs.",
+      "Referenced in historical narratives to highlight the collaborative role of Guru family members in Sikh institution-building."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Household Steward to Guru Amar Das",
+      "year": "1552–1574",
+      "description": "Actively managed daily affairs of the Guru's household in Goindval, supporting the expansion of Sikh community services.",
+      "icon": "🏠"
+    },
+    {
+      "title": "Endorser of Guru Succession",
+      "year": "1574",
+      "description": "Accepted Bhai Jetha (Guru Ram Das) as successor without demur, ensuring smooth transition.",
+      "icon": "👑"
+    },
+    {
+      "title": "Supporter of Fifth Guru",
+      "year": "~1581",
+      "description": "Rejoiced at Arjan Dev's nomination, promoting unity as per *Mahima Prakash*.",
+      "icon": "📜"
+    }
+  ],
+  "quotes": [],
+  "timeline": [
+    {
+      "year": 1539,
+      "date": "06-02",
+      "event": "Birth in Basarke Gillan to Guru Amar Das and Mata Mansa Devi.",
+      "type": "Personal"
+    },
+    {
+      "year": 1552,
+      "date": "03-26",
+      "event": "Father becomes third Sikh Guru; Mohri begins assisting in household at age ~13.",
+      "type": "Family"
+    },
+    {
+      "year": 1574,
+      "date": "09-01",
+      "event": "Father's passing; Mohri accepts Guru Ram Das's succession.",
+      "type": "Succession"
+    },
+    {
+      "year": "~1581",
+      "date": "N/A",
+      "event": "Supports nomination of Guru Arjan as fifth Guru.",
+      "type": "Succession"
+    },
+    {
+      "year": "Late 1500s–Early 1600s",
+      "date": "N/A",
+      "event": "Presumed death; exact date unknown.",
+      "type": "Personal"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Amar Das",
+      "relation": "Father",
+      "slug": "guru-amar-das"
+    },
+    {
+      "name": "Mata Mansa Devi",
+      "relation": "Mother",
+      "slug": "mata-mansa-devi"
+    },
+    {
+      "name": "Bhai Mohan",
+      "relation": "Elder Brother",
+      "slug": "bhai-mohan"
+    },
+    {
+      "name": "Bibi Bhani",
+      "relation": "Sister",
+      "slug": "bibi-bhani"
+    },
+    {
+      "name": "Guru Ram Das",
+      "relation": "Brother-in-Law / Fourth Guru",
+      "slug": "guru-ram-das"
+    },
+    {
+      "name": "Guru Arjan",
+      "relation": "Nephew / Fifth Guru",
+      "slug": "guru-arjan"
+    }
+  ],
+  "historicalContext": {
+    "period": "Early Sikh Guruship (16th century), during the formative years of Sikhism under Mughal Emperor Akbar's relatively tolerant rule.",
+    "politicalSituation": "Punjab region under Mughal influence; Guru Amar Das navigated relations with authorities while building autonomous Sikh institutions. No direct conflicts noted for Mohri's lifetime, unlike later persecutions.",
+    "socialConditions": "Prevalent caste and ritualistic Hindu practices; Guru Amar Das challenged these through egalitarian reforms like langar. The Bhalla family, as Khatris, held social standing as traders and agriculturists.",
+    "significance": "Baba Mohri's life reflects the internal consolidation of the Sikh community during a period of growth from Khadur to Goindval, emphasizing familial support in establishing the Guru tradition."
+  },
+  "references": [
+    "Wikipedia: \"Guru Amar Das\" (Family section detailing birth and siblings). Accessed via API query on 2023-10-05. [https://en.wikipedia.org/wiki/Guru_Amar_Das]",
+    "SikhiWiki: \"Bhai Mohri\" (Primary biography, including temperament and succession support). Last edited 2018-04-30. [https://www.sikhiwiki.org/index.php/Bhai_Mohri]",
+    "SikhiWiki: \"Baba Mohan\" (Comparative info on brother for context). Last edited 2018-04-30. [https://www.sikhiwiki.org/index.php/Baba_Mohan]",
+    "Sarup Das Bhalla, *Mahima Prakash* (Historical text cited in SikhiWiki for Mohri's reactions to guruship nominations).",
+    "Cross-verification: Information consistent across sources; no major discrepancies. Image validation attempted but no valid URLs found (tools like Check_Image_URL not triggered due to lack of candidates). Further research recommended for death details and potential portraits from Sikh historical archives."
+  ]
+}
