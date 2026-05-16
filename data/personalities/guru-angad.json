@@ -1,0 +1,213 @@
+{
+  "already_exist": false,
+  "name": "Guru Angad Dev",
+  "slug": "guru-angad",
+  "category": "Gurus",
+  "birth": "1504-03-31",
+  "death": "1552-03-29",
+  "birthPlace": "Matte Di Sarai (now Sarai Naga), Muktsar District, Punjab, India",
+  "image": "Portrait of Guru Angad Dev, the second Sikh Guru.",
+  "excerpt": "Guru Angad Dev, originally named Bhai Lehna, was the second of the ten Sikh Gurus. A devoted disciple of Guru Nanak, he formalized the Gurmukhi script, contributed hymns to Sikh scripture, and expanded community institutions like Langar, emphasizing equality, selfless service, and devotion to one God.",
+  "designation": "Second Sikh Guru (Nanak II)",
+  "quickStats": [
+    {
+      "label": "Guruship Duration",
+      "value": "13 years (1539–1552)"
+    },
+    {
+      "label": "Contributions to Guru Granth Sahib",
+      "value": "63 Shabads and Saloks"
+    },
+    {
+      "label": "Key Innovation",
+      "value": "Development of Gurmukhi script"
+    },
+    {
+      "label": "Successor",
+      "value": "Guru Amar Das"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Original Name",
+      "value": "Lehna (meaning \"absorbed\" or \"devotee\")"
+    },
+    {
+      "label": "Family Background",
+      "value": "Khatri caste, Trehan gotra; son of trader Pheru Mal"
+    },
+    {
+      "label": "Pre-Guru Life",
+      "value": "Devout Hindu worshipper of Durga; transformed after meeting Guru Nanak"
+    },
+    {
+      "label": "Legacy Focus",
+      "value": "Promotion of physical fitness, education, and women's equality"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2023-10-01",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": "N/A"
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "",
+      "value": "Bhai Lehna was born on March 31, 1504, in Matte Di Sarai, a village in the Punjab region during the early Mughal era under Babur's invasions. His father, Pheru Mal, was a small-scale trader from the Khatri caste (Trehan gotra), and his mother was Mata Ramo (also known as Mata Sabhrai or Daya Kaur). The family fled their ancestral home due to invasions and resettled in Khadur Sahib near the Beas River. As a young man, Lehna was a devoted Hindu, leading pilgrimages to the Jawalamukhi Temple and serving as a priest of Goddess Durga. At age 16 (around 1520), he married Mata Khivi, with whom he had two sons (Datu and Dasu) and two daughters (Amro and Anokhi). His life changed profoundly in his late 20s when he heard Guru Nanak's hymns from Bhai Jodha during a pilgrimage. Drawn by their spiritual depth, Lehna visited Kartarpur, met Guru Nanak, and became his disciple. For six to seven years, he renounced his previous faith, served selflessly (e.g., washing a muddy jug when Nanak's sons refused), and immersed himself in Sikh teachings, embodying humility and devotion [citation: Wikipedia; SikhiWiki]."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "",
+      "value": "As Guru from 1539, Angad (renamed by Nanak, meaning \"my own limb\") shifted the Sikh center to Khadur Sahib. He expanded Langar (community kitchen), personally twisting grass ropes for a living to model honest labor and reject parasitism. He established Mall Akharas (wrestling arenas) to promote physical fitness alongside spiritual growth, open to all castes. Angad traveled widely, founding Dharamsalas (Sikh centers) and encouraging education. He collected and preserved Guru Nanak's hymns, compiling an early biography (Bhai Bala Janamsakhi prototype). His service emphasized nishkam sewa (selfless service), aiding the needy and fostering a casteless community during a time of social upheaval [citation: SikhiWiki; Wikipedia]."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "",
+      "value": "- **Gurmukhi Script:** Modified the Landa script into Gurmukhi around 1541, making it phonetic and accessible, dissociating Sikhs from Sanskrit's elitism and enabling mass literacy in Punjabi. This preserved Sikh scriptures' purity and empowered lower castes [citation: Wikipedia; SikhiWiki].  - **Social Equality:** Integrated women into Sangat (congregation) and Langar, with Mata Khivi leading kitchen efforts. Abolished caste barriers in worship and meals [citation: SikhiWiki].  - **Education and Health:** Opened schools for children and promoted sports, countering superstition and promoting holistic development [citation: Research_For_Personality].  - **Institution Building:** Strengthened Udasis (though later distinct) and resisted external influences like yogis, solidifying Sikh identity [citation: Wikipedia]."
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "",
+      "value": "Guru Angad contributed 62–63 Shabads (hymns) and 63 Saloks (couplets) to the Guru Granth Sahib, focusing on devotion (bhakti), ego's dissolution, selfless service, and divine unity. Key themes include controlling greed, meditating on Naam (God's Name), and living righteously. Examples: His Shabads in Raag Gauri emphasize inner purity over rituals. He also documented Guru Nanak's life, aiding later Janamsakhis [citation: SikhiWiki; Wikipedia]."
+    },
+    {
+      "label": "Final Years",
+      "icon": "",
+      "value": "In his later years, Guru Angad faced challenges, including resistance from Nanak's sons claiming succession. He retired briefly in vairagya (detachment) after Nanak's passing but was persuaded by Baba Buddha to lead. He nominated disciple Amar Das as successor over his sons, emphasizing merit. Around 1551–1552, he began developing Goindwal and blessed Mughal emperor Humayun during his exile. Guru Angad left his physical form on March 29, 1552, at age 48, entrusting scriptures to Amar Das [citation: Wikipedia; SikhiWiki]."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Guru Angad's legacy lies in institutionalizing Guru Nanak's teachings, transforming Sikhism from a spiritual movement into a structured community. He emphasized monotheism, equality, and action-oriented faith, rejecting rituals and caste. His life exemplified surrender to Waheguru (God), selfless service, and harmony between body and soul.",
+    "keyContributions": [
+      "Formalization of Gurmukhi, enabling independent Sikh scholarship and scripture preservation.",
+      "Expansion of Langar and Sangat, promoting social equality and communal harmony.",
+      "Promotion of physical and moral fitness, creating a resilient Sikh identity amid persecution.",
+      "Hymns reinforcing bhakti, humility, and ethical living, influencing Sikh ethos."
+    ]
+  },
+  "modernRelevance": {
+    "description": "In contemporary times, Guru Angad's emphasis on education, equality, and community service resonates in Sikh institutions like free kitchens worldwide and Gurmukhi's role in Punjabi identity. His script supports digital preservation of Gurbani.",
+    "contemporaryImpact": [
+      "Gurmukhi's use in Sikh education and media fosters cultural preservation.",
+      "Langar model inspires global humanitarian efforts, e.g., during disasters.",
+      "Advocacy for women's equality aligns with modern gender reforms in Sikhism.",
+      "Promotion of fitness influences Akhara traditions in diaspora communities."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Development of Gurmukhi Script",
+      "year": "~1541",
+      "description": "Created accessible alphabet for Punjabi, preserving Sikh teachings.",
+      "icon": "📜"
+    },
+    {
+      "title": "Compilation of Nanak's Hymns",
+      "year": "1544",
+      "description": "Authored early biography and collected Bani, foundational for Adi Granth.",
+      "icon": "📖"
+    },
+    {
+      "title": "Establishment of Langar Expansion",
+      "year": "1539–1552",
+      "description": "Strengthened community kitchen, serving all castes equally.",
+      "icon": "🍲"
+    },
+    {
+      "title": "Founding of Mall Akharas",
+      "year": "1540s",
+      "description": "Introduced physical training centers for holistic Sikh development.",
+      "icon": "🏋️"
+    },
+    {
+      "title": "Succession Nomination",
+      "year": "1552",
+      "description": "Selected Amar Das as successor, ensuring merit-based leadership.",
+      "icon": "👑"
+    }
+  ],
+  "quotes": [
+    {
+      "original": "ਹਉਮੈ ਨਾਵੈ ਸਭੁ ਕੁਝੁ ਭੁਲਾਇ ॥ ਹਉਮੈ ਅੰਦਰਿ ਸਭੁ ਸੈਲੁ ਲਾਇ ॥",
+      "transliteration": "Haumai navai sabh kichh bhulayi. Haumai andar sabh sail laai.",
+      "translation": "Through ego, one forgets everything. Within ego, all are laid like stones in the grave.",
+      "context": "Warning against the destructive nature of ego in spiritual life.",
+      "source": "Guru Granth Sahib, Salok Mehla 2"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1504,
+      "date": "1504-03-31",
+      "event": "Born as Bhai Lehna in Matte Di Sarai",
+      "type": "birth"
+    },
+    {
+      "year": 1520,
+      "date": "",
+      "event": "Married Mata Khivi",
+      "type": "personal"
+    },
+    {
+      "year": 1532,
+      "date": "",
+      "event": "Met Guru Nanak and became his disciple",
+      "type": "spiritual"
+    },
+    {
+      "year": 1539,
+      "date": "1539-09-03",
+      "event": "Appointed as the second Sikh Guru",
+      "type": "guruship"
+    },
+    {
+      "year": 1541,
+      "date": "",
+      "event": "Developed the Gurmukhi script",
+      "type": "contribution"
+    },
+    {
+      "year": 1552,
+      "date": "1552-03-29",
+      "event": "Passed away and nominated Guru Amar Das as successor",
+      "type": "death"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Nanak Dev",
+      "relation": "Predecessor and spiritual guide",
+      "slug": "guru-nanak"
+    },
+    {
+      "name": "Guru Amar Das",
+      "relation": "Successor",
+      "slug": "guru-amar-das"
+    },
+    {
+      "name": "Mata Khivi",
+      "relation": "Wife",
+      "slug": "mata-khivi"
+    },
+    {
+      "name": "Baba Buddha",
+      "relation": "Devoted disciple and advisor",
+      "slug": "baba-buddha"
+    }
+  ],
+  "historicalContext": {
+    "period": "Early Sikh Period / Early Mughal Era",
+    "politicalSituation": "Mughal invasions under Babur and Humayun; unstable rule and warfare in Punjab",
+    "socialConditions": "Rigid caste system, religious superstitions, and social inequalities; displacement due to invasions",
+    "significance": "Guru Angad established institutional foundations for Sikhism, promoting equality and community resilience during turbulent times"
+  },
+  "references": [
+    "Wikipedia: Guru Angad Dev",
+    "SikhiWiki: Guru Angad",
+    "Guru Granth Sahib",
+    "Encyclopaedia of Sikhism by Harbans Singh"
+  ]
+}
