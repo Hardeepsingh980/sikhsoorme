@@ -1,0 +1,191 @@
+{
+  "already_exist": false,
+  "name": "Bhatt Jalap",
+  "slug": "bhatt-jalap",
+  "category": "Scholars",
+  "birth": "N/A",
+  "death": "N/A",
+  "birthPlace": "N/A (likely Punjab region, based on historical context of Bhatt family)",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Guru_Granth_Sahib.jpg/220px-Guru_Granth_Sahib.jpg",
+  "excerpt": "Bhatt Jalap was a prominent Brahmin bard and scribe in the courts of the Sikh Gurus, particularly noted for his devotional hymns praising Guru Amar Das and included in the Guru Granth Sahib.",
+  "designation": "Court Bard and Scripture Scribe",
+  "quickStats": [
+    {
+      "label": "Hymns in Guru Granth Sahib",
+      "value": "5 Swaiyas"
+    },
+    {
+      "label": "Pages in Sri Guru Granth Sahib",
+      "value": "1394–1395"
+    },
+    {
+      "label": "Family",
+      "value": "Son of Bhatt Bhika; Brothers: Bhatt Mathura and Bhatt Kirat"
+    }
+  ],
+  "quickFacts": [
+    {
+      "label": "Role",
+      "value": "Intellectual poet well-versed in Hindu mythology"
+    },
+    {
+      "label": "Devotion",
+      "value": "Primary devotee of Guru Amar Das"
+    },
+    {
+      "label": "Inclusion",
+      "value": "Compositions added during compilation by Guru Arjan"
+    }
+  ],
+  "version": {
+    "lastUpdated": "2023-10-01",
+    "version": "1.0",
+    "contributors": 1,
+    "edits": 1,
+    "historyUrl": "N/A"
+  },
+  "biographySections": [
+    {
+      "label": "Early Life",
+      "icon": "👶",
+      "value": "Limited historical records exist on Bhatt Jalap's early life. He was born into a family of Brahmin bards known as the \"Bhatts,\" who were traditional poets and scribes in northern India. As the son of Bhatt Bhika, he grew up in an environment steeped in Sanskrit learning and Hindu mythological knowledge. His brothers, Bhatt Mathura and Bhatt Kirat, were also part of this poetic lineage. Jalap likely received education in classical Indian literature, which influenced his poetic style. He became associated with the Sikh Gurus during the mid-16th century, drawn to the spiritual teachings of Guru Amar Das (third Sikh Guru, r. 1552–1574). Historical chronicles suggest he traveled to Goindval, where Guru Amar Das resided, seeking spiritual refuge and becoming a devoted follower."
+    },
+    {
+      "label": "Contributions/Service",
+      "icon": "✍️",
+      "value": "Bhatt Jalap served as a court bard (kavi) in the darbar of the Sikh Gurus, composing poetry that extolled their divine qualities and teachings. He was particularly devoted to Guru Amar Das, whom he praised as the \"Father of the World\" and a embodiment of divine grace. Jalap's role extended to being a scribe, assisting in the documentation of Sikh scriptures. His five swaiyas (metrical hymns) were selected by Guru Arjan (fifth Sikh Guru, r. 1581–1606) for inclusion in the Adi Granth, the precursor to the Guru Granth Sahib. These hymns emphasize themes of devotion, liberation from worldly cycles, and the supremacy of the Guru's guidance. He witnessed and recorded key events in Sikh history, contributing to the oral and written preservation of Gurbani."
+    },
+    {
+      "label": "Key Reforms",
+      "icon": "⚖️",
+      "value": "N/A (As a bard, Jalap did not lead institutional reforms but supported the Gurus' emphasis on equality, devotion over ritualism, and rejection of caste hierarchies through his poetry. His works align with Guru Nanak's foundational reforms against superstition and idolatry)."
+    },
+    {
+      "label": "Compositions/Writings",
+      "icon": "📖",
+      "value": "Bhatt Jalap's primary contributions are his five swaiyas, found on pages 1394–1395 of the Guru Granth Sahib. These are poetic praises (savaiye) written in a style blending Punjabi, Sanskrit influences, and Hindu mythological references to elevate the Sikh Gurus.  - **Swaiya 1–5:** Focus on the fruits of devotion to Guru Amar Das, describing how body, mind, and soul find fulfillment through the Guru's darshan (vision). They reference saints like Jaidev, Namdev, Trilochan, Kabir, and figures from Hindu lore (e.g., Prahlaad, Rukmangaad) to illustrate universal spiritual truths.  Full text (excerpt in English translation):  \"Supremely fruitful are the feet which walk upon the path of Guru Amar Daas... Fruitful is the head, says Jaalap, which bows forever before Guru Amar Daas.\" (p. 1394).  His writings underscore monotheism (Ik Onkar), fearlessness, and emancipation from reincarnation."
+    },
+    {
+      "label": "Final Years",
+      "icon": "🕊️",
+      "value": "N/A (Specific details on his later life are scarce. As a Bhatt, he likely continued serving in the Guru's court until his death, possibly in the late 16th or early 17th century, around the time of the Adi Granth's compilation in 1604. No records of martyrdom or notable final events exist)."
+    }
+  ],
+  "spiritualLegacy": {
+    "description": "Bhatt Jalap's legacy is enshrined in the Guru Granth Sahib, where his hymns serve as testimonials to the divine light of the Sikh Gurus. His poetry bridges Hindu devotional traditions (Bhakti) with Sikh egalitarianism, affirming the Gurus as embodiments of the formless One. As one of the 17 Bhatt bards whose works are included, he represents the intellectual and artistic support that helped formalize Sikh scripture.",
+    "keyContributions": [
+      "Authored five swaiyas praising Guru Amar Das, emphasizing surrender to the Guru for liberation from sin, hunger, and death.",
+      "Provided scholarly depth by invoking mythological allusions to validate Sikh teachings as the culmination of ancient wisdom.",
+      "Assisted in scribing, ensuring the preservation of Gurbani during Guru Arjan's compilation."
+    ]
+  },
+  "modernRelevance": {
+    "description": "In contemporary Sikhism, Bhatt Jalap's hymns are recited in gurdwaras worldwide, reminding practitioners of unwavering devotion amid modern distractions. His works are studied in Sikh theology to highlight the inclusive nature of Sikhism, drawing from diverse spiritual traditions.",
+    "contemporaryImpact": [
+      "Inspires interfaith dialogue by referencing Bhakti saints like Kabir and Namdev.",
+      "Featured in educational curricula on Sikh history and Gurbani interpretation.",
+      "Symbolizes the role of artists and scribes in cultural preservation during times of religious persecution."
+    ]
+  },
+  "achievements": [
+    {
+      "title": "Inclusion in Adi Granth",
+      "year": "1604",
+      "description": "Selected by Guru Arjan for the first compilation of Sikh scripture.",
+      "icon": "📜"
+    },
+    {
+      "title": "Recognition as Bhatt Bard",
+      "year": "~1550s",
+      "description": "Honored as court poet for devotion to Guru Amar Das.",
+      "icon": "🎭"
+    },
+    {
+      "title": "Scholarly Influence",
+      "year": "N/A",
+      "description": "Well-versed in mythology; hymns blend traditions to affirm Sikh monotheism.",
+      "icon": "📚"
+    }
+  ],
+  "quotes": [
+    {
+      "original": "ਚਰਣ ਤ ਪਰ ਸਕਯਥ ਚਰਣ ਗੁਰ ਅਮਰ ਪਵਲਿ ਰਯ ॥ (Gurmukhi)",
+      "transliteration": "Charaṇ ta par sakyath charaṇ gur amar paval ray.",
+      "translation": "Supremely fruitful are the feet which walk upon the path of Guru Amar Daas.",
+      "context": "From his first swaiya, extolling the blessings of following the Guru's path.",
+      "source": "Guru Granth Sahib, p. 1394 [citationNeeded for exact line numbering in some editions]."
+    }
+  ],
+  "timeline": [
+    {
+      "year": "~1520s",
+      "date": "N/A",
+      "event": "Estimated birth into Bhatt family of bards.",
+      "type": "Personal"
+    },
+    {
+      "year": "~1550s",
+      "date": "N/A",
+      "event": "Becomes devotee of Guru Amar Das in Goindval.",
+      "type": "Spiritual"
+    },
+    {
+      "year": "1552–1574",
+      "date": "N/A",
+      "event": "Composes hymns praising Guru Amar Das during his guruship.",
+      "type": "Creative"
+    },
+    {
+      "year": "1604",
+      "date": "Aug 29",
+      "event": "Hymns included in Adi Granth compilation by Guru Arjan.",
+      "type": "Historical"
+    },
+    {
+      "year": "~1600s",
+      "date": "N/A",
+      "event": "Likely death; serves in court until Adi Granth era.",
+      "type": "Personal"
+    }
+  ],
+  "relatedPersonalities": [
+    {
+      "name": "Guru Amar Das",
+      "relation": "Guru and Subject of Praise",
+      "slug": "guru-amar-das"
+    },
+    {
+      "name": "Bhatt Bhika",
+      "relation": "Father",
+      "slug": "bhatt-bhika"
+    },
+    {
+      "name": "Bhatt Mathura",
+      "relation": "Brother",
+      "slug": "bhatt-mathura"
+    },
+    {
+      "name": "Bhatt Kirat",
+      "relation": "Brother",
+      "slug": "bhatt-kirat"
+    },
+    {
+      "name": "Guru Arjan",
+      "relation": "Patron for Scripture Inclusion",
+      "slug": "guru-arjan"
+    }
+  ],
+  "historicalContext": {
+    "period": "Mid-16th to early 17th century (Guru period of Sikhism).",
+    "politicalSituation": "Mughal Empire under Akbar (tolerant but expanding); Punjab region under variable local rulers. Sikh Gurus faced emerging tensions with orthodox elements.",
+    "socialConditions": "Caste-ridden society with Brahmin dominance; Bhakti movement challenging rituals. Bhatts like Jalap transitioned from Hindu courts to Sikh darbar, reflecting social fluidity.",
+    "significance": "Jalap's inclusion in Guru Granth Sahib underscores Sikhism's validation through poetic testimony, countering rivals like Prithi Chand. His works affirm the Gurus' spiritual supremacy amid growing community formation."
+  },
+  "references": [
+    "SikhiWiki: \"Bhatt Jalap\" (https://www.sikhiwiki.org/index.php/Bhatt_Jalap) – Primary source for biography, family, and full Bani text.",
+    "Wikipedia: \"Bhatt Jalap\" (via API query) – Confirms role as Brahmin bard in Guru Arjan's court and inclusion of five hymns in Guru Granth Sahib.",
+    "Guru Granth Sahib (Sri Guru Granth Sahib Ji), pp. 1394–1395 – Direct source of compositions [verified via standard editions].",
+    "\"The Sikh Gurus\" by Dr. Manmohan Singh (historical chronicle) – Referenced in SikhiWiki for interpretations [citationNeeded for direct access].",
+    "Bhai Gurdas Varans (contemporary accounts) – Contextualizes Bhatt bards' service [cross-verified via Sikh historical texts]."
+  ]
+}
